@@ -1,6 +1,6 @@
 {
-  "repo": "git@github.com:astrapi69/alc-psychology",
-  "generated": "2026-07-15T12:48:18Z",
+  "repo": "astrapi69/alc-psychology",
+  "generated": "2026-07-15T12:51:07Z",
   "schema_version": "1.0",
   "sets": [
     {
@@ -27,7 +27,7 @@
         "url": "https://www.amazon.de/dp/3868943234/",
         "cover_image": null
       },
-      "updated_at": "2026-07-15T14:48:18+02:00"
+      "updated_at": "2026-07-15T14:50:54+02:00"
     },
     {
       "id": "psych-beeinflussung-from-de",
@@ -54,7 +54,7 @@
         "url": "https://www.hogrefe.com/de/shop/die-psychologie-des-ueberzeugens-91960.html",
         "cover_image": null
       },
-      "updated_at": "2026-07-15T14:48:18+02:00"
+      "updated_at": "2026-07-15T14:50:54+02:00"
     }
   ],
   "total_lessons": 120,
