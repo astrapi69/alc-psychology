@@ -38,7 +38,6 @@ sets:
     path: sets/de/psych-beeinflussung
     version: '1.0.0'
     lesson_count: 8
-    domain_label: Psychologie
     description: >-
       Aufbau-Set zur Psychologie der Beeinflussung (8 Lektionen),
       auf Deutsch erklärt: Priming (mit Replikationskrise), Framing,
