@@ -103,7 +103,7 @@
       "id": "recap-korrelation-kausalitaet",
       "front": "Wiederholung: Korrelation ≠ Kausalität",
       "back": "Eine Korrelation zeigt, dass zwei Variablen zusammenhängen — aber nicht, dass eine die andere verursacht. Mögliche Erklärungen: Zufall, gemeinsame Ursache (Drittvariable), umgekehrte Kausalität.",
-      "notes": "Klassisches Beispiel: Eisverkauf korreliert mit Ertrinkungs­unfällen — gemeinsame Ursache ist das heiße Wetter.",
+      "notes": "Klassisches Beispiel: Eisverkauf korreliert mit Ertrinkungsunfällen — gemeinsame Ursache ist das heiße Wetter.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["wiederholung", "methoden", "lektion-22", "kausalitaet"]
