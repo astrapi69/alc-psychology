@@ -246,7 +246,7 @@
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zur Broca-Aphasie zusammen.",
         "card_ids": ["wdh-aphasie"],
-        "tiles": ["Bei", "Broca", "ist", "die", "Sprachproduktion", "gestoert", "das", "Verstaendnis", "erhalten"],
+        "tiles": ["Bei", "Broca", "ist", "die", "Sprachproduktion", "gestört", "das", "Verständnis", "erhalten"],
         "hint": "Beginnt mit 'Bei Broca ist die Sprachproduktion …'.",
         "direction": "target_to_source"
       }
