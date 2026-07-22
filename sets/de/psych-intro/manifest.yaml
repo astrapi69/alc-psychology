@@ -165,7 +165,6 @@ sets:
     path: sets/de/psych-intro
     version: '1.19.0'
     lesson_count: 112
-    domain_label: Psychologie
     description: >-
       Vollständiger Einführungskurs Psychologie auf
       Universitätsniveau (90 Lektionen), auf Deutsch erklärt — von
