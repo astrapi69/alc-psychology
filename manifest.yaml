@@ -29,7 +29,6 @@ sets:
     target_language: de
     source_language: de
     domain: psychology
-    domain_label: Psychologie
     level: A1
     path: sets/de/psych-intro
     version: '1.19.0'
@@ -66,7 +65,6 @@ sets:
     target_language: de
     source_language: de
     domain: psychology
-    domain_label: Psychologie
     level: A2
     path: sets/de/psych-beeinflussung
     version: '1.0.0'
