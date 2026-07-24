@@ -7,8 +7,7 @@ The [Adaptive Learner](https://github.com/astrapi69/adaptive-learner)
 content repository for **Psychologie** (psychology): a Git repository of
 plain lesson files that the app loads directly and no vendor can lock away.
 
-It ships two German-language knowledge sets (domain `psychology`,
-`domain_label` Psychologie) that build on each other: a university-level
+It ships two German-language knowledge sets (domain `psychology`) that build on each other: a university-level
 introductory course and a follow-up set on the psychology of influence.
 This repository was created from
 [adaptive-learner-content-template](https://github.com/astrapi69/adaptive-learner-content-template),
@@ -27,7 +26,7 @@ described below.
 Zwei Sets, 120 Lektionen, Quell- und Zielsprache Deutsch. Empfohlene
 Reihenfolge:
 
-### Teil 1 — `sets/de/psych-intro` (A1, 112 Lektionen)
+### Teil 1: `sets/de/psych-intro` (A1, 112 Lektionen)
 
 Einführungskurs Psychologie auf Universitätsniveau: Grundbegriffe und
 Geschichte, die Grundlagenfächer (Wahrnehmung, Gedächtnis, Lernen,
@@ -38,10 +37,10 @@ Forschungsmethoden und Statistik, die angewandten Felder sowie
 vertiefende Blöcke zur Neuropsychologie, Arbeits- und
 Organisationspsychologie und Pädagogischen Psychologie.
 
-Begleitbuch: *Psychologie* (Zimbardo, Johnson, McCann) — siehe
+Begleitbuch: *Psychologie* (Zimbardo, Johnson, McCann), siehe
 [`books.yaml`](books.yaml).
 
-### Teil 2 — `sets/de/psych-beeinflussung` (A2, 8 Lektionen)
+### Teil 2: `sets/de/psych-beeinflussung` (A2, 8 Lektionen)
 
 | # | Lesson | Titel |
 |---|--------|-------|
@@ -54,7 +53,7 @@ Begleitbuch: *Psychologie* (Zimbardo, Johnson, McCann) — siehe
 | 07 | `07-foot-in-the-door.json` | Foot-in-the-door |
 | 08 | `08-wiederholung-beeinflussung.json` | Wiederholung |
 
-Begleitbuch: *Die Psychologie des Überzeugens* (Cialdini) — siehe
+Begleitbuch: *Die Psychologie des Überzeugens* (Cialdini), siehe
 [`books.yaml`](books.yaml). Faktencheck des Sets:
 [`docs/review/psych-beeinflussung-faktencheck.md`](docs/review/psych-beeinflussung-faktencheck.md).
 
@@ -63,19 +62,19 @@ Ergänzendes freies Material (Videos, Artikel) pro Domain steht in
 
 ## What's inside
 
-- `manifest.yaml` — the root manifest listing the sets.
-- `sets/de/psych-intro/`, `sets/de/psych-beeinflussung/` — the lesson sets.
-- `books.yaml` / `media.yaml` — recommended reading and free media per domain.
-- `schema/` — the pinned [`learn-content-engine`](https://github.com/astrapi69/learn-content-engine)
+- `manifest.yaml`: the root manifest listing the sets.
+- `sets/de/psych-intro/`, `sets/de/psych-beeinflussung/`: the lesson sets.
+- `books.yaml` / `media.yaml`: recommended reading and free media per domain.
+- `schema/`: the pinned [`learn-content-engine`](https://github.com/astrapi69/learn-content-engine)
   schema mirror; [`engine-version.txt`](schema/engine-version.txt) holds the
   pinned engine version and is the source of truth. This is what the content
-  is validated against — independent of the app.
-- `templates/` — starting-point lessons per domain (language / programming / knowledge).
-- `scripts/validate_content.py` — the local validator.
-- `scripts/generate_exercises.py` — an optional BYOK AI exercise generator.
-- `generated/` — staging area for AI drafts (never shipped directly).
-- `.github/workflows/` — CI that validates every push/PR against the pinned engine.
-- `docs/` — [GETTING-STARTED.md](docs/GETTING-STARTED.md) and a local
+  is validated against, independent of the app.
+- `templates/`: starting-point lessons per domain (language / programming / knowledge).
+- `scripts/validate_content.py`: the local validator.
+- `scripts/generate_exercises.py`: an optional BYOK AI exercise generator.
+- `generated/`: staging area for AI drafts (never shipped directly).
+- `.github/workflows/`: CI that validates every push/PR against the pinned engine.
+- `docs/`: [GETTING-STARTED.md](docs/GETTING-STARTED.md) and a local
   [LESSON-FORMAT.md](docs/LESSON-FORMAT.md). The **canonical, test-validated**
   format reference is the engine's
   [`docs/lesson-format.md`](https://github.com/astrapi69/learn-content-engine/blob/main/docs/lesson-format.md).
@@ -101,7 +100,7 @@ and npm) and checks every lesson and manifest with the engine's rule ids
 (`E-CARD-REF` & co.). `make lint-warnings` additionally prints the engine gate's warnings (`W-*`).
 
 No `make` (e.g. Windows without WSL)? Two options: run the validator in a
-virtualenv yourself —
+virtualenv yourself:
 
 ```bash
 python3 -m venv .venv && . .venv/bin/activate     # Windows: .venv\Scripts\activate
@@ -109,7 +108,7 @@ pip install -r requirements.txt
 python3 scripts/validate_content.py
 ```
 
-— or just commit and let the GitHub Actions CI validate (it runs the same
+Or just commit and let the GitHub Actions CI validate (it runs the same
 checks). Installing the deps globally with a bare `pip install` fails on
 modern Debian/Ubuntu/macOS (PEP 668, "externally-managed-environment");
 the virtualenv above is why.

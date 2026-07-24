@@ -3,7 +3,7 @@
 Set: `sets/de/psych-beeinflussung` (8 Lektionen, `domain: psychology`, Deutsch).
 Zweck dieser Datei: alle prüfbaren fachlichen Behauptungen und Studienzitate aus dem
 Set isoliert und lesbar bereitstellen, damit eine **zweite, unabhängige KI** sie
-gegenprüfen kann — ohne sich durch JSON/Schema arbeiten zu müssen.
+gegenprüfen kann, ohne sich durch JSON/Schema arbeiten zu müssen.
 
 > **Diese Datei extrahiert nur, sie bewertet nicht.** Die Aussagen sind treu aus dem
 > Set übernommen (Theorie-Schritte, Card-Rückseiten/Notizen, Aufgaben). Ob sie sachlich
@@ -21,7 +21,7 @@ Prüfe jede der unten gelisteten Angaben **einzeln** und markiere sie als
 2. **Fachliche Aussagen:** Ist die Beschreibung des Effekts/Mechanismus sachlich richtig?
 3. **Zahlen / Effektstärken:** Sind genannte Zahlen korrekt wiedergegeben?
 4. **Einordnung / Augenmaß:** Sind Relativierungen (z. B. „robust", „umstritten",
-   „moderat", „Replikationskrise") fachlich angemessen — weder übertrieben noch falsch
+   „moderat", „Replikationskrise") fachlich angemessen, weder übertrieben noch falsch
    verharmlosend?
 
 Achte besonders auf: falsche Jahreszahlen, vertauschte Autoren, falsch zugeordnete
@@ -31,7 +31,7 @@ der bei jedem Punkt angegeben ist.
 
 ---
 
-## Lektion 1 — Priming
+## Lektion 1: Priming
 Quelle: `lessons/01-priming.json`
 
 ### Fachliche Kernaussagen
@@ -42,9 +42,9 @@ Quelle: `lessons/01-priming.json`
 - Gesamteinordnung: semantisches/perzeptuelles Priming robust; behaviorales Priming „klein, fragil und nicht garantiert — kein allmächtiger Steuerungsmechanismus". *(card `card-priming-grenze`)*
 
 ### Genannte Studien
-- **Meyer & Schvaneveldt (1971)** — semantisches Priming, klassisch gezeigt in Lexical-Decision-Aufgaben. Belegt im Set die Robustheit des semantischen Primings. *(step `intro`, card `card-semantisches-priming`)*
-- **Bargh, Chen & Burrows (1996)** — berichteten, dass Versuchspersonen nach *Alters*-Wörtern langsamer gingen. *(step `intro`, card `card-bargh-doyen`)*
-- **Doyen et al. (2012)** — konnten den Bargh-Effekt unter kontrollierten Bedingungen **nicht** sauber bestätigen/replizieren. Im Set als Beispiel dafür, warum behaviorales Priming kritisch gesehen wird. *(step `intro`, card `card-bargh-doyen`)*
+- **Meyer & Schvaneveldt (1971):** semantisches Priming, klassisch gezeigt in Lexical-Decision-Aufgaben. Belegt im Set die Robustheit des semantischen Primings. *(step `intro`, card `card-semantisches-priming`)*
+- **Bargh, Chen & Burrows (1996):** berichteten, dass Versuchspersonen nach *Alters*-Wörtern langsamer gingen. *(step `intro`, card `card-bargh-doyen`)*
+- **Doyen et al. (2012):** konnten den Bargh-Effekt unter kontrollierten Bedingungen **nicht** sauber bestätigen/replizieren. Im Set als Beispiel dafür, warum behaviorales Priming kritisch gesehen wird. *(step `intro`, card `card-bargh-doyen`)*
 
 ### Zahlen / Effektstärken
 - Keine konkreten Zahlen/Effektstärken genannt (qualitative Einordnung „robust" vs. „klein/fragil").
@@ -56,18 +56,18 @@ Quelle: `lessons/01-priming.json`
 
 ---
 
-## Lektion 2 — Framing-Effekt
+## Lektion 2: Framing-Effekt
 Quelle: `lessons/02-framing.json`
 
 ### Fachliche Kernaussagen
 - Framing-Effekt: dieselbe Information wird je nach Formulierung („Verpackung") unterschiedlich bewertet und kann zu anderen Entscheidungen führen; der sachliche Inhalt bleibt gleich. *(step `intro`, card `card-framing`)*
 - **Gewinn- vs. Verlust-Framing:** im Gewinn-Frame (z. B. *90 % überleben*) wählen Menschen eher risikoscheu, im Verlust-Frame (*10 % sterben*) eher risikofreudig. *(card `card-gewinn-verlust`)*
-- Mechanismus dahinter: **Verlustaversion** — Verluste wiegen subjektiv schwerer als gleich große Gewinne. *(step `intro`, card `card-gewinn-verlust`)*
+- Mechanismus dahinter: **Verlustaversion** (Verluste wiegen subjektiv schwerer als gleich große Gewinne). *(step `intro`, card `card-gewinn-verlust`)*
 - **Attribut-Framing:** ein Merkmal positiv/negativ beschrieben (*95 % fettfrei* statt *5 % Fett*) wird unterschiedlich bewertet. *(step `intro`, card `card-attribut-framing`)*
 - Abgrenzung: Framing = Art der Formulierung einer Information; Priming = vorgeschaltete Reize, die unabhängig vom Inhalt Denkmuster bahnen. *(card `card-framing-priming`)*
 
 ### Genannte Studien
-- **Tversky & Kahneman (1981)** — klassisches Framing-Experiment, das *Asian disease problem*: identische Überlebenszahlen führten je nach Gewinn-/Verlust-Formulierung zu gegensätzlichen Entscheidungen. Im Set als „reale, vielfach replizierte Studie" bezeichnet. Die Forscher werden im Set auch mit der Prospect Theory verknüpft. *(step `intro`, card `card-asian-disease`, exercise `ex-select-studie`)*
+- **Tversky & Kahneman (1981):** klassisches Framing-Experiment, das *Asian disease problem*: identische Überlebenszahlen führten je nach Gewinn-/Verlust-Formulierung zu gegensätzlichen Entscheidungen. Im Set als „reale, vielfach replizierte Studie" bezeichnet. Die Forscher werden im Set auch mit der Prospect Theory verknüpft. *(step `intro`, card `card-asian-disease`, exercise `ex-select-studie`)*
 
 ### Zahlen / Effektstärken
 - *95 % fettfrei* vs. *5 % Fett* (Attribut-Framing-Beispiel). *(step `intro`)*
@@ -79,20 +79,20 @@ Quelle: `lessons/02-framing.json`
 
 ---
 
-## Lektion 3 — Ankereffekt
+## Lektion 3: Ankereffekt
 Quelle: `lessons/03-ankereffekt.json`
 
 ### Fachliche Kernaussagen
 - Ankereffekt: eine zuerst genannte Information (oft eine Zahl) dient als Bezugspunkt und zieht Folgeurteile in ihre Richtung; wirkt selbst dann, wenn der Anker offensichtlich zufällig/irrelevant ist. *(step `intro`, card `card-anker`)*
 - **Zwei Erklärungsmodelle nebeneinander (als Entwicklung der Theorie dargestellt):**
-  - *Ursprüngliches Modell — Anchoring and Adjustment (Tversky & Kahneman, 1974):* Menschen passen ihr Urteil vom Anker ausgehend an, hören aber meist zu früh auf, sodass das Ergebnis nahe am Anker bleibt („zu früh aufhören beim Anpassen"). *(step `intro`, card `card-anpassung`)*
-  - *Moderne Verfeinerung — Selective Accessibility / selektive Verfügbarkeit (Strack & Mussweiler, 1997):* besonders bei zufälligen, extern vorgegebenen Ankern (wie dem Glücksrad) aktiviert der Anker selektiv passende Informationen im Gedächtnis, die danach leichter verfügbar sind und das Urteil in Richtung Anker verschieben („das Gehirn sucht selektiv nach Infos, die zum Anker passen"). *(step `intro`, card `card-selektive-verfuegbarkeit`)*
+  - *Ursprüngliches Modell, Anchoring and Adjustment (Tversky & Kahneman, 1974):* Menschen passen ihr Urteil vom Anker ausgehend an, hören aber meist zu früh auf, sodass das Ergebnis nahe am Anker bleibt („zu früh aufhören beim Anpassen"). *(step `intro`, card `card-anpassung`)*
+  - *Moderne Verfeinerung, Selective Accessibility / selektive Verfügbarkeit (Strack & Mussweiler, 1997):* besonders bei zufälligen, extern vorgegebenen Ankern (wie dem Glücksrad) aktiviert der Anker selektiv passende Informationen im Gedächtnis, die danach leichter verfügbar sind und das Urteil in Richtung Anker verschieben („das Gehirn sucht selektiv nach Infos, die zum Anker passen"). *(step `intro`, card `card-selektive-verfuegbarkeit`)*
 - **Anwendung Verhandlung:** das erste Angebot setzt einen Bezugspunkt; wer zuerst nennt, prägt oft den Rahmen. *(card `card-anker-verhandlung`)*
 - Abgrenzung: Anker = zuerst genannter Bezugswert prägt die Schätzung; Framing = positive/negative Formulierung prägt die Bewertung. *(card `card-anker-abgrenzung`)*
 
 ### Genannte Studien
-- **Tversky & Kahneman (1974)** — Glücksrad-Experiment: ein per Glücksrad erzeugter Zufallswert beeinflusste die anschließende Schätzung des Anteils afrikanischer Länder in der UNO; höherer Anker → höhere Schätzung, niedriger Anker → niedrigere. Im Set: „reale Studie", zeigt, dass selbst offensichtlich zufällige Anker wirken. Im Set dem ursprünglichen Anchoring-and-Adjustment-Modell zugeordnet. *(step `intro`, card `card-tk-1974`, card `card-anpassung`, exercise `ex-select-anker-studie`)*
-- **Strack & Mussweiler (1997)** — dem Selective-Accessibility-Modell zugeordnet: der Anker aktiviert selektiv bestätigende Informationen im Gedächtnis, wodurch sich das Urteil Richtung Anker verschiebt. Im Set als moderne Verfeinerung neben (nicht statt) Anchoring and Adjustment dargestellt. *(step `intro`, card `card-selektive-verfuegbarkeit`)*
+- **Tversky & Kahneman (1974):** Glücksrad-Experiment: ein per Glücksrad erzeugter Zufallswert beeinflusste die anschließende Schätzung des Anteils afrikanischer Länder in der UNO; höherer Anker → höhere Schätzung, niedriger Anker → niedrigere. Im Set: „reale Studie", zeigt, dass selbst offensichtlich zufällige Anker wirken. Im Set dem ursprünglichen Anchoring-and-Adjustment-Modell zugeordnet. *(step `intro`, card `card-tk-1974`, card `card-anpassung`, exercise `ex-select-anker-studie`)*
+- **Strack & Mussweiler (1997):** dem Selective-Accessibility-Modell zugeordnet: der Anker aktiviert selektiv bestätigende Informationen im Gedächtnis, wodurch sich das Urteil Richtung Anker verschiebt. Im Set als moderne Verfeinerung neben (nicht statt) Anchoring and Adjustment dargestellt. *(step `intro`, card `card-selektive-verfuegbarkeit`)*
 
 ### Zahlen / Effektstärken
 - Keine konkreten Zahlen/Effektstärken genannt (Beschreibung qualitativ).
@@ -102,18 +102,18 @@ Quelle: `lessons/03-ankereffekt.json`
 
 ---
 
-## Lektion 4 — Kognitive Dissonanz
+## Lektion 4: Kognitive Dissonanz
 Quelle: `lessons/04-kognitive-dissonanz.json`
 
 ### Fachliche Kernaussagen
 - Kognitive Dissonanz: unangenehmer Spannungszustand, wenn Überzeugungen/Werte und Verhalten nicht zusammenpassen (Beispiel: rauchen trotz Wissens um die Schädlichkeit). *(step `intro`, card `card-dissonanz`)*
-- **Dissonanzreduktion:** Druck, die Spannung zu verringern — Einstellung ändern, Verhalten anpassen oder neue Rechtfertigungen suchen; oft ist die Einstellung leichter zu ändern als bereits gezeigtes Verhalten. *(step `intro`, card `card-reduktion`)*
+- **Dissonanzreduktion:** Druck, die Spannung zu verringern: Einstellung ändern, Verhalten anpassen oder neue Rechtfertigungen suchen; oft ist die Einstellung leichter zu ändern als bereits gezeigtes Verhalten. *(step `intro`, card `card-reduktion`)*
 - **Unzureichende Rechtfertigung:** fehlt ein starker äußerer Grund, ändert man eher die innere Einstellung, um das Verhalten stimmig erscheinen zu lassen. *(step `intro`, card `card-rechtfertigung`)*
 - **Als Hebel der Beeinflussung:** wer jemanden zu einer kleinen freiwilligen Handlung bewegt, kann eine Einstellungsänderung anstoßen (Verbindung zu Foot-in-the-door: „aus Handlung folgt Haltung"). *(card `card-dissonanz-beeinflussung`)*
 
 ### Genannte Studien
-- **Leon Festinger (1957)** — Begründer der Theorie der kognitiven Dissonanz. *(step `intro`, card `card-dissonanz`)*
-- **Festinger & Carlsmith (1959)** — 1-Dollar/20-Dollar-Experiment: Versuchspersonen erledigten eine langweilige Aufgabe und behaupteten danach gegenüber einer anderen Person, sie sei interessant gewesen; wer nur **1 Dollar** erhielt, fand die Aufgabe hinterher tatsächlich interessanter als wer **20 Dollar** erhielt. Erklärung: geringe Belohnung = unzureichende äußere Rechtfertigung → Einstellung passt sich an. Im Set: „reale, klassische Studie". *(step `intro`, card `card-festinger-carlsmith`, exercise `ex-select-studie`)*
+- **Leon Festinger (1957):** Begründer der Theorie der kognitiven Dissonanz. *(step `intro`, card `card-dissonanz`)*
+- **Festinger & Carlsmith (1959):** 1-Dollar/20-Dollar-Experiment: Versuchspersonen erledigten eine langweilige Aufgabe und behaupteten danach gegenüber einer anderen Person, sie sei interessant gewesen; wer nur **1 Dollar** erhielt, fand die Aufgabe hinterher tatsächlich interessanter als wer **20 Dollar** erhielt. Erklärung: geringe Belohnung = unzureichende äußere Rechtfertigung → Einstellung passt sich an. Im Set: „reale, klassische Studie". *(step `intro`, card `card-festinger-carlsmith`, exercise `ex-select-studie`)*
 
 ### Zahlen / Effektstärken
 - **1 Dollar** vs. **20 Dollar** Belohnung (zentrale Bedingung des Experiments). *(step `intro`, card `card-festinger-carlsmith`)*
@@ -123,16 +123,16 @@ Quelle: `lessons/04-kognitive-dissonanz.json`
 
 ---
 
-## Lektion 5 — Reziprozität
+## Lektion 5: Reziprozität
 Quelle: `lessons/05-reziprozitaet.json`
 
 ### Fachliche Kernaussagen
 - Reziprozitätsprinzip: wer etwas erhält (Geschenk, Gefallen, Zugeständnis), verspürt sozialen Druck, sich zu revanchieren. Eines der sechs Einflussprinzipien nach **Robert Cialdini**. *(step `intro`, card `card-reziprozitaet`)*
-- **Door-in-the-face:** reziproke Zugeständnis-Technik — auf eine bewusst überzogene erste Bitte folgt eine kleinere; das sichtbare Nachgeben erzeugt Druck, ebenfalls nachzugeben. *(step `intro`, card `card-door-in-the-face`)*
+- **Door-in-the-face:** reziproke Zugeständnis-Technik: auf eine bewusst überzogene erste Bitte folgt eine kleinere; das sichtbare Nachgeben erzeugt Druck, ebenfalls nachzugeben. *(step `intro`, card `card-door-in-the-face`)*
 
 ### Genannte Studien
-- **Norm der Reziprozität — Alvin Gouldner (1960):** weit verbreitete soziale Norm „man soll denen helfen, die einem geholfen haben"; von Gouldner als nahezu universelle soziale Erwartung beschrieben. *(step `intro`, card `card-gouldner`)*
-- **Regan (1971):** Cola-und-Lose-Experiment — ein vermeintlicher Mitproband spendierte unaufgefordert eine Cola; Versuchspersonen, die die Cola erhalten hatten, kauften ihm danach im Schnitt mehr Lose ab. Im Set: „reale Studie", zeigt die Reziprozitätswirkung eines kleinen Gefallens. *(step `intro`, card `card-regan`, exercise `ex-select-regan`)*
+- **Norm der Reziprozität (Alvin Gouldner, 1960):** weit verbreitete soziale Norm „man soll denen helfen, die einem geholfen haben"; von Gouldner als nahezu universelle soziale Erwartung beschrieben. *(step `intro`, card `card-gouldner`)*
+- **Regan (1971):** Cola-und-Lose-Experiment. Ein vermeintlicher Mitproband spendierte unaufgefordert eine Cola; Versuchspersonen, die die Cola erhalten hatten, kauften ihm danach im Schnitt mehr Lose ab. Im Set: „reale Studie", zeigt die Reziprozitätswirkung eines kleinen Gefallens. *(step `intro`, card `card-regan`, exercise `ex-select-regan`)*
 - **Cialdini et al. (1975):** der Door-in-the-face-Technik zugeordnet (beruht auf reziproken Zugeständnissen, nicht auf einem Geschenk). *(step `intro`, card `card-door-in-the-face`)*
 
 ### Zahlen / Effektstärken
@@ -143,7 +143,7 @@ Quelle: `lessons/05-reziprozitaet.json`
 
 ---
 
-## Lektion 6 — Soziale Bewährtheit (social proof)
+## Lektion 6: Soziale Bewährtheit (social proof)
 Quelle: `lessons/06-soziale-bewaehrtheit.json`
 
 ### Fachliche Kernaussagen
@@ -153,7 +153,7 @@ Quelle: `lessons/06-soziale-bewaehrtheit.json`
 
 ### Genannte Studien
 - **Deutsch & Gerard (1955):** dem informationalen (vs. normativen) sozialen Einfluss zugeordnet. *(step `intro`, card `card-informationaler-einfluss`)*
-- **Goldstein, Cialdini & Griskevicius (2008):** Feldexperiment in Hotels — Hinweisschilder, dass die meisten Gäste ihre Handtücher wiederverwenden, steigerten die Wiederverwendung stärker als ein reiner Umwelt-Appell. Im Set: „reales Feldexperiment", Effekt „messbar, aber moderat". *(step `intro`, card `card-hotel-handtuch`)*
+- **Goldstein, Cialdini & Griskevicius (2008):** Feldexperiment in Hotels. Hinweisschilder, dass die meisten Gäste ihre Handtücher wiederverwenden, steigerten die Wiederverwendung stärker als ein reiner Umwelt-Appell. Im Set: „reales Feldexperiment", Effekt „messbar, aber moderat". *(step `intro`, card `card-hotel-handtuch`)*
 
 ### Zahlen / Effektstärken
 - Keine konkreten Zahlen; Effekt qualitativ als „messbar, aber moderat" beschrieben. *(step `intro`, card `card-hotel-handtuch`)*
@@ -163,7 +163,7 @@ Quelle: `lessons/06-soziale-bewaehrtheit.json`
 
 ---
 
-## Lektion 7 — Foot-in-the-door
+## Lektion 7: Foot-in-the-door
 Quelle: `lessons/07-foot-in-the-door.json`
 
 ### Fachliche Kernaussagen
@@ -172,8 +172,8 @@ Quelle: `lessons/07-foot-in-the-door.json`
 - **Abgrenzung zu Door-in-the-face:** Foot-in-the-door beginnt klein und steigert (Mechanismus Konsistenz); Door-in-the-face beginnt überzogen und reduziert (Mechanismus Reziprozität). *(step `intro`, card `card-fitd-vs-ditf`)*
 
 ### Genannte Studien
-- **Freedman & Fraser (1966):** klassisches Experiment — Hausbesitzer, die zuerst einer kleinen Bitte zustimmten (z. B. kleinen Aufkleber anbringen / kurze Petition unterschreiben), willigten danach deutlich häufiger ein, ein großes Verkehrssicherheits-Schild im Vorgarten aufzustellen. Im Set: „reale, klassische Studie". *(step `intro`, card `card-freedman-fraser`, exercise `ex-select-fitd-studie`)*
-- **Bem (1972)** — als Urheber der Selbstwahrnehmungstheorie genannt (Standardreferenz *Advances in Experimental Social Psychology*). *(card `card-selbstwahrnehmung`)*
+- **Freedman & Fraser (1966):** klassisches Experiment. Hausbesitzer, die zuerst einer kleinen Bitte zustimmten (z. B. kleinen Aufkleber anbringen / kurze Petition unterschreiben), willigten danach deutlich häufiger ein, ein großes Verkehrssicherheits-Schild im Vorgarten aufzustellen. Im Set: „reale, klassische Studie". *(step `intro`, card `card-freedman-fraser`, exercise `ex-select-fitd-studie`)*
+- **Bem (1972):** als Urheber der Selbstwahrnehmungstheorie genannt (Standardreferenz *Advances in Experimental Social Psychology*). *(card `card-selbstwahrnehmung`)*
 
 ### Zahlen / Effektstärken
 - Keine konkreten Zahlen („deutlich häufiger", qualitativ). *(step `intro`)*
@@ -183,20 +183,20 @@ Quelle: `lessons/07-foot-in-the-door.json`
 
 ---
 
-## Lektion 8 — Wiederholung & Synthese
+## Lektion 8: Wiederholung & Synthese
 Quelle: `lessons/08-wiederholung-beeinflussung.json`
 
 ### Zusammenfassende Kernaussagen (Wiederholung der obigen Effekte)
 - **Priming:** vorgeschalteter Reiz aktiviert Assoziationen; robust nur als semantisches/perzeptuelles Priming; behaviorales Priming umstritten (Replikationskrise). *(card `card-s-priming`, exercise `ex-select-priming-robust`)*
-- **Framing:** gleiche Information, andere Verpackung → andere Bewertung; „ein Einfluss, keine Determinante" — zugeordnet **Tversky & Kahneman (1981)**. *(card `card-s-framing`)*
-- **Ankereffekt:** eine zuerst genannte Zahl prägt Folgeurteile — zugeordnet **Tversky & Kahneman (1974)**. *(card `card-s-anker`)*
-- **Kognitive Dissonanz:** Spannung zwischen Haltung und Handlung — zugeordnet **Festinger (1957)** und **Festinger & Carlsmith (1959)**. *(card `card-s-dissonanz`)*
-- **Reziprozität:** wer etwas erhält, fühlt sich verpflichtet zu revanchieren — **Cialdini**; Norm der Reziprozität **(Gouldner, 1960)**. *(card `card-s-reziprozitaet`)*
-- **Soziale Bewährtheit:** Verhalten anderer als Orientierung, besonders bei Unsicherheit — **Cialdini**; informationaler sozialer Einfluss. *(card `card-s-bewaehrtheit`)*
-- **Foot-in-the-door:** kleine Zusage erhöht Bereitschaft zur großen Bitte — **Freedman & Fraser (1966)**. *(card `card-s-fitd`)*
+- **Framing:** gleiche Information, andere Verpackung → andere Bewertung; „ein Einfluss, keine Determinante", zugeordnet **Tversky & Kahneman (1981)**. *(card `card-s-framing`)*
+- **Ankereffekt:** eine zuerst genannte Zahl prägt Folgeurteile, zugeordnet **Tversky & Kahneman (1974)**. *(card `card-s-anker`)*
+- **Kognitive Dissonanz:** Spannung zwischen Haltung und Handlung, zugeordnet **Festinger (1957)** und **Festinger & Carlsmith (1959)**. *(card `card-s-dissonanz`)*
+- **Reziprozität:** wer etwas erhält, fühlt sich verpflichtet zu revanchieren: **Cialdini**; Norm der Reziprozität **(Gouldner, 1960)**. *(card `card-s-reziprozitaet`)*
+- **Soziale Bewährtheit:** Verhalten anderer als Orientierung, besonders bei Unsicherheit: **Cialdini**; informationaler sozialer Einfluss. *(card `card-s-bewaehrtheit`)*
+- **Foot-in-the-door:** kleine Zusage erhöht Bereitschaft zur großen Bitte: **Freedman & Fraser (1966)**. *(card `card-s-fitd`)*
 
 ### Einordnungs-/Augenmaß-Aussagen
-- Roter Faden des Sets: „Alle diese Effekte sind **empirisch belegte Tendenzen**, keine garantierten Hebel" — sie beschreiben, was im Schnitt wahrscheinlicher wird, nicht was sicher passiert. Effektstärken nicht aufblasen, Studien korrekt zuordnen. *(step `intro`, card `card-s-augenmass`)*
+- Roter Faden des Sets: „Alle diese Effekte sind **empirisch belegte Tendenzen**, keine garantierten Hebel". Sie beschreiben, was im Schnitt wahrscheinlicher wird, nicht was sicher passiert. Effektstärken nicht aufblasen, Studien korrekt zuordnen. *(step `intro`, card `card-s-augenmass`)*
 
 ---
 
@@ -219,4 +219,4 @@ Quelle: `lessons/08-wiederholung-beeinflussung.json`
 | 13 | Freedman & Fraser | 1966 | Foot-in-the-door | L7, L8 |
 | 14 | Bem (Selbstwahrnehmungstheorie) | 1972 | Erklärung von Foot-in-the-door | L7 |
 | 15 | Strack & Mussweiler | 1997 | Ankereffekt / Selective-Accessibility-Modell (card `card-selektive-verfuegbarkeit`) | L3 |
-| – | Robert Cialdini | — | Sammlung der sechs Einflussprinzipien | L5, L6 |
+| - | Robert Cialdini | - | Sammlung der sechs Einflussprinzipien | L5, L6 |
