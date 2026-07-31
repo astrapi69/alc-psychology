@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "aggression-def",
+      "stable_id": "card-ms942qpy1b9po",
       "front": "Aggression (Aggression)",
       "back": "Jedes Verhalten, das darauf abzielt, einer anderen Person Schaden zuzufügen, die dies nicht möchte. Entscheidend ist die Schädigungsabsicht.",
       "notes": "Zu unterscheiden von Selbstbehauptung oder zufälliger Verletzung.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "frustrations-aggressions-hypothese",
+      "stable_id": "card-ms942qpy1barw",
       "front": "Frustrations-Aggressions-Hypothese (Frustration-Aggression Hypothesis)",
       "back": "Von Dollard et al. (1939): Frustration — das Blockieren eines Ziels — erzeugt stets einen Antrieb zur Aggression. Überarbeitete Version (Berkowitz): Frustration führt zu negativem Affekt, der Aggression wahrscheinlich macht.",
       "notes": "Klassische, aber vereinfachende Theorie — nicht jede Frustration mündet in Aggression.",
@@ -28,6 +30,7 @@
     },
     {
       "id": "modelllernen-aggression",
+      "stable_id": "card-ms942qpy1bbnp",
       "front": "Soziales Lernen / Modelllernen und Aggression (Social Learning, Bandura)",
       "back": "Bandura zeigte im Bobo-Doll-Experiment, dass Kinder aggressive Verhaltensweisen durch Beobachtung eines Modells erlernen — auch ohne direkte Verstärkung (Beobachtungslernen, Lektion 4).",
       "notes": "Bezug Lektion 4: Beobachtungslernen als Sonderform des operanten Konditionierens.",
@@ -37,6 +40,7 @@
     },
     {
       "id": "biologische-situative-faktoren",
+      "stable_id": "card-ms942qpy1bcqd",
       "front": "Biologische und situative Faktoren der Aggression",
       "back": "Biologisch: Testosterone, Amygdala-Aktivierung, niedrige Serotonin-Spiegel. Situativ: Hitze erhöht Aggressivität, Schmerz und Lärm wirken als Auslöser. Alkohol hemmt Selbstkontrolle.",
       "notes": "Aggressionsursachen sind multifaktoriell — kein einzelner Faktor erklärt alles.",
@@ -46,6 +50,7 @@
     },
     {
       "id": "mediengewalt",
+      "stable_id": "card-ms942qpy1bdfi",
       "front": "Mediengewalt-Debatte (Media Violence Debate)",
       "back": "Metaanalysen zeigen einen kleinen bis mittleren Zusammenhang zwischen Mediengewaltkonsum und aggressiven Gedanken/Verhalten. Die Befunde sind aber umstritten: Selektion, andere Faktoren und Desensibilisierung erschweren Kausalschlüsse.",
       "notes": "Differenzierte Sichtweise: Korrelation ≠ Kausalität; Kontextfaktoren wichtig.",
@@ -55,6 +60,7 @@
     },
     {
       "id": "prosoziales-verhalten",
+      "stable_id": "card-ms942qpy1beky",
       "front": "Prosoziales Verhalten (Prosocial Behaviour)",
       "back": "Handlungen, die anderen Menschen nutzen, ohne dass primär eigene Vorteile angestrebt werden. Umfasst Hilfsbereitschaft, Kooperation und Altruismus.",
       "media_type": "text",
@@ -63,6 +69,7 @@
     },
     {
       "id": "bystander-effekt",
+      "stable_id": "card-ms942qpy1bfu3",
       "front": "Bystander-Effekt (Bystander Effect)",
       "back": "Je mehr Zuschauer anwesend sind, desto geringer ist die Wahrscheinlichkeit, dass eine einzelne Person in einer Notlage eingreift. Erstmals systematisch von Latané & Darley (1968) untersucht (Wiederaufgriff Lektion 33).",
       "notes": "Auslöser: Verantwortungsdiffusion und pluralistische Ignoranz.",
@@ -73,6 +80,7 @@
     },
     {
       "id": "verantwortungsdiffusion",
+      "stable_id": "card-ms942qpy1bgmh",
       "front": "Verantwortungsdiffusion (Diffusion of Responsibility)",
       "back": "In einer Gruppe wird die Verantwortung zu helfen auf alle Anwesenden verteilt, sodass sich jede Einzelperson weniger persönlich verantwortlich fühlt.",
       "notes": "Kernmechanismus des Bystander-Effekts.",
@@ -82,6 +90,7 @@
     },
     {
       "id": "entscheidungsmodell",
+      "stable_id": "card-ms942qpy1bhq1",
       "front": "Entscheidungsmodell des Eingreifens — 5 Schritte (Decision Model of Helping)",
       "back": "Latané & Darley: (1) Ereignis bemerken, (2) als Notfall deuten, (3) Verantwortung übernehmen, (4) wissen, wie man helfen kann, (5) tatsächlich handeln. Scheitert eine Stufe, bleibt Hilfe aus.",
       "notes": "Jede Stufe kann durch situative Faktoren blockiert werden.",
@@ -92,6 +101,7 @@
     },
     {
       "id": "empathie-altruismus",
+      "stable_id": "card-ms942qpy1bi1j",
       "front": "Empathie-Altruismus-Hypothese (Empathy-Altruism Hypothesis)",
       "back": "Batson: Wenn wir echte Empathie für eine notleidende Person empfinden, entsteht echter (nicht eigennütziger) altruistischer Motivationsdrang, ihr zu helfen.",
       "notes": "Gegenpositionen: Hilfe dient oft auch der eigenen Stimmungsverbesserung oder Vermeidung negativer Gefühle.",
@@ -101,6 +111,7 @@
     },
     {
       "id": "foerderliche-faktoren-hilfe",
+      "stable_id": "card-ms942qpy1bjph",
       "front": "Faktoren, die prosoziales Verhalten fördern",
       "back": "Gute Stimmung, Ähnlichkeit mit dem Opfer, klare Zuständigkeit (eine Person ansprechen), ländliche Umgebung, Abwesenheit von Zeitdruck und das Modellverhalten anderer Helfer.",
       "notes": "Im Experiment 'Guter Samariter' (Darley & Batson) half Zeitdruck das Eingreifen zu verhindern.",
@@ -110,6 +121,7 @@
     },
     {
       "id": "altruismus",
+      "stable_id": "card-ms942qpy1bkco",
       "front": "Altruismus (Altruism)",
       "back": "Uneigennützige Sorge um das Wohl anderer und entsprechendes Handeln ohne Erwartung einer Gegenleistung. Laut Batson durch echte Empathie ausgelöst.",
       "media_type": "text",
@@ -143,6 +155,7 @@
       "title": "Aggressionstheorien zuordnen",
       "exercise": {
         "id": "ex-match-theorien",
+        "stable_id": "ex-ms942qpy1bl65",
         "type": "matching",
         "prompt": "Ordne jedem Konzept die passende Beschreibung zu.",
         "card_ids": ["frustrations-aggressions-hypothese", "modelllernen-aggression", "biologische-situative-faktoren"],
@@ -161,6 +174,7 @@
       "title": "Das Bobo-Doll-Experiment",
       "exercise": {
         "id": "ex-cloze-bobo",
+        "stable_id": "ex-ms942qpy1bmso",
         "type": "cloze",
         "prompt": "Ergänze den Forscher, der das Bobo-Doll-Experiment durchführte.",
         "card_ids": ["modelllernen-aggression"],
@@ -179,6 +193,7 @@
       "title": "Der Bystander-Effekt",
       "exercise": {
         "id": "ex-free-bystander",
+        "stable_id": "ex-ms942qpy1bnrs",
         "type": "free_text",
         "prompt": "Wie heißt das Phänomen, bei dem mehr Zeugen zu weniger Hilfsbereitschaft führen?",
         "card_ids": ["bystander-effekt", "verantwortungsdiffusion"],
@@ -195,6 +210,7 @@
       "title": "Fünf Stufen des Eingreifens",
       "exercise": {
         "id": "ex-match-stufen",
+        "stable_id": "ex-ms942qpy1bo7h",
         "type": "matching",
         "prompt": "Ordne jede Stufe des Entscheidungsmodells ihrem typischen Hindernis zu.",
         "card_ids": ["entscheidungsmodell"],
@@ -213,6 +229,7 @@
       "title": "Empathie und Altruismus",
       "exercise": {
         "id": "ex-free-batson",
+        "stable_id": "ex-ms942qpy1bpcp",
         "type": "free_text",
         "prompt": "Wie heißt Batsons These, dass echte Empathie zu uneigennützigem Helfen führt?",
         "card_ids": ["empathie-altruismus"],
@@ -229,6 +246,7 @@
       "title": "Verantwortungsdiffusion beschreiben",
       "exercise": {
         "id": "ex-tiles-diffusion",
+        "stable_id": "ex-ms942qpy1bqu8",
         "type": "word_tiles",
         "prompt": "Setze die Definition der Verantwortungsdiffusion zusammen.",
         "card_ids": ["verantwortungsdiffusion"],
@@ -244,6 +262,7 @@
       "title": "Frustration und Aggression",
       "exercise": {
         "id": "ex-cloze-dollard",
+        "stable_id": "ex-ms942qpy1brcy",
         "type": "cloze",
         "prompt": "Ergänze den Autor der ursprünglichen Frustrations-Aggressions-Hypothese.",
         "card_ids": ["frustrations-aggressions-hypothese"],

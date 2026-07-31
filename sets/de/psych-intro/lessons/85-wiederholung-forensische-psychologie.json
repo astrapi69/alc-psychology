@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "augenzeugen-recap",
+      "stable_id": "card-ms942qq71kca8",
       "front": "Unzuverlässigkeit von Augenzeugen",
       "back": "Augenzeugenaussagen wirken oft überzeugend, sind aber häufig fehlerhaft — Fehlidentifikationen zählen zu den Hauptursachen von Fehlurteilen (z. B. belegt durch das Innocence Project).",
       "notes": "Lektion 81. Überzeugend wirkend ≠ korrekt.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "misinformation-recap",
+      "stable_id": "card-ms942qq71kdeo",
       "front": "Misinformationseffekt (Misinformation Effect)",
       "back": "Nachträgliche, irreführende Informationen — z. B. durch die Wortwahl einer Frage — verändern die Erinnerung an ein erlebtes Ereignis. Klassisch untersucht von Elizabeth Loftus.",
       "notes": "Lektion 81. Schon 'raste' statt 'fuhr' verändert Schätzungen.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "confidence-accuracy-recap",
+      "stable_id": "card-ms942qq71kebk",
       "front": "Aussagesicherheit ≠ Genauigkeit",
       "back": "Wie sicher sich ein Zeuge fühlt, sagt nur schwach voraus, wie korrekt die Aussage ist. Sehr selbstsichere Zeugen können sich genauso irren wie unsichere.",
       "notes": "Lektion 81. Das Confidence-Accuracy-Problem ist gerichtlich besonders relevant.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "kognitives-interview-recap",
+      "stable_id": "card-ms942qq71kfyf",
       "front": "Kognitives Interview (Cognitive Interview)",
       "back": "Eine wissenschaftlich fundierte Befragungstechnik: Kontext gedanklich wiederherstellen, frei erzählen lassen, offene Fragen stellen — gewinnt mehr korrekte Details ohne Suggestion.",
       "notes": "Lektion 81. Gegenentwurf zur suggestiven Befragung.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "undeutsch-hypothese",
+      "stable_id": "card-ms942qq71kgsh",
       "front": "Undeutsch-Hypothese",
       "back": "Erlebte Ereignisse unterscheiden sich in ihrer Aussagequalität systematisch von erfundenen — diese Prämisse bildet die Grundlage der kriterienbasierten Inhaltsanalyse (CBCA).",
       "notes": "Lektion 82. Benannt nach Udo Undeutsch.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "cbca",
+      "stable_id": "card-ms942qq71kh12",
       "front": "CBCA — Kriterienbasierte Inhaltsanalyse (Criteria-Based Content Analysis)",
       "back": "Ein systematisches Verfahren zur Aussageanalyse: Es prüft anhand von Realkennzeichen (z. B. Detailreichtum, Schilderung eigener Gefühle, unerwartete Komplikationen), ob eine Aussage eher erlebnisbasiert wirkt.",
       "notes": "Lektion 82. Teil des SVA-Rahmens (Statement Validity Assessment).",
@@ -63,6 +69,7 @@
     },
     {
       "id": "glaubhaftigkeit-vs-glaubwuerdigkeit",
+      "stable_id": "card-ms942qq71kiiz",
       "front": "Glaubhaftigkeit der Aussage ≠ Glaubwürdigkeit der Person",
       "back": "Gutachten bewerten stets die Aussage (Inhalt, Entstehung, Qualität) — nicht die allgemeine Vertrauenswürdigkeit der Person. Kein Gutachten kann über 'Lügen' im Allgemeinen urteilen.",
       "notes": "Lektion 82. Grundprinzip forensisch-psychologischer Gutachten.",
@@ -72,6 +79,7 @@
     },
     {
       "id": "paragraph-20-21",
+      "stable_id": "card-ms942qq71kjks",
       "front": "§ 20 Schuldunfähigkeit vs. § 21 verminderte Schuldfähigkeit (StGB)",
       "back": "§ 20: Vollständige Schuldunfähigkeit — Einsichts- oder Steuerungsfähigkeit war zur Tatzeit aufgehoben. § 21: Verminderte Schuldfähigkeit — diese Fähigkeit war erheblich vermindert, aber nicht aufgehoben.",
       "notes": "Lektion 83. Entscheidung trifft das Gericht, nicht der Sachverständige.",
@@ -81,6 +89,7 @@
     },
     {
       "id": "eingangsmerkmale",
+      "stable_id": "card-ms942qq71kkph",
       "front": "Vier Eingangsmerkmale (§ 20 StGB)",
       "back": "Krankhafte seelische Störung, tiefgreifende Bewusstseinsstörung, Intelligenzminderung (früher: Schwachsinn), schwere andere seelische Störung — nur wenn eines vorliegt, folgt die zweistufige Prüfung der Einsichts- und Steuerungsfähigkeit.",
       "notes": "Lektion 83. Zweistufige Prüfung: erst Eingangsmerkmal, dann Auswirkung auf die Fähigkeiten.",
@@ -90,6 +99,7 @@
     },
     {
       "id": "profiling-umstritten",
+      "stable_id": "card-ms942qq71kla2",
       "front": "Täterprofil (Offender Profiling) — wissenschaftlich umstritten",
       "back": "Das FBI-typologische Profiling (z. B. organized/disorganized) entbehrt einer robusten empirischen Basis. Die statistische Investigative Psychologie liefert fundiertere, aber immer noch begrenzte Vorhersagen.",
       "notes": "Lektion 84. Profiling ≠ zuverlässige Identifikation.",
@@ -99,6 +109,7 @@
     },
     {
       "id": "aktuarische-prognose",
+      "stable_id": "card-ms942qq71kmd7",
       "front": "Aktuarische Prognose (Actuarial Risk Assessment)",
       "back": "Risikoeinschätzung auf Basis statistisch validierter Faktoren (z. B. Alter bei Ersttat, frühere Delikte) — überlegen gegenüber der unstrukturierten klinischen Einschätzung, aber keine Einzelfallvorhersage.",
       "notes": "Lektion 84. Kriminalprognose schätzt Gruppenrisiken, keine individuellen Gewissheiten.",
@@ -108,6 +119,7 @@
     },
     {
       "id": "sachverstaendiger-gericht",
+      "stable_id": "card-ms942qq71kn9i",
       "front": "Sachverständiger berät — Gericht entscheidet",
       "back": "Der psychologische oder psychiatrische Sachverständige legt seine Befunde dar; die rechtliche Entscheidung über Schuldfähigkeit, Maßregelvollzug usw. liegt allein beim Gericht.",
       "notes": "Lektion 83. Klare Rollentrennung zwischen Wissenschaft und Rechtsprechung.",
@@ -117,6 +129,7 @@
     },
     {
       "id": "nullhypothese-gutachten",
+      "stable_id": "card-ms942qq71komh",
       "front": "Nullhypothese im Glaubhaftigkeitsgutachten",
       "back": "Ausgangspunkt jeder Glaubhaftigkeitsbegutachtung ist die Nullhypothese: Die Aussage ist nicht erlebnisbasiert. Erst wenn diese Hypothese durch die Analyse nicht widerlegt werden kann, gilt die Aussage als glaubhaft.",
       "notes": "Lektion 82. Wissenschaftliches Vorgehen analog zur Falsifikationslogik.",
@@ -151,6 +164,7 @@
       "title": "Zuordnung: Vier Themenfelder",
       "exercise": {
         "id": "ex-match-themenfelder",
+        "stable_id": "ex-ms942qq71kpn3",
         "type": "matching",
         "prompt": "Ordne jedem Begriff das richtige Themenfeld (Lektion) zu.",
         "card_ids": ["misinformation-recap", "undeutsch-hypothese", "paragraph-20-21", "aktuarische-prognose"],
@@ -170,6 +184,7 @@
       "title": "Ausgangspunkt des Gutachtens",
       "exercise": {
         "id": "ex-cloze-nullhypothese",
+        "stable_id": "ex-ms942qq71kq2u",
         "type": "cloze",
         "prompt": "Ergänze den methodischen Ausgangspunkt eines Glaubhaftigkeitsgutachtens.",
         "card_ids": ["nullhypothese-gutachten"],
@@ -188,6 +203,7 @@
       "title": "CBCA — was wird geprüft?",
       "exercise": {
         "id": "ex-free-cbca",
+        "stable_id": "ex-ms942qq71krm1",
         "type": "free_text",
         "prompt": "Wie heißt das systematische Verfahren der Aussageanalyse, das auf Realkennzeichen beruht und die Undeutsch-Hypothese operationalisiert?",
         "card_ids": ["cbca"],
@@ -204,6 +220,7 @@
       "title": "Kernbegriffe zuordnen",
       "exercise": {
         "id": "ex-match-begriffe",
+        "stable_id": "ex-ms942qq71ksja",
         "type": "matching",
         "prompt": "Ordne jedem Begriff seinen Kerngedanken zu.",
         "card_ids": ["confidence-accuracy-recap", "sachverstaendiger-gericht", "profiling-umstritten"],
@@ -222,6 +239,7 @@
       "title": "§ 20 StGB — Schuldunfähigkeit",
       "exercise": {
         "id": "ex-cloze-paragraph20",
+        "stable_id": "ex-ms942qq71kta8",
         "type": "cloze",
         "prompt": "Ergänze die Voraussetzung für Schuldunfähigkeit nach § 20 StGB.",
         "card_ids": ["paragraph-20-21", "eingangsmerkmale"],
@@ -240,6 +258,7 @@
       "title": "Der wichtigste Befund zu Augenzeugen",
       "exercise": {
         "id": "ex-tiles-augenzeugen",
+        "stable_id": "ex-ms942qq71kube",
         "type": "word_tiles",
         "prompt": "Setze den Kernbefund der Augenzeugenforschung zusammen.",
         "card_ids": ["augenzeugen-recap", "confidence-accuracy-recap"],
@@ -255,6 +274,7 @@
       "title": "Eingangsmerkmale — wie viele?",
       "exercise": {
         "id": "ex-free-eingangsmerkmale",
+        "stable_id": "ex-ms942qq71kvqs",
         "type": "free_text",
         "prompt": "Wie viele Eingangsmerkmale kennt § 20 StGB, die die zweistufige Prüfung der Schuldfähigkeit auslösen?",
         "card_ids": ["eingangsmerkmale"],

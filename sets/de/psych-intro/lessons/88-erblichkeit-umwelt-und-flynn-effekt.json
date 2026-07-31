@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "anlage-umwelt-intelligenz",
+      "stable_id": "card-ms942qq91ly07",
       "front": "Anlage-Umwelt-Frage (bei Intelligenz)",
       "back": "Die Frage, wie stark Gene (Anlage) und Erfahrung (Umwelt) zu Intelligenzunterschieden beitragen. Die Antwort der Wissenschaft: Beides wirkt zusammen — es ist kein Entweder-oder.",
       "notes": "Knüpft an die Anlage-Umwelt-Debatte aus Lektion 37 an.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "erblichkeit",
+      "stable_id": "card-ms942qq91lztk",
       "front": "Erblichkeit (Heritabilität)",
       "back": "Ein statistisches Maß dafür, welcher Anteil der Unterschiede in einer Gruppe auf genetische Unterschiede zurückgeht. Für Intelligenz schätzen Studien etwa 50–80 % — als Wert für die GRUPPE, nicht für eine einzelne Person.",
       "notes": "Wichtig: Heritabilität sagt nichts darüber, ob ein Merkmal 'veränderbar' ist, und nichts über Einzelpersonen.",
@@ -28,6 +30,7 @@
     },
     {
       "id": "zwillingsstudien",
+      "stable_id": "card-ms942qq91m0qu",
       "front": "Zwillings- und Adoptionsstudien",
       "back": "Methoden, um Anlage und Umwelt zu trennen: eineiige (genetisch identische) und zweieiige Zwillinge sowie adoptierte Kinder werden verglichen.",
       "notes": "Sie zeigen einen genetischen Beitrag — und zugleich deutliche Umwelteinflüsse.",
@@ -37,6 +40,7 @@
     },
     {
       "id": "umwelteinfluss",
+      "stable_id": "card-ms942qq91m182",
       "front": "Umwelteinflüsse",
       "back": "Faktoren wie Ernährung, Gesundheit, Bildung, Anregung und sozioökonomische Bedingungen beeinflussen die Intelligenzentwicklung erheblich.",
       "notes": "Genauso wichtig wie die Gene — besonders bei benachteiligenden Bedingungen.",
@@ -46,6 +50,7 @@
     },
     {
       "id": "potenzial-umwelt",
+      "stable_id": "card-ms942qq91m2h4",
       "front": "Gene setzen ein Potenzial",
       "back": "Eine hilfreiche Faustregel: Die Gene stecken einen möglichen Rahmen ab, aber die Umwelt bestimmt, was daraus tatsächlich wird.",
       "media_type": "text",
@@ -54,6 +59,7 @@
     },
     {
       "id": "flynn-effekt",
+      "stable_id": "card-ms942qq91m38r",
       "front": "Flynn-Effekt",
       "back": "Der Befund, dass die durchschnittlichen IQ-Testleistungen über das 20. Jahrhundert hinweg von Generation zu Generation deutlich gestiegen sind.",
       "notes": "Benannt nach James Flynn.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "flynn-beweis-umwelt",
+      "stable_id": "card-ms942qq91m4s2",
       "front": "Was der Flynn-Effekt zeigt",
       "back": "Da sich die Gene einer Bevölkerung in wenigen Jahrzehnten kaum ändern, muss der starke IQ-Anstieg auf die UMWELT zurückgehen (z. B. bessere Bildung, Ernährung, Gesundheit, abstrakteres Denken im Alltag).",
       "notes": "Ein zentrales Argument dafür, dass Umwelt massiv wirkt.",
@@ -72,6 +79,7 @@
     },
     {
       "id": "intelligenz-veraenderbar",
+      "stable_id": "card-ms942qq91m5lx",
       "front": "Intelligenz ist kein fester Wert",
       "back": "Intelligenz ist ein Konstrukt und über die Lebensspanne und zwischen Generationen veränderbar. Ein IQ-Wert ist eine Momentaufnahme unter Testbedingungen — kein unveränderliches Etikett.",
       "media_type": "text",
@@ -80,6 +88,7 @@
     },
     {
       "id": "iq-kontroversen",
+      "stable_id": "card-ms942qq91m6vu",
       "front": "IQ-Kontroversen",
       "back": "Rund um IQ gab und gibt es ideologisch aufgeladene Debatten. Wissenschaftlich entscheidend ist, sauber zwischen belegten Befunden und weltanschaulichen Behauptungen zu trennen.",
       "media_type": "text",
@@ -88,6 +97,7 @@
     },
     {
       "id": "rassistische-iq-thesen-diskreditiert",
+      "stable_id": "card-ms942qq91m78w",
       "front": "Diskreditierte 'Rassen'-IQ-Thesen",
       "back": "Behauptungen, Intelligenzunterschiede zwischen sozial definierten Gruppen seien genetisch bedingt, gelten als wissenschaftlich widerlegt und methodisch fehlerhaft. Gruppenunterschiede in Testwerten erklären sich durch Umwelt, Bildung und Testfairness.",
       "notes": "Heritabilität INNERHALB einer Gruppe erlaubt grundsätzlich keinen Schluss auf Ursachen von Unterschieden ZWISCHEN Gruppen — ein zentraler Denkfehler dieser Thesen.",
@@ -97,6 +107,7 @@
     },
     {
       "id": "test-bias",
+      "stable_id": "card-ms942qq91m8n6",
       "front": "Testverzerrung (Bias)",
       "back": "Intelligenztests können kulturell und sprachlich verzerrt sein und bestimmte Gruppen benachteiligen. Faire Messung ist eine ständige methodische Aufgabe.",
       "notes": "Vgl. Gütekriterien und Fairness aus Lektion 29.",
@@ -106,6 +117,7 @@
     },
     {
       "id": "foerderung",
+      "stable_id": "card-ms942qq91m9o3",
       "front": "Förderung wirkt",
       "back": "Gezielte frühe Förderung, gute Bildung und gesunde Lebensbedingungen können kognitive Entwicklung messbar verbessern — gerade weil Umwelt so wichtig ist.",
       "media_type": "text",
@@ -139,6 +151,7 @@
       "title": "Die Faustregel",
       "exercise": {
         "id": "ex-cloze-potenzial",
+        "stable_id": "ex-ms942qq91marx",
         "type": "cloze",
         "prompt": "Ergänze die Faustregel zum Zusammenspiel von Anlage und Umwelt.",
         "card_ids": ["potenzial-umwelt"],
@@ -157,6 +170,7 @@
       "title": "Steigende Werte",
       "exercise": {
         "id": "ex-free-flynn",
+        "stable_id": "ex-ms942qq91mb6z",
         "type": "free_text",
         "prompt": "Wie heißt der Befund, dass die durchschnittlichen IQ-Werte über Generationen hinweg gestiegen sind?",
         "card_ids": ["flynn-effekt"],
@@ -173,6 +187,7 @@
       "title": "Was der Flynn-Effekt beweist",
       "exercise": {
         "id": "ex-cloze-flynn-umwelt",
+        "stable_id": "ex-ms942qq91mcs8",
         "type": "cloze",
         "prompt": "Ergänze, worauf der Flynn-Effekt den IQ-Anstieg zurückführt.",
         "card_ids": ["flynn-beweis-umwelt"],
@@ -191,6 +206,7 @@
       "title": "Begriffe sauber trennen",
       "exercise": {
         "id": "ex-match-ursachen",
+        "stable_id": "ex-ms942qq91mdjc",
         "type": "matching",
         "prompt": "Ordne jedem Begriff seine korrekte Bedeutung zu.",
         "card_ids": ["erblichkeit", "umwelteinfluss", "zwillingsstudien", "test-bias"],
@@ -210,6 +226,7 @@
       "title": "Der zentrale Denkfehler",
       "exercise": {
         "id": "ex-free-denkfehler",
+        "stable_id": "ex-ms942qq91mei3",
         "type": "free_text",
         "prompt": "Eine hohe Erblichkeit INNERHALB einer Gruppe erlaubt einen Schluss auf die Ursachen von Unterschieden ZWISCHEN Gruppen — richtig oder falsch?",
         "card_ids": ["rassistische-iq-thesen-diskreditiert", "erblichkeit"],
@@ -226,6 +243,7 @@
       "title": "Kein fester Wert",
       "exercise": {
         "id": "ex-cloze-konstrukt",
+        "stable_id": "ex-ms942qq91mfea",
         "type": "cloze",
         "prompt": "Ergänze, was Intelligenz ist — und was nicht.",
         "card_ids": ["intelligenz-veraenderbar"],
@@ -244,6 +262,7 @@
       "title": "Die konstruktive Botschaft",
       "exercise": {
         "id": "ex-tiles-foerderung",
+        "stable_id": "ex-ms942qq91mg2z",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zur Bedeutung der Umwelt zusammen.",
         "card_ids": ["foerderung", "umwelteinfluss"],

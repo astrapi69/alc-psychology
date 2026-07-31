@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "kvt-grundannahme",
+      "stable_id": "card-ms942qp30kn28",
       "front": "Grundannahme der KVT (Core Assumption of CBT)",
       "back": "Nicht die Ereignisse selbst, sondern unsere **Bewertung** dieser Ereignisse erzeugt Gefühle und Verhalten. Wer seine Bewertungen ändert, ändert auch seine Reaktionen.",
       "notes": "Diese Annahme unterscheidet die KVT von rein verhaltenstherapeutischen Ansätzen (Lektion 17), die sich nur auf beobachtbares Verhalten konzentrieren.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "abc-modell",
+      "stable_id": "card-ms942qp30kow1",
       "front": "ABC-Modell (ABC Model, Ellis)",
       "back": "Modell von Albert Ellis: **A** = auslösendes Ereignis (Activating event), **B** = Bewertung/Gedanke (Belief), **C** = emotionale und verhaltensbezogene Konsequenz (Consequence). Nicht A verursacht C, sondern B.",
       "notes": "Beispiel: A = Chef kritisiert Bericht, B = 'Ich bin ein Versager', C = Scham und Rückzug. Ändert man B, ändert sich auch C.",
@@ -28,6 +30,7 @@
     },
     {
       "id": "albert-ellis",
+      "stable_id": "card-ms942qp30kpz6",
       "front": "Albert Ellis",
       "back": "US-amerikanischer Psychologe (1913–2007), der das ABC-Modell entwickelte und die **Rational-Emotive Verhaltenstherapie (REVT)** begründete — eine der frühen Formen der kognitiven Verhaltenstherapie.",
       "notes": "Ellis betonte 'irrationale Überzeugungen' (z. B. 'Ich muss von allen gemocht werden') als Wurzel emotionaler Störungen.",
@@ -37,6 +40,7 @@
     },
     {
       "id": "aaron-beck",
+      "stable_id": "card-ms942qp30kqjy",
       "front": "Aaron Beck",
       "back": "US-amerikanischer Psychiater (1921–2021), der die **kognitive Therapie** (Cognitive Therapy) entwickelte und das Konzept der **automatischen Gedanken** und **kognitiven Verzerrungen** prägte.",
       "notes": "Beck begann mit der Erforschung von Depressionen und erkannte, dass negative automatische Gedanken das Kernsymptom sind.",
@@ -46,6 +50,7 @@
     },
     {
       "id": "automatische-gedanken",
+      "stable_id": "card-ms942qp30kr42",
       "front": "Automatische Gedanken (Automatic Thoughts)",
       "back": "Unwillkürliche, blitzschnelle Gedanken, die situativ auftauchen und Gefühle direkt beeinflussen — oft negativ gefärbt und kaum bewusst wahrgenommen. Begriff nach Aaron Beck.",
       "notes": "Beispiel: Man betritt einen Raum und denkt sofort 'Die mögen mich nicht', ohne darüber nachgedacht zu haben.",
@@ -56,6 +61,7 @@
     },
     {
       "id": "kognitive-verzerrungen",
+      "stable_id": "card-ms942qp30ks0f",
       "front": "Kognitive Verzerrungen (Cognitive Distortions)",
       "back": "Systematische Denkfehler, die das Wahrnehmen und Urteilen verzerren — z. B. Übergeneralisierung, Schwarz-Weiß-Denken, Katastrophisieren, selektive Wahrnehmung und Gedankenlesen.",
       "notes": "In Lektion 11 hast du verwandte Urteilsfehler (z. B. den Bestätigungsfehler) kennengelernt. Kognitive Verzerrungen in der KVT sind spezifischere, klinisch relevante Denkmuster.",
@@ -65,6 +71,7 @@
     },
     {
       "id": "kognitive-umstrukturierung",
+      "stable_id": "card-ms942qp30ktic",
       "front": "Kognitive Umstrukturierung (Cognitive Restructuring)",
       "back": "Eine zentrale Technik der KVT: belastende automatische Gedanken und Überzeugungen werden systematisch hinterfragt, geprüft und durch realistischere, hilfreichere Gedanken ersetzt.",
       "notes": "Kernfragen: 'Welche Beweise habe ich für diesen Gedanken? Welche dagegen? Gibt es eine andere Sichtweise?'",
@@ -74,6 +81,7 @@
     },
     {
       "id": "sokratischer-dialog",
+      "stable_id": "card-ms942qp30ku3c",
       "front": "Sokratischer Dialog (Socratic Dialogue)",
       "back": "Eine Gesprächsmethode der KVT, bei der der Therapeut durch gezieltes Fragen — statt durch direkte Belehrung — die Klient:innen dazu bringt, eigene Überzeugungen kritisch zu überprüfen und selbst neue Perspektiven zu entwickeln.",
       "notes": "Benannt nach dem griechischen Philosophen Sokrates und seiner 'Hebammenkunst' (Mäeutik). Der Therapeut 'belehrt' nicht, sondern fragt.",
@@ -84,6 +92,7 @@
     },
     {
       "id": "verhaltensexperiment",
+      "stable_id": "card-ms942qp30kvd8",
       "front": "Verhaltensexperiment (Behavioural Experiment)",
       "back": "Eine KVT-Technik, bei der Klient:innen im realen Leben **konkrete Handlungen** ausprobieren, um eine belastende Überzeugung zu testen und zu widerlegen — z. B. soziale Situationen aufsuchen, die man bisher mied.",
       "notes": "Verbindet den kognitiven Ansatz (Überzeugung überprüfen) mit dem verhaltenstherapeutischen Ansatz (konkretes Handeln üben) aus Lektion 17.",
@@ -93,6 +102,7 @@
     },
     {
       "id": "kvt-integration",
+      "stable_id": "card-ms942qp30kwco",
       "front": "Warum verbindet KVT kognitive und verhaltensbezogene Elemente?",
       "back": "Weil Gedanken, Gefühle und Verhalten sich gegenseitig beeinflussen. Nur die Gedanken zu ändern reicht oft nicht — man muss auch im Verhalten neue Erfahrungen machen, die die veränderten Überzeugungen bestätigen.",
       "notes": "Die KVT entstand durch die Verbindung der Verhaltenstherapie (Lektion 17) mit kognitiven Ansätzen von Ellis und Beck.",
@@ -102,6 +112,7 @@
     },
     {
       "id": "uebergeneralisierung",
+      "stable_id": "card-ms942qp30kxbq",
       "front": "Übergeneralisierung (Overgeneralisation)",
       "back": "Eine kognitive Verzerrung: aus einem einzelnen negativen Ereignis wird eine allgemeine Regel abgeleitet — z. B. 'Ich habe einmal versagt, also bin ich immer ein Versager'.",
       "media_type": "text",
@@ -110,6 +121,7 @@
     },
     {
       "id": "katastrophisieren",
+      "stable_id": "card-ms942qp30kyp4",
       "front": "Katastrophisieren (Catastrophising)",
       "back": "Eine kognitive Verzerrung: das Schlimmstmögliche wird erwartet und übermäßig betont — z. B. 'Wenn ich diese Prüfung nicht bestehe, ist mein Leben ruiniert'.",
       "notes": "Auch 'Aufbauschen' genannt. Hängt eng mit Angststörungen zusammen.",
@@ -145,6 +157,7 @@
       "title": "Das ABC-Modell ergänzen",
       "exercise": {
         "id": "ex-cloze-abc",
+        "stable_id": "ex-ms942qp30kzre",
         "type": "cloze",
         "prompt": "Ergänze den fehlenden Buchstaben im ABC-Modell von Ellis.",
         "card_ids": ["abc-modell"],
@@ -163,6 +176,7 @@
       "title": "ABC-Modell: Buchstaben zuordnen",
       "exercise": {
         "id": "ex-match-abc",
+        "stable_id": "ex-ms942qp30l0su",
         "type": "matching",
         "prompt": "Ordne jedem Buchstaben des ABC-Modells seine Bedeutung zu.",
         "card_ids": ["abc-modell", "kvt-grundannahme"],
@@ -181,6 +195,7 @@
       "title": "Kognitive Verzerrungen zuordnen",
       "exercise": {
         "id": "ex-match-verzerrungen",
+        "stable_id": "ex-ms942qp30l1wr",
         "type": "matching",
         "prompt": "Welche kognitive Verzerrung steckt hinter welchem Beispiel?",
         "card_ids": ["kognitive-verzerrungen", "uebergeneralisierung", "katastrophisieren"],
@@ -200,6 +215,7 @@
       "title": "Die Grundannahme der KVT",
       "exercise": {
         "id": "ex-free-grundannahme",
+        "stable_id": "ex-ms942qp30l25x",
         "type": "free_text",
         "prompt": "Was erzeugt laut KVT unsere Gefühle — die Ereignisse selbst oder etwas anderes?",
         "card_ids": ["kvt-grundannahme"],
@@ -223,6 +239,7 @@
       "title": "KVT-Technik: Fragen statt belehren",
       "exercise": {
         "id": "ex-free-techniken",
+        "stable_id": "ex-ms942qp30l3vj",
         "type": "free_text",
         "prompt": "Wie heißt die Gesprächsmethode der KVT, bei der der Therapeut durch gezieltes Fragen — statt durch Belehrung — neue Einsichten anregt?",
         "card_ids": ["sokratischer-dialog"],
@@ -245,6 +262,7 @@
       "title": "Merksatz: Was KVT verbindet",
       "exercise": {
         "id": "ex-tiles-kvt-integration",
+        "stable_id": "ex-ms942qp30l4vi",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zur KVT zusammen.",
         "card_ids": ["kvt-integration"],
@@ -260,6 +278,7 @@
       "title": "Verhaltensexperiment erkennen",
       "exercise": {
         "id": "ex-cloze-verhaltensex",
+        "stable_id": "ex-ms942qp30l5ii",
         "type": "cloze",
         "prompt": "Ergänze den Begriff für das Testen einer Überzeugung im realen Leben.",
         "card_ids": ["verhaltensexperiment"],

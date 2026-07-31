@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "ao-psychologie",
+      "stable_id": "card-ms942qp80pf3x",
       "front": "Arbeits- und Organisationspsychologie (A&O-Psychologie / Industrial-Organizational Psychology)",
       "back": "Anwendungsfach der Psychologie, das menschliches Erleben und Verhalten in der Arbeitswelt untersucht — unterteilt in Arbeitspsychologie, Organisationspsychologie und Personalpsychologie.",
       "notes": "Ein Anwendungsfach wie die klinische (Lektion 9) oder die pädagogische Psychologie (Lektion 26).",
@@ -18,6 +19,7 @@
     },
     {
       "id": "arbeitsmotivation",
+      "stable_id": "card-ms942qp80pg7m",
       "front": "Arbeitsmotivation (Work Motivation)",
       "back": "Die Bereitschaft und der Antrieb, bei der Arbeit Anstrengung und Ausdauer aufzubringen — beeinflusst durch innere Bedürfnisse (intrinsisch) und äußere Anreize (extrinsisch).",
       "notes": "Grundprinzipien der Motivation kennst du aus Lektion 5. Die A&O-Psychologie wendet sie auf den Arbeitskontext an.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "arbeitszufriedenheit",
+      "stable_id": "card-ms942qp80phg6",
       "front": "Arbeitszufriedenheit (Job Satisfaction)",
       "back": "Die positive emotionale Einstellung gegenüber der eigenen Arbeit — das Ausmaß, in dem die Arbeit als befriedigend und sinnvoll erlebt wird.",
       "media_type": "text",
@@ -35,6 +38,7 @@
     },
     {
       "id": "zwei-faktoren-theorie",
+      "stable_id": "card-ms942qp80pifa",
       "front": "Herzbergs Zwei-Faktoren-Theorie (Two-Factor Theory)",
       "back": "Theorie von Frederick Herzberg: Motivatoren (z. B. Anerkennung, Verantwortung) steigern die Zufriedenheit; Hygienefaktoren (z. B. Gehalt, Arbeitsbedingungen) verhindern Unzufriedenheit, erzeugen aber keine Zufriedenheit.",
       "notes": "Entscheidend: Zufriedenheit und Unzufriedenheit sind keine Gegenpole, sondern zwei unabhängige Dimensionen.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "fuehrungsstile",
+      "stable_id": "card-ms942qp80pjib",
       "front": "Führungsstile (Leadership Styles)",
       "back": "Typische Muster des Führungsverhaltens: autoritär (Entscheidungen allein), kooperativ/demokratisch (Mitarbeiter einbeziehen), laissez-faire (Gruppe entscheidet selbst); ergänzt durch transformationale Führung (Inspiration und Wertevermittlung).",
       "media_type": "text",
@@ -53,6 +58,7 @@
     },
     {
       "id": "transformationale-fuehrung",
+      "stable_id": "card-ms942qp80pkki",
       "front": "Transformationale Führung (Transformational Leadership)",
       "back": "Führungsstil, bei dem die Führungskraft durch Visionen, Inspiration und Vorbildfunktion die intrinsische Motivation und das Engagement der Mitarbeitenden steigert.",
       "notes": "Gilt als besonders wirksam für Innovation und Mitarbeiterbindung.",
@@ -62,6 +68,7 @@
     },
     {
       "id": "soziales-faulenzen",
+      "stable_id": "card-ms942qp80plzt",
       "front": "Soziales Faulenzen (Social Loafing)",
       "back": "Die Tendenz, in einer Gruppe weniger Leistung zu erbringen als allein — weil die individuelle Leistung schwerer zu bewerten ist.",
       "notes": "Aus der Sozialpsychologie (Lektion 7). Gegenmaßnahmen: klare Aufgabenverteilung und individuelle Verantwortlichkeit.",
@@ -72,6 +79,7 @@
     },
     {
       "id": "assessment-center",
+      "stable_id": "card-ms942qp80pmp2",
       "front": "Assessment-Center (AC)",
       "back": "Mehrstufiges Personalauswahlverfahren, bei dem mehrere Beobachter Kandidaten in verschiedenen Aufgaben und Simulationen bewerten, um die Eignung für eine Stelle festzustellen.",
       "notes": "Gilt als eines der validesten Verfahren der Eignungsdiagnostik.",
@@ -81,6 +89,7 @@
     },
     {
       "id": "anforderungsprofil",
+      "stable_id": "card-ms942qp80pnfg",
       "front": "Anforderungsprofil (Job Requirements Profile)",
       "back": "Systematische Beschreibung der fachlichen und überfachlichen Kompetenzen, Kenntnisse und Eigenschaften, die eine Stelle erfordert — Grundlage für die Personalauswahl.",
       "media_type": "text",
@@ -89,6 +98,7 @@
     },
     {
       "id": "burnout",
+      "stable_id": "card-ms942qp80potu",
       "front": "Burnout",
       "back": "Zustand emotionaler Erschöpfung, Depersonalisierung (Distanzierung von der Arbeit und Klienten) und verminderter Leistungsfähigkeit, der durch anhaltende Arbeitsüberlastung entsteht.",
       "notes": "Bezug zu chronischem Stress (Lektion 12): Burnout gilt als Folge langandauernder Stressreaktion ohne ausreichende Erholung.",
@@ -98,6 +108,7 @@
     },
     {
       "id": "arbeitsbelastung",
+      "stable_id": "card-ms942qp80ppb9",
       "front": "Arbeitsbelastung (Workload / Occupational Stress)",
       "back": "Die Gesamtheit der physischen und psychischen Anforderungen, die eine Arbeitstätigkeit an eine Person stellt — kann bei dauerhafter Überlastung zu Burnout führen.",
       "notes": "Stressmodelle aus Lektion 12 (z. B. das Anforderungs-Kontroll-Modell) erklären, wann Belastung zur Gefahr wird.",
@@ -107,6 +118,7 @@
     },
     {
       "id": "eignungsdiagnostik",
+      "stable_id": "card-ms942qp80pqd2",
       "front": "Eignungsdiagnostik (Personnel Diagnostics / Aptitude Assessment)",
       "back": "Systematische Erfassung und Bewertung von Fähigkeiten, Kenntnissen und Persönlichkeitsmerkmalen einer Person im Hinblick auf die Anforderungen einer Stelle.",
       "media_type": "text",
@@ -140,6 +152,7 @@
       "title": "Teilgebiete der A&O-Psychologie",
       "exercise": {
         "id": "ex-match-teilgebiete",
+        "stable_id": "ex-ms942qp80prq7",
         "type": "matching",
         "prompt": "Ordne jedem Teilgebiet seine Kernfrage zu.",
         "card_ids": ["ao-psychologie"],
@@ -158,6 +171,7 @@
       "title": "Herzbergs Zwei-Faktoren-Theorie",
       "exercise": {
         "id": "ex-match-herzberg",
+        "stable_id": "ex-ms942qp80pso8",
         "type": "matching",
         "prompt": "Ordne jedes Beispiel dem richtigen Faktortyp nach Herzberg zu.",
         "card_ids": ["zwei-faktoren-theorie"],
@@ -177,6 +191,7 @@
       "title": "Burnout erkennen",
       "exercise": {
         "id": "ex-cloze-burnout",
+        "stable_id": "ex-ms942qp80ptq1",
         "type": "cloze",
         "prompt": "Ergänze das fehlende Merkmal von Burnout.",
         "card_ids": ["burnout", "arbeitsbelastung"],
@@ -195,6 +210,7 @@
       "title": "Gruppenphänomen benennen",
       "exercise": {
         "id": "ex-free-soziales-faulenzen",
+        "stable_id": "ex-ms942qp80purd",
         "type": "free_text",
         "prompt": "Wie heißt die Tendenz, in einer Gruppe weniger Leistung zu erbringen als allein?",
         "card_ids": ["soziales-faulenzen"],
@@ -211,6 +227,7 @@
       "title": "Personalauswahl — das Verfahren",
       "exercise": {
         "id": "ex-cloze-assessment-center",
+        "stable_id": "ex-ms942qp80pv94",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff für das mehrstufige Personalauswahlverfahren.",
         "card_ids": ["assessment-center", "eignungsdiagnostik"],
@@ -229,6 +246,7 @@
       "title": "Transformationale Führung beschreiben",
       "exercise": {
         "id": "ex-tiles-transformational",
+        "stable_id": "ex-ms942qp80pwon",
         "type": "word_tiles",
         "prompt": "Setze die Definition der transformationalen Führung zusammen.",
         "card_ids": ["transformationale-fuehrung"],
@@ -244,6 +262,7 @@
       "title": "Führungsstile",
       "exercise": {
         "id": "ex-free-fuehrungsstile",
+        "stable_id": "ex-ms942qp80px4q",
         "type": "free_text",
         "prompt": "Wie heißt der Führungsstil, bei dem die Gruppe alle Entscheidungen selbst trifft?",
         "card_ids": ["fuehrungsstile"],

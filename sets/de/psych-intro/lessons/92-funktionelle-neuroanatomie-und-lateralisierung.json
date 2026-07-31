@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "frontallappen",
+      "stable_id": "card-ms942qqb1o3f7",
       "front": "Frontallappen (Lobus frontalis)",
       "back": "Vorderster und größter Hirnlappen. Sitz der Exekutivfunktionen: Planung, Handlungssteuerung, Impulskontrolle, Arbeitsgedächtnis und soziales Verhalten. Enthält außerdem den primär-motorischen Cortex, der willkürliche Bewegungen steuert.",
       "notes": "Lateinisch: lobus frontalis. Englisch: frontal lobe. Vergleiche Phineas Gage (Lektion 91).",
@@ -18,6 +19,7 @@
     },
     {
       "id": "parietallappen",
+      "stable_id": "card-ms942qqb1o48v",
       "front": "Parietallappen (Lobus parietalis)",
       "back": "Scheitellappen hinter dem Frontallappen. Verarbeitet Körperempfindungen (Berührung, Temperatur, Schmerz, Lage) und räumliche Information. Hier liegt der somatosensorische Cortex; das Areal ist zentral für die Orientierung im Raum.",
       "notes": "Lateinisch: lobus parietalis. Englisch: parietal lobe. Schädigung rechts: oft Neglect (Vernachlässigung einer Raumhälfte).",
@@ -27,6 +29,7 @@
     },
     {
       "id": "temporallappen",
+      "stable_id": "card-ms942qqb1o5ko",
       "front": "Temporallappen (Lobus temporalis)",
       "back": "Schläfenlappen an der Seite des Gehirns. Wichtig für Hören (primär-auditorischer Cortex), Sprachverständnis (Wernicke-Areal, meist links) und Gedächtnis (der Hippocampus liegt im inneren Temporallappen).",
       "notes": "Lateinisch: lobus temporalis. Englisch: temporal lobe.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "okzipitallappen",
+      "stable_id": "card-ms942qqb1o6sl",
       "front": "Okzipitallappen (Lobus occipitalis)",
       "back": "Hinterster Hirnlappen. Zentrum der visuellen Verarbeitung: Hier liegt der primär-visuelle Cortex, der eingehende Sehinformation zuerst verarbeitet. Schädigungen können zu Sehausfällen oder Wahrnehmungsstörungen führen.",
       "notes": "Lateinisch: lobus occipitalis. Englisch: occipital lobe.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "primaere-areale",
+      "stable_id": "card-ms942qqb1o7mi",
       "front": "Primäre Areale",
       "back": "Hirnrindenbereiche, die sensorische Information zuerst empfangen oder Bewegungsbefehle direkt ausgeben (z. B. primär-visueller, primär-auditorischer, primär-motorischer Cortex). Sie verarbeiten einfache, elementare Reizmerkmale bzw. steuern konkrete Muskeln.",
       "notes": "Englisch: primary areas. Erste Verarbeitungsstufe.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "assoziationsareale",
+      "stable_id": "card-ms942qqb1o8sd",
       "front": "Assoziationsareale (Assoziationscortex)",
       "back": "Ausgedehnte Rindenbereiche, die Information aus verschiedenen Quellen verknüpfen und integrieren. Hier entstehen höhere Leistungen wie Bedeutung, Planung, Sprache und das Zusammenfügen von Sinneseindrücken. Sie machen den größten Teil der menschlichen Großhirnrinde aus.",
       "notes": "Englisch: association cortex. Zwischen den primären/sekundären Arealen liegen die Assoziationsareale.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "motorischer-cortex",
+      "stable_id": "card-ms942qqb1o9q7",
       "front": "Primär-motorischer Cortex",
       "back": "Streifen im hinteren Frontallappen (Gyrus praecentralis), der willkürliche Bewegungen steuert. Die Körperregionen sind systematisch abgebildet (somatotop) — diese Karte heißt motorischer Homunkulus. Stark gesteuerte Bereiche wie Hand und Gesicht nehmen besonders viel Fläche ein.",
       "notes": "Englisch: primary motor cortex. Praecentral = vor der Zentralfurche.",
@@ -72,6 +79,7 @@
     },
     {
       "id": "somatosensorischer-cortex",
+      "stable_id": "card-ms942qqb1oa50",
       "front": "Somatosensorischer Cortex",
       "back": "Streifen im vorderen Parietallappen (Gyrus postcentralis), der Körperempfindungen verarbeitet. Auch er ist somatotop gegliedert (sensorischer Homunkulus): empfindliche Bereiche wie Lippen und Fingerspitzen beanspruchen überproportional viel Rindenfläche.",
       "notes": "Englisch: somatosensory cortex. Postcentral = hinter der Zentralfurche.",
@@ -81,6 +89,7 @@
     },
     {
       "id": "homunkulus",
+      "stable_id": "card-ms942qqb1obsi",
       "front": "Homunkulus",
       "back": "Verzerrte Karte des Körpers auf dem motorischen bzw. somatosensorischen Cortex. Die Fläche eines Körperteils richtet sich nicht nach seiner Größe, sondern nach der Feinheit seiner Steuerung bzw. seiner Empfindlichkeit. Daher sind Hände, Lippen und Zunge stark überrepräsentiert.",
       "notes": "Lateinisch: homunculus (Menschlein). Es gibt einen motorischen und einen sensorischen Homunkulus.",
@@ -90,6 +99,7 @@
     },
     {
       "id": "corpus-callosum",
+      "stable_id": "card-ms942qqb1ocz6",
       "front": "Corpus callosum (Balken)",
       "back": "Großes Bündel von Nervenfasern, das die beiden Großhirnhemisphären verbindet und Information zwischen ihnen austauscht. Wird der Balken durchtrennt, können die Hemisphären nicht mehr direkt kommunizieren (Split-Brain).",
       "notes": "Lateinisch: corpus callosum. Deutsch: Balken. Englisch: corpus callosum.",
@@ -99,6 +109,7 @@
     },
     {
       "id": "lateralisierung",
+      "stable_id": "card-ms942qqb1odcc",
       "front": "Lateralisierung (Hemisphärendominanz)",
       "back": "Tendenz, dass bestimmte Funktionen in einer Hemisphäre stärker ausgeprägt sind: Sprache meist in der linken, visuell-räumliche Verarbeitung eher in der rechten Hemisphäre. Lateralisierung ist graduell, nicht absolut — beide Hemisphären arbeiten ständig zusammen.",
       "notes": "Englisch: lateralization. Bei den meisten Menschen ist Sprache links lateralisiert.",
@@ -108,6 +119,7 @@
     },
     {
       "id": "split-brain",
+      "stable_id": "card-ms942qqb1oesc",
       "front": "Split-Brain-Forschung (Sperry, Gazzaniga)",
       "back": "Untersuchungen an Patienten, deren Balken (gegen schwere Epilepsie) durchtrennt wurde. Reize, die nur einer Hemisphäre gezeigt wurden, konnten nur von dieser verarbeitet werden — etwa konnte ein nur rechts gezeigter Gegenstand oft nicht benannt (Sprache links), aber mit der linken Hand gegriffen werden. Roger Sperry erhielt dafür 1981 den Nobelpreis.",
       "notes": "Englisch: split-brain research. Wichtige Belege für Lateralisierung, KEIN Beleg für getrennte Persönlichkeitstypen.",
@@ -142,6 +154,7 @@
       "title": "Lappen zuordnen",
       "exercise": {
         "id": "ex-match-lappen",
+        "stable_id": "ex-ms942qqb1ofgi",
         "type": "matching",
         "prompt": "Ordne jedem Hirnlappen seine Hauptfunktion zu.",
         "card_ids": ["frontallappen", "parietallappen", "temporallappen", "okzipitallappen"],
@@ -161,6 +174,7 @@
       "title": "Wo wir sehen",
       "exercise": {
         "id": "ex-cloze-okzipital",
+        "stable_id": "ex-ms942qqb1ogqk",
         "type": "cloze",
         "prompt": "Ergänze den Hirnlappen, der für das Sehen zuständig ist.",
         "card_ids": ["okzipitallappen"],
@@ -177,6 +191,7 @@
       "title": "Die verzerrte Körperkarte",
       "exercise": {
         "id": "ex-free-homunkulus",
+        "stable_id": "ex-ms942qqb1ohht",
         "type": "free_text",
         "prompt": "Wie heißt die verzerrte Karte des Körpers auf dem motorischen bzw. somatosensorischen Cortex, bei der Hände und Lippen überrepräsentiert sind?",
         "card_ids": ["homunkulus", "motorischer-cortex"],
@@ -193,6 +208,7 @@
       "title": "Die Brücke zwischen den Hälften",
       "exercise": {
         "id": "ex-cloze-balken",
+        "stable_id": "ex-ms942qqb1oiuh",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff für das Faserbündel, das die beiden Hemisphären verbindet.",
         "card_ids": ["corpus-callosum"],
@@ -209,6 +225,7 @@
       "title": "Cortex und Areale",
       "exercise": {
         "id": "ex-match-cortexstreifen",
+        "stable_id": "ex-ms942qqb1ojk6",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die korrekte Kennzeichnung zu.",
         "card_ids": ["motorischer-cortex", "somatosensorischer-cortex", "primaere-areale", "assoziationsareale"],
@@ -228,6 +245,7 @@
       "title": "Funktionen und Seiten",
       "exercise": {
         "id": "ex-free-lateralisierung",
+        "stable_id": "ex-ms942qqb1okty",
         "type": "free_text",
         "prompt": "Wie heißt das Phänomen, dass bestimmte Funktionen (z. B. Sprache meist links) in einer Hemisphäre stärker ausgeprägt sind?",
         "card_ids": ["lateralisierung"],
@@ -244,6 +262,7 @@
       "title": "Den Mythos richtigstellen",
       "exercise": {
         "id": "ex-tiles-mythos",
+        "stable_id": "ex-ms942qqb1oldk",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zusammen, der das Klischee vom linkshirnigen/rechtshirnigen Menschen korrigiert.",
         "card_ids": ["lateralisierung", "split-brain"],
@@ -259,6 +278,7 @@
       "title": "Split-Brain einordnen",
       "exercise": {
         "id": "ex-cloze-splitbrain",
+        "stable_id": "ex-ms942qqb1om70",
         "type": "cloze",
         "prompt": "Ergänze den Forscher, der für die Split-Brain-Untersuchungen 1981 den Nobelpreis erhielt.",
         "card_ids": ["split-brain"],

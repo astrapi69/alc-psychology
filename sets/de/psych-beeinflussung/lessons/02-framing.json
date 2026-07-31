@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "card-framing",
+      "stable_id": "card-ms942qob00esv",
       "front": "Framing-Effekt",
       "back": "Dieselbe Information wird je nach Formulierung unterschiedlich bewertet und kann zu anderen Entscheidungen führen",
       "notes": "Der sachliche Inhalt bleibt gleich, nur die Verpackung ändert sich.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "card-gewinn-verlust",
+      "stable_id": "card-ms942qob00fp3",
       "front": "Gewinn- vs. Verlust-Framing",
       "back": "Im Gewinn-Frame (etwa *90 % überleben*) wählen Menschen eher risikoscheu, im Verlust-Frame (*10 % sterben*) eher risikofreudig",
       "notes": "Beruht auf der Verlustaversion: Verluste wiegen subjektiv schwerer als gleich große Gewinne.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "card-asian-disease",
+      "stable_id": "card-ms942qob00g2s",
       "front": "Tversky & Kahneman (1981)",
       "back": "Klassisches Framing-Experiment (*Asian disease problem*): identische Überlebenszahlen führten je nach Gewinn- oder Verlust-Formulierung zu gegensätzlichen Entscheidungen",
       "notes": "Reale, vielfach replizierte Studie. Sie zeigt den Effekt, behauptet aber keine beliebige Steuerbarkeit.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "card-attribut-framing",
+      "stable_id": "card-ms942qob00hjv",
       "front": "Attribut-Framing",
       "back": "Ein Merkmal wird positiv oder negativ beschrieben (*95 % fettfrei* statt *5 % Fett*) und dadurch unterschiedlich bewertet",
       "notes": "Gleiche Tatsache, andere Hervorhebung.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "card-framing-grenze",
+      "stable_id": "card-ms942qob00izh",
       "front": "Wie weit reicht Framing?",
       "back": "Framing ist ein realer Einfluss, aber keine Determinante: Vorwissen, Motivation und klare Zahlen können den Effekt abschwächen oder aufheben",
       "notes": "Framing lenkt Tendenzen, es steuert nicht jede Entscheidung beliebig.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "card-framing-priming",
+      "stable_id": "card-ms942qob00j3t",
       "front": "Framing vs. Priming",
       "back": "Framing ist die Art der Formulierung einer Information; Priming sind vorgeschaltete Reize, die unabhängig vom Inhalt Denkmuster bahnen",
       "notes": "Beide bahnen Urteile, setzen aber an unterschiedlichen Stellen an.",
@@ -76,6 +82,7 @@
       "title": "Definition: Framing",
       "exercise": {
         "id": "ex-free-framing",
+        "stable_id": "ex-ms942qob00k96",
         "type": "free_text",
         "prompt": "Was beschreibt der Framing-Effekt?",
         "card_ids": ["card-framing"],
@@ -100,6 +107,7 @@
       "title": "Gewinn oder Verlust?",
       "exercise": {
         "id": "ex-cloze-verlust",
+        "stable_id": "ex-ms942qob00lcw",
         "type": "cloze",
         "prompt": "Ergänze die Aussage zum Gewinn- und Verlust-Framing.",
         "card_ids": ["card-gewinn-verlust"],
@@ -119,6 +127,7 @@
       "title": "Wer hat das klassische Framing-Experiment durchgeführt?",
       "exercise": {
         "id": "ex-select-studie",
+        "stable_id": "ex-ms942qoc00m75",
         "type": "cloze",
         "prompt": "Wähle die korrekte Zuordnung der klassischen Framing-Studie.",
         "card_ids": ["card-asian-disease"],
@@ -138,6 +147,7 @@
       "title": "Frame und Wirkung zuordnen",
       "exercise": {
         "id": "ex-match-framing",
+        "stable_id": "ex-ms942qoc00n4z",
         "type": "matching",
         "prompt": "Ordne jeder Formulierung die passende Einordnung zu.",
         "card_ids": ["card-attribut-framing", "card-gewinn-verlust", "card-framing-grenze"],
@@ -156,6 +166,7 @@
       "title": "Setze den Merksatz zusammen",
       "exercise": {
         "id": "ex-tiles-framing",
+        "stable_id": "ex-ms942qoc00oq7",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zum Framing-Effekt zusammen.",
         "card_ids": ["card-framing-grenze"],
@@ -170,6 +181,7 @@
       "title": "Framing oder Priming?",
       "exercise": {
         "id": "ex-free-abgrenzung",
+        "stable_id": "ex-ms942qoc00pm3",
         "type": "free_text",
         "prompt": "Worin unterscheiden sich Framing und Priming?",
         "card_ids": ["card-framing-priming"],

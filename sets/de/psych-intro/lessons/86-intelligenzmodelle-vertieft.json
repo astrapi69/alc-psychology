@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "intelligenz-konstrukt",
+      "stable_id": "card-ms942qq81kwfw",
       "front": "Intelligenz als Konstrukt",
       "back": "Intelligenz ist ein theoretisches Konstrukt — die Fähigkeit, zu lernen, Probleme zu lösen und sich anzupassen. Sie ist kein direkt messbares 'Ding', sondern wird über Verhalten erschlossen.",
       "notes": "Vertieft aus Lektion 11. 'Konstrukt' im Sinn von Lektion 21.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "g-faktor",
+      "stable_id": "card-ms942qq81kxzw",
       "front": "Allgemeine Intelligenz (g-Faktor)",
       "back": "Von Spearman postuliert: ein allgemeiner Faktor, der den Leistungen in ganz verschiedenen geistigen Aufgaben gemeinsam zugrunde liegt.",
       "notes": "Spearman bemerkte, dass Menschen, die in einem Test gut sind, oft auch in anderen gut abschneiden (positive Korrelationen).",
@@ -27,6 +29,7 @@
     },
     {
       "id": "faktorenanalyse-recap",
+      "stable_id": "card-ms942qq81ky6n",
       "front": "Faktorenanalyse",
       "back": "Ein statistisches Verfahren, das viele Variablen auf wenige zugrunde liegende Faktoren reduziert. Damit wurde der g-Faktor entdeckt.",
       "notes": "Aus Lektion 44. Grundlage fast aller Intelligenzmodelle.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "fluide-intelligenz",
+      "stable_id": "card-ms942qq81kzqb",
       "front": "Fluide Intelligenz (Gf)",
       "back": "Die Fähigkeit, neuartige Probleme logisch zu lösen — unabhängig von erlerntem Wissen. Nimmt im höheren Alter eher ab.",
       "notes": "Von Cattell (vgl. Lektion 11 und das Erwachsenenalter in Lektion 73).",
@@ -45,6 +49,7 @@
     },
     {
       "id": "kristalline-intelligenz",
+      "stable_id": "card-ms942qq81l073",
       "front": "Kristalline Intelligenz (Gc)",
       "back": "Das angesammelte Wissen und die erworbenen Fertigkeiten (z. B. Wortschatz). Bleibt im Alter meist stabil oder wächst.",
       "notes": "Von Cattell. Gegenstück zur fluiden Intelligenz.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "chc-modell",
+      "stable_id": "card-ms942qq81l1zk",
       "front": "CHC-Modell (Cattell-Horn-Carroll)",
       "back": "Das heute einflussreichste Intelligenzmodell: hierarchisch mit dem g-Faktor an der Spitze, darunter mehrere breite Fähigkeiten (z. B. fluide, kristalline, Verarbeitungsgeschwindigkeit, Gedächtnis).",
       "media_type": "text",
@@ -63,6 +69,7 @@
     },
     {
       "id": "multiple-intelligenzen",
+      "stable_id": "card-ms942qq81l236",
       "front": "Multiple Intelligenzen (Gardner)",
       "back": "Howard Gardners These, dass es mehrere unabhängige Intelligenzen gibt (z. B. sprachlich, logisch-mathematisch, musikalisch, räumlich, körperlich, interpersonal).",
       "notes": "Populär in der Pädagogik, aber empirisch umstritten — die 'Intelligenzen' korrelieren doch miteinander.",
@@ -72,6 +79,7 @@
     },
     {
       "id": "sternberg-triarchisch",
+      "stable_id": "card-ms942qq81l3xo",
       "front": "Triarchische Theorie (Sternberg)",
       "back": "Robert Sternberg unterscheidet drei Aspekte erfolgreicher Intelligenz: analytisch (Probleme lösen), kreativ (Neues schaffen) und praktisch (Alltagsklugheit).",
       "media_type": "text",
@@ -80,6 +88,7 @@
     },
     {
       "id": "praktische-intelligenz",
+      "stable_id": "card-ms942qq81l45s",
       "front": "Praktische Intelligenz",
       "back": "Bei Sternberg die Fähigkeit, sich im Alltag zurechtzufinden und 'Straßenklugheit' (tacit knowledge) zu nutzen — nicht durch klassische Tests erfasst.",
       "media_type": "text",
@@ -88,6 +97,7 @@
     },
     {
       "id": "emotionale-intelligenz-recap",
+      "stable_id": "card-ms942qq81l586",
       "front": "Emotionale Intelligenz (EI)",
       "back": "Die Fähigkeit, eigene und fremde Gefühle wahrzunehmen, zu verstehen und zu steuern.",
       "notes": "Durch Goleman populär; ergänzt, ersetzt aber nicht die klassische Intelligenz (vgl. Lektion 11/57).",
@@ -97,6 +107,7 @@
     },
     {
       "id": "positive-mannigfaltigkeit",
+      "stable_id": "card-ms942qq81l6hu",
       "front": "Positive Mannigfaltigkeit",
       "back": "Der Befund, dass nahezu alle kognitiven Tests positiv miteinander korrelieren — das zentrale Argument für die Existenz eines g-Faktors.",
       "media_type": "text",
@@ -105,6 +116,7 @@
     },
     {
       "id": "intelligenz-mehr-als-g",
+      "stable_id": "card-ms942qq81l7fm",
       "front": "Intelligenz ist mehr als ein Wert",
       "back": "Auch wenn g vieles vorhersagt, fassen moderne Modelle Intelligenz als vielschichtig auf — ein einzelner Zahlenwert bildet sie nie vollständig ab.",
       "media_type": "text",
@@ -138,6 +150,7 @@
       "title": "Spearmans Faktor",
       "exercise": {
         "id": "ex-cloze-g",
+        "stable_id": "ex-ms942qq81l80b",
         "type": "cloze",
         "prompt": "Ergänze den Buchstaben für Spearmans allgemeinen Intelligenzfaktor.",
         "card_ids": ["g-faktor"],
@@ -156,6 +169,7 @@
       "title": "Modelle und Personen",
       "exercise": {
         "id": "ex-match-modelle",
+        "stable_id": "ex-ms942qq81l9u8",
         "type": "matching",
         "prompt": "Ordne jedem Modell die passende Idee oder Person zu.",
         "card_ids": ["g-faktor", "chc-modell", "multiple-intelligenzen", "sternberg-triarchisch"],
@@ -175,6 +189,7 @@
       "title": "Fluid oder kristallin?",
       "exercise": {
         "id": "ex-match-fluid-kristallin",
+        "stable_id": "ex-ms942qq81laj1",
         "type": "matching",
         "prompt": "Ordne jeder Intelligenzart ihr Merkmal zu.",
         "card_ids": ["fluide-intelligenz", "kristalline-intelligenz", "faktorenanalyse-recap"],
@@ -193,6 +208,7 @@
       "title": "Das führende Modell",
       "exercise": {
         "id": "ex-free-chc",
+        "stable_id": "ex-ms942qq81lb39",
         "type": "free_text",
         "prompt": "Wie heißt das heute einflussreichste, hierarchische Intelligenzmodell (Abkürzung aus drei Namen)?",
         "card_ids": ["chc-modell"],
@@ -209,6 +225,7 @@
       "title": "Sternbergs Alltagsklugheit",
       "exercise": {
         "id": "ex-free-praktisch",
+        "stable_id": "ex-ms942qq81lc4g",
         "type": "free_text",
         "prompt": "Wie nennt Sternberg die 'Alltagsklugheit', die klassische Tests oft übersehen?",
         "card_ids": ["praktische-intelligenz", "sternberg-triarchisch"],
@@ -225,6 +242,7 @@
       "title": "Populär, aber umstritten",
       "exercise": {
         "id": "ex-cloze-gardner",
+        "stable_id": "ex-ms942qq81ldlc",
         "type": "cloze",
         "prompt": "Ergänze, wie Gardners Theorie der multiplen Intelligenzen empirisch bewertet wird.",
         "card_ids": ["multiple-intelligenzen"],
@@ -243,6 +261,7 @@
       "title": "Eine wichtige Einsicht",
       "exercise": {
         "id": "ex-tiles-konstrukt",
+        "stable_id": "ex-ms942qq81lewt",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zur Natur der Intelligenz zusammen.",
         "card_ids": ["intelligenz-mehr-als-g", "intelligenz-konstrukt"],

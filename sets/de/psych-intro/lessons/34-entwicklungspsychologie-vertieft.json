@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "bindungstheorie",
+      "stable_id": "card-ms942qpc0t6my",
       "front": "Bindungstheorie (Attachment Theory)",
       "back": "Theorie von John Bowlby: Kinder haben ein angeborenes Bedürfnis nach einer engen emotionalen Bindung an eine Bezugsperson. Diese Bindung ist Grundlage für spätere soziale und emotionale Entwicklung.",
       "notes": "Aufbauend auf Lektion 6 (Entwicklungspsychologie). Bowlby betonte evolutionäre Wurzeln der Bindung.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "fremde-situation",
+      "stable_id": "card-ms942qpc0t7e4",
       "front": "Fremde Situation (Strange Situation)",
       "back": "Experimentelle Methode von Mary Ainsworth: Ein Kind wird kurz von der Bezugsperson getrennt und danach wiedervereint. Das Verhalten des Kindes erlaubt Rückschlüsse auf den Bindungstyp.",
       "notes": "Ainsworth entwickelte diese Methode in den 1970er Jahren, um Bindungstypen systematisch zu erfassen.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "bindungstypen",
+      "stable_id": "card-ms942qpc0t8o1",
       "front": "Bindungstypen (Attachment Styles)",
       "back": "Drei klassische Bindungstypen nach Ainsworth: sicher (secure), unsicher-vermeidend (avoidant) und unsicher-ambivalent (anxious-ambivalent). Später ergänzt durch desorganisiert (disorganized).",
       "media_type": "text",
@@ -36,6 +39,7 @@
     },
     {
       "id": "sichere-bindung",
+      "stable_id": "card-ms942qpc0t9rh",
       "front": "Sichere Bindung (Secure Attachment)",
       "back": "Das Kind nutzt die Bezugsperson als sicheren Hafen: Es erkundet die Umgebung neugierig, zeigt Kummer bei Trennung und freut sich bei Wiedersehen. Bezugsperson reagiert feinfühlig und verlässlich.",
       "media_type": "text",
@@ -44,6 +48,7 @@
     },
     {
       "id": "unsichere-bindung",
+      "stable_id": "card-ms942qpc0tamz",
       "front": "Unsicher-vermeidende und unsicher-ambivalente Bindung",
       "back": "Unsicher-vermeidend: Kind zeigt kaum Kummer, meidet Bezugsperson bei Wiedersehen. Unsicher-ambivalent: Kind ist sehr ängstlich, beruhigt sich beim Wiedersehen kaum. Beide entstehen durch inkonsistente oder abweisende Fürsorge.",
       "media_type": "text",
@@ -52,6 +57,7 @@
     },
     {
       "id": "piagets-stufen",
+      "stable_id": "card-ms942qpc0tbzd",
       "front": "Piagets vier kognitive Stufen (Piaget's Stages of Cognitive Development)",
       "back": "Sensomotorisch (0–2 J.), präoperational (2–7 J.), konkret-operational (7–11 J.), formal-operational (ab 12 J.). Jede Stufe baut auf der vorherigen auf und bringt neue Denkfähigkeiten.",
       "notes": "In Lektion 6 eingeführt; hier werden die Merkmale jeder Stufe vertieft.",
@@ -61,6 +67,7 @@
     },
     {
       "id": "objektpermanenz",
+      "stable_id": "card-ms942qpc0tc3t",
       "front": "Objektpermanenz (Object Permanence)",
       "back": "Das Wissen, dass Gegenstände und Personen weiterexistieren, auch wenn man sie nicht sieht. Entwickelt sich am Ende der sensomotorischen Stufe (ab ca. 8 Monaten).",
       "media_type": "text",
@@ -69,6 +76,7 @@
     },
     {
       "id": "egozentrismus-piaget",
+      "stable_id": "card-ms942qpc0tdne",
       "front": "Egozentrismus (Egocentrism) nach Piaget",
       "back": "Unfähigkeit in der präoperationalen Stufe, die Welt aus der Perspektive anderer zu sehen. Das Kind glaubt, alle sehen und erleben, was es selbst wahrnimmt. Klassisch: Drei-Berge-Aufgabe.",
       "media_type": "text",
@@ -78,6 +86,7 @@
     },
     {
       "id": "erikson-psychosozial",
+      "stable_id": "card-ms942qpc0teqw",
       "front": "Eriksons psychosoziale Entwicklungsstufen (Psychosocial Development)",
       "back": "Erik Erikson beschreibt acht Lebensphasen, in denen je eine psychosoziale Krise zu bewältigen ist. Die erfolgreiche Lösung stärkt die Persönlichkeit; das Scheitern hinterlässt Konflikte.",
       "notes": "Erikson erweiterte Freuds Phasenmodell auf die gesamte Lebensspanne und betonte soziale Einflüsse.",
@@ -87,6 +96,7 @@
     },
     {
       "id": "urvertrauen-urmisstrauen",
+      "stable_id": "card-ms942qpc0tfwc",
       "front": "Urvertrauen vs. Urmisstrauen (Basic Trust vs. Mistrust)",
       "back": "Erste Krise nach Erikson (0–1 Jahr): Werden die Grundbedürfnisse zuverlässig erfüllt, entwickelt das Kind Urvertrauen in die Welt; andernfalls entsteht Urmisstrauen.",
       "media_type": "text",
@@ -95,6 +105,7 @@
     },
     {
       "id": "identitaet-rollenkonfusion",
+      "stable_id": "card-ms942qpc0tgfn",
       "front": "Identität vs. Rollenkonfusion (Identity vs. Role Confusion)",
       "back": "Fünfte Krise nach Erikson (Jugendalter, ca. 12–18 Jahre): Jugendliche suchen eine kohärente Identität. Gelingt es nicht, entsteht Rollenkonfusion — Unsicherheit darüber, wer man ist.",
       "media_type": "text",
@@ -103,6 +114,7 @@
     },
     {
       "id": "kohlberg-moralstufen",
+      "stable_id": "card-ms942qpc0thdw",
       "front": "Kohlbergs Stufen der moralischen Entwicklung (Kohlberg's Stages of Moral Development)",
       "back": "Lawrence Kohlberg beschreibt drei Ebenen mit je zwei Stufen: präkonventionell (egozentrisch), konventionell (Normen und Gesetze), postkonventionell (Prinzipien und universelle Gerechtigkeit).",
       "media_type": "text",
@@ -136,6 +148,7 @@
       "title": "Bindungstypen zuordnen",
       "exercise": {
         "id": "ex-matching-bindungstypen",
+        "stable_id": "ex-ms942qpc0titv",
         "type": "matching",
         "prompt": "Ordne jedem Bindungstyp das typische Verhalten beim Wiedersehen zu.",
         "card_ids": ["bindungstypen", "sichere-bindung", "unsichere-bindung"],
@@ -154,6 +167,7 @@
       "title": "Die Fremde Situation",
       "exercise": {
         "id": "ex-cloze-fremde-situation",
+        "stable_id": "ex-ms942qpc0tjy9",
         "type": "cloze",
         "prompt": "Ergänze den Namen der Methode, mit der Ainsworth Bindungstypen untersuchte.",
         "card_ids": ["fremde-situation"],
@@ -172,6 +186,7 @@
       "title": "Piagets Stufen und ihre Merkmale",
       "exercise": {
         "id": "ex-matching-piaget-stufen",
+        "stable_id": "ex-ms942qpc0tkzw",
         "type": "matching",
         "prompt": "Ordne jeder kognitiven Stufe Piagets ihr wichtigstes Merkmal zu.",
         "card_ids": ["piagets-stufen", "objektpermanenz", "egozentrismus-piaget"],
@@ -191,6 +206,7 @@
       "title": "Ein Piaget-Konzept benennen",
       "exercise": {
         "id": "ex-free-objektpermanenz",
+        "stable_id": "ex-ms942qpc0tlbf",
         "type": "free_text",
         "prompt": "Wie heißt das Konzept, das beschreibt, dass ein Kind versteht, dass Gegenstände weiterexistieren, auch wenn es sie nicht sieht?",
         "card_ids": ["objektpermanenz"],
@@ -207,6 +223,7 @@
       "title": "Eriksons erste Krise",
       "exercise": {
         "id": "ex-cloze-erikson-krise",
+        "stable_id": "ex-ms942qpc0tm2k",
         "type": "cloze",
         "prompt": "Ergänze den positiven Pol der ersten psychosozialen Krise nach Erikson.",
         "card_ids": ["urvertrauen-urmisstrauen"],
@@ -225,6 +242,7 @@
       "title": "Kohlbergs drei Ebenen in Reihenfolge",
       "exercise": {
         "id": "ex-tiles-kohlberg",
+        "stable_id": "ex-ms942qpc0tn8n",
         "type": "word_tiles",
         "prompt": "Bringe Kohlbergs drei Ebenen der moralischen Entwicklung in die richtige Reihenfolge.",
         "card_ids": ["kohlberg-moralstufen"],
@@ -240,6 +258,7 @@
       "title": "Eriksons Krise im Jugendalter",
       "exercise": {
         "id": "ex-free-erikson-identitaet",
+        "stable_id": "ex-ms942qpc0to3d",
         "type": "free_text",
         "prompt": "Wie heißt die psychosoziale Krise im Jugendalter nach Erikson — der positive Pol versus Rollenkonfusion?",
         "card_ids": ["identitaet-rollenkonfusion"],

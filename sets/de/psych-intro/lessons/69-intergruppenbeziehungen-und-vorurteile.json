@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "stereotyp-recap",
+      "stable_id": "card-ms942qpz1bstl",
       "front": "Stereotyp (Stereotype) — Wiederaufgriff",
       "back": "Vereinfachtes, verallgemeinertes Bild einer sozialen Gruppe — eine kognitive Struktur, die Eigenschaften einer Gruppe beschreibt, unabhängig davon, ob diese Überzeugung positiv oder negativ ist.",
       "notes": "Kognitiver Baustein, der zu Vorurteilen führen kann. Aus Lektion 33.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "vorurteil-recap",
+      "stable_id": "card-ms942qpz1btav",
       "front": "Vorurteil (Prejudice) — Wiederaufgriff",
       "back": "Negative (oder übermäßig positive) emotionale Einstellung gegenüber einer sozialen Gruppe oder deren Mitgliedern — ohne ausreichende sachliche Grundlage. Affektive Komponente.",
       "notes": "Geht über das Stereotyp hinaus: Es enthält eine (meist negative) Wertung. Aus Lektion 33.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "diskriminierung-recap",
+      "stable_id": "card-ms942qpz1buk4",
       "front": "Diskriminierung (Discrimination) — Wiederaufgriff",
       "back": "Ungleiche, benachteiligende Behandlung von Personen aufgrund ihrer Gruppenzugehörigkeit — die Verhaltensebene (konative Komponente) der Einstellung.",
       "notes": "Diskriminierung ist die sichtbare Handlung, die aus einem Vorurteil folgen kann, aber nicht muss. Aus Lektion 33.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "theorie-soziale-identitaet",
+      "stable_id": "card-ms942qpz1bv6y",
       "front": "Theorie der sozialen Identität (Social Identity Theory)",
       "back": "Nach Tajfel & Turner (1979) besteht ein Teil des Selbstkonzepts aus der Zugehörigkeit zu sozialen Gruppen. Menschen streben nach einer positiven sozialen Identität, indem sie die eigene Gruppe aufwerten.",
       "notes": "Die soziale Identität ergänzt die persönliche Identität. Gruppenvergleiche dienen der Selbstwerterhöhung.",
@@ -46,6 +50,7 @@
     },
     {
       "id": "eigengruppe-fremdgruppe",
+      "stable_id": "card-ms942qpz1bws7",
       "front": "Eigengruppe (Ingroup) vs. Fremdgruppe (Outgroup)",
       "back": "Eigengruppe: die Gruppe, der man selbst angehört ('wir'). Fremdgruppe: eine Gruppe, der man nicht angehört ('die'). Diese Unterscheidung ist grundlegend für Intergruppenprozesse.",
       "notes": "Bereits die bloße Kategorisierung in Eigen- und Fremdgruppe löst Bevorzugungseffekte aus.",
@@ -55,6 +60,7 @@
     },
     {
       "id": "ingroup-bevorzugung",
+      "stable_id": "card-ms942qpz1bxkg",
       "front": "Ingroup-Bevorzugung (Ingroup Favoritism)",
       "back": "Die Tendenz, Mitglieder der eigenen Gruppe positiver zu bewerten und zu bevorzugen als Mitglieder der Fremdgruppe — auch ohne objektiven Anlass.",
       "notes": "Schon minimale Gruppenunterscheidungen reichen aus, um Ingroup-Bevorzugung auszulösen (Minimalgruppen-Paradigma).",
@@ -64,6 +70,7 @@
     },
     {
       "id": "outgroup-homogenitaet",
+      "stable_id": "card-ms942qpz1by2h",
       "front": "Outgroup-Homogenitätseffekt (Outgroup Homogeneity Effect)",
       "back": "Die Wahrnehmung, dass Mitglieder der Fremdgruppe einander ähnlicher sind als Mitglieder der Eigengruppe: 'Die sind alle gleich.' Die Eigengruppe wird als vielfältiger und differenzierter erlebt.",
       "notes": "Führt zu Stereotypisierung der Fremdgruppe, weil individuelle Unterschiede ignoriert werden.",
@@ -74,6 +81,7 @@
     },
     {
       "id": "minimalgruppen-paradigma",
+      "stable_id": "card-ms942qpz1bziq",
       "front": "Minimalgruppen-Paradigma (Minimal Group Paradigm)",
       "back": "Tajfels Versuchsanordnung: Willkürlich gebildete Gruppen (z. B. nach Schätzung der Punktanzahl) erzeugen bereits Ingroup-Bevorzugung. Allein die Kategorie 'wir vs. die' reicht aus.",
       "notes": "Zeigt: Gruppenidentität entsteht ohne gemeinsame Geschichte, geteilte Interessen oder persönliche Bekanntschaft.",
@@ -83,6 +91,7 @@
     },
     {
       "id": "suendenbock-theorie",
+      "stable_id": "card-ms942qpz1c09p",
       "front": "Sündenbock-Theorie (Scapegoat Theory)",
       "back": "Menschen, die Frustration erleben, neigen dazu, ihre negativen Gefühle auf eine schwächere oder wenig gemochte Gruppe umzuleiten. Die Fremdgruppe wird für eigene Misserfolge oder gesellschaftliche Probleme verantwortlich gemacht.",
       "notes": "Erklärungsansatz für Vorurteile und Diskriminierung unter Bedingungen von gesellschaftlichem Stress oder wirtschaftlicher Not.",
@@ -92,6 +101,7 @@
     },
     {
       "id": "kontakthypothese",
+      "stable_id": "card-ms942qpz1c1fq",
       "front": "Kontakthypothese (Contact Hypothesis) — Allport",
       "back": "Nach Gordon Allport (1954) kann direkter persönlicher Kontakt zwischen Gruppen Vorurteile abbauen — vorausgesetzt, vier Bedingungen sind erfüllt: gleicher Status, gemeinsame Ziele, Kooperation, institutionelle Unterstützung.",
       "notes": "Bloßer Kontakt allein reicht nicht; sind die Bedingungen nicht erfüllt, können Vorurteile sogar zunehmen.",
@@ -102,6 +112,7 @@
     },
     {
       "id": "uebergeordnete-ziele",
+      "stable_id": "card-ms942qpz1c2ju",
       "front": "Übergeordnete Ziele (Superordinate Goals) — Sherif",
       "back": "Ziele, die keine Gruppe allein erreichen kann und die Zusammenarbeit aller erfordern. Muzafer Sherif zeigte im Robbers-Cave-Experiment, dass gemeinsame übergeordnete Ziele Feindseligkeiten zwischen verfeindeten Gruppen wirksam abbauen.",
       "notes": "Sherif (1954/1961): Nach künstlich erzeugtem Gruppenkonflikt reduzierten gemeinsame Aufgaben (z. B. kaputten Wassertank reparieren) Vorurteile deutlich.",
@@ -111,6 +122,7 @@
     },
     {
       "id": "robbers-cave",
+      "stable_id": "card-ms942qpz1c3pr",
       "front": "Robbers-Cave-Experiment (Sherif, 1954)",
       "back": "Klassisches Feldexperiment: Jungen in einem Ferienlager wurden in zwei rivalisierende Gruppen aufgeteilt. Erst durch übergeordnete Ziele, die beide Gruppen zur Zusammenarbeit zwangen, nahmen Feindseligkeit und Vorurteile ab.",
       "notes": "Belegt sowohl die Entstehung von Gruppenkonflikt durch Wettbewerb als auch seine Überwindung durch Kooperation.",
@@ -145,6 +157,7 @@
       "title": "Stereotyp, Vorurteil, Diskriminierung",
       "exercise": {
         "id": "ex-match-begriffe",
+        "stable_id": "ex-ms942qpz1c4mx",
         "type": "matching",
         "prompt": "Ordne jedem Begriff seine Ebene und Definition zu.",
         "card_ids": ["stereotyp-recap", "vorurteil-recap", "diskriminierung-recap"],
@@ -163,6 +176,7 @@
       "title": "Soziale Identität",
       "exercise": {
         "id": "ex-cloze-soziale-identitaet",
+        "stable_id": "ex-ms942qpz1c5sk",
         "type": "cloze",
         "prompt": "Ergänze den Kernsatz der Theorie der sozialen Identität.",
         "card_ids": ["theorie-soziale-identitaet"],
@@ -181,6 +195,7 @@
       "title": "Ingroup vs. Outgroup",
       "exercise": {
         "id": "ex-free-ingroup-outgroup",
+        "stable_id": "ex-ms942qpz1c6yl",
         "type": "free_text",
         "prompt": "Wie nennt man den Effekt, bei dem man die Fremdgruppe als homogener wahrnimmt als die eigene Gruppe — also denkt: 'Die sind alle gleich'?",
         "card_ids": ["outgroup-homogenitaet"],
@@ -197,6 +212,7 @@
       "title": "Bedingungen der Kontakthypothese",
       "exercise": {
         "id": "ex-match-kontakthypothese",
+        "stable_id": "ex-ms942qpz1c7mp",
         "type": "matching",
         "prompt": "Ordne jeder Bedingung der Kontakthypothese (Allport) ihre Erläuterung zu.",
         "card_ids": ["kontakthypothese"],
@@ -216,6 +232,7 @@
       "title": "Sündenbock-Theorie",
       "exercise": {
         "id": "ex-tiles-suendenbock",
+        "stable_id": "ex-ms942qpz1c86u",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zur Sündenbock-Theorie zusammen.",
         "card_ids": ["suendenbock-theorie"],
@@ -231,6 +248,7 @@
       "title": "Übergeordnete Ziele",
       "exercise": {
         "id": "ex-free-robbers-cave",
+        "stable_id": "ex-ms942qpz1c9lb",
         "type": "free_text",
         "prompt": "Wie heißt das Experiment von Sherif, das zeigte, dass übergeordnete Ziele Gruppenfeindseligkeit abbauen können?",
         "card_ids": ["robbers-cave", "uebergeordnete-ziele"],
@@ -247,6 +265,7 @@
       "title": "Minimalgruppen-Paradigma",
       "exercise": {
         "id": "ex-cloze-minimalgruppe",
+        "stable_id": "ex-ms942qpz1ca1t",
         "type": "cloze",
         "prompt": "Ergänze das fehlende Wort (Minimalgruppen-Paradigma).",
         "sentence": "Schon ___ Gruppenunterscheidungen reichen aus, um Ingroup-Bevorzugung auszulösen.",

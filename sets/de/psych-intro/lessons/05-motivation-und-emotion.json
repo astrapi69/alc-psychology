@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "motivation",
+      "stable_id": "card-ms942qok05i4t",
       "front": "Motivation",
       "back": "Innerer Antrieb, der Verhalten in Richtung eines Ziels aktiviert und aufrechthält.",
       "notes": "Unterschieden werden intrinsische und extrinsische Motivation.",
@@ -16,6 +17,7 @@
     },
     {
       "id": "intrinsische-motivation",
+      "stable_id": "card-ms942qok05j4u",
       "front": "Intrinsische Motivation",
       "back": "Antrieb aus der Tätigkeit selbst (Interesse, Neugier, Spaß).",
       "notes": "Beispiel: jemand lernt Gitarre, weil es ihm Freude macht — ohne Belohnung von außen.",
@@ -23,6 +25,7 @@
     },
     {
       "id": "extrinsische-motivation",
+      "stable_id": "card-ms942qok05kjq",
       "front": "Extrinsische Motivation",
       "back": "Antrieb durch äußere Anreize (Geld, Noten, Lob, Strafe).",
       "notes": "Beispiel: jemand lernt für eine Prüfung, um eine gute Note zu bekommen.",
@@ -30,6 +33,7 @@
     },
     {
       "id": "beduerfnispyramide",
+      "stable_id": "card-ms942qok05ll0",
       "front": "Bedürfnispyramide (Hierarchy of Needs)",
       "back": "Modell von Abraham Maslow: fünf Bedürfnisebenen, von physiologischen Grundbedürfnissen bis zur Selbstverwirklichung.",
       "notes": "Niedrigere Ebenen müssen laut Maslow befriedigt sein, bevor höhere Ebenen angestrebt werden.",
@@ -37,6 +41,7 @@
     },
     {
       "id": "physiologische-beduerfnisse",
+      "stable_id": "card-ms942qok05mmk",
       "front": "Physiologische Bedürfnisse (Physiological Needs)",
       "back": "Grundlegende körperliche Bedürfnisse: Essen, Trinken, Schlafen, Atmung — Basis der Bedürfnispyramide.",
       "notes": "Ohne Befriedigung dieser Basis ist kein anderes Bedürfnis relevant.",
@@ -44,6 +49,7 @@
     },
     {
       "id": "sicherheitsbeduerfnisse",
+      "stable_id": "card-ms942qok05n8z",
       "front": "Sicherheitsbedürfnisse (Safety Needs)",
       "back": "Bedürfnis nach körperlicher Sicherheit, Stabilität, Ordnung und Schutz vor Gefahren — zweite Ebene der Pyramide.",
       "notes": "Beispiel: sichere Wohnung, fester Arbeitsplatz.",
@@ -51,6 +57,7 @@
     },
     {
       "id": "soziale-beduerfnisse",
+      "stable_id": "card-ms942qok05olp",
       "front": "Soziale Bedürfnisse / Zugehörigkeit (Belongingness Needs)",
       "back": "Bedürfnis nach Zugehörigkeit, Liebe und sozialen Beziehungen — dritte Ebene der Pyramide.",
       "notes": "Erfüllt durch Freundschaft, Familie und Gemeinschaft.",
@@ -58,6 +65,7 @@
     },
     {
       "id": "wertschaetzung",
+      "stable_id": "card-ms942qok05p8d",
       "front": "Wertschätzungsbedürfnisse (Esteem Needs)",
       "back": "Bedürfnis nach Anerkennung, Selbstachtung und Status — vierte Ebene der Pyramide.",
       "notes": "Unterschieden: Selbstachtung (intern) und Anerkennung durch andere (extern).",
@@ -65,6 +73,7 @@
     },
     {
       "id": "selbstverwirklichung",
+      "stable_id": "card-ms942qok05qnm",
       "front": "Selbstverwirklichung (Self-Actualization)",
       "back": "Streben nach Entfaltung des eigenen Potenzials — höchste Ebene der Bedürfnispyramide.",
       "notes": "Maslow beschrieb diese Ebene als selten vollständig erreicht.",
@@ -72,6 +81,7 @@
     },
     {
       "id": "basisemotionen",
+      "stable_id": "card-ms942qok05rjo",
       "front": "Basisemotionen (Basic Emotions)",
       "back": "Nach Paul Ekman sechs universelle Emotionen: Freude, Trauer, Wut, Angst, Ekel, Überraschung.",
       "notes": "Diese Emotionen sind kulturübergreifend an Gesichtsausdrücken erkennbar.",
@@ -79,6 +89,7 @@
     },
     {
       "id": "james-lange",
+      "stable_id": "card-ms942qok05sdb",
       "front": "James-Lange-Theorie",
       "back": "Emotionstheorie: körperliche Reaktion geht dem Gefühl voraus — wir fühlen Angst, weil wir zittern.",
       "notes": "Beispiel: 'Ich weine, also bin ich traurig' — nicht umgekehrt.",
@@ -86,6 +97,7 @@
     },
     {
       "id": "cannon-bard",
+      "stable_id": "card-ms942qok05tvq",
       "front": "Cannon-Bard-Theorie",
       "back": "Emotionstheorie: körperliche Reaktion und emotionales Erleben entstehen gleichzeitig und unabhängig voneinander.",
       "notes": "Kritik an James-Lange: Körperreaktionen seien zu ähnlich für verschiedene Emotionen.",
@@ -93,6 +105,7 @@
     },
     {
       "id": "schachter-singer",
+      "stable_id": "card-ms942qok05ubx",
       "front": "Schachter-Singer-Theorie (Zwei-Faktoren-Theorie)",
       "back": "Emotion entsteht aus zwei Faktoren: körperlicher Erregung (Arousal) und kognitiver Bewertung der Situation.",
       "notes": "Experiment mit Adrenalin: gleiche Erregung, aber je nach Kontext verschiedene Emotionen erlebt.",
@@ -100,6 +113,7 @@
     },
     {
       "id": "arousal",
+      "stable_id": "card-ms942qok05vgb",
       "front": "Erregung / Arousal",
       "back": "Allgemeine physiologische Aktivierung des Körpers, z. B. erhöhter Herzschlag, Schwitzen.",
       "notes": "Laut Schachter-Singer erst durch kognitive Bewertung zu einer bestimmten Emotion.",
@@ -107,6 +121,7 @@
     },
     {
       "id": "kognitive-bewertung",
+      "stable_id": "card-ms942qok05wy5",
       "front": "Kognitive Bewertung (Cognitive Appraisal)",
       "back": "Interpretation einer Situation, die bestimmt, welche Emotion aus einer körperlichen Erregung entsteht.",
       "notes": "Zentral in der Zwei-Faktoren-Theorie von Schachter und Singer.",
@@ -114,6 +129,7 @@
     },
     {
       "id": "maslow",
+      "stable_id": "card-ms942qok05xvq",
       "front": "Abraham Maslow",
       "back": "Humanistischer Psychologe; entwickelte die Bedürfnishierarchie (Bedürfnispyramide).",
       "notes": "Maslow betonte, dass Menschen ihr volles Potenzial entfalten wollen (Selbstverwirklichung).",
@@ -121,6 +137,7 @@
     },
     {
       "id": "ekman",
+      "stable_id": "card-ms942qok05y2v",
       "front": "Paul Ekman",
       "back": "Psychologe, der sechs kulturübergreifende Basisemotionen identifizierte und Gesichtsausdrücke codierte (FACS).",
       "notes": "Sein Facial Action Coding System (FACS) wird weltweit in Forschung eingesetzt.",
@@ -153,6 +170,7 @@
       "title": "Maslow-Ebenen zuordnen",
       "exercise": {
         "id": "ex-match-maslow",
+        "stable_id": "ex-ms942qok05zlu",
         "type": "matching",
         "prompt": "Ordne jede Maslow-Ebene ihrer Beschreibung zu.",
         "card_ids": ["physiologische-beduerfnisse", "sicherheitsbeduerfnisse", "soziale-beduerfnisse", "wertschaetzung", "selbstverwirklichung"],
@@ -173,6 +191,7 @@
       "title": "Basis der Bedürfnispyramide",
       "exercise": {
         "id": "ex-pick-basis-pyramide",
+        "stable_id": "ex-ms942qok060iy",
         "type": "picture_choice",
         "prompt": "Welches Bedürfnis steht laut Maslow an der Basis der Pyramide?",
         "card_ids": ["physiologische-beduerfnisse", "sicherheitsbeduerfnisse", "soziale-beduerfnisse", "selbstverwirklichung"],
@@ -194,6 +213,7 @@
       "title": "Emotionstheorien zuordnen",
       "exercise": {
         "id": "ex-match-emotionstheorien",
+        "stable_id": "ex-ms942qok061zo",
         "type": "matching",
         "prompt": "Ordne jede Emotionstheorie ihrer Kernaussage zu.",
         "card_ids": ["james-lange", "cannon-bard", "schachter-singer"],
@@ -212,6 +232,7 @@
       "title": "Motivationsart benennen",
       "exercise": {
         "id": "ex-free-intrinsisch",
+        "stable_id": "ex-ms942qok062rp",
         "type": "free_text",
         "prompt": "Jemand malt, weil es ihm Freude macht — ganz ohne Belohnung von außen. Welche Motivationsart liegt vor?",
         "card_ids": ["intrinsische-motivation"],
@@ -228,6 +249,7 @@
       "title": "Wer identifizierte die Basisemotionen?",
       "exercise": {
         "id": "ex-free-basisemotionen",
+        "stable_id": "ex-ms942qok0630t",
         "type": "free_text",
         "prompt": "Welcher Psychologe identifizierte sechs kulturübergreifende Basisemotionen?",
         "card_ids": ["ekman"],
@@ -244,6 +266,7 @@
       "title": "James-Lange: Lücke ergänzen",
       "exercise": {
         "id": "ex-cloze-james-lange",
+        "stable_id": "ex-ms942qok064q6",
         "type": "cloze",
         "prompt": "Ergänze die fehlenden Begriffe zur James-Lange-Theorie.",
         "card_ids": ["james-lange"],
@@ -262,6 +285,7 @@
       "title": "Zwei-Faktoren-Theorie: Lücken füllen",
       "exercise": {
         "id": "ex-cloze-zwei-faktoren",
+        "stable_id": "ex-ms942qok065f6",
         "type": "cloze",
         "prompt": "Ergänze die zwei Faktoren der Schachter-Singer-Theorie.",
         "card_ids": ["schachter-singer", "kognitive-bewertung"],
@@ -281,6 +305,7 @@
       "title": "Maslows Pyramide sortieren",
       "exercise": {
         "id": "ex-tiles-maslow-reihenfolge",
+        "stable_id": "ex-ms942qok066q6",
         "type": "word_tiles",
         "prompt": "Bringe die Bedürfnisebenen von der Basis (1) bis zur Spitze (5) in die richtige Reihenfolge.",
         "card_ids": ["physiologische-beduerfnisse", "sicherheitsbeduerfnisse", "soziale-beduerfnisse", "wertschaetzung", "selbstverwirklichung"],
@@ -296,6 +321,7 @@
       "title": "Basisemotionen und Beispiele",
       "exercise": {
         "id": "ex-match-basisemotionen",
+        "stable_id": "ex-ms942qok06760",
         "type": "matching",
         "prompt": "Ordne jeder Basisemotion ein typisches Auslöseereignis zu.",
         "card_ids": ["basisemotionen"],

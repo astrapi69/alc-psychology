@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "empirische-methode",
+      "stable_id": "card-ms942qpg0wfcb",
       "front": "Empirische Methode (Empirical Method)",
       "back": "Die Grundlage wissenschaftlicher Psychologie: Hypothesen werden durch systematische Beobachtung und Experiment geprüft — nicht durch Spekulation oder Autorität.",
       "notes": "Fundament aller Teilgebiete; in Lektionen 21–25 (Forschungsmethoden & Statistik) vertieft.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "behaviorismus",
+      "stable_id": "card-ms942qpg0wgu9",
       "front": "Behaviorismus (Behaviourism)",
       "back": "Paradigma, das nur beobachtbares Verhalten als Gegenstand der Psychologie anerkennt. Klassische Vertreter: Watson, Skinner. Lernen durch Konditionierung steht im Mittelpunkt.",
       "notes": "Prägte die erste Hälfte des 20. Jahrhunderts; Konditionierung in Lektion 4 ausführlich behandelt.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "kognitive-wende",
+      "stable_id": "card-ms942qpg0wh9g",
       "front": "Kognitive Wende (Cognitive Revolution)",
       "back": "Paradigmenwechsel ab den 1950er/60er Jahren: Innere mentale Prozesse wie Denken, Sprache und Gedächtnis wurden wieder als legitime Forschungsgegenstände anerkannt — als Reaktion auf den reinen Behaviorismus.",
       "notes": "Führte zur Kognitiven Psychologie (Lektionen 3, 32) und beeinflusste alle Felder.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "klassische-vs-operante-konditionierung",
+      "stable_id": "card-ms942qpg0wizx",
       "front": "Klassische vs. operante Konditionierung",
       "back": "Klassisch (Pawlow): Reflexantwort wird an neuen Reiz geknüpft. Operant (Skinner): Verhalten wird durch seine Konsequenzen (Verstärkung, Bestrafung) geformt.",
       "notes": "Beide Formen in Lektion 4 (Lernen & Konditionierung) eingeführt.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "biopsychosoziales-modell",
+      "stable_id": "card-ms942qpg0wj8i",
       "front": "Biopsychosoziales Modell (Biopsychosocial Model)",
       "back": "Gesundheit und Störungen entstehen aus dem Zusammenspiel biologischer (Gene, Gehirn), psychologischer (Kognitionen, Emotionen) und sozialer (Umfeld, Kultur) Faktoren.",
       "notes": "Integratives Rahmenmodell — verbindet Klinische (9), Gesundheits- (12/28) und Biologische Psychologie (13/37).",
@@ -54,6 +59,7 @@
     },
     {
       "id": "big-five",
+      "stable_id": "card-ms942qpg0wk8z",
       "front": "Big Five (Fünf-Faktoren-Modell)",
       "back": "Das meistverwendete Persönlichkeitsmodell: Offenheit, Gewissenhaftigkeit, Extraversion, Verträglichkeit und Neurotizismus (OCEAN). Kulturell breit repliziert.",
       "notes": "Ausführlich in Lektion 36 (Persönlichkeit & Big Five); eingeführt in Lektion 8.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "korrelation-nicht-kausalitaet",
+      "stable_id": "card-ms942qpg0wl0c",
       "front": "Korrelation ≠ Kausalität",
       "back": "Ein statistischer Zusammenhang zwischen zwei Variablen bedeutet nicht, dass eine die andere verursacht. Kausalität erfordert ein kontrolliertes Experiment mit Zufallszuweisung.",
       "notes": "Zentrales Prinzip aus Lektion 22 (Experiment & Korrelation).",
@@ -73,6 +80,7 @@
     },
     {
       "id": "wirkfaktoren-psychotherapie",
+      "stable_id": "card-ms942qpg0wmx7",
       "front": "Wirkfaktoren der Psychotherapie (Common Factors)",
       "back": "Schulübergreifende Faktoren, die Therapieerfolg erklären: therapeutische Allianz (Beziehung), Empathie, Ressourcenaktivierung und die Vermittlung eines plausiblen Erklärungsmodells.",
       "notes": "Verbindet Lektionen 16–20 (Psychotherapieverfahren); empirisch gut belegt.",
@@ -82,6 +90,7 @@
     },
     {
       "id": "anwendungsfaecher",
+      "stable_id": "card-ms942qpg0wnyk",
       "front": "Anwendungsfächer der Psychologie",
       "back": "Teilgebiete, die psychologisches Wissen auf Praxisfelder übertragen: Klinische, Pädagogische, Arbeits- & Organisationspsychologie, Gesundheitspsychologie und Diagnostik.",
       "notes": "Lektionen 9 und 26–29 im Kurs.",
@@ -91,6 +100,7 @@
     },
     {
       "id": "gedaechtnis-systeme",
+      "stable_id": "card-ms942qpg0wo6l",
       "front": "Gedächtnissysteme (Memory Systems)",
       "back": "Kurzzeitgedächtnis (Arbeitsgedächtnis), Langzeitgedächtnis (deklarativ: episodisch/semantisch; nicht-deklarativ: prozedural). Kodierung, Speicherung und Abruf als Kernprozesse.",
       "notes": "Lektion 3 (Gedächtnis); vertieft in Lektion 32 (Kognition).",
@@ -100,6 +110,7 @@
     },
     {
       "id": "entwicklungspsychologie-lifespan",
+      "stable_id": "card-ms942qpg0wp3g",
       "front": "Lebensspannenentwicklung (Lifespan Development)",
       "back": "Entwicklung wird als lebenslanger Prozess verstanden — von pränataler Entwicklung über Kindheit, Jugend, Erwachsenenalter bis ins hohe Alter. Piaget, Erikson und Bowlby sind Schlüsselfiguren.",
       "notes": "Lektionen 6 und 34 (Entwicklungspsychologie).",
@@ -109,6 +120,7 @@
     },
     {
       "id": "soziale-kognition",
+      "stable_id": "card-ms942qpg0wq6y",
       "front": "Soziale Kognition (Social Cognition)",
       "back": "Wie Menschen Information über andere Menschen verarbeiten — Attribution, Stereotypen, kognitive Heuristiken und Einstellungsänderung. Verbindet Sozial- und Kognitionspsychologie.",
       "notes": "Lektionen 7 und 33 (Sozialpsychologie).",
@@ -118,6 +130,7 @@
     },
     {
       "id": "psychologische-paradigmen",
+      "stable_id": "card-ms942qpg0wr99",
       "front": "Paradigmen der Psychologie (Psychological Paradigms)",
       "back": "Die großen Erklärungsansätze: Behaviorismus, Kognitivismus, Psychodynamik (Freud), Humanismus (Maslow, Rogers), Evolutionspsychologie, Neurowissenschaft und Positive Psychologie.",
       "notes": "Geschichte & Paradigmen in Lektion 38; Wissenschaftstheorie & Ethik in Lektion 39.",
@@ -152,6 +165,7 @@
       "title": "Paradigmen zuordnen",
       "exercise": {
         "id": "ex-match-paradigmen",
+        "stable_id": "ex-ms942qpg0wskb",
         "type": "matching",
         "prompt": "Ordne jedes Paradigma seinem Kerngedanken zu.",
         "card_ids": ["behaviorismus", "kognitive-wende", "psychologische-paradigmen"],
@@ -171,6 +185,7 @@
       "title": "Korrelation und Kausalität",
       "exercise": {
         "id": "ex-cloze-korrelation",
+        "stable_id": "ex-ms942qpg0wt5m",
         "type": "cloze",
         "prompt": "Ergänze den Grundsatz aus der Forschungsmethodenlehre.",
         "card_ids": ["korrelation-nicht-kausalitaet", "empirische-methode"],
@@ -189,6 +204,7 @@
       "title": "Das integrative Modell",
       "exercise": {
         "id": "ex-free-biopsychosozial",
+        "stable_id": "ex-ms942qpg0wu9e",
         "type": "free_text",
         "prompt": "Wie heißt das Rahmenmodell, das biologische, psychologische und soziale Faktoren für Gesundheit und Störungen gemeinsam berücksichtigt?",
         "card_ids": ["biopsychosoziales-modell"],
@@ -205,6 +221,7 @@
       "title": "Anwendungsfächer und ihre Felder",
       "exercise": {
         "id": "ex-match-anwendungsfaecher",
+        "stable_id": "ex-ms942qpg0wv1g",
         "type": "matching",
         "prompt": "Ordne jedem Anwendungsfach sein Praxisfeld zu.",
         "card_ids": ["anwendungsfaecher", "wirkfaktoren-psychotherapie"],
@@ -224,6 +241,7 @@
       "title": "Das Persönlichkeitsmodell",
       "exercise": {
         "id": "ex-cloze-big-five",
+        "stable_id": "ex-ms942qpg0wwov",
         "type": "cloze",
         "prompt": "Ergänze die Kurzbezeichnung des meistgenutzten Persönlichkeitsmodells.",
         "card_ids": ["big-five"],
@@ -242,6 +260,7 @@
       "title": "Was wirkt in der Therapie?",
       "exercise": {
         "id": "ex-free-wirkfaktoren",
+        "stable_id": "ex-ms942qpg0wxo0",
         "type": "free_text",
         "prompt": "Wie heißt der schulübergreifende Ansatz, der erklärt, warum verschiedene Therapieformen ähnlich wirksam sind?",
         "card_ids": ["wirkfaktoren-psychotherapie"],
@@ -258,6 +277,7 @@
       "title": "Der Kern der Wissenschaft",
       "exercise": {
         "id": "ex-tiles-empirische-methode",
+        "stable_id": "ex-ms942qpg0wy8j",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zur empirischen Methode zusammen.",
         "card_ids": ["empirische-methode", "korrelation-nicht-kausalitaet"],

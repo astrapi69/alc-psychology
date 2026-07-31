@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "hinweis-keine-diagnose",
+      "stable_id": "card-ms942qq41hohh",
       "front": "Wichtiger Hinweis",
       "back": "Diese Lektion ersetzt keine professionelle Diagnose oder Behandlung. Sie dient dem Verständnis und der Wissensvermittlung. Bei Belastung hilft eine Ärztin, eine Psychotherapeutin oder eine Beratungsstelle.",
       "notes": "Anlaufstellen findest du am Ende der Lektion.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "ptbs-bereiche",
+      "stable_id": "card-ms942qq41hp1q",
       "front": "Die vier Bereiche der PTBS",
       "back": "Wiedererleben (Intrusionen, Flashbacks), Vermeidung, Übererregung (Hyperarousal) und negative Veränderungen von Denken und Stimmung.",
       "notes": "Aus Lektion 76. Zum Verständnis — nicht zur Selbstdiagnose.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "akute-belastungsreaktion",
+      "stable_id": "card-ms942qq41hqy1",
       "front": "Akute Belastungsreaktion",
       "back": "Eine starke, aber vorübergehende Reaktion in den ersten Tagen nach einem traumatischen Ereignis. Sie ist zunächst normal und klingt oft von selbst ab.",
       "notes": "Erst bei langanhaltender, starker Belastung spricht man von einer PTBS.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "emdr",
+      "stable_id": "card-ms942qq41hrr0",
       "front": "EMDR",
       "back": "Eye Movement Desensitization and Reprocessing — ein wirksames traumafokussiertes Therapieverfahren, das Augenbewegungen zur Verarbeitung traumatischer Erinnerungen einsetzt.",
       "notes": "Neben der traumafokussierten kognitiven Verhaltenstherapie (KVT) eine der am besten belegten Behandlungen für PTBS.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "essstoerungen-ueberblick",
+      "stable_id": "card-ms942qq41hsqk",
       "front": "Essstörungen (Eating Disorders)",
       "back": "Ernsthafte psychische Erkrankungen mit gestörtem Essverhalten und Körperbild. Genesung ist möglich — professionelle Unterstützung ist wichtig.",
       "notes": "Aus Lektion 77. Keine Zahlen oder Methoden — Fokus auf Konzept und Hoffnung.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "multifaktorielle-ursachen",
+      "stable_id": "card-ms942qq41htwd",
       "front": "Multifaktorielle Ursachen",
       "back": "Essstörungen entstehen durch das Zusammenwirken biologischer, psychologischer und sozialer Faktoren — kein einzelner Faktor reicht als Erklärung aus.",
       "notes": "Gilt auch für viele andere psychische Erkrankungen. Schuld trifft niemanden.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "krise-voruebergehend",
+      "stable_id": "card-ms942qq41hui2",
       "front": "Seelische Krise ist vorübergehend",
       "back": "Eine Krise fühlt sich endlos an, ist es aber nicht. Mit der richtigen Unterstützung ist es möglich, aus einer Krise herauszukommen.",
       "notes": "Aus Lektion 78. Kernbotschaft der Krisenintervention.",
@@ -72,6 +79,7 @@
     },
     {
       "id": "mythos-ansprechen",
+      "stable_id": "card-ms942qq41hv1s",
       "front": "Mythos: Ansprechen erhöht das Risiko",
       "back": "Das ist falsch. Offen über suizidale Gedanken zu sprechen erhöht das Risiko nicht — im Gegenteil, es kann Erleichterung bringen und den Weg zur Hilfe öffnen.",
       "notes": "Aus Lektion 78. Einer der wichtigsten Mythen in der Suizidprävention.",
@@ -82,6 +90,7 @@
     },
     {
       "id": "teufelskreis-angst",
+      "stable_id": "card-ms942qq41hwls",
       "front": "Teufelskreis der Angst",
       "back": "Angst löst körperliche Reaktionen aus → diese werden als bedrohlich gedeutet → Angst verstärkt sich → Vermeidung verhindert die Korrektur.",
       "notes": "Aus Lektion 79. Zentral für das Verständnis von Angststörungen.",
@@ -91,6 +100,7 @@
     },
     {
       "id": "obsessionen-kompulsionen",
+      "stable_id": "card-ms942qq41hx22",
       "front": "Obsessionen und Kompulsionen",
       "back": "Obsessionen (Zwangsgedanken) sind aufdringliche, belastende Gedanken. Kompulsionen (Zwangshandlungen) sind Verhaltensweisen, die Angst kurzfristig lindern, sie aber langfristig aufrechterhalten.",
       "notes": "Aus Lektion 79. Kennzeichen der Zwangsstörung (OCD — Obsessive-Compulsive Disorder).",
@@ -100,6 +110,7 @@
     },
     {
       "id": "exposition-reaktionsverhinderung",
+      "stable_id": "card-ms942qq41hywl",
       "front": "Exposition mit Reaktionsverhinderung (ERP)",
       "back": "Eine wirksame verhaltenstherapeutische Methode bei Zwangs- und Angststörungen: die Angst aushalten, ohne die Zwangshandlung auszuführen — so lernt das Gehirn, dass die Angst von selbst nachlässt.",
       "notes": "ERP = Exposure and Response Prevention. Aus Lektion 79.",
@@ -109,6 +120,7 @@
     },
     {
       "id": "resilienz",
+      "stable_id": "card-ms942qq41hzgk",
       "front": "Resilienz (Resilience)",
       "back": "Die psychische Widerstandsfähigkeit: die Fähigkeit, sich nach belastenden Erlebnissen zu erholen und handlungsfähig zu bleiben. Sie ist erlernbar und durch soziale Unterstützung stärkbar.",
       "notes": "Aus Lektion 76 und 59. Schutzfaktor in vielen klinischen Kontexten.",
@@ -118,6 +130,7 @@
     },
     {
       "id": "hilfe-anlaufstellen",
+      "stable_id": "card-ms942qq41i078",
       "front": "Hilfe und Anlaufstellen (Deutschland)",
       "back": "Telefonseelsorge: 0800 111 0 111 oder 116 123 (kostenlos, anonym, 24/7). Nummer gegen Kummer (Kinder/Jugendliche): 116 111. Akuter Notfall: Notruf 112. Ärztlicher Bereitschaftsdienst: 116 117.",
       "notes": "Hilfe ist verfügbar und wirkt. Sich Hilfe zu holen ist ein Zeichen von Stärke.",
@@ -152,6 +165,7 @@
       "title": "Vier Themen — vier Kernbotschaften",
       "exercise": {
         "id": "ex-match-vier-themen",
+        "stable_id": "ex-ms942qq41i1gh",
         "type": "matching",
         "prompt": "Ordne jeder Lektion ihre Kernbotschaft zu.",
         "card_ids": ["ptbs-bereiche", "essstoerungen-ueberblick", "krise-voruebergehend", "teufelskreis-angst"],
@@ -171,6 +185,7 @@
       "title": "EMDR entschlüsseln",
       "exercise": {
         "id": "ex-cloze-emdr",
+        "stable_id": "ex-ms942qq41i2ri",
         "type": "cloze",
         "prompt": "Ergänze den fehlenden Begriff für das traumafokussierte Therapieverfahren.",
         "card_ids": ["emdr"],
@@ -189,6 +204,7 @@
       "title": "Den Teufelskreis benennen",
       "exercise": {
         "id": "ex-free-teufelskreis",
+        "stable_id": "ex-ms942qq41i3kj",
         "type": "free_text",
         "prompt": "Wie nennt man das sich selbst verstärkende Muster, bei dem Angst zu Vermeidung führt, die die Angst wiederum aufrechterhält?",
         "card_ids": ["teufelskreis-angst"],
@@ -205,6 +221,7 @@
       "title": "Begriffe zuordnen",
       "exercise": {
         "id": "ex-match-begriffe",
+        "stable_id": "ex-ms942qq41i48y",
         "type": "matching",
         "prompt": "Ordne jedem Begriff seine Erklärung zu.",
         "card_ids": ["obsessionen-kompulsionen", "exposition-reaktionsverhinderung", "resilienz", "mythos-ansprechen"],
@@ -224,6 +241,7 @@
       "title": "Krisen einordnen",
       "exercise": {
         "id": "ex-cloze-krise",
+        "stable_id": "ex-ms942qq41i5t3",
         "type": "cloze",
         "prompt": "Ergänze das Wort, das die wichtige Botschaft über Krisen ausdrückt.",
         "card_ids": ["krise-voruebergehend"],
@@ -242,6 +260,7 @@
       "title": "Ursachen von Essstörungen",
       "exercise": {
         "id": "ex-free-ursachen",
+        "stable_id": "ex-ms942qq41i6u3",
         "type": "free_text",
         "prompt": "Wie nennt man das Modell, das erklärt, dass Essstörungen durch das Zusammenwirken biologischer, psychologischer und sozialer Faktoren entstehen?",
         "card_ids": ["multifaktorielle-ursachen"],
@@ -258,6 +277,7 @@
       "title": "Die wichtigste Botschaft",
       "exercise": {
         "id": "ex-tiles-hilfe",
+        "stable_id": "ex-ms942qq41i7zt",
         "type": "word_tiles",
         "prompt": "Setze den zentralen Merksatz über Hilfe zusammen.",
         "card_ids": ["hilfe-anlaufstellen", "krise-voruebergehend"],

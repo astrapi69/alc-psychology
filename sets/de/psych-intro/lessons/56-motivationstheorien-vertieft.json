@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "motivation-recap",
+      "stable_id": "card-ms942qpq14z6e",
       "front": "Motivation",
       "back": "Die Gesamtheit der Beweggründe, die Verhalten anstoßen, ausrichten und aufrechterhalten.",
       "notes": "Grundbegriff aus Lektion 5; hier vertiefen wir die Theorien dahinter.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "triebtheorie",
+      "stable_id": "card-ms942qpq15005",
       "front": "Triebtheorie (Drive-Reduction)",
       "back": "Ein körperliches Ungleichgewicht (z. B. Hunger) erzeugt einen Trieb, der zu Verhalten motiviert, das die Homöostase wiederherstellt.",
       "notes": "Erklärt gut biologische Bedürfnisse, aber nicht Neugier oder Risikosuche.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "homoeostase",
+      "stable_id": "card-ms942qpq151sa",
       "front": "Homöostase",
       "back": "Das Bestreben des Körpers, einen ausgeglichenen inneren Sollzustand aufrechtzuerhalten.",
       "media_type": "text",
@@ -35,6 +38,7 @@
     },
     {
       "id": "anreiztheorie",
+      "stable_id": "card-ms942qpq152rh",
       "front": "Anreiztheorie (Incentive)",
       "back": "Verhalten wird nicht nur von inneren Trieben, sondern auch von äußeren Anreizen (Belohnungen, Zielen) gezogen.",
       "notes": "Ergänzt die Triebtheorie: Wir essen den Nachtisch trotz Sättigung — der Anreiz lockt.",
@@ -44,6 +48,7 @@
     },
     {
       "id": "beduerfnishierarchie",
+      "stable_id": "card-ms942qpq153la",
       "front": "Bedürfnishierarchie (Maslow)",
       "back": "Bedürfnisse sind stufenförmig geordnet: physiologische, Sicherheits-, soziale, Wertschätzungs- und Selbstverwirklichungsbedürfnisse.",
       "notes": "Höhere Bedürfnisse werden laut Maslow erst wichtig, wenn niedrigere weitgehend erfüllt sind. Die strikte Reihenfolge ist umstritten.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "selbstverwirklichung",
+      "stable_id": "card-ms942qpq154ta",
       "front": "Selbstverwirklichung (Self-Actualization)",
       "back": "Das Bestreben, das eigene Potenzial voll auszuschöpfen — die oberste Stufe in Maslows Modell.",
       "media_type": "text",
@@ -62,6 +68,7 @@
     },
     {
       "id": "leistungsmotivation",
+      "stable_id": "card-ms942qpq155l5",
       "front": "Leistungsmotivation (McClelland)",
       "back": "Das Bedürfnis, anspruchsvolle Ziele zu erreichen und einen eigenen Gütemaßstab zu übertreffen.",
       "notes": "McClelland unterscheidet u. a. Leistungs-, Macht- und Anschlussmotiv.",
@@ -71,6 +78,7 @@
     },
     {
       "id": "zielsetzungstheorie",
+      "stable_id": "card-ms942qpq15659",
       "front": "Zielsetzungstheorie (Locke & Latham)",
       "back": "Konkrete und herausfordernde (aber erreichbare) Ziele führen zu höherer Leistung als vage Ziele wie 'gib dein Bestes'.",
       "notes": "Wirksame Ziele sind spezifisch, anspruchsvoll, akzeptiert und mit Feedback verbunden.",
@@ -80,6 +88,7 @@
     },
     {
       "id": "intrinsisch-extrinsisch-recap",
+      "stable_id": "card-ms942qpq157vm",
       "front": "Intrinsische vs. extrinsische Motivation",
       "back": "Intrinsisch = Antrieb aus der Tätigkeit selbst (Interesse); extrinsisch = Antrieb durch äußere Folgen (Belohnung, Note).",
       "notes": "Vertieft aus Lektion 5 und 26.",
@@ -89,6 +98,7 @@
     },
     {
       "id": "korrumpierungseffekt",
+      "stable_id": "card-ms942qpq1580u",
       "front": "Korrumpierungseffekt (Overjustification)",
       "back": "Eine äußere Belohnung für eine ohnehin gern ausgeübte Tätigkeit kann die intrinsische Motivation untergraben.",
       "notes": "Englisch: overjustification effect.",
@@ -99,6 +109,7 @@
     },
     {
       "id": "flow",
+      "stable_id": "card-ms942qpq159ka",
       "front": "Flow (Csikszentmihalyi)",
       "back": "Ein Zustand völligen Aufgehens in einer Tätigkeit, bei dem Anforderung und Können gut ausbalanciert sind.",
       "notes": "Mihaly Csikszentmihalyi. Weder Unterforderung (Langeweile) noch Überforderung (Angst).",
@@ -108,6 +119,7 @@
     },
     {
       "id": "yerkes-dodson",
+      "stable_id": "card-ms942qpq15apa",
       "front": "Yerkes-Dodson-Gesetz",
       "back": "Leistung ist bei mittlerer Erregung am besten; zu wenig oder zu viel Erregung verschlechtert sie (umgekehrte U-Kurve).",
       "media_type": "text",
@@ -141,6 +153,7 @@
       "title": "Motivationstheorien zuordnen",
       "exercise": {
         "id": "ex-match-theorien",
+        "stable_id": "ex-ms942qpq15brb",
         "type": "matching",
         "prompt": "Ordne jeder Theorie ihren Kerngedanken zu.",
         "card_ids": ["triebtheorie", "anreiztheorie", "zielsetzungstheorie", "leistungsmotivation"],
@@ -160,6 +173,7 @@
       "title": "Das innere Gleichgewicht",
       "exercise": {
         "id": "ex-cloze-homoeostase",
+        "stable_id": "ex-ms942qpq15c3d",
         "type": "cloze",
         "prompt": "Ergänze den Begriff für das innere Gleichgewicht, das die Triebtheorie wiederherstellen will.",
         "card_ids": ["homoeostase", "triebtheorie"],
@@ -178,6 +192,7 @@
       "title": "Die oberste Stufe",
       "exercise": {
         "id": "ex-free-maslow",
+        "stable_id": "ex-ms942qpq15de3",
         "type": "free_text",
         "prompt": "Wie heißt die oberste Stufe in Maslows Bedürfnishierarchie?",
         "card_ids": ["selbstverwirklichung", "beduerfnishierarchie"],
@@ -194,6 +209,7 @@
       "title": "Völliges Aufgehen",
       "exercise": {
         "id": "ex-free-flow",
+        "stable_id": "ex-ms942qpq15egb",
         "type": "free_text",
         "prompt": "Wie heißt der Zustand des völligen Aufgehens in einer Tätigkeit, wenn Anforderung und Können ausbalanciert sind (Csikszentmihalyi)?",
         "card_ids": ["flow"],
@@ -210,6 +226,7 @@
       "title": "Wenn Belohnung schadet",
       "exercise": {
         "id": "ex-cloze-korrumpierung",
+        "stable_id": "ex-ms942qpq15fh5",
         "type": "cloze",
         "prompt": "Ergänze den Begriff für das Untergraben intrinsischer Motivation durch Belohnung.",
         "card_ids": ["korrumpierungseffekt", "intrinsisch-extrinsisch-recap"],
@@ -228,6 +245,7 @@
       "title": "Anforderung, Erregung, Leistung",
       "exercise": {
         "id": "ex-match-flow-erregung",
+        "stable_id": "ex-ms942qpq15gf2",
         "type": "matching",
         "prompt": "Ordne jeder Bedingung ihr Ergebnis zu.",
         "card_ids": ["flow", "yerkes-dodson"],
@@ -247,6 +265,7 @@
       "title": "Wirksame Ziele",
       "exercise": {
         "id": "ex-tiles-zielsetzung",
+        "stable_id": "ex-ms942qpq15hrt",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz der Zielsetzungstheorie zusammen.",
         "card_ids": ["zielsetzungstheorie"],

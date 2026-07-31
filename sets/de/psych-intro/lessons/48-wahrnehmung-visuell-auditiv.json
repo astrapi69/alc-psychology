@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "weg-des-lichts",
+      "stable_id": "card-ms942qpk10o2f",
       "front": "Weg des Lichts durch das Auge",
       "back": "Licht tritt durch Hornhaut (Cornea) → Pupille → Linse → wird auf der Netzhaut (Retina) fokussiert, wo Fotorezeptoren den Reiz aufnehmen.",
       "notes": "Die Linse krümmt sich (Akkommodation), um Objekte in unterschiedlicher Entfernung scharf zu stellen.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "staebchen",
+      "stable_id": "card-ms942qpk10pe0",
       "front": "Stäbchen (Rods)",
       "back": "Fotorezeptoren für Hell-Dunkel-Sehen; empfindlich bei schwachem Licht (Dämmerung); hauptsächlich in der Netzhautperipherie; kein Farbsehen.",
       "notes": "Ca. 120 Millionen Stäbchen im menschlichen Auge.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "zapfen",
+      "stable_id": "card-ms942qpk10qqy",
       "front": "Zapfen (Cones)",
       "back": "Fotorezeptoren für Farbsehen und scharfes Sehen (Sehschärfe); aktiv bei Tageslicht; konzentriert in der Fovea (zentralen Netzhautgrube).",
       "notes": "Ca. 6 Millionen Zapfen; drei Typen (kurz-, mittel-, langwellig) ermöglichen Farbunterscheidung.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "transduktion",
+      "stable_id": "card-ms942qpk10ret",
       "front": "Transduktion (Sensory Transduction)",
       "back": "Umwandlung eines physikalischen Reizes (z. B. Licht oder Schallwelle) in einen elektrischen Nervenimpuls, der ans Gehirn weitergeleitet wird.",
       "notes": "Fotorezeptoren in der Netzhaut und Haarzellen in der Cochlea übernehmen diese Aufgabe.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "blinder-fleck",
+      "stable_id": "card-ms942qpk10ss8",
       "front": "Blinder Fleck (Blind Spot)",
       "back": "Stelle auf der Netzhaut, wo der Sehnerv (Nervus opticus) das Auge verlässt — hier gibt es keine Fotorezeptoren, also keine Wahrnehmung.",
       "notes": "Normalerweise füllt das Gehirn den fehlenden Bereich aus (Completion).",
@@ -54,6 +59,7 @@
     },
     {
       "id": "dreifarbentheorie",
+      "stable_id": "card-ms942qpk10tm8",
       "front": "Dreifarbentheorie / Trichromatische Theorie (Young-Helmholtz)",
       "back": "Es gibt drei Zapfentypen für kurzwelliges (blau), mittelwelliges (grün) und langwelliges (rot) Licht. Alle Farben entstehen durch Mischung dieser drei Grundsignale.",
       "notes": "Thomas Young und Hermann von Helmholtz; erklärt die Grundlage der Farbmischung.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "gegenfarbtheorie",
+      "stable_id": "card-ms942qpk10ucz",
       "front": "Gegenfarbtheorie (Opponent-Process Theory, Hering)",
       "back": "Farbinformation wird in drei antagonistischen Paaren verarbeitet: Rot–Grün, Blau–Gelb, Schwarz–Weiß. Die Aktivierung einer Farbe hemmt ihre Gegenfarbe.",
       "notes": "Ewald Hering; erklärt Nachbilder (z. B. Rot-Nachbild nach längerem Grün-Sehen) und Farbkonstanz.",
@@ -72,6 +79,7 @@
     },
     {
       "id": "farbenfehlsichtigkeit",
+      "stable_id": "card-ms942qpk10vim",
       "front": "Farbenfehlsichtigkeit (Color Vision Deficiency)",
       "back": "Fehlen oder Veränderung eines Zapfentyps führt zu eingeschränktem Farbunterscheidungsvermögen, z. B. Rot-Grün-Schwäche (häufigste Form).",
       "notes": "Betrifft ca. 8 % der Männer, aber nur ca. 0,5 % der Frauen; X-chromosomal vererbt.",
@@ -81,6 +89,7 @@
     },
     {
       "id": "schall-frequenz-amplitude",
+      "stable_id": "card-ms942qpk10woc",
       "front": "Schall: Frequenz und Amplitude",
       "back": "Schall ist eine mechanische Druckwelle. Frequenz (Hz) bestimmt die Tonhöhe (hoch/tief); Amplitude (Dezibel, dB) bestimmt die Lautstärke (laut/leise).",
       "notes": "Menschen hören ca. 20–20 000 Hz; Töne außerhalb dieses Bereichs heißen Infra- bzw. Ultraschall.",
@@ -90,6 +99,7 @@
     },
     {
       "id": "weg-des-schalls",
+      "stable_id": "card-ms942qpk10xqy",
       "front": "Weg des Schalls durch das Ohr",
       "back": "Schallwelle → Außenohr (Ohrmuschel, Gehörgang) → Mittelohr (Trommelfell, Gehörknöchelchen) → Innenohr (Cochlea/Schnecke) → Haarzellen → Hörnerv.",
       "notes": "Die Gehörknöchelchen (Hammer, Amboss, Steigbügel) verstärken und übertragen den Schall mechanisch.",
@@ -99,6 +109,7 @@
     },
     {
       "id": "haarzellen",
+      "stable_id": "card-ms942qpk10y3j",
       "front": "Haarzellen (Hair Cells)",
       "back": "Mechanosensitive Zellen in der Cochlea, die Schallschwingungen in Nervenimpulse umwandeln (Transduktion im auditiven System).",
       "notes": "Schädigung durch Lärm ist irreversibel, weil Haarzellen sich nicht regenerieren.",
@@ -108,6 +119,7 @@
     },
     {
       "id": "tonhoehenwahrnehmung",
+      "stable_id": "card-ms942qpk10z77",
       "front": "Tonhöhenwahrnehmung (Pitch Perception)",
       "back": "Tiefe Töne aktivieren die Basilarmembran hauptsächlich an der Spitze der Cochlea, hohe Töne an der Basis (Ortstheorie). Sehr tiefe Töne werden zudem über die Feuerrate der Nervenzellen kodiert.",
       "notes": "Ortstheorie: Georg von Békésy. Volleyprinzip: ergänzt die Ortstheorie für tiefe Frequenzen.",
@@ -143,6 +155,7 @@
       "title": "Stäbchen oder Zapfen?",
       "exercise": {
         "id": "ex-match-rezeptoren",
+        "stable_id": "ex-ms942qpk110ic",
         "type": "matching",
         "prompt": "Ordne jede Eigenschaft dem richtigen Fotorezeptor-Typ zu.",
         "card_ids": ["staebchen", "zapfen"],
@@ -161,6 +174,7 @@
       "title": "Dreifarbentheorie oder Gegenfarbtheorie?",
       "exercise": {
         "id": "ex-match-farbtheorien",
+        "stable_id": "ex-ms942qpk111vy",
         "type": "matching",
         "prompt": "Ordne jedem Merkmal die zugehörige Farbwahrnehmungstheorie zu.",
         "card_ids": ["dreifarbentheorie", "gegenfarbtheorie"],
@@ -180,6 +194,7 @@
       "title": "Reiz wird zu Nervenimpuls",
       "exercise": {
         "id": "ex-cloze-transduktion",
+        "stable_id": "ex-ms942qpk112po",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff für die Umwandlung eines Reizes in einen Nervenimpuls.",
         "card_ids": ["transduktion"],
@@ -198,6 +213,7 @@
       "title": "Frequenz und Tonhöhe",
       "exercise": {
         "id": "ex-cloze-schall",
+        "stable_id": "ex-ms942qpk1133d",
         "type": "cloze",
         "prompt": "Ergänze: Welche Eigenschaft einer Schallwelle bestimmt die Tonhöhe?",
         "card_ids": ["schall-frequenz-amplitude"],
@@ -216,6 +232,7 @@
       "title": "Der blinde Fleck",
       "exercise": {
         "id": "ex-free-blinder-fleck",
+        "stable_id": "ex-ms942qpk114gy",
         "type": "free_text",
         "prompt": "Warum gibt es auf der Netzhaut eine Stelle ohne Fotorezeptoren — wie heißt diese Stelle?",
         "card_ids": ["blinder-fleck"],
@@ -232,6 +249,7 @@
       "title": "Transduktion im Ohr",
       "exercise": {
         "id": "ex-free-haarzellen",
+        "stable_id": "ex-ms942qpk115ex",
         "type": "free_text",
         "prompt": "Wie heißen die Zellen in der Cochlea, die Schallschwingungen in Nervenimpulse umwandeln?",
         "card_ids": ["haarzellen"],
@@ -248,6 +266,7 @@
       "title": "Weg des Schalls in der richtigen Reihenfolge",
       "exercise": {
         "id": "ex-tiles-weg-schall",
+        "stable_id": "ex-ms942qpk116vn",
         "type": "word_tiles",
         "prompt": "Setze den Satz über den Weg des Schalls zusammen.",
         "card_ids": ["weg-des-schalls"],

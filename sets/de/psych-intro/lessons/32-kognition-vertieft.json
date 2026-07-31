@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "selektive-aufmerksamkeit",
+      "stable_id": "card-ms942qpb0s4qu",
       "front": "Selektive Aufmerksamkeit (Selective Attention)",
       "back": "Die Fähigkeit, sich auf einen Reiz oder eine Aufgabe zu konzentrieren und ablenkende Informationen auszublenden.",
       "notes": "Klassisches Beispiel: das Beschatteten-Ohr-Experiment von Cherry (1953) — Versuchspersonen hören nur dem Kanal zu, auf den sie gelenkt werden.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "geteilte-aufmerksamkeit",
+      "stable_id": "card-ms942qpb0s5b6",
       "front": "Geteilte Aufmerksamkeit (Divided Attention)",
       "back": "Die gleichzeitige Ausführung zweier oder mehrerer Aufgaben, bei der Aufmerksamkeitsressourcen aufgeteilt werden. Bei anspruchsvollen Aufgaben führt dies meist zu Leistungseinbußen.",
       "notes": "Eng verwandt mit dem Konzept der begrenzten Kapazität — vgl. Lektion 3 (Arbeitsgedächtnis).",
@@ -27,6 +29,7 @@
     },
     {
       "id": "cocktailparty-effekt",
+      "stable_id": "card-ms942qpb0s6za",
       "front": "Cocktailparty-Effekt (Cocktail-Party Effect)",
       "back": "Das Phänomen, dass man den eigenen Namen oder andere bedeutsame Wörter aus einem Hintergrundgewirr von Gesprächen herausfiltern kann, obwohl man diesen Kanal nicht bewusst verfolgt.",
       "notes": "Erstmals von Colin Cherry (1953) beschrieben. Zeigt, dass selektive Aufmerksamkeit auch unbewusste Überwachung enthält.",
@@ -37,6 +40,7 @@
     },
     {
       "id": "aufmerksamkeit-flaschenhals",
+      "stable_id": "card-ms942qpb0s7j6",
       "front": "Aufmerksamkeit als Flaschenhals (Bottleneck)",
       "back": "Die Auffassung, dass Aufmerksamkeit eine begrenzte Ressource darstellt: Nicht alle Reize können gleichzeitig tief verarbeitet werden — der Informationsfluss wird an einem Engpass gefiltert.",
       "notes": "Broadbents Filtertheorie (1958) ist das klassische Modell. Das Arbeitsgedächtnis (Lektion 3) ist eng damit verknüpft.",
@@ -46,6 +50,7 @@
     },
     {
       "id": "sprachebenen",
+      "stable_id": "card-ms942qpb0s8en",
       "front": "Sprachebenen: Phonem, Morphem, Syntax, Semantik",
       "back": "Vier Analyseebenen der Sprache: **Phonem** (kleinste Lauteinheit), **Morphem** (kleinste bedeutungstragende Einheit), **Syntax** (Regeln zur Satzkonstruktion), **Semantik** (Bedeutung von Wörtern und Sätzen).",
       "media_type": "text",
@@ -54,6 +59,7 @@
     },
     {
       "id": "chomsky-lad",
+      "stable_id": "card-ms942qpb0s9c4",
       "front": "Chomskys angeborene Sprachfähigkeit (LAD — Language Acquisition Device)",
       "back": "Noam Chomsky postulierte, dass Menschen mit einem biologisch verankerten Spracherwerbsmechanismus (LAD) geboren werden, der den Erwerb jeder natürlichen Sprache ermöglicht und die Universalgrammatik erklärt.",
       "notes": "Argument: Kinder erwerben Sprache schnell und fehlerfrei trotz lückenhafter Eingabe — bekannt als das 'Poverty of the Stimulus'-Argument.",
@@ -64,6 +70,7 @@
     },
     {
       "id": "sapir-whorf-hypothese",
+      "stable_id": "card-ms942qpb0sas7",
       "front": "Sapir-Whorf-Hypothese (Sprachliche Relativität)",
       "back": "Die Annahme, dass die Sprache, die jemand spricht, sein Denken und seine Wahrnehmung der Welt beeinflusst (schwache Version: Relativitätshypothese) oder sogar bestimmt (starke Version: Determinismushypothese).",
       "notes": "Klassisches Beispiel: viele Wörter für Schnee in arktischen Sprachen. Die starke Version gilt heute als widerlegt; die schwache findet empirische Unterstützung.",
@@ -73,6 +80,7 @@
     },
     {
       "id": "funktionale-gebundenheit",
+      "stable_id": "card-ms942qpb0sb9m",
       "front": "Funktionale Gebundenheit (Functional Fixedness)",
       "back": "Die Tendenz, Objekte nur für ihre übliche Funktion zu verwenden und dabei alternative Verwendungsmöglichkeiten zu übersehen — ein Hemmnis beim kreativen Problemlösen.",
       "notes": "Klassischer Versuch: Dunckers Kerzenaufgabe (1945) — Versuchspersonen übersehen, dass die Schachtel als Halterung dienen kann.",
@@ -83,6 +91,7 @@
     },
     {
       "id": "mentale-einstellung",
+      "stable_id": "card-ms942qpb0scxz",
       "front": "Mentale Einstellung / Set (Mental Set)",
       "back": "Die Neigung, Probleme auf die gleiche Weise zu lösen, die in der Vergangenheit funktioniert hat — auch wenn ein neuartiger Ansatz effizienter wäre.",
       "notes": "Zusammen mit funktionaler Gebundenheit ein Haupthindernis beim Problemlösen. Verwandt mit dem Begriff Einstellungseffekt (Luchins).",
@@ -92,6 +101,7 @@
     },
     {
       "id": "einsicht",
+      "stable_id": "card-ms942qpb0sdjf",
       "front": "Einsicht / Aha-Erlebnis (Insight)",
       "back": "Die plötzliche Erkenntnis einer Lösung, die nicht durch schrittweises Suchen erreicht wird, sondern durch eine abrupte Neuorganisation des Problemverständnisses.",
       "notes": "Klassisch erforscht von Wolfgang Köhler an Schimpansen (1917). Das Gegenstück zu algorithmischem Schritt-für-Schritt-Vorgehen (Lektion 11).",
@@ -102,6 +112,7 @@
     },
     {
       "id": "algorithmus-heuristik-kurz",
+      "stable_id": "card-ms942qpb0selv",
       "front": "Algorithmus vs. Heuristik beim Problemlösen",
       "back": "**Algorithmus**: garantiertes, schrittweises Verfahren — sicher, aber zeitaufwendig. **Heuristik**: schnelle Faustregel — effizient, aber fehleranfällig (Wiederaufgriff aus Lektion 11).",
       "notes": "In Lektion 11 ausführlich eingeführt. Hier im Kontext von Einsicht und mentalem Set relevant.",
@@ -111,6 +122,7 @@
     },
     {
       "id": "phonem",
+      "stable_id": "card-ms942qpb0sfi4",
       "front": "Phonem (Phoneme)",
       "back": "Die kleinste bedeutungsunterscheidende Lauteinheit einer Sprache. Beispiel: /p/ und /b/ sind im Deutschen zwei verschiedene Phoneme ('packen' vs. 'backen').",
       "media_type": "text",
@@ -144,6 +156,7 @@
       "title": "Aufmerksamkeitsformen zuordnen",
       "exercise": {
         "id": "ex-match-aufmerksamkeit",
+        "stable_id": "ex-ms942qpb0sg0w",
         "type": "matching",
         "prompt": "Ordne jedem Begriff seine treffende Beschreibung zu.",
         "card_ids": ["selektive-aufmerksamkeit", "geteilte-aufmerksamkeit", "cocktailparty-effekt"],
@@ -162,6 +175,7 @@
       "title": "Den Cocktailparty-Effekt benennen",
       "exercise": {
         "id": "ex-cloze-cocktailparty",
+        "stable_id": "ex-ms942qpb0sh1u",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff für das Phänomen, seinen Namen im Stimmengewirr herauszuhören.",
         "card_ids": ["cocktailparty-effekt"],
@@ -180,6 +194,7 @@
       "title": "Sprachebenen zuordnen",
       "exercise": {
         "id": "ex-match-sprachebenen",
+        "stable_id": "ex-ms942qpb0si3z",
         "type": "matching",
         "prompt": "Ordne jede Sprachebene ihrer Einheit bzw. ihrem Gegenstand zu.",
         "card_ids": ["sprachebenen", "phonem"],
@@ -199,6 +214,7 @@
       "title": "Chomskys Spracherwerbsmechanismus",
       "exercise": {
         "id": "ex-free-chomsky",
+        "stable_id": "ex-ms942qpb0sj2v",
         "type": "free_text",
         "prompt": "Wie heißt der von Chomsky postulierte angeborene Spracherwerbsmechanismus (Abkürzung oder Vollform)?",
         "card_ids": ["chomsky-lad"],
@@ -215,6 +231,7 @@
       "title": "Hindernisse beim Problemlösen",
       "exercise": {
         "id": "ex-free-problemloesen-hindernisse",
+        "stable_id": "ex-ms942qpb0skr3",
         "type": "free_text",
         "prompt": "Wie heißt die Tendenz, ein Objekt nur für seine übliche Funktion zu sehen (englisch: functional fixedness)?",
         "card_ids": ["funktionale-gebundenheit"],
@@ -231,6 +248,7 @@
       "title": "Das Aha-Erlebnis",
       "exercise": {
         "id": "ex-cloze-einsicht",
+        "stable_id": "ex-ms942qpb0slmr",
         "type": "cloze",
         "prompt": "Ergänze den Begriff für die plötzliche Erkenntnis einer Lösung.",
         "card_ids": ["einsicht"],
@@ -249,6 +267,7 @@
       "title": "Die Sapir-Whorf-Hypothese formulieren",
       "exercise": {
         "id": "ex-tiles-sapir-whorf",
+        "stable_id": "ex-ms942qpb0sm32",
         "type": "word_tiles",
         "prompt": "Setze den Kernsatz zur Sapir-Whorf-Hypothese zusammen.",
         "card_ids": ["sapir-whorf-hypothese"],

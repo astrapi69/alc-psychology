@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "inneres-arbeitsmodell",
+      "stable_id": "card-ms942qox0eut5",
       "front": "Inneres Arbeitsmodell (Internal Working Model)",
       "back": "Nach Bowlby ein in der frühen Kindheit erworbenes, verinnerlichtes Schema darüber, ob man selbst liebenswert ist und ob andere verlässlich und verfügbar sind. Es leitet spätere Beziehungserwartungen.",
       "notes": "Zwei Grundfragen: 'Bin ich es wert, geliebt zu werden?' und 'Sind andere für mich da?'",
@@ -19,6 +20,7 @@
     },
     {
       "id": "hazan-shaver",
+      "stable_id": "card-ms942qox0evjt",
       "front": "Hazan & Shaver (1987)",
       "back": "Cindy Hazan und Phillip Shaver übertrugen die Bindungstheorie auf romantische Partnerschaften: Erwachsene zeigen in Liebesbeziehungen ähnliche Bindungsmuster wie Kinder gegenüber ihren Bezugspersonen.",
       "notes": "Sie nutzten dafür einen Fragebogen in einer Zeitungsumfrage und fanden ähnliche Häufigkeiten wie bei den kindlichen Bindungstypen.",
@@ -28,6 +30,7 @@
     },
     {
       "id": "erwachsenenbindung",
+      "stable_id": "card-ms942qox0ewgu",
       "front": "Erwachsenenbindung (Adult Attachment)",
       "back": "Die in engen, meist romantischen Beziehungen wirksamen Bindungsmuster Erwachsener. Sie gehen aus den frühen inneren Arbeitsmodellen hervor, sind aber durch neue Erfahrungen veränderbar.",
       "notes": "Bindung ist also kein starres Schicksal: Korrigierende Beziehungserfahrungen können Muster verändern.",
@@ -37,6 +40,7 @@
     },
     {
       "id": "sicher-erwachsen",
+      "stable_id": "card-ms942qox0exkr",
       "front": "Sicherer Bindungsstil (Erwachsene)",
       "back": "Erwachsene mit sicherem Stil fühlen sich mit Nähe und Autonomie gleichermaßen wohl, vertrauen Partnern und können Konflikte konstruktiv regulieren. Geringe Angst, geringe Vermeidung.",
       "notes": "Häufigster Stil; entspricht dem inneren Arbeitsmodell 'Ich bin liebenswert, andere sind verlässlich'.",
@@ -46,6 +50,7 @@
     },
     {
       "id": "aengstlich-erwachsen",
+      "stable_id": "card-ms942qox0eygg",
       "front": "Ängstlicher (präokkupierter) Bindungsstil",
       "back": "Starkes Bedürfnis nach Nähe und Bestätigung, verbunden mit der Furcht, verlassen zu werden. Hohe Bindungsangst bei geringer Vermeidung.",
       "notes": "Geht oft auf inkonsistente, mal verfügbare, mal abweisende Fürsorge zurück (entspricht dem unsicher-ambivalenten Kindmuster).",
@@ -55,6 +60,7 @@
     },
     {
       "id": "vermeidend-erwachsen",
+      "stable_id": "card-ms942qox0ezj9",
       "front": "Vermeidender (abweisender) Bindungsstil",
       "back": "Betonung von Unabhängigkeit und Distanz, Unbehagen bei zu viel Nähe und Tendenz, emotionale Bedürfnisse herunterzuspielen. Geringe Angst, hohe Vermeidung.",
       "notes": "Knüpft an das unsicher-vermeidende Kindmuster an: Selbstständigkeit als Schutz.",
@@ -64,6 +70,7 @@
     },
     {
       "id": "aengstlich-vermeidend-erwachsen",
+      "stable_id": "card-ms942qox0f0cb",
       "front": "Ängstlich-vermeidender (desorganisierter) Bindungsstil",
       "back": "Gleichzeitiges Bedürfnis nach Nähe und Angst davor — Nähe wird ersehnt und gefürchtet. Hohe Bindungsangst und hohe Vermeidung zugleich.",
       "notes": "Auch 'fearful-avoidant'; häufig mit belastenden oder beängstigenden frühen Erfahrungen verbunden.",
@@ -73,6 +80,7 @@
     },
     {
       "id": "bindungsangst-vermeidung",
+      "stable_id": "card-ms942qox0f1gf",
       "front": "Die zwei Dimensionen: Angst und Vermeidung",
       "back": "Moderne Modelle beschreiben Erwachsenenbindung über zwei Dimensionen: Bindungsangst (Furcht vor Zurückweisung/Verlassenwerden) und Bindungsvermeidung (Unbehagen mit Nähe und Abhängigkeit).",
       "notes": "Die vier Stile entstehen aus der Kombination von hoher/niedriger Angst und hoher/niedriger Vermeidung.",
@@ -83,6 +91,7 @@
     },
     {
       "id": "aai",
+      "stable_id": "card-ms942qox0f2gl",
       "front": "Adult Attachment Interview (AAI)",
       "back": "Ein halbstrukturiertes Interview (George, Kaplan & Main), das nicht die Kindheit selbst, sondern die Art und Kohärenz erfasst, wie ein Erwachsener über seine frühen Bindungserfahrungen spricht.",
       "notes": "Entscheidend ist die Kohärenz der Erzählung, nicht ob die Kindheit glücklich war.",
@@ -92,6 +101,7 @@
     },
     {
       "id": "intergenerationale-weitergabe",
+      "stable_id": "card-ms942qox0f35k",
       "front": "Intergenerationale Weitergabe von Bindung",
       "back": "Die Beobachtung, dass die Bindungsrepräsentation der Eltern die Bindungssicherheit ihrer Kinder vorhersagt — vermittelt vor allem über die elterliche Feinfühligkeit.",
       "notes": "Bindungsmuster können so über Generationen weitergegeben, durch korrigierende Erfahrungen aber auch unterbrochen werden.",
@@ -101,6 +111,7 @@
     },
     {
       "id": "earned-security",
+      "stable_id": "card-ms942qox0f4we",
       "front": "Erworbene Sicherheit (Earned Security)",
       "back": "Ein heute sicherer Bindungsstil trotz belastender Kindheit — erreicht durch Reflexion und korrigierende Beziehungserfahrungen, etwa in Partnerschaft oder Therapie.",
       "notes": "Belegt, dass frühe Bindung kein unveränderliches Schicksal ist.",
@@ -110,6 +121,7 @@
     },
     {
       "id": "feinfuehligkeit-eltern",
+      "stable_id": "card-ms942qox0f529",
       "front": "Elterliche Feinfühligkeit (Parental Sensitivity)",
       "back": "Die Fähigkeit der Bezugsperson, kindliche Signale richtig wahrzunehmen, korrekt zu deuten und prompt sowie angemessen zu beantworten. Sie ist der wichtigste Vorhersagefaktor für sichere Bindung.",
       "notes": "Schlüsselgröße bei der intergenerationalen Weitergabe von Bindung.",
@@ -138,6 +150,7 @@
       "title": "Erwachsenen-Bindungsstile zuordnen",
       "exercise": {
         "id": "ex-match-bindungsstile",
+        "stable_id": "ex-ms942qox0f6r7",
         "type": "matching",
         "prompt": "Ordne jeder Beschreibung den richtigen Bindungsstil zu.",
         "card_ids": ["sicher-erwachsen", "aengstlich-erwachsen", "vermeidend-erwachsen", "aengstlich-vermeidend-erwachsen"],
@@ -157,6 +170,7 @@
       "title": "Bowlbys Schlüsselbegriff",
       "exercise": {
         "id": "ex-free-arbeitsmodell",
+        "stable_id": "ex-ms942qox0f735",
         "type": "free_text",
         "prompt": "Wie heißt das in der Kindheit erworbene, verinnerlichte Schema über die eigene Liebenswürdigkeit und die Verlässlichkeit anderer (Bowlby)?",
         "card_ids": ["inneres-arbeitsmodell"],
@@ -173,6 +187,7 @@
       "title": "Die zweite Bindungsdimension",
       "exercise": {
         "id": "ex-cloze-dimensionen",
+        "stable_id": "ex-ms942qox0f8ra",
         "type": "cloze",
         "prompt": "Ergänze die fehlende Dimension der Erwachsenenbindung.",
         "card_ids": ["bindungsangst-vermeidung"],
@@ -191,6 +206,7 @@
       "title": "Bindung in der Liebe",
       "exercise": {
         "id": "ex-free-hazan-shaver",
+        "stable_id": "ex-ms942qox0f9xb",
         "type": "free_text",
         "prompt": "Welches Forscherpaar übertrug 1987 die Bindungstheorie erstmals auf romantische Partnerschaften?",
         "card_ids": ["hazan-shaver"],
@@ -207,6 +223,7 @@
       "title": "Weitergabe und Veränderung",
       "exercise": {
         "id": "ex-match-konzepte-bindung",
+        "stable_id": "ex-ms942qox0fa2f",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die richtige Erklärung zu.",
         "card_ids": ["aai", "intergenerationale-weitergabe", "earned-security", "feinfuehligkeit-eltern"],
@@ -226,6 +243,7 @@
       "title": "Bindung ist kein Schicksal",
       "exercise": {
         "id": "ex-tiles-earned-security",
+        "stable_id": "ex-ms942qox0fbfu",
         "type": "word_tiles",
         "prompt": "Setze die Kernaussage zur erworbenen Sicherheit zusammen.",
         "card_ids": ["earned-security", "erwachsenenbindung"],
@@ -241,6 +259,7 @@
       "title": "Welcher Stil zeigt sich hier?",
       "exercise": {
         "id": "ex-pick-aengstlich",
+        "stable_id": "ex-ms942qox0fcq6",
         "type": "picture_choice",
         "prompt": "Welche Schilderung passt am besten zum ängstlichen (präokkupierten) Bindungsstil?",
         "card_ids": ["aengstlich-erwachsen"],

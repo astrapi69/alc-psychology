@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "entwicklungspsychologie",
+      "stable_id": "card-ms942qol068px",
       "front": "Entwicklungspsychologie (Developmental Psychology)",
       "back": "Teilgebiet der Psychologie, das Veränderungen im Erleben und Verhalten über die gesamte Lebensspanne von der Geburt bis zum Tod untersucht.",
       "notes": "Beschäftigt sich mit körperlichen, kognitiven, emotionalen und sozialen Entwicklungsprozessen.",
@@ -16,6 +17,7 @@
     },
     {
       "id": "piaget",
+      "stable_id": "card-ms942qol069nv",
       "front": "Jean Piaget",
       "back": "Schweizer Entwicklungspsychologe (1896–1980), der ein einflussreiches Modell der kognitiven Entwicklung in vier Stufen beschrieb.",
       "notes": "Piaget beobachtete seine eigenen Kinder und entwickelte daraus eine Theorie aktiven Wissenserwerbs.",
@@ -23,6 +25,7 @@
     },
     {
       "id": "sensomotorische-stufe",
+      "stable_id": "card-ms942qol06ai1",
       "front": "Sensomotorische Stufe (Sensorimotor Stage)",
       "back": "Erste kognitive Entwicklungsstufe nach Piaget (0–2 Jahre): Das Kind erkundet die Welt durch Sinne und motorische Handlungen.",
       "notes": "Am Ende dieser Stufe entwickelt sich die Objektpermanenz (ab ca. 8 Monaten).",
@@ -30,6 +33,7 @@
     },
     {
       "id": "praeoperationale-stufe",
+      "stable_id": "card-ms942qol06bli",
       "front": "Präoperationale Stufe (Preoperational Stage)",
       "back": "Zweite kognitive Entwicklungsstufe nach Piaget (2–7 Jahre): Sprache und symbolisches Denken entstehen, aber logisches Schlussfolgern fehlt noch.",
       "notes": "Kinder in dieser Phase sind egozentrisch — sie können die Perspektive anderer noch nicht übernehmen.",
@@ -37,6 +41,7 @@
     },
     {
       "id": "konkret-operationale-stufe",
+      "stable_id": "card-ms942qol06cc7",
       "front": "Konkret-operationale Stufe (Concrete Operational Stage)",
       "back": "Dritte kognitive Entwicklungsstufe nach Piaget (7–11 Jahre): Logisches Denken über konkrete Objekte wird möglich; Invarianzverständnis entsteht.",
       "notes": "Kinder verstehen nun, dass eine veränderte Form eines Behälters nicht die Menge verändert (Erhaltungsprinzip).",
@@ -44,6 +49,7 @@
     },
     {
       "id": "formal-operationale-stufe",
+      "stable_id": "card-ms942qol06dnh",
       "front": "Formal-operationale Stufe (Formal Operational Stage)",
       "back": "Vierte und letzte kognitive Entwicklungsstufe nach Piaget (ab 12 Jahren): Abstraktes und hypothetisches Denken wird möglich.",
       "notes": "Jugendliche können nun über mögliche Welten nachdenken und systematisch Hypothesen prüfen.",
@@ -51,6 +57,7 @@
     },
     {
       "id": "objektpermanenz",
+      "stable_id": "card-ms942qol06eue",
       "front": "Objektpermanenz (Object Permanence)",
       "back": "Erkenntnis, dass Gegenstände weiter existieren, auch wenn man sie gerade nicht sieht (ab ca. 8 Monaten).",
       "notes": "Zuvor sucht ein Baby nach einem versteckten Spielzeug nicht — für es hat der Gegenstand aufgehört zu existieren.",
@@ -58,6 +65,7 @@
     },
     {
       "id": "erikson",
+      "stable_id": "card-ms942qol06fjm",
       "front": "Erik Erikson",
       "back": "Entwicklungspsychologe (1902–1994), der die psychosoziale Entwicklung in acht Lebensstufen mit je einem zentralen Konflikt beschrieb.",
       "notes": "Im Gegensatz zu Freud umfasst Eriksons Modell die gesamte Lebensspanne bis ins hohe Alter.",
@@ -65,6 +73,7 @@
     },
     {
       "id": "urvertrauen",
+      "stable_id": "card-ms942qol06gqy",
       "front": "Urvertrauen vs. Urmisstrauen (Basic Trust vs. Mistrust)",
       "back": "Erste psychosoziale Stufe nach Erikson (0–1 Jahr): Säuglinge entwickeln je nach Fürsorge entweder Vertrauen oder Misstrauen gegenüber der Welt.",
       "notes": "Verlässliche Pflege fördert ein Grundgefühl von Sicherheit und Vertrauen.",
@@ -72,6 +81,7 @@
     },
     {
       "id": "identitaet-vs-rollenkonfusion",
+      "stable_id": "card-ms942qol06huc",
       "front": "Identität vs. Rollenkonfusion (Identity vs. Role Confusion)",
       "back": "Fünfte psychosoziale Stufe nach Erikson (Adoleszenz, 12–18 Jahre): Jugendliche fragen 'Wer bin ich?' und suchen eine stabile Identität.",
       "notes": "Scheitert diese Aufgabe, entsteht Rollenkonfusion — Unsicherheit über die eigene Rolle in der Gesellschaft.",
@@ -79,6 +89,7 @@
     },
     {
       "id": "integritaet-vs-verzweiflung",
+      "stable_id": "card-ms942qol06isj",
       "front": "Integrität vs. Verzweiflung (Integrity vs. Despair)",
       "back": "Achte und letzte psychosoziale Stufe nach Erikson (hohes Alter): Menschen blicken auf ihr Leben zurück — entweder mit Akzeptanz oder mit Bedauern.",
       "notes": "Ein erfülltes Rückblicken führt zu Ich-Integrität; das Gefühl, Zeit verloren zu haben, erzeugt Verzweiflung.",
@@ -86,6 +97,7 @@
     },
     {
       "id": "bindungstheorie",
+      "stable_id": "card-ms942qol06j12",
       "front": "Bindungstheorie (Attachment Theory)",
       "back": "Theorie von John Bowlby: Kinder haben ein angeborenes Bedürfnis, eine enge emotionale Bindung zu einer Bezugsperson aufzubauen.",
       "notes": "Die frühe Bindungsqualität beeinflusst spätere Beziehungen und die emotionale Entwicklung.",
@@ -93,6 +105,7 @@
     },
     {
       "id": "fremde-situation",
+      "stable_id": "card-ms942qol06kvd",
       "front": "Fremde-Situation-Test (Strange Situation Procedure)",
       "back": "Experimentelles Verfahren von Mary Ainsworth, um den Bindungsstil eines Kleinkindes zu erfassen: Trennung und Wiedervereinigung mit der Bezugsperson werden beobachtet.",
       "notes": "Der Test unterscheidet vier Bindungsstile: sicher, unsicher-vermeidend, unsicher-ambivalent und desorganisiert.",
@@ -100,6 +113,7 @@
     },
     {
       "id": "sichere-bindung",
+      "stable_id": "card-ms942qol06l37",
       "front": "Sichere Bindung (Secure Attachment)",
       "back": "Bindungsstil: Das Kind nutzt die Bezugsperson als sicheren Hafen, erkundet die Umgebung, zeigt Stress bei Trennung und wird bei Rückkehr schnell beruhigt.",
       "notes": "Entsteht durch feinfühlige, konsistente Fürsorge; häufigster Bindungsstil (~60–65 % der Kinder).",
@@ -107,6 +121,7 @@
     },
     {
       "id": "unsicher-vermeidend",
+      "stable_id": "card-ms942qol06mri",
       "front": "Unsicher-vermeidende Bindung (Insecure-Avoidant Attachment)",
       "back": "Bindungsstil: Das Kind zeigt kaum Trennungsschmerz und ignoriert die Bezugsperson bei Rückkehr.",
       "notes": "Geht oft auf eine emotional zurückweisende oder wenig reaktive Bezugsperson zurück.",
@@ -114,6 +129,7 @@
     },
     {
       "id": "kohlberg",
+      "stable_id": "card-ms942qol06n9o",
       "front": "Lawrence Kohlberg",
       "back": "US-amerikanischer Entwicklungspsychologe (1927–1987), der die moralische Entwicklung in drei Niveaus mit je zwei Stufen beschrieb.",
       "notes": "Kohlberg verwendete moralische Dilemmata (z. B. das Heinz-Dilemma) um das moralische Urteilsvermögen zu untersuchen.",
@@ -121,6 +137,7 @@
     },
     {
       "id": "praekonventionell",
+      "stable_id": "card-ms942qol06oii",
       "front": "Präkonventionelles Niveau (Preconventional Level)",
       "back": "Erste Ebene der moralischen Entwicklung nach Kohlberg: Moral basiert auf persönlichem Nutzen und Konsequenzen (Belohnung/Strafe).",
       "notes": "Typisch für Kinder bis ca. 9 Jahre: 'Etwas ist falsch, weil ich bestraft werde.'",
@@ -128,6 +145,7 @@
     },
     {
       "id": "konventionell",
+      "stable_id": "card-ms942qol06puo",
       "front": "Konventionelles Niveau (Conventional Level)",
       "back": "Zweite Ebene der moralischen Entwicklung nach Kohlberg: Moral richtet sich nach sozialen Normen, Gesetzen und Erwartungen der Gruppe.",
       "notes": "Die meisten Erwachsenen bleiben auf dieser Ebene: 'Etwas ist richtig, weil es die Regeln sagen.'",
@@ -135,6 +153,7 @@
     },
     {
       "id": "postkonventionell",
+      "stable_id": "card-ms942qol06q4x",
       "front": "Postkonventionelles Niveau (Postconventional Level)",
       "back": "Dritte und höchste Ebene der moralischen Entwicklung nach Kohlberg: Moral basiert auf universellen ethischen Prinzipien, auch wenn sie Gesetzen widersprechen.",
       "notes": "Nur wenige Menschen erreichen diese Stufe: Hier zählt das eigene Gewissen über die gesellschaftliche Norm.",
@@ -167,6 +186,7 @@
       "title": "Piagets Stufen zuordnen",
       "exercise": {
         "id": "ex-match-piaget-stufen",
+        "stable_id": "ex-ms942qol06rxt",
         "type": "matching",
         "prompt": "Ordne jeder Entwicklungsstufe nach Piaget das passende Alter oder Merkmal zu.",
         "card_ids": ["sensomotorische-stufe", "praeoperationale-stufe", "konkret-operationale-stufe", "formal-operationale-stufe"],
@@ -186,6 +206,7 @@
       "title": "Begriff zur Definition",
       "exercise": {
         "id": "ex-free-objektpermanenz",
+        "stable_id": "ex-ms942qol06sf5",
         "type": "free_text",
         "prompt": "Wie heißt die Erkenntnis, dass Gegenstände weiterexistieren, auch wenn man sie gerade nicht sieht?",
         "card_ids": ["objektpermanenz"],
@@ -202,6 +223,7 @@
       "title": "Eriksons Stufen zuordnen",
       "exercise": {
         "id": "ex-match-erikson",
+        "stable_id": "ex-ms942qol06tdz",
         "type": "matching",
         "prompt": "Ordne jeder Lebensstufe nach Erikson den passenden Kernkonflikt zu.",
         "card_ids": ["urvertrauen", "identitaet-vs-rollenkonfusion", "integritaet-vs-verzweiflung"],
@@ -220,6 +242,7 @@
       "title": "Piaget-Stufe ergänzen",
       "exercise": {
         "id": "ex-cloze-piaget-alter",
+        "stable_id": "ex-ms942qol06u5x",
         "type": "cloze",
         "prompt": "Ergänze die fehlende Stufe in Piagets Modell.",
         "card_ids": ["praeoperationale-stufe"],
@@ -238,6 +261,7 @@
       "title": "Bindungsstil benennen",
       "exercise": {
         "id": "ex-free-bindungsstile",
+        "stable_id": "ex-ms942qol06vp7",
         "type": "free_text",
         "prompt": "Welcher Bindungsstil zeigt sich, wenn ein Kind kaum Trennungsschmerz hat und die Bezugsperson bei Rückkehr ignoriert?",
         "card_ids": ["unsicher-vermeidend"],
@@ -254,6 +278,7 @@
       "title": "Kohlbergs Niveaus sortieren",
       "exercise": {
         "id": "ex-tile-kohlberg",
+        "stable_id": "ex-ms942qol06w2h",
         "type": "word_tiles",
         "prompt": "Setze die drei Niveaus der moralischen Entwicklung nach Kohlberg in der richtigen Reihenfolge zusammen.",
         "card_ids": ["praekonventionell", "konventionell", "postkonventionell"],
@@ -269,6 +294,7 @@
       "title": "Bindungsstil im Bild erkennen",
       "exercise": {
         "id": "ex-picture-bindung",
+        "stable_id": "ex-ms942qol06x3t",
         "type": "picture_choice",
         "prompt": "Welcher Bindungsstil beschreibt das Verhalten eines Kindes, das seine Bezugsperson als sicheren Hafen nutzt und nach Trennung schnell beruhigt wird?",
         "card_ids": ["sichere-bindung", "unsicher-vermeidend", "bindungstheorie", "fremde-situation"],
@@ -290,6 +316,7 @@
       "title": "Kohlbergs höchstes Niveau",
       "exercise": {
         "id": "ex-cloze-kohlberg",
+        "stable_id": "ex-ms942qol06yzf",
         "type": "cloze",
         "prompt": "Ergänze das höchste Niveau in Kohlbergs Modell.",
         "card_ids": ["postkonventionell"],
@@ -308,6 +335,7 @@
       "title": "Theoretiker und Konzept zuordnen",
       "exercise": {
         "id": "ex-match-theoretiker",
+        "stable_id": "ex-ms942qol06zn3",
         "type": "matching",
         "prompt": "Ordne jedem Entwicklungspsychologen das passende Konzept zu.",
         "card_ids": ["piaget", "erikson", "kohlberg", "bindungstheorie"],

@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "glaubhaftigkeitsbegutachtung",
+      "stable_id": "card-ms942qq51iro3",
       "front": "Glaubhaftigkeitsbegutachtung (Credibility Assessment)",
       "back": "Ein wissenschaftliches Gutachten, das prüft, ob eine konkrete Aussage erlebnisbasiert ist — also ob sie auf einem tatsächlich erlebten Ereignis beruht.",
       "notes": "Baut auf Lektion 81 (Aussagepsychologie) auf. Die zentrale Frage lautet nicht 'Lügt die Person?' sondern 'Hat die Aussage Merkmale erlebten Geschehens?'",
@@ -18,6 +19,7 @@
     },
     {
       "id": "undeutsch-hypothese",
+      "stable_id": "card-ms942qq51isz5",
       "front": "Undeutsch-Hypothese",
       "back": "Die Annahme, dass Aussagen über tatsächlich erlebte Ereignisse sich in Inhalt und Qualität systematisch von erfundenen Aussagen unterscheiden.",
       "notes": "Benannt nach Udo Undeutsch, der das Verfahren in den 1950er-Jahren entwickelte. Die Hypothese ist die theoretische Grundlage der CBCA.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "erlebnisbasiert",
+      "stable_id": "card-ms942qq51itps",
       "front": "Erlebnisbasierte Aussage",
       "back": "Eine Aussage, die auf einem tatsächlich wahrgenommenen Ereignis beruht — im Gegensatz zu einer erfundenen, suggerierten oder angeleiteten Aussage.",
       "media_type": "text",
@@ -35,6 +38,7 @@
     },
     {
       "id": "cbca",
+      "stable_id": "card-ms942qq51iuox",
       "front": "Kriterienbasierte Inhaltsanalyse (CBCA — Criteria-Based Content Analysis)",
       "back": "Ein strukturiertes Analyseverfahren, das Aussagen anhand von Realkennzeichen bewertet, um einzuschätzen, ob eine Aussage erlebnisbasiert ist.",
       "notes": "CBCA ist Teil der umfassenderen Statement Validity Assessment (SVA). Erfordert geschulte Sachverständige.",
@@ -44,6 +48,7 @@
     },
     {
       "id": "realkennzeichen",
+      "stable_id": "card-ms942qq51ivt0",
       "front": "Realkennzeichen",
       "back": "Inhaltliche und qualitative Merkmale einer Aussage, die bei erlebnisbasierten Berichten häufiger vorkommen — z. B. logische Konsistenz, raumzeitliche Verknüpfungen und ungewöhnliche Details.",
       "notes": "Realkennzeichen sind kein Checklisten-Werkzeug für Laien; ihre Bewertung setzt Sachverstand und systematische Schulung voraus.",
@@ -53,6 +58,7 @@
     },
     {
       "id": "logische-konsistenz",
+      "stable_id": "card-ms942qq51iwb0",
       "front": "Logische Konsistenz (als Realkennzeichen)",
       "back": "Die Aussage enthält keine inneren Widersprüche und ist in sich schlüssig — ein Merkmal, das bei erlebnisbasierten Schilderungen tendenziell stärker ausgeprägt ist.",
       "media_type": "text",
@@ -61,6 +67,7 @@
     },
     {
       "id": "ungewoehnliche-details",
+      "stable_id": "card-ms942qq51ix00",
       "front": "Ungewöhnliche Details (als Realkennzeichen)",
       "back": "Spezifische, nebensächliche oder unerwartete Einzelheiten in einer Aussage, die für eine Erfindung untypisch sind und auf tatsächliches Erleben hindeuten können.",
       "notes": "Beispiel: Die Schilderung einer bestimmten Farbe, eines Geruchs oder einer irrelevanten Nebenhandlung.",
@@ -70,6 +77,7 @@
     },
     {
       "id": "nullhypothese-gutachten",
+      "stable_id": "card-ms942qq51iyr1",
       "front": "Nullhypothese im Glaubhaftigkeitsgutachten",
       "back": "Im Gutachten wird zunächst angenommen, die Aussage sei NICHT erlebnisbasiert; erst wenn diese Hypothese durch die Analyse nicht gestützt wird, gilt die Aussage als glaubhaft.",
       "notes": "Entspricht dem wissenschaftlichen Prinzip aus Lektion 21: Man versucht, eine Hypothese zu widerlegen, nicht zu bestätigen.",
@@ -80,6 +88,7 @@
     },
     {
       "id": "glaubhaftigkeit-vs-glaubwuerdigkeit",
+      "stable_id": "card-ms942qq51izn6",
       "front": "Glaubhaftigkeit der Aussage vs. Glaubwürdigkeit der Person",
       "back": "Das Gutachten bewertet die Qualität der Aussage, nicht den Charakter der aussagenden Person. Eine Aussage kann glaubhaft sein, auch wenn die Person als unzuverlässig gilt — und umgekehrt.",
       "notes": "Diese Unterscheidung ist rechtlich und wissenschaftlich zentral.",
@@ -89,6 +98,7 @@
     },
     {
       "id": "kein-luegendetektor",
+      "stable_id": "card-ms942qq51j0qu",
       "front": "Glaubhaftigkeitsbegutachtung ist KEIN Lügendetektor",
       "back": "Die CBCA liefert keine binäre 'wahr/falsch'-Entscheidung. Sie ist ein probabilistisches, fehleranfälliges Werkzeug, das nur von geschulten Sachverständigen in einem umfassenden Begutachtungsrahmen eingesetzt werden sollte.",
       "notes": "Auch Polygraphen (klassische 'Lügendetektoren') sind wissenschaftlich nicht valide und in deutschen Gerichten nicht zugelassen.",
@@ -98,6 +108,7 @@
     },
     {
       "id": "sachverstaendiger",
+      "stable_id": "card-ms942qq51j1ab",
       "front": "Sachverständiger in der Aussagepsychologie",
       "back": "Eine speziell ausgebildete Fachperson, die im Auftrag eines Gerichts eine Glaubhaftigkeitsbegutachtung erstellt. Die Begutachtung ist kein Alltagswerkzeug.",
       "media_type": "text",
@@ -106,6 +117,7 @@
     },
     {
       "id": "grenzen-cbca",
+      "stable_id": "card-ms942qq51j25y",
       "front": "Grenzen der CBCA",
       "back": "Die CBCA ist fehleranfällig: Suggestion, Trauma, Entwicklungsstand oder Kultur können Realkennzeichen verzerren. Das Verfahren ersetzt keine rechtliche Beweiswürdigung.",
       "notes": "Forschung zeigt moderate Treffsicherheit; das Verfahren ist eines von mehreren Elementen im Gutachtenprozess.",
@@ -140,6 +152,7 @@
       "title": "Begriffe zuordnen",
       "exercise": {
         "id": "ex-match-begriffe",
+        "stable_id": "ex-ms942qq51j3lo",
         "type": "matching",
         "prompt": "Ordne jedem Begriff seine Bedeutung zu.",
         "card_ids": ["glaubhaftigkeitsbegutachtung", "undeutsch-hypothese", "erlebnisbasiert", "nullhypothese-gutachten"],
@@ -159,6 +172,7 @@
       "title": "Die Undeutsch-Hypothese",
       "exercise": {
         "id": "ex-cloze-undeutsch",
+        "stable_id": "ex-ms942qq51j4cp",
         "type": "cloze",
         "prompt": "Ergänze den Kernsatz der Undeutsch-Hypothese.",
         "card_ids": ["undeutsch-hypothese"],
@@ -177,6 +191,7 @@
       "title": "Kein Lügendetektor",
       "exercise": {
         "id": "ex-free-kein-luegendetektor",
+        "stable_id": "ex-ms942qq51j5w6",
         "type": "free_text",
         "prompt": "Die CBCA liefert keine binäre 'wahr/falsch'-Entscheidung. Sie ist ein ___ Werkzeug.",
         "card_ids": ["kein-luegendetektor"],
@@ -193,6 +208,7 @@
       "title": "Realkennzeichen der CBCA",
       "exercise": {
         "id": "ex-match-realkennzeichen",
+        "stable_id": "ex-ms942qq51j6jd",
         "type": "matching",
         "prompt": "Ordne jedem Realkennzeichen seine Beschreibung zu.",
         "card_ids": ["logische-konsistenz", "ungewoehnliche-details", "realkennzeichen"],
@@ -211,6 +227,7 @@
       "title": "Glaubhaftigkeit vs. Glaubwürdigkeit",
       "exercise": {
         "id": "ex-tiles-glaubhaftigkeit",
+        "stable_id": "ex-ms942qq51j7wq",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zusammen: Das Gutachten bewertet …",
         "card_ids": ["glaubhaftigkeit-vs-glaubwuerdigkeit"],
@@ -226,6 +243,7 @@
       "title": "Die Nullhypothese im Gutachten",
       "exercise": {
         "id": "ex-cloze-nullhypothese",
+        "stable_id": "ex-ms942qq51j8ej",
         "type": "cloze",
         "prompt": "Welche Annahme steht am Beginn der Begutachtung?",
         "card_ids": ["nullhypothese-gutachten"],
@@ -244,6 +262,7 @@
       "title": "Grenzen der CBCA",
       "exercise": {
         "id": "ex-free-grenzen",
+        "stable_id": "ex-ms942qq51j9od",
         "type": "free_text",
         "prompt": "Nenne einen Faktor, der Realkennzeichen verzerren und so die CBCA beeinträchtigen kann.",
         "card_ids": ["grenzen-cbca"],

@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "bewusstsein-recap",
+      "stable_id": "card-ms942qpt17m6o",
       "front": "Bewusstsein (Consciousness)",
       "back": "Das Gewahrsein der eigenen Person und der Umwelt im aktuellen Moment.",
       "notes": "Grundbegriff aus Lektion 14; hier vertiefen wir Schlaf und veränderte Zustände.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "zirkadianer-rhythmus",
+      "stable_id": "card-ms942qpt17nht",
       "front": "Zirkadianer Rhythmus",
       "back": "Der etwa 24-stündige innere Rhythmus, der Wachheit, Schlaf, Körpertemperatur und Hormone steuert.",
       "notes": "Lateinisch 'circa diem' = ungefähr ein Tag.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "scn",
+      "stable_id": "card-ms942qpt17ock",
       "front": "Suprachiasmatischer Nukleus (SCN)",
       "back": "Die 'innere Uhr' im Hypothalamus, die den zirkadianen Rhythmus steuert und sich am Tageslicht ausrichtet.",
       "notes": "Licht auf der Netzhaut synchronisiert den SCN mit der Außenwelt.",
@@ -37,6 +40,7 @@
     },
     {
       "id": "melatonin",
+      "stable_id": "card-ms942qpt17pm6",
       "front": "Melatonin",
       "back": "Das Hormon der Zirbeldrüse, das bei Dunkelheit ausgeschüttet wird und müde macht.",
       "notes": "Künstliches Licht am Abend kann die Melatoninausschüttung hemmen.",
@@ -46,6 +50,7 @@
     },
     {
       "id": "schlafstadien",
+      "stable_id": "card-ms942qpt17q6a",
       "front": "Schlafstadien (NREM & REM)",
       "back": "Der Schlaf durchläuft mehrere Stadien: Leichtschlaf und Tiefschlaf (NREM 1–3) sowie den REM-Schlaf mit raschen Augenbewegungen.",
       "notes": "Ein Zyklus dauert etwa 90 Minuten und wiederholt sich mehrfach pro Nacht.",
@@ -55,6 +60,7 @@
     },
     {
       "id": "tiefschlaf",
+      "stable_id": "card-ms942qpt17rke",
       "front": "Tiefschlaf (Slow-Wave Sleep)",
       "back": "Das tiefste NREM-Stadium mit langsamen Delta-Wellen; besonders wichtig für körperliche Erholung und Gedächtniskonsolidierung.",
       "media_type": "text",
@@ -63,6 +69,7 @@
     },
     {
       "id": "rem-schlaf",
+      "stable_id": "card-ms942qpt17smg",
       "front": "REM-Schlaf",
       "back": "Schlafphase mit raschen Augenbewegungen, lebhaften Träumen und nahezu gelähmter Muskulatur ('paradoxer Schlaf').",
       "notes": "REM = Rapid Eye Movement. Der Körper ruht, das Gehirn ist hochaktiv.",
@@ -72,6 +79,7 @@
     },
     {
       "id": "schlaffunktion",
+      "stable_id": "card-ms942qpt17tfb",
       "front": "Funktionen des Schlafs",
       "back": "Schlaf dient u. a. der körperlichen Erholung, der Gedächtniskonsolidierung und der Reinigung des Gehirns von Stoffwechselprodukten.",
       "media_type": "text",
@@ -80,6 +88,7 @@
     },
     {
       "id": "aktivierungs-synthese",
+      "stable_id": "card-ms942qpt17uh0",
       "front": "Aktivierungs-Synthese-Hypothese",
       "back": "Träume entstehen, wenn das Gehirn zufällige Aktivierung im REM-Schlaf zu einer Geschichte zusammensetzt.",
       "notes": "Von Hobson & McCarley — eine biologische Gegenposition zu Freuds Traumdeutung.",
@@ -89,6 +98,7 @@
     },
     {
       "id": "traumdeutung-freud",
+      "stable_id": "card-ms942qpt17v7p",
       "front": "Traumdeutung (Freud)",
       "back": "Freuds Sicht: Träume sind verschlüsselte Erfüllungen unbewusster Wünsche (manifester vs. latenter Trauminhalt).",
       "notes": "Vgl. Lektion 19. Heute wissenschaftlich umstritten.",
@@ -98,6 +108,7 @@
     },
     {
       "id": "insomnie",
+      "stable_id": "card-ms942qpt17w50",
       "front": "Insomnie (Schlaflosigkeit)",
       "back": "Anhaltende Schwierigkeiten beim Ein- oder Durchschlafen mit Beeinträchtigung am Tag.",
       "media_type": "text",
@@ -106,6 +117,7 @@
     },
     {
       "id": "schlafentzug",
+      "stable_id": "card-ms942qpt17xyf",
       "front": "Schlafentzug",
       "back": "Anhaltender Schlafmangel beeinträchtigt Konzentration, Stimmung, Immunsystem und Gedächtnis.",
       "media_type": "text",
@@ -139,6 +151,7 @@
       "title": "Die innere Uhr benennen",
       "exercise": {
         "id": "ex-cloze-scn",
+        "stable_id": "ex-ms942qpt17ybi",
         "type": "cloze",
         "prompt": "Ergänze das Hormon, das bei Dunkelheit müde macht.",
         "card_ids": ["melatonin", "scn"],
@@ -157,6 +170,7 @@
       "title": "Schlafstadien zuordnen",
       "exercise": {
         "id": "ex-match-stadien",
+        "stable_id": "ex-ms942qpt17z6o",
         "type": "matching",
         "prompt": "Ordne jedem Begriff seine Beschreibung zu.",
         "card_ids": ["tiefschlaf", "rem-schlaf", "zirkadianer-rhythmus"],
@@ -175,6 +189,7 @@
       "title": "Der paradoxe Schlaf",
       "exercise": {
         "id": "ex-free-rem",
+        "stable_id": "ex-ms942qpt180un",
         "type": "free_text",
         "prompt": "Wie heißt die Schlafphase mit raschen Augenbewegungen, lebhaften Träumen und gelähmter Muskulatur?",
         "card_ids": ["rem-schlaf"],
@@ -191,6 +206,7 @@
       "title": "Zwei Traumtheorien",
       "exercise": {
         "id": "ex-match-traumtheorien",
+        "stable_id": "ex-ms942qpt181me",
         "type": "matching",
         "prompt": "Ordne jeder Sichtweise ihre Kernidee zu.",
         "card_ids": ["traumdeutung-freud", "aktivierungs-synthese", "schlaffunktion"],
@@ -209,6 +225,7 @@
       "title": "Die Länge eines Zyklus",
       "exercise": {
         "id": "ex-cloze-zyklus",
+        "stable_id": "ex-ms942qpt182t1",
         "type": "cloze",
         "prompt": "Ergänze die ungefähre Dauer eines Schlafzyklus in Minuten.",
         "card_ids": ["schlafstadien"],
@@ -227,6 +244,7 @@
       "title": "Die häufigste Schlafstörung",
       "exercise": {
         "id": "ex-free-insomnie",
+        "stable_id": "ex-ms942qpt183bs",
         "type": "free_text",
         "prompt": "Wie heißt die anhaltende Schwierigkeit beim Ein- oder Durchschlafen?",
         "card_ids": ["insomnie"],
@@ -243,6 +261,7 @@
       "title": "Wo die innere Uhr sitzt",
       "exercise": {
         "id": "ex-tiles-scn",
+        "stable_id": "ex-ms942qpt184h2",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zur inneren Uhr zusammen.",
         "card_ids": ["scn", "zirkadianer-rhythmus"],

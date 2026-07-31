@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "card-priming",
+      "stable_id": "card-ms942qoa0012p",
       "front": "Priming (Bahnung)",
       "back": "Ein vorgeschalteter Reiz aktiviert unbewusst Assoziationen und beeinflusst dadurch die spätere Reaktion",
       "notes": "Der Reiz bahnt einen Pfad: passende Inhalte werden danach schneller oder leichter verarbeitet.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "card-semantisches-priming",
+      "stable_id": "card-ms942qoa002su",
       "front": "Semantisches Priming",
       "back": "Ein bedeutungsverwandtes Wort wird schneller erkannt, wenn kurz zuvor ein verwandtes Wort gezeigt wurde (z. B. *Arzt* nach *Krankenschwester*)",
       "notes": "Robust und vielfach repliziert. Klassisch gezeigt in Lexical-Decision-Aufgaben (Meyer & Schvaneveldt, 1971).",
@@ -27,6 +29,7 @@
     },
     {
       "id": "card-perzeptuelles-priming",
+      "stable_id": "card-ms942qoa00390",
       "front": "Perzeptuelles Priming",
       "back": "Ein zuvor wahrgenommener Reiz wird später leichter wiedererkannt, auch ohne bewusste Erinnerung an die erste Begegnung",
       "notes": "Ebenfalls gut abgesichert; spielt z. B. beim impliziten Gedächtnis eine Rolle.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "card-social-priming",
+      "stable_id": "card-ms942qoa004qi",
       "front": "Social/Behavioral Priming",
       "back": "Die umstrittene Annahme, beiläufige Reize (etwa Wörter zum Thema *alt*) veränderten direkt komplexes Verhalten",
       "notes": "Viele dieser Studien ließen sich nicht reproduzieren — hier ist Vorsicht geboten.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "card-replikationskrise",
+      "stable_id": "card-ms942qoa005vd",
       "front": "Replikationskrise",
       "back": "Befund, dass sich viele klassische Studien (besonders zum social/behavioral Priming) in unabhängigen Wiederholungen nicht bestätigen ließen",
       "notes": "Seit den frühen 2010er-Jahren ein zentrales Thema der Psychologie, mit dem großen Replikationsreport 2015 als Wendepunkt. Folge: Effekte werden vorsichtiger und mit Präregistrierung geprüft.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "card-bargh-doyen",
+      "stable_id": "card-ms942qoa006s0",
       "front": "Bargh et al. (1996) und Doyen et al. (2012)",
       "back": "Bargh et al. berichteten, Alters-Wörter ließen Personen langsamer gehen; Doyen et al. konnten diesen Effekt nicht sauber replizieren",
       "notes": "Ein oft zitiertes Beispiel dafür, warum behaviorales Priming kritisch gesehen wird. Beide Studien sind real und korrekt zugeordnet.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "card-priming-grenze",
+      "stable_id": "card-ms942qoa0070n",
       "front": "Wie stark ist Priming wirklich?",
       "back": "Semantisches und perzeptuelles Priming sind robust; behaviorales Priming ist klein, fragil und nicht garantiert — kein allmächtiger Steuerungsmechanismus",
       "notes": "Im Zweifel zurückhaltend formulieren statt Effektstärken aufzublasen.",
@@ -85,6 +92,7 @@
       "title": "Definition: Priming",
       "exercise": {
         "id": "ex-free-priming",
+        "stable_id": "ex-ms942qoa008ow",
         "type": "free_text",
         "prompt": "Wie lässt sich Priming in einem Satz beschreiben?",
         "card_ids": ["card-priming"],
@@ -109,6 +117,7 @@
       "title": "Robust oder umstritten?",
       "exercise": {
         "id": "ex-cloze-arten",
+        "stable_id": "ex-ms942qoa00933",
         "type": "cloze",
         "prompt": "Ergänze die Einordnung der Priming-Arten.",
         "card_ids": ["card-semantisches-priming", "card-social-priming"],
@@ -128,6 +137,7 @@
       "title": "Welche Priming-Art ist gut abgesichert?",
       "exercise": {
         "id": "ex-select-robust",
+        "stable_id": "ex-ms942qoa00a3o",
         "type": "cloze",
         "prompt": "Wähle die Priming-Art, die als empirisch robust gilt.",
         "card_ids": ["card-semantisches-priming"],
@@ -147,6 +157,7 @@
       "title": "Priming-Begriffe zuordnen",
       "exercise": {
         "id": "ex-match-priming",
+        "stable_id": "ex-ms942qoa00b1a",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Beschreibung zu.",
         "card_ids": ["card-semantisches-priming", "card-perzeptuelles-priming", "card-social-priming", "card-replikationskrise"],
@@ -166,6 +177,7 @@
       "title": "Setze den Kernsatz zur Replikationskrise zusammen",
       "exercise": {
         "id": "ex-tiles-bargh",
+        "stable_id": "ex-ms942qoa00cqk",
         "type": "word_tiles",
         "prompt": "Setze den korrekten Satz über das Bargh-Doyen-Beispiel zusammen.",
         "card_ids": ["card-bargh-doyen"],
@@ -180,6 +192,7 @@
       "title": "Wie stark ist Priming?",
       "exercise": {
         "id": "ex-free-grenze",
+        "stable_id": "ex-ms942qoa00dr4",
         "type": "free_text",
         "prompt": "Warum darf man Priming nicht als allmächtigen Steuerungsmechanismus darstellen?",
         "card_ids": ["card-priming-grenze"],

@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "entwicklungspsychologie-lebensspanne",
+      "stable_id": "card-ms942qq01cuaj",
       "front": "Lebensspannenperspektive (Life-Span)",
       "back": "Die Sicht, dass Entwicklung von der Empfängnis bis zum Tod stattfindet — lebenslang, in jeder Phase mit Gewinnen und Verlusten.",
       "notes": "Vertieft Lektion 6 und 34 chronologisch über das ganze Leben.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "praenatale-phasen",
+      "stable_id": "card-ms942qq01cva5",
       "front": "Pränatale Phasen",
       "back": "Drei Abschnitte vor der Geburt: Keimphase (0–2 Wochen), Embryonalphase (3.–8. Woche, Organbildung) und Fetalphase (ab 9. Woche bis Geburt).",
       "media_type": "text",
@@ -26,6 +28,7 @@
     },
     {
       "id": "teratogene",
+      "stable_id": "card-ms942qq01cw6s",
       "front": "Teratogene",
       "back": "Schädigende Einflüsse während der Schwangerschaft (z. B. Alkohol, Nikotin, bestimmte Medikamente, Infektionen), die die Entwicklung stören.",
       "notes": "Besonders kritisch in der Embryonalphase. Alkohol kann zum fetalen Alkoholsyndrom führen.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "neugeborenenreflexe",
+      "stable_id": "card-ms942qq01cx0x",
       "front": "Neugeborenenreflexe",
       "back": "Angeborene, automatische Reaktionen wie Saug-, Greif- und Mororeflex, die das Überleben sichern und sich später zurückbilden.",
       "media_type": "text",
@@ -44,6 +48,7 @@
     },
     {
       "id": "motorische-entwicklung",
+      "stable_id": "card-ms942qq01cyg9",
       "front": "Motorische Entwicklung",
       "back": "Der geordnete Erwerb von Bewegungsfertigkeiten (Kopf heben, sitzen, krabbeln, laufen) — verläuft von oben nach unten und von der Körpermitte nach außen.",
       "notes": "Die Reihenfolge ist universell, das Tempo individuell.",
@@ -53,6 +58,7 @@
     },
     {
       "id": "reifung",
+      "stable_id": "card-ms942qq01czqf",
       "front": "Reifung (Maturation)",
       "back": "Biologisch gesteuerte Entwicklungsabläufe, die weitgehend unabhängig von Erfahrung in einer festen Reihenfolge ablaufen.",
       "notes": "Ergänzt das Lernen aus Erfahrung; Anlage und Umwelt wirken zusammen (vgl. Lektion 37).",
@@ -62,6 +68,7 @@
     },
     {
       "id": "temperament",
+      "stable_id": "card-ms942qq01d0vo",
       "front": "Temperament",
       "back": "Die angeborene, früh erkennbare Art zu reagieren (z. B. leicht, schwierig oder langsam auftauend) — eine biologische Grundlage späterer Persönlichkeit.",
       "notes": "Thomas & Chess. Recht stabil über die Zeit.",
@@ -71,6 +78,7 @@
     },
     {
       "id": "bindung-recap",
+      "stable_id": "card-ms942qq01d1ep",
       "front": "Bindung (Attachment)",
       "back": "Das enge, dauerhafte emotionale Band zwischen Kind und Bezugsperson; Grundlage für Sicherheit und spätere Beziehungen.",
       "notes": "Bindungstheorie von Bowlby (vgl. Lektion 34).",
@@ -80,6 +88,7 @@
     },
     {
       "id": "sichere-bindung",
+      "stable_id": "card-ms942qq01d2r5",
       "front": "Sichere Bindung",
       "back": "Bindungsmuster, bei dem das Kind die Bezugsperson als sichere Basis nutzt: Es ist bei Trennung beunruhigt und lässt sich bei Rückkehr rasch trösten.",
       "notes": "Ergebnis feinfühligen, verlässlichen Verhaltens der Bezugsperson.",
@@ -89,6 +98,7 @@
     },
     {
       "id": "feinfuehligkeit",
+      "stable_id": "card-ms942qq01d3ro",
       "front": "Feinfühligkeit (Responsivität)",
       "back": "Die Fähigkeit der Bezugsperson, die Signale des Kindes richtig wahrzunehmen und prompt sowie angemessen darauf zu reagieren.",
       "notes": "Der wichtigste Faktor für die Entstehung sicherer Bindung (Ainsworth).",
@@ -98,6 +108,7 @@
     },
     {
       "id": "kritische-sensible-phase",
+      "stable_id": "card-ms942qq01d4t3",
       "front": "Sensible Phase",
       "back": "Ein Zeitfenster, in dem bestimmte Erfahrungen die Entwicklung besonders stark prägen (z. B. früher Spracherwerb).",
       "notes": "Weniger streng als eine 'kritische Periode'; danach ist Lernen schwerer, aber nicht unmöglich.",
@@ -107,6 +118,7 @@
     },
     {
       "id": "objektpermanenz-recap",
+      "stable_id": "card-ms942qq01d51p",
       "front": "Objektpermanenz",
       "back": "Das Verständnis, dass Dinge weiter existieren, auch wenn man sie nicht sieht — entwickelt sich im ersten Lebensjahr.",
       "notes": "Meilenstein der sensomotorischen Phase bei Piaget (vgl. Lektion 34).",
@@ -141,6 +153,7 @@
       "title": "Pränatale Phasen zuordnen",
       "exercise": {
         "id": "ex-match-praenatal",
+        "stable_id": "ex-ms942qq01d6vj",
         "type": "matching",
         "prompt": "Ordne jeder pränatalen Phase ihr Kennzeichen zu.",
         "card_ids": ["praenatale-phasen", "teratogene"],
@@ -159,6 +172,7 @@
       "title": "Schädliche Einflüsse",
       "exercise": {
         "id": "ex-free-teratogene",
+        "stable_id": "ex-ms942qq01d75s",
         "type": "free_text",
         "prompt": "Wie heißen schädigende Einflüsse während der Schwangerschaft (z. B. Alkohol, Nikotin)?",
         "card_ids": ["teratogene"],
@@ -175,6 +189,7 @@
       "title": "Die Richtung der Entwicklung",
       "exercise": {
         "id": "ex-cloze-motorik",
+        "stable_id": "ex-ms942qq01d8x8",
         "type": "cloze",
         "prompt": "Ergänze die Richtung der motorischen Entwicklung.",
         "card_ids": ["motorische-entwicklung"],
@@ -193,6 +208,7 @@
       "title": "Begriffe der frühen Kindheit",
       "exercise": {
         "id": "ex-match-bindung",
+        "stable_id": "ex-ms942qq01d9i3",
         "type": "matching",
         "prompt": "Ordne jedem Begriff seine Bedeutung zu.",
         "card_ids": ["reifung", "temperament", "feinfuehligkeit", "objektpermanenz-recap"],
@@ -212,6 +228,7 @@
       "title": "Was sichere Bindung fördert",
       "exercise": {
         "id": "ex-free-feinfuehligkeit",
+        "stable_id": "ex-ms942qq01danv",
         "type": "free_text",
         "prompt": "Wie heißt der wichtigste Faktor für sichere Bindung — Signale des Kindes wahrnehmen und prompt angemessen reagieren?",
         "card_ids": ["feinfuehligkeit", "sichere-bindung"],
@@ -228,6 +245,7 @@
       "title": "Ein kognitiver Meilenstein",
       "exercise": {
         "id": "ex-cloze-objektpermanenz",
+        "stable_id": "ex-ms942qq01db07",
         "type": "cloze",
         "prompt": "Ergänze den Begriff für das Wissen, dass Dinge weiter existieren, auch wenn man sie nicht sieht.",
         "card_ids": ["objektpermanenz-recap"],
@@ -246,6 +264,7 @@
       "title": "Wozu Reflexe dienen",
       "exercise": {
         "id": "ex-tiles-reflexe",
+        "stable_id": "ex-ms942qq01dcsz",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zu den Neugeborenenreflexen zusammen.",
         "card_ids": ["neugeborenenreflexe"],

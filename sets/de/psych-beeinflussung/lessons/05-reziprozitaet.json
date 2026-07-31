@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "card-reziprozitaet",
+      "stable_id": "card-ms942qoe01db7",
       "front": "Reziprozität",
       "back": "Wer etwas erhält (ein Geschenk, einen Gefallen, ein Zugeständnis), verspürt einen sozialen Druck, sich zu revanchieren",
       "notes": "Eines der sechs Einflussprinzipien, die Robert Cialdini zusammengetragen hat.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "card-gouldner",
+      "stable_id": "card-ms942qoe01ef3",
       "front": "Norm der Reziprozität (Gouldner, 1960)",
       "back": "Eine weit verbreitete soziale Norm: Man soll denen helfen, die einem geholfen haben — sie stützt das Reziprozitätsprinzip",
       "notes": "Alvin Gouldner beschrieb sie 1960 als nahezu universelle soziale Erwartung.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "card-regan",
+      "stable_id": "card-ms942qoe01fh7",
       "front": "Regan (1971)",
       "back": "In einem klassischen Experiment kauften Versuchspersonen einer Person mehr Lose ab, nachdem diese ihnen unaufgefordert eine Cola spendiert hatte",
       "notes": "Reale Studie. Sie zeigt die Reziprozitätswirkung eines kleinen Gefallens.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "card-door-in-the-face",
+      "stable_id": "card-ms942qoe01ghc",
       "front": "Door-in-the-face",
       "back": "Eine reziproke Zugeständnis-Technik: Auf eine bewusst überzogene erste Bitte folgt eine kleinere — das Nachgeben des Bittenden erzeugt Druck, ebenfalls nachzugeben",
       "notes": "Cialdini et al. (1975). Beruht auf reziproken Zugeständnissen, nicht auf einem Geschenk.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "card-reziprozitaet-grenze",
+      "stable_id": "card-ms942qoe01h3n",
       "front": "Augenmaß bei Reziprozität",
       "back": "Reziprozität ist eine belegte Tendenz, kein Automatismus: Wer ein Geschenk als Manipulationsversuch durchschaut, fühlt sich oft nicht verpflichtet",
       "notes": "Als empirisch gestützte Tendenz darstellen, nicht als sicheren Hebel.",
@@ -67,6 +72,7 @@
       "title": "Definition: Reziprozität",
       "exercise": {
         "id": "ex-free-reziprozitaet",
+        "stable_id": "ex-ms942qoe01ir4",
         "type": "free_text",
         "prompt": "Was besagt das Reziprozitätsprinzip?",
         "card_ids": ["card-reziprozitaet"],
@@ -91,6 +97,7 @@
       "title": "Die Norm dahinter",
       "exercise": {
         "id": "ex-cloze-norm",
+        "stable_id": "ex-ms942qoe01jm5",
         "type": "cloze",
         "prompt": "Ergänze die soziale Grundlage der Reziprozität.",
         "card_ids": ["card-gouldner"],
@@ -109,6 +116,7 @@
       "title": "Das Cola-Experiment",
       "exercise": {
         "id": "ex-select-regan",
+        "stable_id": "ex-ms942qoe01kl0",
         "type": "cloze",
         "prompt": "Wähle die korrekte Zuordnung des Cola-Experiments.",
         "card_ids": ["card-regan"],
@@ -128,6 +136,7 @@
       "title": "Reziprozität: Begriffe zuordnen",
       "exercise": {
         "id": "ex-match-reziprozitaet",
+        "stable_id": "ex-ms942qoe01lz8",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Aussage zu.",
         "card_ids": ["card-reziprozitaet", "card-gouldner", "card-door-in-the-face", "card-reziprozitaet-grenze"],
@@ -147,6 +156,7 @@
       "title": "Setze den Kernsatz zusammen",
       "exercise": {
         "id": "ex-tiles-reziprozitaet",
+        "stable_id": "ex-ms942qoe01met",
         "type": "word_tiles",
         "prompt": "Setze den Kernsatz zur Reziprozität zusammen.",
         "card_ids": ["card-reziprozitaet"],

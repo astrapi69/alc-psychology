@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "gerontopsychologie",
+      "stable_id": "card-ms942qq11egik",
       "front": "Gerontopsychologie (Psychology of Aging)",
       "back": "Teilgebiet der Psychologie, das die psychischen Veränderungen im höheren Erwachsenenalter untersucht — Kognition, Persönlichkeit, soziale Beziehungen und psychische Gesundheit im Alter.",
       "notes": "Baut auf der Lebensspannenperspektive auf (vgl. Lektion 34 und 71).",
@@ -18,6 +19,7 @@
     },
     {
       "id": "kognitives-altern",
+      "stable_id": "card-ms942qq11ehlq",
       "front": "Kognitives Altern (Cognitive Aging)",
       "back": "Im Alter nehmen die Verarbeitungsgeschwindigkeit und die fluide Intelligenz (fluid intelligence) ab; das kristalline Wissen (crystallized intelligence) — also Wortschatz, Weltwissen und Erfahrung — bleibt hingegen weitgehend stabil.",
       "notes": "Wiederaufgriff Lektion 11 (Intelligenz und Denken): Cattells Unterscheidung fluide vs. kristalline Intelligenz.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "fluide-vs-kristalline-intelligenz-alter",
+      "stable_id": "card-ms942qq11eikp",
       "front": "Fluide vs. kristalline Intelligenz im Alter",
       "back": "Fluide Intelligenz (Problemlösung, Arbeitsgedächtnis, Verarbeitungsgeschwindigkeit) nimmt ab dem mittleren Erwachsenenalter ab. Kristalline Intelligenz (Wortschatz, deklaratives Wissen) bleibt bis ins hohe Alter stabil oder steigt sogar leicht an.",
       "notes": "Erklärt, warum ältere Erwachsene oft über tiefes Fachwissen verfügen, aber bei neuartigen Aufgaben langsamer werden (vgl. Lektion 11).",
@@ -36,6 +39,7 @@
     },
     {
       "id": "demenz-normales-altern",
+      "stable_id": "card-ms942qq11ejok",
       "front": "Demenz vs. normales Altern",
       "back": "Normales Altern: leichtes Nachlassen von Gedächtnis und Tempo, aber alltägliche Selbstständigkeit bleibt erhalten. Demenz (dementia): fortschreitender Verlust von Gedächtnis, Sprache, Orientierung und Alltagskompetenz — über das normale Maß hinaus und durch Hirnerkrankung verursacht.",
       "notes": "Abgrenzung ist klinisch wichtig: Vergesslichkeit allein ist keine Demenz.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "alzheimer",
+      "stable_id": "card-ms942qq11ekl3",
       "front": "Alzheimer-Krankheit (Alzheimer's Disease)",
       "back": "Häufigste Form der Demenz (ca. 60–70 % aller Fälle): Ablagerungen von Beta-Amyloid-Plaques und Tau-Proteinen zerstören Nervenzellen. Typische Frühzeichen sind Kurzzeit-Gedächtnislücken; später nachlassende Sprache, Orientierung und Persönlichkeitsveränderungen.",
       "notes": "Benannt nach Alois Alzheimer (1906). Bislang nicht heilbar, aber medikamentös verzögerbar.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "erikson-integritaet-vs-verzweiflung",
+      "stable_id": "card-ms942qq11elze",
       "front": "Eriksons achte Stufe: Integrität vs. Verzweiflung (Integrity vs. Despair)",
       "back": "Im hohen Erwachsenenalter bilanziert der Mensch sein Leben (Lebensrückblick). Gelingt dies — wurde das Leben als sinnvoll und gelebt empfunden — entsteht Ich-Integrität (ego integrity). Überwiegen Reue und Enttäuschung, entsteht Verzweiflung.",
       "notes": "Letzte Stufe in Eriksons Theorie psychosozialer Entwicklung (vgl. Lektion 34). Tugend dieser Stufe: Weisheit.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "sozioemotionale-selektivitaetstheorie",
+      "stable_id": "card-ms942qq11emh6",
       "front": "Sozioemotionale Selektivitätstheorie (Socioemotional Selectivity Theory)",
       "back": "Theorie von Laura Carstensen: Mit zunehmendem Alter und bewusster Begrenztheit der verbleibenden Zeit verlagern Menschen ihre Ziele — weg von Informationssuche und Erweiterung des Netzwerks, hin zu emotional bedeutsamen, engen Beziehungen und dem Genuss des Hier-und-Jetzt.",
       "notes": "Erklärt, warum ältere Erwachsene weniger, aber tiefere Freundschaften pflegen und emotionale Inhalte besser erinnern als negative.",
@@ -72,6 +79,7 @@
     },
     {
       "id": "erfolgreiches-altern",
+      "stable_id": "card-ms942qq11enf3",
       "front": "Erfolgreiches Altern (Successful Aging)",
       "back": "Konzept, das gesundes, aktives und zufriedenes Altern beschreibt. Förderliche Faktoren: körperliche Aktivität, soziale Einbindung, geistige Stimulation und Sinnerleben. Basis ist das SOK-Modell von Baltes.",
       "notes": "Kritik: Der Begriff 'erfolgreich' kann Druck auf ältere Menschen erzeugen. Dennoch nützlich für Interventionen.",
@@ -81,6 +89,7 @@
     },
     {
       "id": "sok-modell",
+      "stable_id": "card-ms942qq11eori",
       "front": "SOK-Modell (SOC-Modell — Selektion, Optimierung, Kompensation)",
       "back": "Modell von Paul Baltes: Erfolgreiches Altern gelingt durch **Selektion** (Konzentration auf wichtige Ziele), **Optimierung** (Einsatz vorhandener Ressourcen) und **Kompensation** (Nutzung von Hilfsmitteln oder Strategien, wenn Fähigkeiten nachlassen).",
       "notes": "Beispiel: Ein älterer Pianist spielt weniger Stücke (S), übt diese intensiver (O) und beginnt langsamer (K).",
@@ -90,6 +99,7 @@
     },
     {
       "id": "kuebler-ross-phasen",
+      "stable_id": "card-ms942qq11epes",
       "front": "Kübler-Ross: Fünf Phasen des Sterbens",
       "back": "Elisabeth Kübler-Ross beschrieb fünf emotionale Phasen angesichts des eigenen Todes oder schwerer Verluste: 1. Verleugnung, 2. Wut, 3. Verhandeln (Bargaining), 4. Depression, 5. Akzeptanz. Wichtig: Diese Phasen sind nicht starr oder linear — Menschen durchlaufen sie individuell und in beliebiger Reihenfolge.",
       "notes": "Aus dem Buch 'On Death and Dying' (1969). Das Modell wurde erweitert auf Trauerprozesse allgemein.",
@@ -99,6 +109,7 @@
     },
     {
       "id": "trauer-und-bewaeltigung",
+      "stable_id": "card-ms942qq11eqhy",
       "front": "Trauer (Grief) und Trauerbewältigung",
       "back": "Die emotionale Reaktion auf Verlust (z. B. Tod einer nahestehenden Person). Normales Trauern verläuft individuell und kann Wochen bis Jahre dauern. Anhaltende komplexe Trauerstörung (prolonged grief disorder) liegt vor, wenn intensive Trauer das Alltagsleben dauerhaft beeinträchtigt.",
       "notes": "Trauer ist kein linearer Prozess; sozialer Rückhalt und Rituale wirken schützend.",
@@ -108,6 +119,7 @@
     },
     {
       "id": "lebensqualitaet-im-alter",
+      "stable_id": "card-ms942qq11er6q",
       "front": "Lebensqualität im Alter (Quality of Life in Old Age)",
       "back": "Subjektives Wohlbefinden älterer Menschen, das nicht allein von körperlicher Gesundheit abhängt, sondern auch von sozialer Einbindung, Sinnerleben, Autonomie und emotionaler Regulationsfähigkeit. Viele ältere Menschen berichten hohe Lebenszufriedenheit trotz objektiver Einschränkungen.",
       "notes": "Sogenanntes 'Wohlbefindens-Paradox' (Well-being Paradox): Trotz nachlassender Gesundheit steigt die emotionale Stabilität.",
@@ -142,6 +154,7 @@
       "title": "Was nimmt ab — was bleibt?",
       "exercise": {
         "id": "ex-match-kognitives-altern",
+        "stable_id": "ex-ms942qq11esiz",
         "type": "matching",
         "prompt": "Ordne jedem Bereich zu, ob er im Alter abnimmt oder stabil bleibt.",
         "card_ids": ["kognitives-altern", "fluide-vs-kristalline-intelligenz-alter"],
@@ -161,6 +174,7 @@
       "title": "Demenz abgrenzen",
       "exercise": {
         "id": "ex-cloze-demenz",
+        "stable_id": "ex-ms942qq11et7b",
         "type": "cloze",
         "prompt": "Ergänze den Begriff für den fortschreitenden Verlust von Gedächtnis und Alltagskompetenz durch Hirnerkrankung.",
         "card_ids": ["demenz-normales-altern", "alzheimer"],
@@ -179,6 +193,7 @@
       "title": "Eriksons letzte Entwicklungsstufe",
       "exercise": {
         "id": "ex-free-erikson-integritaet",
+        "stable_id": "ex-ms942qq11euxv",
         "type": "free_text",
         "prompt": "Wie heißt der positive Ausgang von Eriksons achter Stufe, wenn der Lebensrückblick als sinnvoll erlebt wird?",
         "card_ids": ["erikson-integritaet-vs-verzweiflung"],
@@ -195,6 +210,7 @@
       "title": "Die fünf Phasen nach Kübler-Ross",
       "exercise": {
         "id": "ex-match-kuebler-ross",
+        "stable_id": "ex-ms942qq11evdu",
         "type": "matching",
         "prompt": "Ordne jeder Phase nach Kübler-Ross die passende Aussage zu.",
         "card_ids": ["kuebler-ross-phasen"],
@@ -214,6 +230,7 @@
       "title": "Sozioemotionale Selektivität",
       "exercise": {
         "id": "ex-cloze-carstensen",
+        "stable_id": "ex-ms942qq11ew83",
         "type": "cloze",
         "prompt": "Ergänze den Namen der Theorie, nach der ältere Menschen emotional bedeutsame Beziehungen bevorzugen.",
         "card_ids": ["sozioemotionale-selektivitaetstheorie"],
@@ -232,6 +249,7 @@
       "title": "Das SOK-Modell",
       "exercise": {
         "id": "ex-tiles-sok-modell",
+        "stable_id": "ex-ms942qq11exc5",
         "type": "word_tiles",
         "prompt": "Setze die drei Strategien des SOK-Modells von Baltes in der richtigen Reihenfolge zusammen.",
         "card_ids": ["sok-modell", "erfolgreiches-altern"],
@@ -247,6 +265,7 @@
       "title": "Normales Altern vs. Demenz",
       "exercise": {
         "id": "ex-free-demenz-altern",
+        "stable_id": "ex-ms942qq11eypv",
         "type": "free_text",
         "prompt": "Wie heißt die häufigste Demenzform, die durch Amyloid-Plaques und Tau-Ablagerungen im Gehirn verursacht wird?",
         "card_ids": ["alzheimer", "demenz-normales-altern"],

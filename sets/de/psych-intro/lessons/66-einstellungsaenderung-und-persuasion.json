@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "einstellung-recap",
+      "stable_id": "card-ms942qpw1a728",
       "front": "Einstellung (Attitude)",
       "back": "Eine erlernte Bewertung einer Person, Sache oder Idee mit drei Komponenten: kognitiv (Gedanken), affektiv (Gefühle) und konativ (Handlungstendenz).",
       "notes": "Grundbegriff aus Lektion 33; hier geht es um ihre Änderung.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "persuasion",
+      "stable_id": "card-ms942qpw1a8te",
       "front": "Persuasion (Überzeugung)",
       "back": "Der Versuch, durch Kommunikation eine Einstellung oder ein Verhalten gezielt zu verändern.",
       "media_type": "text",
@@ -26,6 +28,7 @@
     },
     {
       "id": "elm",
+      "stable_id": "card-ms942qpw1a9im",
       "front": "Elaboration-Likelihood-Modell (ELM)",
       "back": "Modell von Petty & Cacioppo: Überzeugung läuft über zwei Wege — je nachdem, wie gründlich (elaboriert) eine Botschaft verarbeitet wird.",
       "notes": "ELM = Elaboration Likelihood Model.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "zentrale-route",
+      "stable_id": "card-ms942qpw1aaks",
       "front": "Zentrale Route",
       "back": "Überzeugung durch sorgfältiges Abwägen der Argumente. Setzt Motivation und Fähigkeit voraus und führt zu stabilen Einstellungen.",
       "media_type": "text",
@@ -44,6 +48,7 @@
     },
     {
       "id": "periphere-route",
+      "stable_id": "card-ms942qpw1ab5q",
       "front": "Periphere Route",
       "back": "Überzeugung durch oberflächliche Hinweisreize (z. B. Attraktivität des Senders, Anzahl der Argumente). Führt zu eher instabilen Einstellungen.",
       "media_type": "text",
@@ -52,6 +57,7 @@
     },
     {
       "id": "glaubwuerdigkeit",
+      "stable_id": "card-ms942qpw1acw4",
       "front": "Glaubwürdigkeit der Quelle",
       "back": "Kompetenz und Vertrauenswürdigkeit des Senders erhöhen die Überzeugungskraft einer Botschaft.",
       "notes": "Ein klassischer Faktor der Persuasionsforschung (Hovland).",
@@ -61,6 +67,7 @@
     },
     {
       "id": "reziprozitaet",
+      "stable_id": "card-ms942qpw1ad1c",
       "front": "Reziprozität (Cialdini)",
       "back": "Wir fühlen uns verpflichtet, eine Gefälligkeit zu erwidern. Ein kleines Geschenk erhöht die Bereitschaft, später zuzustimmen.",
       "media_type": "text",
@@ -69,6 +76,7 @@
     },
     {
       "id": "soziale-bewaehrtheit",
+      "stable_id": "card-ms942qpw1aeay",
       "front": "Soziale Bewährtheit (Social Proof)",
       "back": "Wir orientieren uns am Verhalten anderer: Was viele tun, halten wir für richtig ('Bestseller', 'schon 1 Mio. Nutzer').",
       "media_type": "text",
@@ -77,6 +85,7 @@
     },
     {
       "id": "knappheit",
+      "stable_id": "card-ms942qpw1afqa",
       "front": "Knappheit (Scarcity)",
       "back": "Was selten oder zeitlich begrenzt verfügbar ist, erscheint wertvoller ('nur noch heute', 'letzte Stücke').",
       "media_type": "text",
@@ -85,6 +94,7 @@
     },
     {
       "id": "commitment-konsistenz",
+      "stable_id": "card-ms942qpw1ag18",
       "front": "Commitment und Konsistenz",
       "back": "Haben wir uns einmal (öffentlich) festgelegt, handeln wir konsistent dazu. Kleine Zusagen ebnen den Weg zu größeren.",
       "notes": "Grundlage der Fuß-in-der-Tür-Technik.",
@@ -94,6 +104,7 @@
     },
     {
       "id": "fuss-in-der-tuer",
+      "stable_id": "card-ms942qpw1ahof",
       "front": "Fuß-in-der-Tür-Technik",
       "back": "Wer zuerst einer kleinen Bitte zustimmt, willigt später eher in eine größere ein.",
       "notes": "Beruht auf dem Bedürfnis nach Konsistenz.",
@@ -103,6 +114,7 @@
     },
     {
       "id": "kognitive-dissonanz-recap",
+      "stable_id": "card-ms942qpw1aiwn",
       "front": "Kognitive Dissonanz (Festinger)",
       "back": "Der unangenehme Spannungszustand bei widersprüchlichen Kognitionen; oft passen wir die Einstellung ans Verhalten an, um ihn aufzulösen.",
       "notes": "Aus Lektion 33 — eine wichtige Quelle innerer Einstellungsänderung.",
@@ -137,6 +149,7 @@
       "title": "Zentrale vs. periphere Route",
       "exercise": {
         "id": "ex-match-routen",
+        "stable_id": "ex-ms942qpw1aj5m",
         "type": "matching",
         "prompt": "Ordne jedem Begriff seine Beschreibung zu.",
         "card_ids": ["zentrale-route", "periphere-route", "elm"],
@@ -155,6 +168,7 @@
       "title": "Der stabile Weg",
       "exercise": {
         "id": "ex-cloze-zentral",
+        "stable_id": "ex-ms942qpw1ak8t",
         "type": "cloze",
         "prompt": "Ergänze, welche Route zu stabileren Einstellungen führt.",
         "card_ids": ["zentrale-route"],
@@ -173,6 +187,7 @@
       "title": "Der Fachbegriff",
       "exercise": {
         "id": "ex-free-persuasion",
+        "stable_id": "ex-ms942qpw1ala8",
         "type": "free_text",
         "prompt": "Wie heißt der gezielte Versuch, mit Kommunikation eine Einstellung zu verändern?",
         "card_ids": ["persuasion"],
@@ -189,6 +204,7 @@
       "title": "Cialdinis Prinzipien",
       "exercise": {
         "id": "ex-match-cialdini",
+        "stable_id": "ex-ms942qpw1am5u",
         "type": "matching",
         "prompt": "Ordne jedem Prinzip sein Beispiel zu.",
         "card_ids": ["reziprozitaet", "soziale-bewaehrtheit", "knappheit", "commitment-konsistenz"],
@@ -208,6 +224,7 @@
       "title": "Erst klein, dann groß",
       "exercise": {
         "id": "ex-free-fuss-tuer",
+        "stable_id": "ex-ms942qpw1anhj",
         "type": "free_text",
         "prompt": "Wie heißt die Technik, bei der man zuerst eine kleine und dann eine größere Bitte stellt?",
         "card_ids": ["fuss-in-der-tuer", "commitment-konsistenz"],
@@ -224,6 +241,7 @@
       "title": "Gefälligkeiten erwidern",
       "exercise": {
         "id": "ex-cloze-reziprozitaet",
+        "stable_id": "ex-ms942qpw1aoix",
         "type": "cloze",
         "prompt": "Ergänze das Cialdini-Prinzip, nach dem wir Gefälligkeiten erwidern.",
         "card_ids": ["reziprozitaet"],
@@ -242,6 +260,7 @@
       "title": "Änderung von innen",
       "exercise": {
         "id": "ex-tiles-dissonanz",
+        "stable_id": "ex-ms942qpw1apic",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zur kognitiven Dissonanz zusammen.",
         "card_ids": ["kognitive-dissonanz-recap"],

@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "beobachtung",
+      "stable_id": "card-ms942qp60nb8m",
       "front": "Beobachtung (Observation)",
       "back": "Eine Erhebungsmethode, bei der das Verhalten von Personen systematisch wahrgenommen und protokolliert wird, ohne es zu manipulieren.",
       "notes": "Grundform der empirischen Forschung — Beobachtung kann im Labor oder im Feld stattfinden.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "teilnehmende-beobachtung",
+      "stable_id": "card-ms942qp60nch4",
       "front": "Teilnehmende Beobachtung (Participant Observation)",
       "back": "Die Forscherin nimmt aktiv am beobachteten Geschehen teil; ihr Verhalten beeinflusst die Gruppe.",
       "notes": "Vorteil: natürlicheres Verhalten der Beobachteten. Nachteil: Objektivität gefährdet.",
@@ -28,6 +30,7 @@
     },
     {
       "id": "nicht-teilnehmende-beobachtung",
+      "stable_id": "card-ms942qp60ndm5",
       "front": "Nicht-teilnehmende Beobachtung (Non-participant Observation)",
       "back": "Die Forscherin bleibt außen vor und greift nicht in das Geschehen ein; sie beobachtet nur.",
       "notes": "Geringerer Einfluss auf das Verhalten, aber weniger Einblick in die Perspektive der Beobachteten.",
@@ -37,6 +40,7 @@
     },
     {
       "id": "befragung",
+      "stable_id": "card-ms942qp60nesc",
       "front": "Befragung (Survey / Interview)",
       "back": "Eine Erhebungsmethode, bei der Personen gezielt zu ihren Gedanken, Gefühlen oder Verhaltensweisen befragt werden — mündlich (Interview) oder schriftlich (Fragebogen).",
       "media_type": "text",
@@ -45,6 +49,7 @@
     },
     {
       "id": "psychologischer-test",
+      "stable_id": "card-ms942qp60nf6q",
       "front": "Psychologischer Test (Psychological Test)",
       "back": "Ein standardisiertes Verfahren zur Messung bestimmter psychologischer Merkmale (z. B. Intelligenz, Persönlichkeit, Leistung), das unter einheitlichen Bedingungen durchgeführt wird.",
       "notes": "Beispiel: IQ-Test, Persönlichkeitsfragebogen NEO-PI-R.",
@@ -55,6 +60,7 @@
     },
     {
       "id": "standardisierung",
+      "stable_id": "card-ms942qp60ngtj",
       "front": "Standardisierung (Standardization)",
       "back": "Die einheitliche Festlegung von Durchführung, Auswertung und Interpretation eines Tests oder einer Erhebung, damit alle Teilnehmer unter gleichen Bedingungen gemessen werden.",
       "notes": "Ohne Standardisierung sind Vergleiche zwischen Personen oder Messzeitpunkten nicht möglich.",
@@ -64,6 +70,7 @@
     },
     {
       "id": "objektivitaet",
+      "stable_id": "card-ms942qp60nhn5",
       "front": "Objektivität (Objectivity)",
       "back": "Das Ergebnis einer Messung ist unabhängig davon, wer die Messung durchführt oder auswertet — verschiedene Untersucher kommen zum selben Befund.",
       "notes": "Objektivität ist Voraussetzung für Reliabilität und Validität: Ohne Objektivität sind die anderen Gütekriterien wertlos.",
@@ -74,6 +81,7 @@
     },
     {
       "id": "reliabilitaet",
+      "stable_id": "card-ms942qp60ni3z",
       "front": "Reliabilität (Reliability)",
       "back": "Die Zuverlässigkeit einer Messung: Wird dieselbe Person unter denselben Bedingungen erneut gemessen, liefert das Verfahren dasselbe (oder ein sehr ähnliches) Ergebnis.",
       "notes": "Reliabilität wird oft als Retest-Reliabilität, Split-Half-Reliabilität oder innere Konsistenz (Cronbachs α) erfasst.",
@@ -83,6 +91,7 @@
     },
     {
       "id": "validitaet",
+      "stable_id": "card-ms942qp60njs9",
       "front": "Validität (Validity)",
       "back": "Die Gültigkeit einer Messung: Der Test misst tatsächlich das Konstrukt, das er messen soll — und nicht etwas anderes.",
       "notes": "Merkhilfe: Ein Lineal ist ein reliables, aber nicht valides Maß für Intelligenz — es misst zuverlässig, aber das Falsche.",
@@ -93,6 +102,7 @@
     },
     {
       "id": "guetekriterien-reihenfolge",
+      "stable_id": "card-ms942qp60nkf3",
       "front": "Abhängigkeit der Gütekriterien (Hierarchy of Quality Criteria)",
       "back": "Objektivität ist Voraussetzung für Reliabilität; Reliabilität ist Voraussetzung für Validität. Ein Test kann reliabel, aber nicht valide sein — nicht jedoch valide ohne reliabel zu sein.",
       "notes": "Reihenfolge: Objektivität → Reliabilität → Validität.",
@@ -102,6 +112,7 @@
     },
     {
       "id": "feldbeobachtung-laborbeobachtung",
+      "stable_id": "card-ms942qp60nlnq",
       "front": "Feldbeobachtung vs. Laborbeobachtung (Field vs. Lab Observation)",
       "back": "Feldbeobachtung: Verhalten wird in der natürlichen Umgebung untersucht (hohe ökologische Validität). Laborbeobachtung: Verhalten wird unter kontrollierten Bedingungen untersucht (hohe interne Validität).",
       "media_type": "text",
@@ -110,6 +121,7 @@
     },
     {
       "id": "interview-fragebogen",
+      "stable_id": "card-ms942qp60nmip",
       "front": "Interview vs. Fragebogen (Interview vs. Questionnaire)",
       "back": "Interview: mündliche Befragung, ermöglicht Nachfragen (flexibel, zeitintensiv). Fragebogen: schriftliche Befragung, standardisiert, effizient für große Stichproben.",
       "media_type": "text",
@@ -143,6 +155,7 @@
       "title": "Erhebungsmethoden zuordnen",
       "exercise": {
         "id": "ex-match-erhebungsmethoden",
+        "stable_id": "ex-ms942qp60nngu",
         "type": "matching",
         "prompt": "Ordne jede Erhebungsmethode ihrer Kurzbeschreibung zu.",
         "card_ids": ["beobachtung", "befragung", "psychologischer-test", "standardisierung"],
@@ -162,6 +175,7 @@
       "title": "Die drei Gütekriterien unterscheiden",
       "exercise": {
         "id": "ex-match-guetekriterien",
+        "stable_id": "ex-ms942qp60now0",
         "type": "matching",
         "prompt": "Ordne jedem Gütekriterium seine Leitfrage zu. Achtung — Objektivität, Reliabilität und Validität werden häufig verwechselt!",
         "card_ids": ["objektivitaet", "reliabilitaet", "validitaet"],
@@ -180,6 +194,7 @@
       "title": "Zuverlässigkeit der Messung",
       "exercise": {
         "id": "ex-cloze-reliabilitaet",
+        "stable_id": "ex-ms942qp60np8w",
         "type": "cloze",
         "prompt": "Ergänze den Begriff für die Messgenauigkeit eines Tests.",
         "card_ids": ["reliabilitaet"],
@@ -198,6 +213,7 @@
       "title": "Gültigkeit der Messung",
       "exercise": {
         "id": "ex-free-validitaet",
+        "stable_id": "ex-ms942qp60nqvt",
         "type": "free_text",
         "prompt": "Wie heißt das Gütekriterium, das prüft, ob ein Test wirklich das misst, was er messen soll?",
         "card_ids": ["validitaet"],
@@ -214,6 +230,7 @@
       "title": "Unabhängigkeit vom Untersucher",
       "exercise": {
         "id": "ex-cloze-objektivitaet",
+        "stable_id": "ex-ms942qp60nrih",
         "type": "cloze",
         "prompt": "Ergänze den Begriff für die Unabhängigkeit des Ergebnisses vom Untersucher.",
         "card_ids": ["objektivitaet"],
@@ -232,6 +249,7 @@
       "title": "Hierarchie der Gütekriterien",
       "exercise": {
         "id": "ex-free-guetekriterien-reihenfolge",
+        "stable_id": "ex-ms942qp60nsar",
         "type": "free_text",
         "prompt": "Welches Gütekriterium ist Voraussetzung für Validität — muss also zuerst erfüllt sein?",
         "card_ids": ["guetekriterien-reihenfolge", "reliabilitaet"],
@@ -248,6 +266,7 @@
       "title": "Beobachtungsformen",
       "exercise": {
         "id": "ex-tiles-beobachtung",
+        "stable_id": "ex-ms942qp60ntwg",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zur teilnehmenden Beobachtung zusammen.",
         "card_ids": ["teilnehmende-beobachtung"],

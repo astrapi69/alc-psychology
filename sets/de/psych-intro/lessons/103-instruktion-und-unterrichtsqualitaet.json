@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "direkte-instruktion",
+      "stable_id": "card-ms942qos0blpz",
       "front": "Direkte Instruktion",
       "back": "Stark strukturierte, lehrergesteuerte Unterrichtsform mit klaren Lernzielen, schrittweiser Einführung, vielen Übungs- und Anwendungsphasen sowie engem Feedback. Sie ist nicht mit reinem Frontalunterricht gleichzusetzen, sondern aktiviert die Lernenden durch geführtes Üben.",
       "notes": "Englisch: direct instruction. Wirksam besonders beim Aufbau von Basiswissen und Fertigkeiten.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "entdeckendes-lernen",
+      "stable_id": "card-ms942qos0bmig",
       "front": "Entdeckendes/konstruktivistisches Lernen",
       "back": "Ansatz, bei dem Lernende sich Wissen möglichst selbstständig erarbeiten und Zusammenhänge eigenständig entdecken. Wirksam vor allem dann, wenn die Lernenden bereits über Vorwissen verfügen und die Entdeckungsphasen angeleitet sind (guided discovery).",
       "notes": "Englisch: discovery learning, constructivist approaches. Rein offenes Entdecken ohne Anleitung ist für Anfänger oft wenig effektiv.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "cognitive-apprenticeship",
+      "stable_id": "card-ms942qos0bnm4",
       "front": "Cognitive Apprenticeship",
       "back": "Lehrmodell nach dem Vorbild der Handwerkslehre: Eine Expertin macht das Denken sichtbar (modeling), unterstützt die Lernenden beim Üben (coaching), zieht die Hilfe schrittweise zurück (fading) und regt zum Nachdenken über das eigene Vorgehen an (articulation, reflection).",
       "notes": "Deutsch etwa: kognitive Meisterlehre. Verbindet angeleitetes Lernen mit zunehmender Selbstständigkeit.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "scaffolding",
+      "stable_id": "card-ms942qos0bo4e",
       "front": "Scaffolding",
       "back": "Vorübergehende, an den Lernstand angepasste Lernunterstützung (wörtlich: Gerüst). Die Hilfe ist so dosiert, dass die Lernenden die Aufgabe gerade noch bewältigen, und wird mit wachsender Kompetenz abgebaut (fading).",
       "notes": "Englisch: scaffolding. Eng verknüpft mit der Zone der nächsten Entwicklung.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "zone-naechste-entwicklung",
+      "stable_id": "card-ms942qos0bp84",
       "front": "Zone der nächsten Entwicklung",
       "back": "Begriff von Wygotski: der Bereich zwischen dem, was eine Person allein kann, und dem, was sie mit Unterstützung durch andere bereits leistet. Wirksames Lehren setzt genau in dieser Zone an.",
       "notes": "Russisch/Englisch: Wygotski (Vygotsky), zone of proximal development (ZPD). Querverweis: Entwicklungspsychologie.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "cognitive-load-theory",
+      "stable_id": "card-ms942qos0bqvt",
       "front": "Cognitive Load Theory",
       "back": "Theorie von Sweller zur Belastung des Arbeitsgedächtnisses beim Lernen. Da das Arbeitsgedächtnis nur begrenzt Informationen verarbeiten kann, soll Unterricht so gestaltet sein, dass die verfügbare Kapazität dem eigentlichen Lernen zugutekommt.",
       "notes": "Deutsch: Theorie der kognitiven Belastung. Englisch: Cognitive Load Theory (Sweller).",
@@ -63,6 +69,7 @@
     },
     {
       "id": "load-arten",
+      "stable_id": "card-ms942qos0br81",
       "front": "Arten kognitiver Belastung",
       "back": "Drei Formen: die intrinsische Belastung (durch die Schwierigkeit des Stoffes selbst), die extrinsische bzw. sachfremde Belastung (durch ungünstige Darbietung) und die lernbezogene Belastung (durch den Aufbau von Wissensstrukturen, Schemata). Ziel ist es, die sachfremde Belastung zu senken.",
       "notes": "Englisch: intrinsic, extraneous, germane cognitive load. Sachfremde Belastung = extraneous load.",
@@ -72,6 +79,7 @@
     },
     {
       "id": "basisdimensionen",
+      "stable_id": "card-ms942qos0bs3y",
       "front": "Drei Basisdimensionen der Unterrichtsqualität",
       "back": "Forschungsbasiertes Modell mit drei Tiefenmerkmalen guten Unterrichts: Klassenführung (effiziente Nutzung der Lernzeit), konstruktive Unterstützung (wertschätzendes, hilfreiches Lernklima) und kognitive Aktivierung (anregende, denkfördernde Aufgaben).",
       "notes": "Englisch: three basic dimensions of teaching quality. Tiefenmerkmale wirken stärker als Oberflächenmerkmale (z. B. Methodenwahl).",
@@ -81,6 +89,7 @@
     },
     {
       "id": "kognitive-aktivierung",
+      "stable_id": "card-ms942qos0bte0",
       "front": "Kognitive Aktivierung",
       "back": "Basisdimension, die Lernende zu vertieftem, eigenständigem Denken anregt: durch herausfordernde Aufgaben, das Anknüpfen an Vorwissen, Begründungen und das Diskutieren unterschiedlicher Lösungswege — statt bloßem Reproduzieren.",
       "notes": "Englisch: cognitive activation. Oft als wichtigste der drei Dimensionen für den Wissensaufbau betrachtet.",
@@ -90,6 +99,7 @@
     },
     {
       "id": "hattie-visible-learning",
+      "stable_id": "card-ms942qos0bu4f",
       "front": "Hattie: Visible Learning",
       "back": "Große Zusammenfassung vieler Studien (Metaanalysen) zu Einflussfaktoren auf Lernleistung. Sie ordnet Faktoren nach Effektstärken. Besonders wirksam erscheinen u. a. klares, zeitnahes Feedback und Klarheit der Lehrperson. Die Befunde werden methodisch durchaus kritisch diskutiert.",
       "notes": "Englisch: Visible Learning (Hattie). Vorsichtig lesen: Rangordnungen von Effektstärken sind umstritten, Faktoren wirken im Zusammenspiel.",
@@ -99,6 +109,7 @@
     },
     {
       "id": "feedback-formativ-summativ",
+      "stable_id": "card-ms942qos0bvx9",
       "front": "Formatives vs. summatives Feedback",
       "back": "Formatives Feedback begleitet den Lernprozess und zeigt, wie es weitergehen kann (förderorientiert). Summatives Feedback bilanziert am Ende ein Ergebnis (z. B. eine Note). Für das Weiterlernen gilt formatives, konkretes Feedback als besonders wirksam.",
       "notes": "Englisch: formative vs. summative feedback (assessment).",
@@ -108,6 +119,7 @@
     },
     {
       "id": "kounin-klassenfuehrung",
+      "stable_id": "card-ms942qos0bwvo",
       "front": "Klassenführung nach Kounin",
       "back": "Kounin beschrieb Merkmale wirksamer Klassenführung. Zentral sind die Allgegenwärtigkeit (die Lehrperson signalisiert, dass sie alles im Blick hat) und die Reibungslosigkeit bzw. Schwung (Unterricht läuft ohne unnötige Unterbrechungen). So entsteht mehr aktive Lernzeit.",
       "notes": "Englisch: withitness (Allgegenwärtigkeit), smoothness/momentum (Reibungslosigkeit). Klassenführung ist eine der drei Basisdimensionen.",
@@ -142,6 +154,7 @@
       "title": "Lehransätze zuordnen",
       "exercise": {
         "id": "ex-match-ansaetze",
+        "stable_id": "ex-ms942qos0bxv2",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Kennzeichnung zu.",
         "card_ids": ["direkte-instruktion", "entdeckendes-lernen", "cognitive-apprenticeship", "scaffolding"],
@@ -161,6 +174,7 @@
       "title": "Wo Lehren ansetzt",
       "exercise": {
         "id": "ex-cloze-zpd",
+        "stable_id": "ex-ms942qos0by1n",
         "type": "cloze",
         "prompt": "Ergänze den Begriff von Wygotski.",
         "card_ids": ["zone-naechste-entwicklung", "scaffolding"],
@@ -177,6 +191,7 @@
       "title": "Belastung durch Darbietung",
       "exercise": {
         "id": "ex-free-load",
+        "stable_id": "ex-ms942qos0bz55",
         "type": "free_text",
         "prompt": "Wie heißt die kognitive Belastung, die durch eine ungünstige Darbietung des Lernstoffs entsteht und die man senken sollte?",
         "card_ids": ["load-arten", "cognitive-load-theory"],
@@ -193,6 +208,7 @@
       "title": "Basisdimensionen zuordnen",
       "exercise": {
         "id": "ex-match-dimensionen",
+        "stable_id": "ex-ms942qos0c0fk",
         "type": "matching",
         "prompt": "Ordne jeder Basisdimension der Unterrichtsqualität ihre Beschreibung zu.",
         "card_ids": ["basisdimensionen", "kognitive-aktivierung", "kounin-klassenfuehrung"],
@@ -211,6 +227,7 @@
       "title": "Das Arbeitsgedächtnis schonen",
       "exercise": {
         "id": "ex-cloze-load-theory",
+        "stable_id": "ex-ms942qos0c192",
         "type": "cloze",
         "prompt": "Ergänze, welche Gedächtniskomponente die Cognitive Load Theory in den Mittelpunkt stellt.",
         "card_ids": ["cognitive-load-theory"],
@@ -227,6 +244,7 @@
       "title": "Feedback für den Lernprozess",
       "exercise": {
         "id": "ex-free-feedback",
+        "stable_id": "ex-ms942qos0c2a3",
         "type": "free_text",
         "prompt": "Wie heißt das prozessbegleitende, förderorientierte Feedback, das zeigt, wie es weitergehen kann?",
         "card_ids": ["feedback-formativ-summativ"],
@@ -243,6 +261,7 @@
       "title": "Kounin zusammensetzen",
       "exercise": {
         "id": "ex-tiles-kounin",
+        "stable_id": "ex-ms942qos0c3dr",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zur Klassenführung nach Kounin zusammen.",
         "card_ids": ["kounin-klassenfuehrung"],
@@ -258,6 +277,7 @@
       "title": "Befunde nach Hattie",
       "exercise": {
         "id": "ex-cloze-hattie",
+        "stable_id": "ex-ms942qos0c4n5",
         "type": "cloze",
         "prompt": "Ergänze, wonach Hatties Visible Learning die Einflussfaktoren ordnet.",
         "card_ids": ["hattie-visible-learning"],

@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "card-01",
+      "stable_id": "card-ms942qou0dase",
       "front": "Inception-Effekt",
       "back": "Phänomen, bei dem eine fremde Idee als eigener Gedanke wahrgenommen wird",
       "notes": "Nach einem Gespräch glaubt man, selbst auf eine Idee gekommen zu sein. Der Name ist an den gleichnamigen Spielfilm angelehnt.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "card-02",
+      "stable_id": "card-ms942qou0dby2",
       "front": "Induzierte Eigendynamik",
       "back": "Fachbegriff für den Inception-Effekt",
       "notes": "Fachlich präziser als der populäre Begriff *Inception*.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "card-03",
+      "stable_id": "card-ms942qou0dcvh",
       "front": "Sokratische Ironie",
       "back": "Durch gezieltes Fragen das Gegenüber zur Schlussfolgerung führen",
       "notes": "Statt zu behaupten, stellt man eine Frage, deren Antwort die gewünschte Erkenntnis ist. Die Person zieht den letzten Schritt selbst.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "card-04",
+      "stable_id": "card-ms942qou0ddw5",
       "front": "Priming",
       "back": "Vorgeschaltete Reize, die bestimmte Denkmuster aktivieren",
       "notes": "Wer vorher Wörter zum Thema *alt* gelesen hat, geht danach unbewusst langsamer (klassischer Priming-Befund).",
@@ -45,6 +49,7 @@
     },
     {
       "id": "card-05",
+      "stable_id": "card-ms942qou0dejl",
       "front": "Framing",
       "back": "Gezielte Formulierung, die die Wahrnehmung beeinflusst",
       "notes": "*95% fettfrei* wirkt anders als *5% Fett enthalten* — gleicher Inhalt, andere Wirkung.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "card-06",
+      "stable_id": "card-ms942qou0df89",
       "front": "Fehlattribuierung",
       "back": "Falsche Zuordnung der Quelle einer Information",
       "notes": "Das Gehirn vergisst, woher die Idee kam, behält aber den Inhalt.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "card-07",
+      "stable_id": "card-ms942qou0dg4z",
       "front": "Misattribution of Source",
       "back": "Englische Fachbezeichnung für Fehlattribuierung",
       "notes": "In der Gedächtnisforschung als *source monitoring error* untersucht.",
@@ -72,6 +79,7 @@
     },
     {
       "id": "card-08",
+      "stable_id": "card-ms942qou0dhpc",
       "front": "Was macht das Gehirn bei Fehlattribuierung?",
       "back": "Es vergisst die Quelle, erinnert sich aber an den Inhalt",
       "notes": "Beim Wiederabrufen wirkt die gesäte Idee dann wie ein eigener, spontaner Einfall.",
@@ -81,6 +89,7 @@
     },
     {
       "id": "card-09",
+      "stable_id": "card-ms942qou0dixr",
       "front": "Warum wirkt die sokratische Methode so stark?",
       "back": "Die Person zieht den letzten logischen Schritt selbst und verbucht die Idee als Eigenkreation",
       "notes": "Selbst gezogene Schlüsse werden stärker als eigene Überzeugung erlebt.",
@@ -90,6 +99,7 @@
     },
     {
       "id": "card-10",
+      "stable_id": "card-ms942qou0djja",
       "front": "Wie unterscheiden sich Framing und Priming?",
       "back": "Framing ist die Art der Formulierung, Priming sind vorgeschaltete Reize",
       "notes": "Beide bahnen Denkmuster, setzen aber an unterschiedlichen Stellen an.",
@@ -112,6 +122,7 @@
       "title": "Begriffe und Definitionen",
       "exercise": {
         "id": "ex-match-begriffe",
+        "stable_id": "ex-ms942qou0dkou",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Definition zu.",
         "card_ids": ["card-01", "card-02", "card-07", "card-04", "card-05"],
@@ -132,6 +143,7 @@
       "title": "Was beschreibt der Inception-Effekt?",
       "exercise": {
         "id": "ex-pick-inception",
+        "stable_id": "ex-ms942qou0dlzp",
         "type": "picture_choice",
         "prompt": "Welche Aussage beschreibt den Inception-Effekt am besten?",
         "card_ids": ["card-01"],
@@ -163,6 +175,7 @@
       "title": "Mechanismen und ihre Funktion",
       "exercise": {
         "id": "ex-match-mechanismen",
+        "stable_id": "ex-ms942qou0dmzt",
         "type": "matching",
         "prompt": "Ordne jedem Mechanismus seine Funktion zu.",
         "card_ids": ["card-03", "card-04", "card-05", "card-06"],
@@ -182,6 +195,7 @@
       "title": "Welcher Mechanismus wird hier beschrieben?",
       "exercise": {
         "id": "ex-free-sokratik",
+        "stable_id": "ex-ms942qou0dnth",
         "type": "free_text",
         "prompt": "Eine Person stellt gezielt Fragen, sodass das Gegenüber selbst zur gewünschten Schlussfolgerung kommt. Wie heißt dieser Mechanismus?",
         "card_ids": ["card-03"],
@@ -204,6 +218,7 @@
       "title": "Setze den Kernsatz zusammen",
       "exercise": {
         "id": "ex-tiles-fehlattribuierung",
+        "stable_id": "ex-ms942qou0doh6",
         "type": "word_tiles",
         "prompt": "Setze den Kernsatz zur Fehlattribuierung zusammen.",
         "card_ids": ["card-08"],
@@ -228,6 +243,7 @@
       "title": "Welches Beispiel zeigt Priming?",
       "exercise": {
         "id": "ex-pick-priming",
+        "stable_id": "ex-ms942qou0dp3v",
         "type": "picture_choice",
         "prompt": "In welcher Situation wird Priming angewendet?",
         "card_ids": ["card-04", "card-05"],
@@ -253,6 +269,7 @@
       "title": "Fasse den Mechanismus in einem Satz zusammen",
       "exercise": {
         "id": "ex-free-fehlattribuierung",
+        "stable_id": "ex-ms942qou0dqtu",
         "type": "free_text",
         "prompt": "Wie funktioniert Fehlattribuierung in einfachen Worten?",
         "card_ids": ["card-06", "card-08"],
@@ -277,6 +294,7 @@
       "title": "Konzepte und Erklärungen",
       "exercise": {
         "id": "ex-match-konzepte",
+        "stable_id": "ex-ms942qou0drnk",
         "type": "matching",
         "prompt": "Ordne jeder Frage die richtige Erklärung zu.",
         "card_ids": ["card-08", "card-09", "card-10"],

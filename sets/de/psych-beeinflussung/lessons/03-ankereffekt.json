@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "card-anker",
+      "stable_id": "card-ms942qod00qw7",
       "front": "Ankereffekt",
       "back": "Eine zuerst genannte Information dient als Bezugspunkt und zieht spätere Schätzungen oder Urteile in ihre Richtung",
       "notes": "Der Anker wirkt selbst dann, wenn er offensichtlich zufällig oder irrelevant ist.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "card-anpassung",
+      "stable_id": "card-ms942qod00r6v",
       "front": "Unzureichende Anpassung",
       "back": "Menschen passen ihr Urteil ausgehend vom Anker an, hören dabei aber meist zu früh auf — das Ergebnis bleibt nahe am Anker",
       "notes": "Anchoring-and-Adjustment: das ursprüngliche Modell (Tversky & Kahneman, 1974) — die Anpassung fällt typischerweise zu gering aus.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "card-selektive-verfuegbarkeit",
+      "stable_id": "card-ms942qod00sru",
       "front": "Selektive Verfügbarkeit",
       "back": "Moderne Verfeinerung (Strack & Mussweiler, 1997): Bei zufälligen, extern vorgegebenen Ankern aktiviert der Anker selektiv passende Informationen im Gedächtnis — diese werden leichter verfügbar und ziehen das Urteil in Richtung Anker",
       "notes": "Selective Accessibility — ergänzt das ältere Anchoring-and-Adjustment-Modell, ersetzt es aber nicht. Gut erklärt für das Glücksrad-Beispiel.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "card-tk-1974",
+      "stable_id": "card-ms942qod00t7w",
       "front": "Tversky & Kahneman (1974)",
       "back": "Klassisches Anker-Experiment: ein per Glücksrad erzeugter Zufallswert beeinflusste die anschließende Schätzung des Anteils afrikanischer Länder in der UNO",
       "notes": "Reale Studie. Sie zeigt, dass selbst offensichtlich zufällige Anker wirken.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "card-anker-verhandlung",
+      "stable_id": "card-ms942qod00upi",
       "front": "Anker in Verhandlungen",
       "back": "Das erste Angebot setzt einen Bezugspunkt, um den herum weiterverhandelt wird — wer zuerst nennt, prägt oft den Rahmen",
       "notes": "Ein praktischer Anwendungsfall; trotzdem kein Garant für ein bestimmtes Ergebnis.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "card-anker-grenze",
+      "stable_id": "card-ms942qod00vnr",
       "front": "Grenzen des Ankereffekts",
       "back": "Der Effekt ist robust, aber begrenzbar: Wer den Anker bewusst hinterfragt, Gegenargumente sucht oder Fachwissen hat, reduziert seinen Einfluss",
       "notes": "Robust heißt nicht unausweichlich.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "card-anker-abgrenzung",
+      "stable_id": "card-ms942qod00wky",
       "front": "Anker vs. Framing",
       "back": "Beim Anker prägt ein zuerst genannter Bezugswert die Schätzung; beim Framing prägt die positive oder negative Formulierung derselben Information die Bewertung",
       "notes": "Beide verzerren Urteile, aber auf unterschiedliche Weise.",
@@ -85,6 +92,7 @@
       "title": "Definition: Ankereffekt",
       "exercise": {
         "id": "ex-free-anker",
+        "stable_id": "ex-ms942qod00xmd",
         "type": "free_text",
         "prompt": "Was beschreibt der Ankereffekt?",
         "card_ids": ["card-anker"],
@@ -109,6 +117,7 @@
       "title": "Anchoring and Adjustment",
       "exercise": {
         "id": "ex-cloze-anpassung",
+        "stable_id": "ex-ms942qod00yy1",
         "type": "cloze",
         "prompt": "Ergänze die Erklärung des Mechanismus.",
         "card_ids": ["card-anpassung"],
@@ -128,6 +137,7 @@
       "title": "Das Glücksrad-Experiment",
       "exercise": {
         "id": "ex-select-anker-studie",
+        "stable_id": "ex-ms942qod00znp",
         "type": "cloze",
         "prompt": "Wähle die korrekte Quelle des Glücksrad-Experiments.",
         "card_ids": ["card-tk-1974"],
@@ -147,6 +157,7 @@
       "title": "Anker-Konzepte zuordnen",
       "exercise": {
         "id": "ex-match-anker",
+        "stable_id": "ex-ms942qod010j7",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Aussage zu.",
         "card_ids": ["card-anker", "card-anpassung", "card-selektive-verfuegbarkeit", "card-anker-verhandlung", "card-anker-grenze"],
@@ -167,6 +178,7 @@
       "title": "Setze den Kernsatz zusammen",
       "exercise": {
         "id": "ex-tiles-anker",
+        "stable_id": "ex-ms942qod011qd",
         "type": "word_tiles",
         "prompt": "Setze den Kernsatz zum Ankereffekt zusammen.",
         "card_ids": ["card-anker"],

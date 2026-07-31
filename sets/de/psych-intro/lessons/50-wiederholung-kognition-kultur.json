@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "recap-arbeitsgedaechtnis",
+      "stable_id": "card-ms942qpm11red",
       "front": "Arbeitsgedächtnis (Working Memory / Baddeley)",
       "back": "Aktives System, das Informationen kurzfristig hält UND verarbeitet; Komponenten: phonologische Schleife, visuell-räumlicher Notizblock, zentrale Exekutive.",
       "notes": "Lektion 46. Erweiterung des Kurzzeitgedächtnisses nach Baddeley.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "recap-verarbeitungstiefe",
+      "stable_id": "card-ms942qpm11sip",
       "front": "Verarbeitungstiefe (Levels of Processing)",
       "back": "Je bedeutungsbezogener (tiefer) eine Information verarbeitet wird, desto besser wird sie erinnert — semantisch schlägt oberflächlich (Craik & Lockhart).",
       "notes": "Lektion 46. Tiefere Verarbeitung führt zu dauerhafterem Behalten.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "recap-misinformationseffekt",
+      "stable_id": "card-ms942qpm11tnt",
       "front": "Misinformationseffekt (Misinformation Effect / Loftus)",
       "back": "Nachträgliche, irreführende Informationen verändern eine bestehende Erinnerung — die Wortwahl einer Frage kann Augenzeugenaussagen verzerren.",
       "notes": "Lektion 46. Belegt die rekonstruktive Natur des Gedächtnisses.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "recap-universalgrammatik",
+      "stable_id": "card-ms942qpm11uuw",
       "front": "Universalgrammatik (Universal Grammar / Chomsky)",
       "back": "Die Hypothese, dass Menschen mit einer angeborenen Sprachfähigkeit (Spracherwerbsgerät, LAD) zur Welt kommen, die den Erwerb jeder natürlichen Sprache ermöglicht.",
       "notes": "Lektion 47. Gegenpol zu Skinners behavioristischer Erklärung des Spracherwerbs.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "recap-sapir-whorf",
+      "stable_id": "card-ms942qpm11vf5",
       "front": "Sapir-Whorf-Hypothese (Linguistic Relativity)",
       "back": "Die Sprache, die jemand spricht, beeinflusst sein Denken und seine Wahrnehmung der Wirklichkeit (schwache Version: beeinflusst; starke Version: bestimmt).",
       "notes": "Lektion 47. Auch 'linguistische Relativitätstheorie' genannt.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "recap-staebchen-zapfen",
+      "stable_id": "card-ms942qpm11wfw",
       "front": "Stäbchen und Zapfen (Rods and Cones)",
       "back": "Fotorezeptoren der Netzhaut: Stäbchen reagieren auf Helligkeit (Dämmerungssehen, peripher); Zapfen reagieren auf Farbe (Scharfsehen, Fovea).",
       "notes": "Lektion 48. Grundlage der visuellen Transduktion.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "recap-dreifarbentheorie",
+      "stable_id": "card-ms942qpm11xgw",
       "front": "Dreifarbentheorie (Trichromatic Theory / Young-Helmholtz)",
       "back": "Das Auge besitzt drei Zapfentypen für Rot, Grün und Blau; alle Farben entstehen durch Mischung dieser drei Grundreize.",
       "notes": "Lektion 48. Ergänzt durch die Gegenfarbtheorie (Hering) für Nachbilder und Kontrastphänomene.",
@@ -72,6 +79,7 @@
     },
     {
       "id": "recap-transduktion",
+      "stable_id": "card-ms942qpm11y0y",
       "front": "Transduktion (Sensory Transduction)",
       "back": "Die Umwandlung eines physikalischen Reizes (Licht, Schall, Druck) in ein elektrisches Nervensignal durch Sinneszellen.",
       "notes": "Lektion 48. Grundlegender Schritt jeder Sinneswahrnehmung.",
@@ -81,6 +89,7 @@
     },
     {
       "id": "recap-natuerliche-selektion",
+      "stable_id": "card-ms942qpm11z18",
       "front": "Natürliche Selektion und Adaptation (Natural Selection)",
       "back": "Merkmale, die das Überleben und die Fortpflanzung verbessern, setzen sich über Generationen durch — Grundlage der evolutionären Psychologie.",
       "notes": "Lektion 49. Darwin; erklärt, warum bestimmte psychologische Mechanismen universal verbreitet sind.",
@@ -90,6 +99,7 @@
     },
     {
       "id": "recap-individualismus-kollektivismus",
+      "stable_id": "card-ms942qpm120ox",
       "front": "Individualismus vs. Kollektivismus (Individualism vs. Collectivism)",
       "back": "Individualistische Kulturen betonen persönliche Ziele und Autonomie; kollektivistische Kulturen priorisieren Gruppenharmonie und Gemeinschaft.",
       "notes": "Lektion 49. Dimension der Kulturdimension nach Hofstede.",
@@ -99,6 +109,7 @@
     },
     {
       "id": "recap-weird-problem",
+      "stable_id": "card-ms942qpm121x5",
       "front": "WEIRD-Problem",
       "back": "Viele psychologische Studien basieren auf WEIRD-Stichproben (Western, Educated, Industrialized, Rich, Democratic) und lassen sich nicht ohne Weiteres verallgemeinern.",
       "notes": "Lektion 49. Kritik an der kulturellen Enge der Forschungsgrundlage.",
@@ -108,6 +119,7 @@
     },
     {
       "id": "recap-bilingualismus",
+      "stable_id": "card-ms942qpm122ij",
       "front": "Bilingualismus (Bilingualism)",
       "back": "Die Fähigkeit, zwei Sprachen kompetent zu sprechen; früher Erwerb (simultaner Bilingualismus) führt meist zu nativem Niveau in beiden Sprachen.",
       "notes": "Lektion 47. Kritische Periode spielt eine wichtige Rolle.",
@@ -142,6 +154,7 @@
       "title": "Begriff – Lektion zuordnen",
       "exercise": {
         "id": "ex-match-lektionen",
+        "stable_id": "ex-ms942qpm123sk",
         "type": "matching",
         "prompt": "Ordne jeden Begriff seiner Lektion (46–49) zu.",
         "card_ids": ["recap-arbeitsgedaechtnis", "recap-universalgrammatik", "recap-transduktion", "recap-weird-problem"],
@@ -161,6 +174,7 @@
       "title": "Erinnerung ist rekonstruktiv",
       "exercise": {
         "id": "ex-cloze-misinformation",
+        "stable_id": "ex-ms942qpm124n7",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff für Loftus' Befund.",
         "card_ids": ["recap-misinformationseffekt"],
@@ -179,6 +193,7 @@
       "title": "Zwei Farbtheorien",
       "exercise": {
         "id": "ex-free-farbtheorien",
+        "stable_id": "ex-ms942qpm125w3",
         "type": "free_text",
         "prompt": "Wie heißt die Theorie, die drei Zapfentypen (Rot, Grün, Blau) als Grundlage des Farbsehens postuliert?",
         "card_ids": ["recap-dreifarbentheorie"],
@@ -195,6 +210,7 @@
       "title": "Theorie und Forscher",
       "exercise": {
         "id": "ex-match-gedaechtnis-sprache",
+        "stable_id": "ex-ms942qpm12661",
         "type": "matching",
         "prompt": "Ordne jedem Begriff den zugehörigen Forscher oder die zugehörige Beschreibung zu.",
         "card_ids": ["recap-verarbeitungstiefe", "recap-misinformationseffekt", "recap-universalgrammatik", "recap-sapir-whorf"],
@@ -214,6 +230,7 @@
       "title": "Das WEIRD-Problem erklären",
       "exercise": {
         "id": "ex-tiles-weird",
+        "stable_id": "ex-ms942qpm127b8",
         "type": "word_tiles",
         "prompt": "Setze den Kernsatz zum WEIRD-Problem zusammen.",
         "card_ids": ["recap-weird-problem"],
@@ -229,6 +246,7 @@
       "title": "Evolution und Kultur",
       "exercise": {
         "id": "ex-free-evolution-kultur",
+        "stable_id": "ex-ms942qpm128cy",
         "type": "free_text",
         "prompt": "Wie nennt man die Kulturdimension, bei der persönliche Ziele und Autonomie gegenüber Gruppenharmonie im Vordergrund stehen?",
         "card_ids": ["recap-individualismus-kollektivismus"],
@@ -245,6 +263,7 @@
       "title": "Fotorezeptoren der Netzhaut",
       "exercise": {
         "id": "ex-cloze-staebchen-zapfen",
+        "stable_id": "ex-ms942qpm129em",
         "type": "cloze",
         "prompt": "Ergänze den Rezeptortyp, der für das Farbsehen zuständig ist.",
         "card_ids": ["recap-staebchen-zapfen"],

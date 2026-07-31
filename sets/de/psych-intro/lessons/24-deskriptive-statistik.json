@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "deskriptive-statistik",
+      "stable_id": "card-ms942qp60nu22",
       "front": "Deskriptive Statistik (Descriptive Statistics)",
       "back": "Der Teil der Statistik, der Daten übersichtlich zusammenfasst und beschreibt — durch Kennzahlen wie Mittelwert oder Streuung, ohne über die Stichprobe hinaus zu schließen.",
       "notes": "In Lektion 21 hast du quantitative Forschung kennengelernt. Wenn Zahlen vorliegen, fasst man sie mit deskriptiver Statistik zusammen.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "mittelwert",
+      "stable_id": "card-ms942qp60nvm9",
       "front": "Mittelwert (Arithmetisches Mittel / Mean)",
       "back": "Die Summe aller Werte geteilt durch die Anzahl der Werte. Beispiel: (2+3+3+4+8) ÷ 5 = 4.",
       "notes": "Der Mittelwert reagiert empfindlich auf Ausreißer — ein extrem hoher oder niedriger Wert zieht ihn stark in seine Richtung.",
@@ -28,6 +30,7 @@
     },
     {
       "id": "median",
+      "stable_id": "card-ms942qp60nwam",
       "front": "Median (Median)",
       "back": "Der mittlere Wert einer der Größe nach geordneten Reihe. Bei einer geraden Anzahl ist es der Durchschnitt der beiden mittleren Werte. Beispiel: 2, 3, **3**, 4, 8 → Median = 3.",
       "notes": "Der Median ist robuster gegenüber Ausreißern als der Mittelwert, weil er nur die Position, nicht den genauen Wert berücksichtigt.",
@@ -38,6 +41,7 @@
     },
     {
       "id": "modus",
+      "stable_id": "card-ms942qp60nxvi",
       "front": "Modus (Mode)",
       "back": "Der am häufigsten vorkommende Wert in einem Datensatz. Beispiel: 2, 3, 3, 4, 8 → Modus = 3.",
       "notes": "Ein Datensatz kann mehrere Modi haben (multimodal) oder gar keinen, wenn alle Werte gleich häufig sind.",
@@ -47,6 +51,7 @@
     },
     {
       "id": "spannweite",
+      "stable_id": "card-ms942qp60nysy",
       "front": "Spannweite (Range)",
       "back": "Die Differenz zwischen dem größten und dem kleinsten Wert: Spannweite = Maximum − Minimum. Beispiel: 8 − 2 = 6.",
       "media_type": "text",
@@ -56,6 +61,7 @@
     },
     {
       "id": "varianz",
+      "stable_id": "card-ms942qp60nzyx",
       "front": "Varianz (Variance)",
       "back": "Das durchschnittliche quadratische Abweichungsquadrat vom Mittelwert — ein Maß dafür, wie weit die Werte um den Mittelwert streuen. Je größer die Varianz, desto heterogener die Daten.",
       "notes": "Die Varianz wird quadriert, damit sich positive und negative Abweichungen nicht aufheben. Die Standardabweichung ist die Quadratwurzel der Varianz.",
@@ -65,6 +71,7 @@
     },
     {
       "id": "standardabweichung",
+      "stable_id": "card-ms942qp60o0ui",
       "front": "Standardabweichung (Standard Deviation, SD)",
       "back": "Die Quadratwurzel der Varianz — gibt die mittlere Abweichung der Werte vom Mittelwert in der Originaleinheit an. Je kleiner die SD, desto enger liegen die Werte zusammen.",
       "notes": "Bei der Normalverteilung liegen ca. 68 % aller Werte innerhalb von ±1 Standardabweichung vom Mittelwert.",
@@ -75,6 +82,7 @@
     },
     {
       "id": "normalverteilung",
+      "stable_id": "card-ms942qp60o1s7",
       "front": "Normalverteilung (Normal Distribution / Glockenkurve)",
       "back": "Eine symmetrische, glockenförmige Häufigkeitsverteilung, bei der Mittelwert = Median = Modus gilt und ca. 68 % der Werte innerhalb einer Standardabweichung vom Mittelwert liegen.",
       "notes": "Viele psychologische Merkmale wie Intelligenz oder Körpergröße sind annähernd normalverteilt. Die 68-95-99,7-Regel beschreibt die Verteilung der Werte.",
@@ -84,6 +92,7 @@
     },
     {
       "id": "ausreisser",
+      "stable_id": "card-ms942qp60o2u9",
       "front": "Ausreißer (Outlier)",
       "back": "Ein Datenwert, der weit außerhalb des typischen Bereichs der übrigen Werte liegt. Ausreißer verzerren den Mittelwert stark, haben aber kaum Einfluss auf den Median.",
       "notes": "Beispiel: In der Reihe 2, 3, 3, 4, 100 zieht der Ausreißer 100 den Mittelwert auf 22,4 — während der Median bei 3 bleibt.",
@@ -94,6 +103,7 @@
     },
     {
       "id": "robustheit-median",
+      "stable_id": "card-ms942qp60o3t2",
       "front": "Robustheit des Medians gegenüber Ausreißern",
       "back": "Der Median ist ein robustes Lagemaß, weil er nur die Rangposition berücksichtigt. Ein einzelner extremer Wert verändert den Median kaum, kann aber den Mittelwert erheblich verschieben.",
       "notes": "Beispiel: 2, 3, 3, 4, 8 → Mittelwert = 4, Median = 3. Ändert man 8 zu 80: Mittelwert = 18,4, Median bleibt 3.",
@@ -103,6 +113,7 @@
     },
     {
       "id": "streuungsmass",
+      "stable_id": "card-ms942qp60o4cl",
       "front": "Streuungsmaß (Measure of Dispersion / Variability)",
       "back": "Eine Kennzahl, die angibt, wie stark die Werte in einem Datensatz voneinander abweichen. Wichtige Streuungsmaße sind Spannweite, Varianz und Standardabweichung.",
       "media_type": "text",
@@ -111,6 +122,7 @@
     },
     {
       "id": "schiefe-verteilung",
+      "stable_id": "card-ms942qp60o5h3",
       "front": "Schiefe Verteilung (Skewed Distribution)",
       "back": "Eine asymmetrische Häufigkeitsverteilung, bei der Mittelwert, Median und Modus auseinanderfallen. Ausreißer auf einer Seite ziehen den Mittelwert in diese Richtung.",
       "notes": "Bei einer rechtsschiefen Verteilung (z. B. Einkommen) gilt: Mittelwert > Median > Modus. Der Median ist dann oft die bessere Kennzahl.",
@@ -145,6 +157,7 @@
       "title": "Maße der zentralen Tendenz zuordnen",
       "exercise": {
         "id": "ex-match-zentrale-tendenz",
+        "stable_id": "ex-ms942qp60o6l6",
         "type": "matching",
         "prompt": "Ordne jedem Maß der zentralen Tendenz seine Berechnungsweise zu.",
         "card_ids": ["mittelwert", "median", "modus"],
@@ -163,6 +176,7 @@
       "title": "Mittelwert berechnen",
       "exercise": {
         "id": "ex-cloze-mittelwert",
+        "stable_id": "ex-ms942qp60o7k6",
         "type": "cloze",
         "prompt": "Ergänze das Ergebnis der Mittelwert-Berechnung für den Datensatz 2, 3, 3, 4, 8.",
         "card_ids": ["mittelwert"],
@@ -181,6 +195,7 @@
       "title": "Median bestimmen",
       "exercise": {
         "id": "ex-free-median",
+        "stable_id": "ex-ms942qp60o8hz",
         "type": "free_text",
         "prompt": "Was ist der Median des Datensatzes 2, 3, 3, 4, 8?",
         "card_ids": ["median"],
@@ -197,6 +212,7 @@
       "title": "Streuungsmaße und ihre Bedeutung",
       "exercise": {
         "id": "ex-match-streuungsmasse",
+        "stable_id": "ex-ms942qp60o9mi",
         "type": "matching",
         "prompt": "Ordne jedem Streuungsmaß seine Beschreibung zu.",
         "card_ids": ["spannweite", "varianz", "standardabweichung", "streuungsmass"],
@@ -216,6 +232,7 @@
       "title": "Ausreißer und robuste Maße",
       "exercise": {
         "id": "ex-free-ausreisser",
+        "stable_id": "ex-ms942qp60oaxn",
         "type": "free_text",
         "prompt": "Welches Lagemaß ist robuster gegenüber Ausreißern — Mittelwert oder Median?",
         "card_ids": ["ausreisser", "robustheit-median"],
@@ -232,6 +249,7 @@
       "title": "Eigenschaft der Normalverteilung",
       "exercise": {
         "id": "ex-cloze-normalverteilung",
+        "stable_id": "ex-ms942qp60oblr",
         "type": "cloze",
         "prompt": "Ergänze den Prozentsatz der Werte, die bei einer Normalverteilung innerhalb einer Standardabweichung liegen.",
         "card_ids": ["normalverteilung"],
@@ -250,6 +268,7 @@
       "title": "Merkmale der Normalverteilung",
       "exercise": {
         "id": "ex-tiles-normalverteilung",
+        "stable_id": "ex-ms942qp60ocma",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zur Normalverteilung zusammen.",
         "card_ids": ["normalverteilung"],

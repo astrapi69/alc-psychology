@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "psychotherapie",
+      "stable_id": "card-ms942qp20jlya",
       "front": "Psychotherapie (Psychotherapy)",
       "back": "Die geplante, wissenschaftlich fundierte Behandlung psychischer Störungen und Leiden mit psychologischen Mitteln — also durch Gespräch, Übung und Beziehung statt durch Medikamente.",
       "notes": "Abzugrenzen von der **Pharmakotherapie** (Behandlung mit Medikamenten). Beide können kombiniert werden.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "psychische-stoerung",
+      "stable_id": "card-ms942qp20jmyi",
       "front": "Psychische Störung",
       "back": "Ein klinisch bedeutsames Muster von Gedanken, Gefühlen oder Verhalten, das mit Leiden oder Beeinträchtigung im Alltag einhergeht.",
       "notes": "In Lektion 9 (Klinische Psychologie) eingeführt. Psychotherapie ist eine zentrale Behandlungsform.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "setting",
+      "stable_id": "card-ms942qp20jn5j",
       "front": "Setting",
       "back": "Der äußere Rahmen einer Therapie: z. B. Einzel-, Paar- oder Gruppentherapie, Sitzungsdauer, Häufigkeit und Gesamtzahl der Sitzungen.",
       "notes": "Ein typisches Setting: 50-minütige Einzelsitzungen, wöchentlich.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "therapeutische-beziehung",
+      "stable_id": "card-ms942qp20jopb",
       "front": "Therapeutische Beziehung (Therapeutic Alliance)",
       "back": "Die vertrauensvolle Arbeitsbeziehung zwischen Therapeut:in und Klient:in. Sie gilt als einer der stärksten Vorhersagefaktoren für den Therapieerfolg.",
       "notes": "Auch 'therapeutische Allianz' genannt. Wichtiger als die Frage, welches einzelne Verfahren genau angewendet wird.",
@@ -46,6 +50,7 @@
     },
     {
       "id": "wirkfaktoren",
+      "stable_id": "card-ms942qp20jp63",
       "front": "Allgemeine Wirkfaktoren (Common Factors)",
       "back": "Heilsame Elemente, die fast allen Therapieformen gemeinsam sind — z. B. die therapeutische Beziehung, Hoffnung, ein nachvollziehbares Erklärungsmodell und das Üben neuer Erfahrungen.",
       "notes": "Nach Klaus Grawe u. a. Sie erklären, warum verschiedene Verfahren oft ähnlich gut wirken.",
@@ -55,6 +60,7 @@
     },
     {
       "id": "ressourcenaktivierung",
+      "stable_id": "card-ms942qp20jqok",
       "front": "Ressourcenaktivierung",
       "back": "Ein Wirkfaktor: die Stärken, Fähigkeiten und positiven Möglichkeiten der Klient:innen werden bewusst genutzt und gefördert.",
       "notes": "Einer von Grawes vier allgemeinen Wirkfaktoren.",
@@ -64,6 +70,7 @@
     },
     {
       "id": "indikation",
+      "stable_id": "card-ms942qp20jrju",
       "front": "Indikation",
       "back": "Die begründete Entscheidung, welches Verfahren für welche Person und welche Störung geeignet ist ('Was hilft wem?').",
       "notes": "Gegenteil: Kontraindikation — Gründe, die gegen eine bestimmte Behandlung sprechen.",
@@ -73,6 +80,7 @@
     },
     {
       "id": "anamnese",
+      "stable_id": "card-ms942qp20jsz1",
       "front": "Anamnese",
       "back": "Die systematische Erhebung der Vorgeschichte zu Beginn einer Behandlung: Beschwerden, Lebensgeschichte, frühere Erkrankungen.",
       "notes": "Bildet die Grundlage für Diagnose und Therapieplanung.",
@@ -82,6 +90,7 @@
     },
     {
       "id": "therapieziel",
+      "stable_id": "card-ms942qp20jtbe",
       "front": "Therapieziel",
       "back": "Ein gemeinsam vereinbartes, möglichst konkretes Ziel der Behandlung (z. B. 'wieder mit dem Bus fahren können').",
       "notes": "Klare, überprüfbare Ziele erhöhen die Wirksamkeit und Motivation.",
@@ -91,6 +100,7 @@
     },
     {
       "id": "vier-hauptverfahren",
+      "stable_id": "card-ms942qp20jumn",
       "front": "Die anerkannten Hauptverfahren",
       "back": "Vier große Therapierichtungen: Verhaltenstherapie, kognitive (Verhaltens-)Therapie, psychodynamische/tiefenpsychologische Verfahren und humanistische Verfahren.",
       "notes": "Die nächsten Lektionen behandeln diese der Reihe nach.",
@@ -100,6 +110,7 @@
     },
     {
       "id": "evidenzbasierung",
+      "stable_id": "card-ms942qp20jvib",
       "front": "Evidenzbasierung",
       "back": "Der Anspruch, dass die Wirksamkeit eines Verfahrens durch wissenschaftliche Studien belegt sein soll.",
       "notes": "Knüpft an die empirische Methode der Psychologie aus Lektion 1 an.",
@@ -110,6 +121,7 @@
     },
     {
       "id": "schweigepflicht",
+      "stable_id": "card-ms942qp20jwp7",
       "front": "Schweigepflicht",
       "back": "Die gesetzliche Pflicht der Therapeut:innen, alles Anvertraute vertraulich zu behandeln. Sie schafft die Sicherheit, offen sprechen zu können.",
       "notes": "Eine wichtige Voraussetzung für eine tragfähige therapeutische Beziehung.",
@@ -144,6 +156,7 @@
       "title": "Womit Psychotherapie arbeitet",
       "exercise": {
         "id": "ex-cloze-mittel",
+        "stable_id": "ex-ms942qp20jxz4",
         "type": "cloze",
         "prompt": "Ergänze den Begriff für die Behandlung mit psychologischen Mitteln.",
         "card_ids": ["psychotherapie"],
@@ -162,6 +175,7 @@
       "title": "Grundbegriffe zuordnen",
       "exercise": {
         "id": "ex-match-grundbegriffe",
+        "stable_id": "ex-ms942qp20jy2o",
         "type": "matching",
         "prompt": "Ordne jedem Begriff seine Bedeutung zu.",
         "card_ids": ["setting", "anamnese", "indikation", "schweigepflicht"],
@@ -181,6 +195,7 @@
       "title": "Der stärkste Wirkfaktor",
       "exercise": {
         "id": "ex-free-beziehung",
+        "stable_id": "ex-ms942qp20jzcm",
         "type": "free_text",
         "prompt": "Wie heißt das vertrauensvolle Arbeitsbündnis zwischen Therapeut:in und Klient:in, das den Erfolg stark vorhersagt?",
         "card_ids": ["therapeutische-beziehung"],
@@ -197,6 +212,7 @@
       "title": "Grawes Wirkfaktoren",
       "exercise": {
         "id": "ex-match-wirkfaktoren",
+        "stable_id": "ex-ms942qp20k0cs",
         "type": "matching",
         "prompt": "Ordne jeden Wirkfaktor seiner Beschreibung zu.",
         "card_ids": ["therapeutische-beziehung", "ressourcenaktivierung", "wirkfaktoren"],
@@ -215,6 +231,7 @@
       "title": "Wissenschaftlich belegt",
       "exercise": {
         "id": "ex-cloze-evidenz",
+        "stable_id": "ex-ms942qp20k16n",
         "type": "cloze",
         "prompt": "Ergänze den Begriff dafür, dass die Wirksamkeit durch Studien belegt sein soll.",
         "card_ids": ["evidenzbasierung"],
@@ -233,6 +250,7 @@
       "title": "Abgrenzung zur Medikamentenbehandlung",
       "exercise": {
         "id": "ex-free-pharmako",
+        "stable_id": "ex-ms942qp20k2ex",
         "type": "free_text",
         "prompt": "Wie nennt man die Behandlung psychischer Störungen mit Medikamenten (im Gegensatz zur Psychotherapie)?",
         "card_ids": ["psychotherapie"],
@@ -249,6 +267,7 @@
       "title": "Ein gutes Therapieziel",
       "exercise": {
         "id": "ex-tiles-ziel",
+        "stable_id": "ex-ms942qp20k39t",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zu Therapiezielen zusammen.",
         "card_ids": ["therapieziel"],

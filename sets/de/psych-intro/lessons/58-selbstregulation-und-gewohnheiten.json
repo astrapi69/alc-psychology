@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "selbstregulation",
+      "stable_id": "card-ms942qpr161mc",
       "front": "Selbstregulation (Self-Regulation)",
       "back": "Die Fähigkeit, das eigene Verhalten, die eigenen Gedanken und Emotionen an langfristigen Zielen auszurichten und kurzfristigen Versuchungen zu widerstehen.",
       "notes": "Baut auf Motivation (Lektion 56) und Selbstkontrolle auf; eng verwandt mit Belohnungsaufschub.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "marshmallow-test",
+      "stable_id": "card-ms942qpr16206",
       "front": "Marshmallow-Test (Delay of Gratification — Mischel)",
       "back": "Ein klassisches Experiment von Walter Mischel: Kinder konnten einen Marshmallow sofort essen oder warteten und erhielten zwei. Es prüfte die Fähigkeit zum Belohnungsaufschub.",
       "notes": "Spätere Replikationen zeigen: Der Zusammenhang mit Lebenserfolg ist schwächer als ursprünglich berichtet und hängt stark vom sozioökonomischen Hintergrund ab.",
@@ -28,6 +30,7 @@
     },
     {
       "id": "belohnungsaufschub",
+      "stable_id": "card-ms942qpr163bq",
       "front": "Belohnungsaufschub (Delay of Gratification)",
       "back": "Die Fähigkeit, eine sofortige, kleinere Belohnung zugunsten einer späteren, größeren Belohnung aufzuschieben.",
       "notes": "Hängt mit hyperbolischer Diskontierung zusammen (Lektion 54): Je stärker die Zukunft abgezinst wird, desto schwerer fällt der Belohnungsaufschub.",
@@ -37,6 +40,7 @@
     },
     {
       "id": "hyperbolische-diskontierung-bezug",
+      "stable_id": "card-ms942qpr164m0",
       "front": "Hyperbolische Diskontierung und Selbstkontrolle",
       "back": "Menschen bewerten nahe Belohnungen überproportional stark (hyperbolische Diskontierung, Lektion 54). Das macht Selbstregulation schwer: Jetzt genießen erscheint verlockender als später mehr zu haben.",
       "notes": "Erklärung für Prokrastination und Impulskäufe.",
@@ -46,6 +50,7 @@
     },
     {
       "id": "ego-depletion",
+      "stable_id": "card-ms942qpr16526",
       "front": "Ego-Depletion-Modell (Baumeister)",
       "back": "Roy Baumeister schlug vor, dass Willenskraft eine begrenzte Ressource ist: Anstrengende Selbstkontrolle erschöpft diese Ressource und verschlechtert spätere Selbstkontrollleistungen.",
       "notes": "Wichtig: Das Modell hat Replikationszweifel (Lektion 39). Viele Studien konnten den Effekt nicht bestätigen; er gilt als fragwürdig.",
@@ -56,6 +61,7 @@
     },
     {
       "id": "replikationszweifel",
+      "stable_id": "card-ms942qpr166jg",
       "front": "Replikationszweifel (Replication Crisis — Bezug Ego-Depletion)",
       "back": "Viele Ego-Depletion-Befunde ließen sich in groß angelegten Replikationsstudien nicht wiederholen. Dies mahnt zur Vorsicht bei populären Willenskraft-Modellen.",
       "notes": "Allgemeines Problem in der Psychologie, diskutiert in Lektion 39 (Wissenschaftstheorie und Ethik).",
@@ -65,6 +71,7 @@
     },
     {
       "id": "prokrastination",
+      "stable_id": "card-ms942qpr1670b",
       "front": "Prokrastination (Procrastination / Aufschieben)",
       "back": "Das wiederholte Aufschieben von Aufgaben trotz negativer Konsequenzen — oft ausgelöst durch Vermeidung unangenehmer Gefühle wie Angst oder Langeweile.",
       "media_type": "text",
@@ -73,6 +80,7 @@
     },
     {
       "id": "implementierungsintentionen",
+      "stable_id": "card-ms942qpr168h1",
       "front": "Implementierungsintentionen / Wenn-dann-Pläne (Implementation Intentions — Gollwitzer)",
       "back": "Konkrete Pläne der Form 'Wenn Situation X eintritt, dann führe ich Verhalten Y aus.' Sie erhöhen die Wahrscheinlichkeit, dass Absichten tatsächlich umgesetzt werden.",
       "notes": "Entwickelt von Peter Gollwitzer. Wirksamer als bloße Zielvorsätze, da sie automatische Reaktionen auf Situationshinweise aufbauen.",
@@ -83,6 +91,7 @@
     },
     {
       "id": "gewohnheit",
+      "stable_id": "card-ms942qpr169y9",
       "front": "Gewohnheit (Habit)",
       "back": "Ein automatisiertes Verhaltensmuster, das durch Wiederholung in einem stabilen Kontext erworben wurde und durch spezifische Auslöser ausgelöst wird, ohne bewusste Entscheidung.",
       "notes": "Gewohnheiten entlasten die bewusste Selbstkontrolle, da sie im Autopilot laufen.",
@@ -92,6 +101,7 @@
     },
     {
       "id": "gewohnheitsschleife",
+      "stable_id": "card-ms942qpr16a7k",
       "front": "Gewohnheitsschleife: Auslöser → Routine → Belohnung (Habit Loop)",
       "back": "Gewohnheiten bestehen aus drei Elementen: ein Auslöser (Cue) löst eine Routine (Verhalten) aus, die zu einer Belohnung (Reward) führt — und so die Schleife verstärkt.",
       "notes": "Das Modell stammt maßgeblich von Charles Duhigg ('The Power of Habit'). Wer Gewohnheiten ändern will, muss den Auslöser oder die Routine verändern.",
@@ -102,6 +112,7 @@
     },
     {
       "id": "gewohnheiten-und-selbstkontrolle",
+      "stable_id": "card-ms942qpr16bkk",
       "front": "Wie Gewohnheiten Selbstkontrolle entlasten",
       "back": "Automatisierte Gewohnheiten reduzieren den Bedarf an bewusster Selbstkontrolle: Wer gesunde Routinen aufgebaut hat, muss nicht jedes Mal neu entscheiden und schont damit kognitive Ressourcen.",
       "media_type": "text",
@@ -110,6 +121,7 @@
     },
     {
       "id": "willenskraft-strategien",
+      "stable_id": "card-ms942qpr16cqp",
       "front": "Strategien zur Stärkung der Selbstregulation",
       "back": "Wirksame Strategien umfassen: Versuchungen aus dem Weg räumen (Situationsgestaltung), Wenn-dann-Pläne bilden (Implementierungsintentionen), Routinen aufbauen und Ziele in Teilschritte zerlegen.",
       "media_type": "text",
@@ -143,6 +155,7 @@
       "title": "Konzepte der Selbstregulation zuordnen",
       "exercise": {
         "id": "ex-match-konzepte",
+        "stable_id": "ex-ms942qpr16dh3",
         "type": "matching",
         "prompt": "Ordne jedem Begriff seine treffende Beschreibung zu.",
         "card_ids": ["selbstregulation", "belohnungsaufschub", "prokrastination", "implementierungsintentionen"],
@@ -162,6 +175,7 @@
       "title": "Die Gewohnheitsschleife",
       "exercise": {
         "id": "ex-match-gewohnheitsschleife",
+        "stable_id": "ex-ms942qpr16e2x",
         "type": "matching",
         "prompt": "Ordne den drei Elementen der Gewohnheitsschleife ihre Rolle zu.",
         "card_ids": ["gewohnheitsschleife", "gewohnheit"],
@@ -180,6 +194,7 @@
       "title": "Der Marshmallow-Test",
       "exercise": {
         "id": "ex-cloze-marshmallow",
+        "stable_id": "ex-ms942qpr16ftg",
         "type": "cloze",
         "prompt": "Ergänze den Namen des Forschers, der den Marshmallow-Test entwickelt hat.",
         "card_ids": ["marshmallow-test", "belohnungsaufschub"],
@@ -198,6 +213,7 @@
       "title": "Willenskraft als Ressource",
       "exercise": {
         "id": "ex-cloze-ego-depletion",
+        "stable_id": "ex-ms942qpr16gs0",
         "type": "cloze",
         "prompt": "Ergänze den Begriff für Baumeisters Modell der erschöpflichen Willenskraft.",
         "card_ids": ["ego-depletion", "replikationszweifel"],
@@ -216,6 +232,7 @@
       "title": "Elemente der Gewohnheitsschleife benennen",
       "exercise": {
         "id": "ex-free-gewohnheitsschleife",
+        "stable_id": "ex-ms942qpr16hwj",
         "type": "free_text",
         "prompt": "Wie heißt das erste Element der Gewohnheitsschleife, das eine Routine in Gang setzt?",
         "card_ids": ["gewohnheitsschleife", "gewohnheit"],
@@ -232,6 +249,7 @@
       "title": "Wenn-dann-Pläne",
       "exercise": {
         "id": "ex-free-wenn-dann",
+        "stable_id": "ex-ms942qpr16ioh",
         "type": "free_text",
         "prompt": "Wie heißt der Fachbegriff für Gollwitzers 'Wenn-dann-Pläne'?",
         "card_ids": ["implementierungsintentionen"],
@@ -248,6 +266,7 @@
       "title": "Wie Gewohnheiten helfen",
       "exercise": {
         "id": "ex-tiles-gewohnheiten-entlasten",
+        "stable_id": "ex-ms942qpr16jhx",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zusammen: Wie wirken sich Gewohnheiten auf Selbstkontrolle aus?",
         "card_ids": ["gewohnheiten-und-selbstkontrolle", "gewohnheit"],

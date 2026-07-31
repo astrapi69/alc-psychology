@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "bewusstsein",
+      "stable_id": "card-ms942qp10ikj0",
       "front": "Bewusstsein (Consciousness)",
       "back": "Das Gewahrsein von sich selbst und der Umwelt — also die subjektive Erfahrung von Gedanken, Gefühlen und Wahrnehmungen im gegenwärtigen Moment.",
       "notes": "Bewusstsein ist schwer zu definieren; Psychologen beschreiben es oft als den 'Strom des Erlebens'.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "zirkadianer-rhythmus",
+      "stable_id": "card-ms942qp10il7s",
       "front": "Zirkadianer Rhythmus (Circadian Rhythm)",
       "back": "Der biologische 24-Stunden-Takt des Körpers, der Schlaf-Wach-Phasen, Körpertemperatur und Hormonausschüttung reguliert.",
       "notes": "Der Begriff kommt vom Lateinischen 'circa diem' (ungefähr ein Tag).",
@@ -28,6 +30,7 @@
     },
     {
       "id": "melatonin",
+      "stable_id": "card-ms942qp10imoj",
       "front": "Melatonin",
       "back": "Ein Hormon, das von der Zirbeldrüse (Epiphyse) bei Dunkelheit ausgeschüttet wird und das Einschlafen fördert.",
       "notes": "Helles Licht — besonders blaues Bildschirmlicht — hemmt die Melatoninproduktion.",
@@ -38,6 +41,7 @@
     },
     {
       "id": "nrem-schlaf",
+      "stable_id": "card-ms942qp10in0i",
       "front": "NREM-Schlaf (Non-REM-Schlaf)",
       "back": "Die drei Schlafstadien ohne schnelle Augenbewegungen: Stadium 1 (leichter Schlaf), Stadium 2 (Schlafspindeln, K-Komplexe) und Stadium 3 (Tiefschlaf / Slow-Wave-Sleep).",
       "notes": "NREM steht für Non-Rapid Eye Movement.",
@@ -47,6 +51,7 @@
     },
     {
       "id": "rem-schlaf",
+      "stable_id": "card-ms942qp10iom6",
       "front": "REM-Schlaf (Rapid Eye Movement Sleep)",
       "back": "Schlafphase mit schnellen Augenbewegungen, lebhaften Träumen und erhöhter Gehirnaktivität; die Muskeln sind weitgehend gelähmt (Atonie).",
       "notes": "REM-Schlaf tritt am häufigsten in der zweiten Nachthälfte auf und ist mit Gedächtniskonsolidierung verbunden.",
@@ -56,6 +61,7 @@
     },
     {
       "id": "schlafzyklus",
+      "stable_id": "card-ms942qp10ip09",
       "front": "Schlafzyklus",
       "back": "Ein vollständiger Durchlauf aller Schlafphasen (NREM 1–3 und REM) dauert etwa 90 Minuten; pro Nacht wiederholt er sich 4–6 Mal.",
       "media_type": "text",
@@ -65,6 +71,7 @@
     },
     {
       "id": "gedaechtniskonsolidierung",
+      "stable_id": "card-ms942qp10iqtt",
       "front": "Gedächtniskonsolidierung im Schlaf (Memory Consolidation)",
       "back": "Während des Schlafs — besonders im Tiefschlaf und im REM-Schlaf — werden tagsüber gelernte Informationen gefestigt und ins Langzeitgedächtnis übertragen.",
       "media_type": "text",
@@ -73,6 +80,7 @@
     },
     {
       "id": "insomnie",
+      "stable_id": "card-ms942qp10irws",
       "front": "Insomnie (Schlaflosigkeit)",
       "back": "Eine Schlafstörung, die durch anhaltende Schwierigkeiten beim Ein- oder Durchschlafen gekennzeichnet ist und die Tagesfunktion beeinträchtigt.",
       "notes": "Häufige Ursachen: Stress, Angst, schlechte Schlafhygiene, Koffein.",
@@ -82,6 +90,7 @@
     },
     {
       "id": "traumdeutung-freud",
+      "stable_id": "card-ms942qp10istx",
       "front": "Traumdeutung nach Freud",
       "back": "Freud sah Träume als 'Königsweg zum Unbewussten': Der manifeste Trauminhalt (das Erinnerte) verschlüsselt den latenten Inhalt (unbewusste Wünsche und Konflikte).",
       "notes": "Diese Theorie ist heute wissenschaftlich umstritten, aber kulturell einflussreich.",
@@ -92,6 +101,7 @@
     },
     {
       "id": "aktivierungs-synthese",
+      "stable_id": "card-ms942qp10it7d",
       "front": "Aktivierungs-Synthese-Hypothese",
       "back": "Nach Hobson und McCarley erzeugt das Gehirn im REM-Schlaf zufällige neuronale Aktivierungen; der Kortex interpretiert diese dann als kohärente Geschichte — das ist der Traum.",
       "notes": "Im Gegensatz zu Freud: kein versteckter Sinn, sondern gehirnphysiologische Zufallsaktivität.",
@@ -102,6 +112,7 @@
     },
     {
       "id": "veraenderte-bewusstseinszustaende",
+      "stable_id": "card-ms942qp10iun6",
       "front": "Veränderte Bewusstseinszustände (Altered States of Consciousness)",
       "back": "Zustände, die von normalem Wachbewusstsein abweichen, z. B. durch Schlaf, Meditation, Hypnose, Drogen oder Fieber hervorgerufen.",
       "media_type": "text",
@@ -135,6 +146,7 @@
       "title": "Melatonin und Dunkelheit",
       "exercise": {
         "id": "ex-cloze-melatonin",
+        "stable_id": "ex-ms942qp10ivhd",
         "type": "cloze",
         "prompt": "Ergänze, welches Hormon bei Dunkelheit ausgeschüttet wird und den Schlaf fördert.",
         "card_ids": ["melatonin"],
@@ -153,6 +165,7 @@
       "title": "Dauer eines Schlafzyklus",
       "exercise": {
         "id": "ex-cloze-schlafzyklus",
+        "stable_id": "ex-ms942qp10iw8m",
         "type": "cloze",
         "prompt": "Ergänze die ungefähre Dauer eines vollständigen Schlafzyklus.",
         "card_ids": ["schlafzyklus"],
@@ -171,6 +184,7 @@
       "title": "REM-Schlaf benennen",
       "exercise": {
         "id": "ex-free-rem",
+        "stable_id": "ex-ms942qp10ixim",
         "type": "free_text",
         "prompt": "Welche Schlafphase ist durch schnelle Augenbewegungen, lebhafte Träume und Muskelatonie gekennzeichnet?",
         "card_ids": ["rem-schlaf"],
@@ -187,6 +201,7 @@
       "title": "Schlafstörung benennen",
       "exercise": {
         "id": "ex-free-insomnie",
+        "stable_id": "ex-ms942qp10iylb",
         "type": "free_text",
         "prompt": "Wie nennt man die Schlafstörung, bei der eine Person anhaltende Schwierigkeiten beim Ein- oder Durchschlafen hat?",
         "card_ids": ["insomnie"],
@@ -203,6 +218,7 @@
       "title": "Schlafphasen zuordnen",
       "exercise": {
         "id": "ex-match-schlafphasen",
+        "stable_id": "ex-ms942qp10izqr",
         "type": "matching",
         "prompt": "Ordne jeder Schlafphase ihr wesentliches Merkmal zu.",
         "card_ids": ["nrem-schlaf", "rem-schlaf", "schlafzyklus"],
@@ -222,6 +238,7 @@
       "title": "Traumtheorien zuordnen",
       "exercise": {
         "id": "ex-match-traumtheorien",
+        "stable_id": "ex-ms942qp10j0ct",
         "type": "matching",
         "prompt": "Ordne jede Traumtheorie ihrer Kernaussage zu.",
         "card_ids": ["traumdeutung-freud", "aktivierungs-synthese"],
@@ -240,6 +257,7 @@
       "title": "Bewusstsein definieren",
       "exercise": {
         "id": "ex-tiles-bewusstsein",
+        "stable_id": "ex-ms942qp10j17e",
         "type": "word_tiles",
         "prompt": "Setze eine Definition von Bewusstsein zusammen.",
         "card_ids": ["bewusstsein"],

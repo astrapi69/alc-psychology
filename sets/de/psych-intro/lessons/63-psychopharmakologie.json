@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "psychopharmakologie",
+      "stable_id": "card-ms942qpu18n1f",
       "front": "Psychopharmakologie (Psychopharmacology)",
       "back": "Das Teilgebiet der Pharmakologie, das untersucht, wie Wirkstoffe das Erleben, das Verhalten und psychische Störungen beeinflussen.",
       "notes": "Baut auf Lektion 37 (Biopsychologie/Neurotransmitter) und 43 (klinische Vertiefung) auf.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "synaptischer-wirkmechanismus",
+      "stable_id": "card-ms942qpu18omy",
       "front": "Synaptischer Wirkmechanismus (Synaptic Mechanism of Action)",
       "back": "Psychopharmaka greifen an Synapsen an: durch Wiederaufnahmehemmung (blockieren den Transporter), Rezeptor-Agonismus (aktivieren den Rezeptor) oder Rezeptor-Antagonismus (blockieren den Rezeptor).",
       "notes": "Vgl. Lektion 13 (Grundlagen Synapse) und Lektion 37 (Neurotransmitter).",
@@ -28,6 +30,7 @@
     },
     {
       "id": "ssri",
+      "stable_id": "card-ms942qpu18p6g",
       "front": "SSRI — Selektiver Serotonin-Wiederaufnahmehemmer (Selective Serotonin Reuptake Inhibitor)",
       "back": "Die am häufigsten verschriebene Antidepressiva-Klasse: SSRI blockieren den Serotonin-Transporter und erhöhen so die Serotonin-Konzentration im synaptischen Spalt.",
       "notes": "Beispiele: Fluoxetin, Sertralin, Escitalopram. Erst nach 2–4 Wochen volle Wirkung.",
@@ -37,6 +40,7 @@
     },
     {
       "id": "antidepressiva",
+      "stable_id": "card-ms942qpu18qgt",
       "front": "Antidepressiva (Antidepressants)",
       "back": "Wirkstoffe zur Behandlung von Depressionen und Angststörungen; wirken hauptsächlich auf Serotonin- und/oder Noradrenalin-Systeme (z. B. SSRI, SNRI, trizyklische Antidepressiva).",
       "media_type": "text",
@@ -45,6 +49,7 @@
     },
     {
       "id": "anxiolytika",
+      "stable_id": "card-ms942qpu18rgn",
       "front": "Anxiolytika / Benzodiazepine (Anxiolytics / Benzodiazepines)",
       "back": "Angstlösende Wirkstoffe; Benzodiazepine verstärken die Wirkung des hemmenden Neurotransmitters GABA und wirken beruhigend, muskelentspannend und schlaffördernd.",
       "notes": "Hohes Abhängigkeitspotenzial bei längerem Gebrauch; nur kurzfristig einsetzen.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "antipsychotika",
+      "stable_id": "card-ms942qpu18s1n",
       "front": "Antipsychotika / Neuroleptika (Antipsychotics / Neuroleptics)",
       "back": "Wirkstoffe gegen Psychosen (v. a. Schizophrenie); dämpfen hauptsächlich die Dopamin-Aktivität, reduzieren Halluzinationen und Wahngedanken.",
       "notes": "Ältere 'typische' und neuere 'atypische' Antipsychotika; Nebenwirkungen variieren stark.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "stimmungsstabilisierer",
+      "stable_id": "card-ms942qpu18t84",
       "front": "Stimmungsstabilisierer (Mood Stabilizers)",
       "back": "Wirkstoffe zur Behandlung bipolarer Störungen; verhindern sowohl Manie als auch Depression. Bekanntestes Beispiel: Lithium.",
       "notes": "Lithium hat eine schmale therapeutische Breite — regelmäßige Blutspiegel-Kontrollen nötig.",
@@ -72,6 +79,7 @@
     },
     {
       "id": "stimulanzien",
+      "stable_id": "card-ms942qpu18uhn",
       "front": "Stimulanzien bei ADHS (Stimulants for ADHD)",
       "back": "Wirkstoffe wie Methylphenidat erhöhen die Dopamin- und Noradrenalin-Konzentration im Präfrontalkortex und verbessern so Aufmerksamkeit und Impulskontrolle bei ADHS.",
       "notes": "Paradox: bei ADHS wirken Stimulanzien beruhigend, nicht aufputschend.",
@@ -81,6 +89,7 @@
     },
     {
       "id": "placebo-effekt",
+      "stable_id": "card-ms942qpu18vkd",
       "front": "Placebo-Effekt (Placebo Effect)",
       "back": "Eine Verbesserung des Befindens allein durch die Erwartung, ein wirksames Mittel erhalten zu haben — ohne pharmakologisch aktiven Wirkstoff.",
       "notes": "Vgl. Lektion 22 (Experiment und Korrelation): ohne Placebo-Kontrolle ist ein echter Wirkstoffeffekt nicht nachweisbar.",
@@ -90,6 +99,7 @@
     },
     {
       "id": "doppelblindstudie",
+      "stable_id": "card-ms942qpu18wo2",
       "front": "Doppelblindstudie (Double-Blind Study)",
       "back": "Forschungsdesign, bei dem weder Probandinnen noch Versuchspersonen wissen, wer Wirkstoff oder Placebo erhält — damit Erwartungseffekte die Ergebnisse nicht verzerren.",
       "notes": "Goldstandard bei der Prüfung von Psychopharmaka (vgl. Lektion 22).",
@@ -99,6 +109,7 @@
     },
     {
       "id": "kombinationsbehandlung",
+      "stable_id": "card-ms942qpu18xbr",
       "front": "Kombinationsbehandlung (Combined Treatment)",
       "back": "Psychopharmaka werden oft gleichzeitig mit Psychotherapie eingesetzt; die Kombination zeigt bei vielen Störungen bessere Langzeitergebnisse als jede Methode allein.",
       "notes": "Vgl. Lektion 16 (Psychotherapie-Grundlagen): Medikamente und Therapie ergänzen sich.",
@@ -108,6 +119,7 @@
     },
     {
       "id": "aerztliche-verordnung",
+      "stable_id": "card-ms942qpu18y6j",
       "front": "Ärztliche Verordnung (Medical Prescription)",
       "back": "Psychopharmaka dürfen nur auf ärztliche Verschreibung hin eingenommen werden; Dosierung und Dauer werden individuell festgelegt.",
       "media_type": "text",
@@ -141,6 +153,7 @@
       "title": "Wirkstoffgruppen und Anwendungsgebiete",
       "exercise": {
         "id": "ex-match-wirkstoffgruppen",
+        "stable_id": "ex-ms942qpu18z7z",
         "type": "matching",
         "prompt": "Ordne jeder Wirkstoffgruppe ihr Hauptanwendungsgebiet zu.",
         "card_ids": ["antidepressiva", "anxiolytika", "antipsychotika", "stimmungsstabilisierer"],
@@ -160,6 +173,7 @@
       "title": "SSRI und Serotonin",
       "exercise": {
         "id": "ex-cloze-ssri",
+        "stable_id": "ex-ms942qpu19007",
         "type": "cloze",
         "prompt": "Ergänze den Neurotransmitter, auf den SSRI hauptsächlich wirken.",
         "card_ids": ["ssri", "synaptischer-wirkmechanismus"],
@@ -178,6 +192,7 @@
       "title": "Der Placebo-Effekt",
       "exercise": {
         "id": "ex-free-placebo",
+        "stable_id": "ex-ms942qpu191uy",
         "type": "free_text",
         "prompt": "Wie nennt man die Verbesserung des Befindens, die allein durch die Erwartung entsteht, ein wirksames Mittel erhalten zu haben?",
         "card_ids": ["placebo-effekt"],
@@ -194,6 +209,7 @@
       "title": "Wirkmechanismen an der Synapse",
       "exercise": {
         "id": "ex-match-mechanismen",
+        "stable_id": "ex-ms942qpu192uz",
         "type": "matching",
         "prompt": "Ordne jedem Mechanismus seine Beschreibung zu.",
         "card_ids": ["synaptischer-wirkmechanismus", "ssri", "antipsychotika"],
@@ -212,6 +228,7 @@
       "title": "Der Goldstandard der Forschung",
       "exercise": {
         "id": "ex-cloze-doppelblind",
+        "stable_id": "ex-ms942qpu1931d",
         "type": "cloze",
         "prompt": "Ergänze das Forschungsdesign, das als Goldstandard bei der Prüfung von Psychopharmaka gilt.",
         "card_ids": ["doppelblindstudie", "placebo-effekt"],
@@ -230,6 +247,7 @@
       "title": "Medikament und Therapie",
       "exercise": {
         "id": "ex-free-kombinationsbehandlung",
+        "stable_id": "ex-ms942qpu19466",
         "type": "free_text",
         "prompt": "Wie heißt der Behandlungsansatz, bei dem Psychopharmaka und Psychotherapie gleichzeitig eingesetzt werden?",
         "card_ids": ["kombinationsbehandlung"],
@@ -246,6 +264,7 @@
       "title": "Wie SSRI wirken",
       "exercise": {
         "id": "ex-tiles-antidepressiva",
+        "stable_id": "ex-ms942qpu195gu",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zur Wirkweise von SSRI zusammen.",
         "card_ids": ["ssri", "antidepressiva"],

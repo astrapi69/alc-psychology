@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "kahneman-tversky",
+      "stable_id": "card-ms942qpm12a3r",
       "front": "Kahneman und Tversky",
       "back": "Die Begründer der Forschung zu 'Heuristiken und Verzerrungen'. Sie zeigten, dass Menschen bei Urteilen systematisch von der Logik abweichen.",
       "notes": "Daniel Kahneman erhielt 2002 den Wirtschaftsnobelpreis. Vertieft die Denkfehler aus Lektion 11.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "heuristik-recap",
+      "stable_id": "card-ms942qpm12be2",
       "front": "Heuristik (Faustregel)",
       "back": "Eine geistige Abkürzung, die schnell und meist brauchbar urteilt — aber zu systematischen Fehlern führen kann.",
       "notes": "Grundbegriff aus Lektion 11; hier vertieft.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "verfuegbarkeitsheuristik",
+      "stable_id": "card-ms942qpm12chw",
       "front": "Verfügbarkeitsheuristik (Availability)",
       "back": "Wir schätzen die Häufigkeit oder Wahrscheinlichkeit danach ein, wie leicht uns Beispiele dafür einfallen.",
       "notes": "Deshalb werden spektakuläre, leicht erinnerbare Risiken (Flugzeugabsturz) überschätzt.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "repraesentativitaetsheuristik",
+      "stable_id": "card-ms942qpm12dng",
       "front": "Repräsentativitätsheuristik (Representativeness)",
       "back": "Wir beurteilen, wie wahrscheinlich etwas zu einer Kategorie gehört, danach, wie ähnlich es dem typischen Vertreter (Prototyp) ist.",
       "notes": "Führt zur Vernachlässigung der Basisrate.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "ankerheuristik",
+      "stable_id": "card-ms942qpm12en9",
       "front": "Ankerheuristik (Anchoring)",
       "back": "Eine zuerst genannte Zahl (der 'Anker') beeinflusst die nachfolgende Schätzung, selbst wenn sie willkürlich ist.",
       "notes": "Beispiel: Eine hohe Startforderung verschiebt das Verhandlungsergebnis nach oben.",
@@ -55,6 +60,7 @@
     },
     {
       "id": "basisratenfehler",
+      "stable_id": "card-ms942qpm12f97",
       "front": "Basisratenvernachlässigung (Base-Rate Neglect)",
       "back": "Die Tendenz, die allgemeine Grundhäufigkeit eines Ereignisses zu ignorieren und sich nur auf den Einzelfall zu stützen.",
       "media_type": "text",
@@ -63,6 +69,7 @@
     },
     {
       "id": "konjunktionsfehler",
+      "stable_id": "card-ms942qpm12gyr",
       "front": "Konjunktionsfehler (Conjunction Fallacy)",
       "back": "Der Fehler, eine Kombination zweier Bedingungen für wahrscheinlicher zu halten als eine einzelne der Bedingungen.",
       "notes": "Berühmt durch das 'Linda-Problem' von Kahneman und Tversky.",
@@ -72,6 +79,7 @@
     },
     {
       "id": "overconfidence",
+      "stable_id": "card-ms942qpm12h49",
       "front": "Selbstüberschätzung (Overconfidence)",
       "back": "Die Neigung, das eigene Wissen und die Treffsicherheit der eigenen Urteile zu überschätzen.",
       "media_type": "text",
@@ -80,6 +88,7 @@
     },
     {
       "id": "hindsight-bias",
+      "stable_id": "card-ms942qpm12ivl",
       "front": "Rückschaufehler (Hindsight Bias)",
       "back": "Im Nachhinein hält man ein Ereignis für vorhersehbarer, als es vorher tatsächlich war ('Ich hab's ja gleich gewusst').",
       "media_type": "text",
@@ -89,6 +98,7 @@
     },
     {
       "id": "spielerfehlschluss",
+      "stable_id": "card-ms942qpm12jme",
       "front": "Spielerfehlschluss (Gambler's Fallacy)",
       "back": "Der Irrtum, dass sich bei unabhängigen Zufallsereignissen ein 'Ausgleich' anbahnt (z. B. 'nach fünfmal Rot kommt jetzt sicher Schwarz').",
       "media_type": "text",
@@ -97,6 +107,7 @@
     },
     {
       "id": "affektheuristik",
+      "stable_id": "card-ms942qpm12kdg",
       "front": "Affektheuristik",
       "back": "Wir urteilen schnell nach dem Bauchgefühl: Was sich gut anfühlt, wird als nützlich und wenig riskant eingeschätzt — und umgekehrt.",
       "media_type": "text",
@@ -105,6 +116,7 @@
     },
     {
       "id": "bestaetigungsfehler-recap",
+      "stable_id": "card-ms942qpm12laz",
       "front": "Bestätigungsfehler (Confirmation Bias)",
       "back": "Die Neigung, vor allem nach Informationen zu suchen, die die eigene Annahme bestätigen, und Gegenbelege zu übersehen.",
       "notes": "Bereits in Lektion 11 eingeführt — ein zentraler Urteilsfehler.",
@@ -139,6 +151,7 @@
       "title": "Wenn Beispiele leicht einfallen",
       "exercise": {
         "id": "ex-cloze-verfuegbarkeit",
+        "stable_id": "ex-ms942qpm12m5a",
         "type": "cloze",
         "prompt": "Ergänze den Namen der Heuristik, die die Häufigkeit nach der Leichtigkeit des Erinnerns schätzt.",
         "card_ids": ["verfuegbarkeitsheuristik"],
@@ -157,6 +170,7 @@
       "title": "Die drei Heuristiken zuordnen",
       "exercise": {
         "id": "ex-match-heuristiken",
+        "stable_id": "ex-ms942qpm12nkh",
         "type": "matching",
         "prompt": "Ordne jeder Heuristik ihren Kern zu.",
         "card_ids": ["verfuegbarkeitsheuristik", "repraesentativitaetsheuristik", "ankerheuristik"],
@@ -175,6 +189,7 @@
       "title": "Am Startwert festkleben",
       "exercise": {
         "id": "ex-free-anker",
+        "stable_id": "ex-ms942qpm12o34",
         "type": "free_text",
         "prompt": "Wie heißt der Effekt, bei dem eine zuerst genannte Zahl die anschließende Schätzung beeinflusst?",
         "card_ids": ["ankerheuristik"],
@@ -191,6 +206,7 @@
       "title": "Urteilsfehler erkennen",
       "exercise": {
         "id": "ex-match-fehler",
+        "stable_id": "ex-ms942qpm12p4y",
         "type": "matching",
         "prompt": "Ordne jedem Urteilsfehler seine Beschreibung zu.",
         "card_ids": ["hindsight-bias", "overconfidence", "spielerfehlschluss", "basisratenfehler"],
@@ -210,6 +226,7 @@
       "title": "Hinterher ist man schlauer",
       "exercise": {
         "id": "ex-cloze-hindsight",
+        "stable_id": "ex-ms942qpm12qo9",
         "type": "cloze",
         "prompt": "Ergänze den Namen des Fehlers, ein Ereignis im Nachhinein für vorhersehbar zu halten.",
         "card_ids": ["hindsight-bias"],
@@ -228,6 +245,7 @@
       "title": "Das Linda-Problem",
       "exercise": {
         "id": "ex-free-konjunktion",
+        "stable_id": "ex-ms942qpm12rf1",
         "type": "free_text",
         "prompt": "Wie heißt der Fehler, eine Kombination zweier Bedingungen für wahrscheinlicher zu halten als eine einzelne davon?",
         "card_ids": ["konjunktionsfehler"],
@@ -244,6 +262,7 @@
       "title": "Was eine Heuristik ist",
       "exercise": {
         "id": "ex-tiles-heuristik",
+        "stable_id": "ex-ms942qpm12s3y",
         "type": "word_tiles",
         "prompt": "Setze die Kurzdefinition einer Heuristik zusammen.",
         "card_ids": ["heuristik-recap"],

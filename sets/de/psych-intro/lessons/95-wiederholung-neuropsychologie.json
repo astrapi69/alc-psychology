@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "wdh-laesionsmethode",
+      "stable_id": "card-ms942qqd1prc8",
       "front": "Läsionsmethode",
       "back": "Aus dem Ausfall einer Funktion nach Schädigung (Läsion) eines Hirnareals wird auf dessen Beteiligung an dieser Funktion geschlossen. Klassische Vorgehensweise der Neuropsychologie.",
       "notes": "Ausfall belegt Beteiligung, nicht zwingend den alleinigen Sitz einer Funktion. Englisch: lesion method.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "wdh-doppelte-dissoziation",
+      "stable_id": "card-ms942qqd1psls",
       "front": "Doppelte Dissoziation",
       "back": "Stärkster Beleg für die Unabhängigkeit zweier Funktionen: Patient A kann Funktion 1, nicht Funktion 2; Patient B genau umgekehrt. Zentrales Argument der kognitiven Neuropsychologie.",
       "notes": "Englisch: double dissociation. Abgrenzen von der einfachen Dissoziation.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "wdh-lokalisation-netzwerk",
+      "stable_id": "card-ms942qqd1pts1",
       "front": "Lokalisation vs. Netzwerke/Plastizität",
       "back": "Der Lokalisationismus bindet Funktionen an umschriebene Areale. Die moderne Sicht betont verteilte Netzwerke und die Neuroplastizität (Umorganisation des Gehirns). Beide Sichten ergänzen sich.",
       "notes": "Plastizität ist die Grundlage der Rehabilitation nach Hirnschädigung.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "wdh-vier-lappen",
+      "stable_id": "card-ms942qqd1puyu",
       "front": "Die vier Hirnlappen",
       "back": "Frontallappen (Planung, Handlung, exekutive Funktionen), Parietallappen (Raum, Berührung, Aufmerksamkeit), Temporallappen (Hören, Sprache, Gedächtnis) und Okzipitallappen (Sehen).",
       "notes": "Lateinisch: Lobus frontalis, parietalis, temporalis, occipitalis.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "wdh-lateralisierung",
+      "stable_id": "card-ms942qqd1pv7m",
       "front": "Lateralisierung und Split-Brain",
       "back": "Beide Hirnhälften sind auf unterschiedliche Aufgaben spezialisiert (Lateralisierung), etwa Sprache meist links. Bei durchtrenntem Balken (Split-Brain) arbeiten die Hemisphären getrennt. Der Mythos vom rein linkshirnigen oder rechtshirnigen Menschen ist falsch.",
       "notes": "Englisch: lateralization, split-brain. Hemisphären tauschen normalerweise ständig über das Corpus callosum aus.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "wdh-aphasie",
+      "stable_id": "card-ms942qqd1pw3j",
       "front": "Aphasie (Broca vs. Wernicke)",
       "back": "Erworbene Sprachstörung. Broca-Aphasie: stockende, mühsame Sprachproduktion bei erhaltenem Verständnis (motorisch). Wernicke-Aphasie: flüssige, aber inhaltsarme Sprache bei gestörtem Verständnis (sensorisch).",
       "notes": "Broca-Areal im Frontallappen, Wernicke-Areal im Temporallappen, meist links.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "wdh-apraxie",
+      "stable_id": "card-ms942qqd1pxbm",
       "front": "Apraxie",
       "back": "Störung der Ausführung willkürlicher, zielgerichteter Bewegungen, obwohl Lähmung, Sensorik und Verständnis intakt sind. Betroffene können z. B. eine Geste auf Aufforderung nicht korrekt ausführen.",
       "notes": "Nicht durch Muskelschwäche erklärbar. Englisch: apraxia.",
@@ -72,6 +79,7 @@
     },
     {
       "id": "wdh-agnosie",
+      "stable_id": "card-ms942qqd1pyp3",
       "front": "Agnosie und Prosopagnosie",
       "back": "Agnosie: Erkennensstörung bei intakter Sinneswahrnehmung — Gesehenes wird wahrgenommen, aber nicht erkannt. Prosopagnosie ist die Sonderform der Gesichtserkennungsstörung.",
       "notes": "Griechisch a-gnosis (Nicht-Erkennen), prosopon (Gesicht).",
@@ -81,6 +89,7 @@
     },
     {
       "id": "wdh-neglect",
+      "stable_id": "card-ms942qqd1pz7i",
       "front": "Neglect",
       "back": "Vernachlässigung einer Raum- bzw. Körperhälfte (meist links) nach Schädigung der gegenüberliegenden, häufig rechten Parietalregion. Betroffene beachten Reize auf der betroffenen Seite nicht, obwohl die Sinnesorgane funktionieren.",
       "notes": "Aufmerksamkeitsstörung, keine reine Wahrnehmungsstörung. Englisch: hemineglect.",
@@ -90,6 +99,7 @@
     },
     {
       "id": "wdh-amnesie",
+      "stable_id": "card-ms942qqd1q0sz",
       "front": "Amnesie (anterograd/retrograd)",
       "back": "Gedächtnisstörung. Anterograde Amnesie: keine neuen Inhalte mehr speicherbar (nach dem Ereignis). Retrograde Amnesie: Verlust früher erworbener Inhalte (vor dem Ereignis). Der Hippocampus ist zentral für die Bildung neuer Gedächtnisinhalte.",
       "notes": "Merkhilfe: antero = vorwärts (Neues), retro = rückwärts (Altes).",
@@ -99,6 +109,7 @@
     },
     {
       "id": "wdh-dysexekutiv",
+      "stable_id": "card-ms942qqd1q1y7",
       "front": "Dysexekutives Syndrom",
       "back": "Beeinträchtigung der exekutiven Funktionen (Planen, Handlungssteuerung, Impulskontrolle, Flexibilität) nach Schädigung des präfrontalen Cortex. Folge: Schwierigkeiten, Handlungen zu organisieren und Verhalten anzupassen.",
       "notes": "Bezug zum historischen Fall Phineas Gage (Frontallappen).",
@@ -108,6 +119,7 @@
     },
     {
       "id": "wdh-rehabilitation",
+      "stable_id": "card-ms942qqd1q2k0",
       "front": "Rehabilitation: Restitution, Kompensation, Adaptation",
       "back": "Drei Wege der neuropsychologischen Rehabilitation. Restitution: Wiederherstellung der geschädigten Funktion. Kompensation: Ausgleich durch andere Strategien oder Fähigkeiten. Adaptation: Anpassung von Umwelt und Hilfsmitteln an die verbleibenden Möglichkeiten.",
       "notes": "Baut auf der Neuroplastizität auf. Diagnostik mit standardisierten Tests geht der Rehabilitation voraus.",
@@ -142,6 +154,7 @@
       "title": "Störungsbilder zuordnen",
       "exercise": {
         "id": "ex-match-stoerungen",
+        "stable_id": "ex-ms942qqd1q39z",
         "type": "matching",
         "prompt": "Ordne jedem Störungsbild die passende Kurzbeschreibung zu.",
         "card_ids": ["wdh-aphasie", "wdh-apraxie", "wdh-agnosie", "wdh-neglect"],
@@ -161,6 +174,7 @@
       "title": "Neues nicht mehr speichern",
       "exercise": {
         "id": "ex-cloze-amnesie",
+        "stable_id": "ex-ms942qqd1q4kv",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff für die Unfähigkeit, neue Gedächtnisinhalte zu bilden.",
         "card_ids": ["wdh-amnesie"],
@@ -177,6 +191,7 @@
       "title": "Der stärkste Beleg",
       "exercise": {
         "id": "ex-free-dissoziation",
+        "stable_id": "ex-ms942qqd1q5b8",
         "type": "free_text",
         "prompt": "Wie heißt das Muster, bei dem Patient A Funktion 1 (nicht 2) und Patient B Funktion 2 (nicht 1) zeigt — der stärkste Beleg für die Unabhängigkeit zweier Funktionen?",
         "card_ids": ["wdh-doppelte-dissoziation"],
@@ -193,6 +208,7 @@
       "title": "Das Gedächtniszentrum",
       "exercise": {
         "id": "ex-cloze-hippocampus",
+        "stable_id": "ex-ms942qqd1q6i0",
         "type": "cloze",
         "prompt": "Ergänze die Hirnstruktur, die für die Bildung neuer Gedächtnisinhalte zentral ist.",
         "card_ids": ["wdh-amnesie"],
@@ -209,6 +225,7 @@
       "title": "Wege der Rehabilitation",
       "exercise": {
         "id": "ex-match-reha",
+        "stable_id": "ex-ms942qqd1q7ms",
         "type": "matching",
         "prompt": "Ordne jedem Reha-Weg die passende Idee zu.",
         "card_ids": ["wdh-rehabilitation"],
@@ -227,6 +244,7 @@
       "title": "Eine Hälfte fehlt",
       "exercise": {
         "id": "ex-free-neglect",
+        "stable_id": "ex-ms942qqd1q8ou",
         "type": "free_text",
         "prompt": "Wie heißt die Störung, bei der eine Raum- oder Körperhälfte (meist links) vernachlässigt wird, obwohl die Sinnesorgane funktionieren?",
         "card_ids": ["wdh-neglect"],
@@ -243,6 +261,7 @@
       "title": "Broca-Aphasie beschreiben",
       "exercise": {
         "id": "ex-tiles-broca",
+        "stable_id": "ex-ms942qqd1q9g1",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zur Broca-Aphasie zusammen.",
         "card_ids": ["wdh-aphasie"],
@@ -258,6 +277,7 @@
       "title": "Mythos oder nicht?",
       "exercise": {
         "id": "ex-cloze-lateralisierung",
+        "stable_id": "ex-ms942qqd1qari",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff für die unterschiedliche Spezialisierung der beiden Hirnhälften.",
         "card_ids": ["wdh-lateralisierung"],

@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "persoenlichkeit",
+      "stable_id": "card-ms942qom07qhj",
       "front": "Persönlichkeit (Personality)",
       "back": "Gesamtheit relativ stabiler Eigenschaften, die das Denken, Fühlen und Verhalten einer Person über Zeit und Situationen hinweg charakterisieren.",
       "notes": "Persönlichkeit ist nicht situationsabhängig — sie zeigt sich konsistent in verschiedenen Lebensbereichen.",
@@ -16,6 +17,7 @@
     },
     {
       "id": "fuenf-faktoren-modell",
+      "stable_id": "card-ms942qom07rgd",
       "front": "Fünf-Faktoren-Modell (Big Five / OCEAN)",
       "back": "Wissenschaftlich fundiertes Modell der Persönlichkeit mit fünf breiten Dimensionen: Offenheit, Gewissenhaftigkeit, Extraversion, Verträglichkeit, Neurotizismus.",
       "notes": "Das Akronym OCEAN oder auf Deutsch OCEAN hilft beim Merken der fünf Faktoren.",
@@ -23,6 +25,7 @@
     },
     {
       "id": "offenheit",
+      "stable_id": "card-ms942qom07sf8",
       "front": "Offenheit für Erfahrungen (Openness)",
       "back": "Big-Five-Dimension: Neigung zu Neugier, Kreativität, Fantasie und Interesse an neuen Ideen und Erfahrungen.",
       "notes": "Hohe Offenheit: künstlerisch interessiert, experimentierfreudig. Niedrige Offenheit: konventionell, pragmatisch.",
@@ -30,6 +33,7 @@
     },
     {
       "id": "gewissenhaftigkeit",
+      "stable_id": "card-ms942qom07tod",
       "front": "Gewissenhaftigkeit (Conscientiousness)",
       "back": "Big-Five-Dimension: Tendenz zu Ordnung, Disziplin, Verlässlichkeit und zielgerichtetem Verhalten.",
       "notes": "Hohe Gewissenhaftigkeit ist ein starker Prädiktor für beruflichen Erfolg und Gesundheitsverhalten.",
@@ -37,6 +41,7 @@
     },
     {
       "id": "extraversion",
+      "stable_id": "card-ms942qom07uey",
       "front": "Extraversion (Extraversion)",
       "back": "Big-Five-Dimension: Neigung zu Geselligkeit, Gesprächigkeit, Optimismus und dem Suchen sozialer Stimulation.",
       "notes": "Das Gegenteil ist Introversion — introvertierte Menschen gewinnen Energie eher durch Rückzug als durch soziale Kontakte.",
@@ -44,6 +49,7 @@
     },
     {
       "id": "vertraeglichkeit",
+      "stable_id": "card-ms942qom07vtq",
       "front": "Verträglichkeit (Agreeableness)",
       "back": "Big-Five-Dimension: Tendenz zu Kooperation, Empathie, Hilfsbereitschaft und prosozialem Verhalten.",
       "notes": "Niedrige Verträglichkeit hängt mit Misstrauen und Wettbewerbsorientierung zusammen.",
@@ -51,6 +57,7 @@
     },
     {
       "id": "neurotizismus",
+      "stable_id": "card-ms942qom07w1a",
       "front": "Neurotizismus (Big Five)",
       "back": "Neigung zu negativen Emotionen wie Angst, Traurigkeit und Reizbarkeit; ein hoher Wert bedeutet emotional instabiler.",
       "notes": "Das Gegenteil ist emotionale Stabilität. Hoher Neurotizismus erhöht das Risiko für Angststörungen und Depression.",
@@ -58,6 +65,7 @@
     },
     {
       "id": "instanzenmodell",
+      "stable_id": "card-ms942qom07xah",
       "front": "Instanzenmodell (Freuds Strukturmodell)",
       "back": "Freuds Modell der Persönlichkeit mit drei Instanzen: Es (Id), Ich (Ego) und Über-Ich (Superego), die in ständiger Spannung stehen.",
       "notes": "Das Ich vermittelt zwischen den triebhaften Impulsen des Es und den moralischen Forderungen des Über-Ichs.",
@@ -65,6 +73,7 @@
     },
     {
       "id": "es",
+      "stable_id": "card-ms942qom07y3g",
       "front": "Es (Id)",
       "back": "Älteste, unbewusste Instanz der Persönlichkeit nach Freud; Sitz der Triebe und des Lustprinzips.",
       "notes": "Das Es verlangt sofortige Befriedigung ohne Rücksicht auf Realität oder Moral.",
@@ -72,6 +81,7 @@
     },
     {
       "id": "ich",
+      "stable_id": "card-ms942qom07zt5",
       "front": "Ich (Ego)",
       "back": "Realitätsprüfende Instanz nach Freud; vermittelt zwischen Es, Über-Ich und der Außenwelt nach dem Realitätsprinzip.",
       "notes": "Das Ich nutzt Abwehrmechanismen, um Angst und innere Konflikte zu bewältigen.",
@@ -79,6 +89,7 @@
     },
     {
       "id": "ueber-ich",
+      "stable_id": "card-ms942qom080ba",
       "front": "Über-Ich (Superego)",
       "back": "Moralische Instanz nach Freud; verinnerlichte Normen, Verbote und das Gewissen; strebt nach Perfektion.",
       "notes": "Entsteht durch die Internalisierung elterlicher und gesellschaftlicher Gebote in der Kindheit.",
@@ -86,6 +97,7 @@
     },
     {
       "id": "abwehrmechanismen",
+      "stable_id": "card-ms942qom081b9",
       "front": "Abwehrmechanismen (Defense Mechanisms)",
       "back": "Unbewusste psychische Strategien des Ichs, um Angst und innere Konflikte zu reduzieren.",
       "notes": "Beispiele: Verdrängung (Vergessen bedrohlicher Inhalte), Projektion (eigene Gefühle auf andere übertragen).",
@@ -93,6 +105,7 @@
     },
     {
       "id": "selbstkonzept",
+      "stable_id": "card-ms942qom082e2",
       "front": "Selbstkonzept (Self-Concept)",
       "back": "Nach Rogers: das Bild, das eine Person von sich selbst hat — wer man ist und wer man sein möchte (Ideal-Selbst).",
       "notes": "Kongruenz zwischen Selbstkonzept und Erfahrung fördert psychische Gesundheit und Wohlbefinden.",
@@ -100,6 +113,7 @@
     },
     {
       "id": "bedingungslose-wertschaetzung",
+      "stable_id": "card-ms942qom083d1",
       "front": "Bedingungslose positive Wertschätzung (Unconditional Positive Regard)",
       "back": "Rogers' Konzept: eine andere Person ohne Bedingungen akzeptieren und wertschätzen — unabhängig von ihrem Verhalten.",
       "notes": "Zentrale Haltung in der klientenzentrierten Therapie; fördert Wachstum und Selbstverwirklichung.",
@@ -107,6 +121,7 @@
     },
     {
       "id": "neo-ffi",
+      "stable_id": "card-ms942qom084uc",
       "front": "NEO-FFI (Big-Five-Fragebogen)",
       "back": "Wissenschaftlich fundierter Persönlichkeitstest, der die fünf OCEAN-Dimensionen mit 60 Items zuverlässig und valide misst.",
       "notes": "Im Gegensatz zum MBTI ist der NEO-FFI empirisch gut abgesichert und in der Forschung weit verbreitet.",
@@ -114,6 +129,7 @@
     },
     {
       "id": "mbti",
+      "stable_id": "card-ms942qom085ed",
       "front": "MBTI (Myers-Briggs-Typenindikator)",
       "back": "Populäres Persönlichkeitsinstrument mit 16 Typen — in der Praxis weit verbreitet, wissenschaftlich jedoch umstritten.",
       "notes": "Kritik: geringe Retest-Reliabilität, keine kontinuierlichen Dimensionen, fehlende Konstruktvalidität.",
@@ -146,6 +162,7 @@
       "title": "OCEAN-Dimensionen zuordnen",
       "exercise": {
         "id": "ex-match-ocean",
+        "stable_id": "ex-ms942qom086in",
         "type": "matching",
         "prompt": "Ordne jede Big-Five-Dimension ihrer Beschreibung zu.",
         "card_ids": ["offenheit", "gewissenhaftigkeit", "extraversion", "vertraeglichkeit", "neurotizismus"],
@@ -166,6 +183,7 @@
       "title": "Freuds Instanzen zuordnen",
       "exercise": {
         "id": "ex-match-instanzen",
+        "stable_id": "ex-ms942qom087e9",
         "type": "matching",
         "prompt": "Ordne jeder Instanz ihren Inhalt zu.",
         "card_ids": ["es", "ich", "ueber-ich"],
@@ -184,6 +202,7 @@
       "title": "Big-Five-Dimension benennen",
       "exercise": {
         "id": "ex-free-neurotizismus",
+        "stable_id": "ex-ms942qom088f8",
         "type": "free_text",
         "prompt": "Welche Big-Five-Dimension beschreibt die Neigung zu Angst, Traurigkeit und emotionaler Instabilität?",
         "card_ids": ["neurotizismus"],
@@ -200,6 +219,7 @@
       "title": "Welcher Test ist wissenschaftlich fundiert?",
       "exercise": {
         "id": "ex-free-neo-ffi",
+        "stable_id": "ex-ms942qom089ha",
         "type": "free_text",
         "prompt": "Welcher Persönlichkeitstest misst die Big Five und gilt als wissenschaftlich gut abgesichert?",
         "card_ids": ["neo-ffi"],
@@ -216,6 +236,7 @@
       "title": "OCEAN-Akronym ergänzen",
       "exercise": {
         "id": "ex-cloze-ocean",
+        "stable_id": "ex-ms942qom08asg",
         "type": "cloze",
         "prompt": "Ergänze die fehlenden Big-Five-Dimensionen im OCEAN-Akronym.",
         "card_ids": ["fuenf-faktoren-modell", "extraversion", "neurotizismus"],
@@ -235,6 +256,7 @@
       "title": "Freuds Instanzen vervollständigen",
       "exercise": {
         "id": "ex-cloze-freud",
+        "stable_id": "ex-ms942qom08be5",
         "type": "cloze",
         "prompt": "Ergänze die mittlere Instanz in Freuds Modell.",
         "card_ids": ["instanzenmodell", "ich"],
@@ -253,6 +275,7 @@
       "title": "Wissenschaftlich fundierter Test",
       "exercise": {
         "id": "ex-pick-wissenschaftlich",
+        "stable_id": "ex-ms942qom08ctx",
         "type": "picture_choice",
         "prompt": "Welcher Persönlichkeitstest ist wissenschaftlich fundiert und misst die Big Five?",
         "card_ids": ["neo-ffi", "mbti", "fuenf-faktoren-modell", "instanzenmodell"],
@@ -274,6 +297,7 @@
       "title": "Definition des Fünf-Faktoren-Modells",
       "exercise": {
         "id": "ex-tiles-big-five",
+        "stable_id": "ex-ms942qom08dsy",
         "type": "word_tiles",
         "prompt": "Setze die Beschreibung des Fünf-Faktoren-Modells zusammen.",
         "card_ids": ["fuenf-faktoren-modell"],
@@ -289,6 +313,7 @@
       "title": "Rogers-Konzepte zuordnen",
       "exercise": {
         "id": "ex-match-rogers",
+        "stable_id": "ex-ms942qom08ecu",
         "type": "matching",
         "prompt": "Ordne jedem Rogers-Konzept seine Erklärung zu.",
         "card_ids": ["selbstkonzept", "bedingungslose-wertschaetzung"],

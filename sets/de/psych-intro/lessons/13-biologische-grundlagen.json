@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "neuron",
+      "stable_id": "card-ms942qp00i1ed",
       "front": "Neuron (Nervenzelle)",
       "back": "Die Grundbaueinheit des Nervensystems; besteht aus Zellkörper, Dendriten (Eingang) und Axon (Ausgang).",
       "notes": "Ein Mensch besitzt etwa 86 Milliarden Neuronen.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "aktionspotential",
+      "stable_id": "card-ms942qp00i2p4",
       "front": "Aktionspotential (Nervenimpuls)",
       "back": "Ein kurzer elektrischer Impuls, der entlang des Axons weitergeleitet wird, sobald der Schwellenwert überschritten ist — das 'Alles-oder-nichts'-Prinzip.",
       "notes": "Geschwindigkeit: wenige m/s (unmyelinisiert) bis über 100 m/s (myelinisiert).",
@@ -28,6 +30,7 @@
     },
     {
       "id": "synapse",
+      "stable_id": "card-ms942qp00i3av",
       "front": "Synapse (Synapse)",
       "back": "Die Verbindungsstelle zwischen zwei Neuronen, an der Neurotransmitter ausgeschüttet werden, um das Signal weiterzuleiten.",
       "media_type": "text",
@@ -36,6 +39,7 @@
     },
     {
       "id": "neurotransmitter",
+      "stable_id": "card-ms942qp00i4d7",
       "front": "Neurotransmitter",
       "back": "Chemische Botenstoffe, die in der Synapse freigesetzt werden und das nächste Neuron erregen oder hemmen (z. B. Dopamin, Serotonin, Acetylcholin).",
       "media_type": "text",
@@ -44,6 +48,7 @@
     },
     {
       "id": "dopamin-serotonin",
+      "stable_id": "card-ms942qp00i59z",
       "front": "Dopamin und Serotonin",
       "back": "Dopamin: beteiligt an Belohnung, Motivation und Bewegungssteuerung. Serotonin: beeinflusst Stimmung, Schlaf und Appetit; niedriger Spiegel ist mit Depression assoziiert.",
       "notes": "Beide sind wichtige Ziele von Psychopharmaka.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "zns-pns",
+      "stable_id": "card-ms942qp00i68r",
       "front": "Zentralnervensystem (ZNS) vs. Peripheres Nervensystem (PNS)",
       "back": "ZNS: Gehirn und Rückenmark — verarbeitet und integriert Informationen. PNS: alle Nerven außerhalb davon — verbindet ZNS mit Körper und Umwelt.",
       "media_type": "text",
@@ -62,6 +68,7 @@
     },
     {
       "id": "cortex",
+      "stable_id": "card-ms942qp00i73e",
       "front": "Großhirnrinde (Cortex)",
       "back": "Die äußere Schicht des Großhirns; zuständig für höhere kognitive Funktionen wie Wahrnehmung, Sprache, Denken und bewusstes Handeln.",
       "notes": "Die Faltungen (Gyri und Sulci) vergrößern die Oberfläche erheblich.",
@@ -71,6 +78,7 @@
     },
     {
       "id": "hirnlappen",
+      "stable_id": "card-ms942qp00i8se",
       "front": "Die vier Hirnlappen (Lobes of the Cerebral Cortex)",
       "back": "Frontallappen (Planung, Persönlichkeit), Parietallappen (Tastsinn, Raumorientierung), Temporallappen (Hören, Sprache, Gedächtnis), Okzipitallappen (Sehen).",
       "media_type": "text",
@@ -80,6 +88,7 @@
     },
     {
       "id": "amygdala",
+      "stable_id": "card-ms942qp00i9o4",
       "front": "Amygdala (Mandelkern)",
       "back": "Eine mandelförmige Struktur im limbischen System; zentral für die Verarbeitung von Angst, Bedrohung und Emotionen.",
       "notes": "Beschädigung der Amygdala kann dazu führen, dass Bedrohungen nicht mehr erkannt werden.",
@@ -89,6 +98,7 @@
     },
     {
       "id": "hippocampus",
+      "stable_id": "card-ms942qp00iavp",
       "front": "Hippocampus",
       "back": "Eine seepferdchenförmige Struktur im limbischen System; essenziell für die Bildung neuer Langzeitgedächtnisse und räumliche Navigation.",
       "notes": "Bei der Alzheimer-Erkrankung ist der Hippocampus früh betroffen.",
@@ -99,6 +109,7 @@
     },
     {
       "id": "hemisphaeren",
+      "stable_id": "card-ms942qp00ibln",
       "front": "Hirnhemisphären (Cerebral Hemispheres)",
       "back": "Das Großhirn ist in eine linke und eine rechte Hemisphäre geteilt. Die linke steuert überwiegend Sprache und logisches Denken; die rechte ist stärker an räumlichem und kreativem Denken beteiligt.",
       "notes": "Beide Hemisphären sind durch den Balken (Corpus callosum) verbunden.",
@@ -108,6 +119,7 @@
     },
     {
       "id": "neuroplastizitaet",
+      "stable_id": "card-ms942qp00icyq",
       "front": "Neuroplastizität (Neuroplasticity)",
       "back": "Die Fähigkeit des Gehirns, sich durch Erfahrung, Lernen oder Verletzung strukturell und funktionell zu verändern — lebenslang.",
       "notes": "Grundlage für Lernen, Rehabilitation und die Wirksamkeit von Psychotherapie.",
@@ -137,6 +149,7 @@
       "title": "Das Alles-oder-nichts-Prinzip",
       "exercise": {
         "id": "ex-cloze-aktionspotential",
+        "stable_id": "ex-ms942qp00idth",
         "type": "cloze",
         "prompt": "Ergänze den fehlenden Begriff für das elektrische Signal des Neurons.",
         "card_ids": ["aktionspotential"],
@@ -155,6 +168,7 @@
       "title": "Hirnlappen und ihre Funktionen",
       "exercise": {
         "id": "ex-match-hirnlappen",
+        "stable_id": "ex-ms942qp00ie8b",
         "type": "matching",
         "prompt": "Ordne jeden Hirnlappen seiner Hauptfunktion zu.",
         "card_ids": ["hirnlappen"],
@@ -174,6 +188,7 @@
       "title": "Gedächtnisstruktur im limbischen System",
       "exercise": {
         "id": "ex-free-hippocampus",
+        "stable_id": "ex-ms942qp00if7u",
         "type": "free_text",
         "prompt": "Welche Hirnstruktur ist essenziell für die Bildung neuer Langzeitgedächtnisse?",
         "card_ids": ["hippocampus"],
@@ -190,6 +205,7 @@
       "title": "Angst und Emotion im Gehirn",
       "exercise": {
         "id": "ex-free-amygdala",
+        "stable_id": "ex-ms942qp00igzc",
         "type": "free_text",
         "prompt": "Welche mandelförmige Struktur im limbischen System verarbeitet Angst und Bedrohung?",
         "card_ids": ["amygdala"],
@@ -206,6 +222,7 @@
       "title": "Neurotransmitter: Dopamin und Serotonin",
       "exercise": {
         "id": "ex-cloze-neurotransmitter",
+        "stable_id": "ex-ms942qp00ihtr",
         "type": "cloze",
         "prompt": "Ergänze den Neurotransmitter, der mit Belohnung und Motivation assoziiert ist.",
         "card_ids": ["dopamin-serotonin"],
@@ -225,6 +242,7 @@
       "title": "Gehirnstrukturen und ihre Aufgaben",
       "exercise": {
         "id": "ex-match-strukturen",
+        "stable_id": "ex-ms942qp00iiaq",
         "type": "matching",
         "prompt": "Ordne jede Hirnstruktur ihrer wichtigsten Funktion zu.",
         "card_ids": ["amygdala", "hippocampus", "cortex", "neuroplastizitaet"],
@@ -244,6 +262,7 @@
       "title": "Neuroplastizität definieren",
       "exercise": {
         "id": "ex-tiles-neuroplastizitaet",
+        "stable_id": "ex-ms942qp00ij1j",
         "type": "word_tiles",
         "prompt": "Setze eine knappe Definition von Neuroplastizität zusammen.",
         "card_ids": ["neuroplastizitaet"],

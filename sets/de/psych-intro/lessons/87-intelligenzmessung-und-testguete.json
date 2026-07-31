@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "binet-erster-test",
+      "stable_id": "card-ms942qq81lfkk",
       "front": "Alfred Binet und der erste Intelligenztest",
       "back": "Alfred Binet entwickelte 1905 mit Théodore Simon den ersten Intelligenztest (Binet-Simon-Skala), um Schulkinder mit Förderbedarf zu erkennen. Er führte das Konzept des Intelligenzalters (mental age) ein.",
       "notes": "Auftrag des französischen Bildungsministeriums — ein praktisches, kein theoretisches Ziel.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "intelligenzalter",
+      "stable_id": "card-ms942qq81lgbx",
       "front": "Intelligenzalter (mental age)",
       "back": "Das Leistungsniveau eines Kindes ausgedrückt als das Alter, das seiner Testergebnisse entspricht. Ein 8-jähriges Kind mit einem Intelligenzalter von 10 löst Aufgaben wie ein durchschnittliches 10-jähriges Kind.",
       "media_type": "text",
@@ -26,6 +28,7 @@
     },
     {
       "id": "stern-iq-formel",
+      "stable_id": "card-ms942qq81lhek",
       "front": "Intelligenzquotient nach Stern (IQ-Formel)",
       "back": "William Stern schlug 1912 vor, Intelligenzalter durch Lebensalter zu teilen und mit 100 zu multiplizieren: IQ = (Intelligenzalter / Lebensalter) × 100. Ein Kind mit gleichem Intelligenz- und Lebensalter hat IQ 100.",
       "notes": "Diese Quotientenformel hat praktische Grenzen bei Erwachsenen — daher der spätere Abweichungs-IQ.",
@@ -35,6 +38,7 @@
     },
     {
       "id": "abweichungs-iq",
+      "stable_id": "card-ms942qq81liji",
       "front": "Abweichungs-IQ (deviation IQ)",
       "back": "Der moderne IQ ist kein Quotient mehr, sondern ein Standardwert: Mittelwert 100, Standardabweichung 15. Ein Wert gibt an, wie weit eine Person vom Mittelwert ihrer Altersgruppe abweicht.",
       "notes": "Eingeführt von Wechsler. Löst das Problem, dass der Quotient-IQ im Erwachsenenalter sinnlos wird.",
@@ -44,6 +48,7 @@
     },
     {
       "id": "normalverteilung-iq",
+      "stable_id": "card-ms942qq81ljoy",
       "front": "Normalverteilung der IQ-Werte",
       "back": "IQ-Werte in der Bevölkerung sind annähernd normalverteilt: ~68 % liegen zwischen 85 und 115 (±1 SD), ~95 % zwischen 70 und 130 (±2 SD). Die Kurve ist symmetrisch um den Mittelwert 100.",
       "notes": "Bezug Lektion 24 (deskriptive Statistik / Normalverteilung).",
@@ -53,6 +58,7 @@
     },
     {
       "id": "normierung-bezugsnorm",
+      "stable_id": "card-ms942qq81lkl0",
       "front": "Normierung und Bezugsnorm (norm referencing)",
       "back": "Ein IQ ist immer ein Vergleich mit der eigenen Altersgruppe (Bezugsnorm). Tests werden an repräsentativen Stichproben geeicht und müssen regelmäßig neu normiert werden, da IQ-Werte im Bevölkerungsschnitt steigen (Flynn-Effekt).",
       "notes": "Bezug Lektion 29 (psychologische Diagnostik). Ohne Normierung ist ein Rohwert bedeutungslos.",
@@ -62,6 +68,7 @@
     },
     {
       "id": "testfamilien-wechsler",
+      "stable_id": "card-ms942qq81ll3u",
       "front": "Bekannte Intelligenz-Testfamilien",
       "back": "Wichtige Testbatterien: Wechsler-Tests (WAIS für Erwachsene, WISC für Kinder) und Stanford-Binet. Sie messen mehrere Teilfähigkeiten und liefern einen Gesamt-IQ.",
       "notes": "Die Wechsler-Tests sind weltweit am häufigsten eingesetzt und basieren auf dem CHC-Modell (vgl. Lektion 86).",
@@ -71,6 +78,7 @@
     },
     {
       "id": "objektivitaet-intelligenztest",
+      "stable_id": "card-ms942qq81lm1b",
       "front": "Objektivität bei Intelligenztests",
       "back": "Ein Intelligenztest ist objektiv, wenn Durchführung, Auswertung und Interpretation unabhängig von der testenden Person sind. Standardisierte Anweisungen und Auswertungsregeln sichern dies.",
       "notes": "Erstes der drei Gütekriterien aus Lektion 23/29.",
@@ -80,6 +88,7 @@
     },
     {
       "id": "reliabilitaet-intelligenztest",
+      "stable_id": "card-ms942qq81lnmu",
       "front": "Reliabilität bei Intelligenztests (reliability)",
       "back": "Ein Intelligenztest ist reliabel (zuverlässig), wenn er bei Wiederholung unter gleichen Bedingungen dasselbe Ergebnis liefert. Gängige Maße: Retest-Reliabilität und interne Konsistenz (Cronbachs α).",
       "notes": "Zweites Gütekriterium aus Lektion 23/29.",
@@ -89,6 +98,7 @@
     },
     {
       "id": "validitaet-intelligenztest",
+      "stable_id": "card-ms942qq81lodf",
       "front": "Validität bei Intelligenztests (validity)",
       "back": "Ein Intelligenztest ist valide, wenn er wirklich Intelligenz misst (und nicht z. B. nur Schulwissen). Kriteriumsvalidität zeigt sich darin, dass IQ-Werte Schul- und Berufserfolg moderat vorhersagen.",
       "notes": "Drittes Gütekriterium. Wichtig: Vorhersage ist moderat — IQ erklärt nicht alles.",
@@ -98,6 +108,7 @@
     },
     {
       "id": "testfairness-bias",
+      "stable_id": "card-ms942qq81lplf",
       "front": "Testfairness und kulturelle Verzerrung (test bias)",
       "back": "Ein Test ist unfair (biased), wenn er systematisch bestimmte Gruppen benachteiligt — z. B. durch kulturspezifische Inhalte oder sprachliche Hürden. Kulturfreie Tests (z. B. Matrizenaufgaben) sollen Bias reduzieren.",
       "notes": "Bezug Lektion 88 (Erblichkeit, Umwelt, Flynn-Effekt). Testfairness ist eine Erweiterung des Validitätsbegriffs.",
@@ -107,6 +118,7 @@
     },
     {
       "id": "iq-vorhersage-und-grenzen",
+      "stable_id": "card-ms942qq81lqp1",
       "front": "Was der IQ vorhersagt — und was nicht",
       "back": "Der IQ sagt Schul- und Berufserfolg moderat vorher. Er misst NICHT den Wert, die Kreativität oder die Weisheit eines Menschen. Ein IQ ist ein Vergleichswert — kein Maß für den Wert eines Menschen.",
       "media_type": "text",
@@ -140,6 +152,7 @@
       "title": "Sterns IQ-Formel",
       "exercise": {
         "id": "ex-cloze-iq-formel",
+        "stable_id": "ex-ms942qq81lrke",
         "type": "cloze",
         "prompt": "Ergänze die Formel, mit der William Stern den Intelligenzquotienten berechnete.",
         "card_ids": ["stern-iq-formel"],
@@ -158,6 +171,7 @@
       "title": "Abweichungs-IQ: Mittelwert und Streuung",
       "exercise": {
         "id": "ex-cloze-mittelwert-sd",
+        "stable_id": "ex-ms942qq81lsfi",
         "type": "cloze",
         "prompt": "Gib den Mittelwert des modernen Abweichungs-IQ an.",
         "card_ids": ["abweichungs-iq", "normalverteilung-iq"],
@@ -176,6 +190,7 @@
       "title": "Gütekriterien zuordnen",
       "exercise": {
         "id": "ex-match-guetekriterien",
+        "stable_id": "ex-ms942qq81ltla",
         "type": "matching",
         "prompt": "Ordne jedem Gütekriterium seine Kernfrage zu.",
         "card_ids": ["objektivitaet-intelligenztest", "reliabilitaet-intelligenztest", "validitaet-intelligenztest"],
@@ -194,6 +209,7 @@
       "title": "Personen und Beiträge",
       "exercise": {
         "id": "ex-match-iq-geschichte",
+        "stable_id": "ex-ms942qq81lu8z",
         "type": "matching",
         "prompt": "Ordne jeder Person ihren Beitrag zur Intelligenzmessung zu.",
         "card_ids": ["binet-erster-test", "stern-iq-formel", "abweichungs-iq", "normierung-bezugsnorm"],
@@ -213,6 +229,7 @@
       "title": "Die drei Gütekriterien",
       "exercise": {
         "id": "ex-free-guetekriterien",
+        "stable_id": "ex-ms942qq81lvml",
         "type": "free_text",
         "prompt": "Nenne alle drei Hauptgütekriterien eines psychologischen Tests (aus Lektion 23/29).",
         "card_ids": ["objektivitaet-intelligenztest", "reliabilitaet-intelligenztest", "validitaet-intelligenztest"],
@@ -236,6 +253,7 @@
       "title": "Was der IQ nicht misst",
       "exercise": {
         "id": "ex-free-iq-grenzen",
+        "stable_id": "ex-ms942qq81lw7o",
         "type": "free_text",
         "prompt": "Ein IQ-Wert sagt Schul- und Berufserfolg moderat vorher. Nenne zwei Dinge, die der IQ NICHT misst oder darstellt.",
         "card_ids": ["iq-vorhersage-und-grenzen"],
@@ -259,6 +277,7 @@
       "title": "Merksatz: Abweichungs-IQ",
       "exercise": {
         "id": "ex-tiles-abweichungs-iq",
+        "stable_id": "ex-ms942qq81lxb1",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zum Abweichungs-IQ zusammen.",
         "card_ids": ["abweichungs-iq", "iq-vorhersage-und-grenzen"],

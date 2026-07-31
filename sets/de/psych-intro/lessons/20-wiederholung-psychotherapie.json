@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "vier-verfahren",
+      "stable_id": "card-ms942qp40lqou",
       "front": "Die vier großen Psychotherapieverfahren",
       "back": "Verhaltenstherapie, kognitive Verhaltenstherapie (KVT), psychodynamische/tiefenpsychologische Verfahren und humanistische Verfahren — die vier anerkannten Hauptrichtungen.",
       "notes": "Eingeführt in Lektion 16 als Überblick; Lektionen 17–19 vertiefen jedes Verfahren.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "verhaltenstherapie",
+      "stable_id": "card-ms942qp40lrxi",
       "front": "Verhaltenstherapie (Behaviour Therapy, BT)",
       "back": "Therapierichtung, die davon ausgeht, dass problematisches Verhalten erlernt wurde und durch systematisches Um- oder Neulernen verändert werden kann.",
       "notes": "Basiert auf klassischer und operanter Konditionierung (Lektion 4 und 17). Typische Techniken: Exposition, systematische Desensibilisierung, Token-System.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "exposition",
+      "stable_id": "card-ms942qp40ls9r",
       "front": "Exposition (Exposure)",
       "back": "Verhaltenstherapeutische Technik: Klient:innen begegnen dem angstauslösenden Reiz gezielt — entweder schrittweise (graduiert) oder direkt (Flooding) — ohne zu fliehen, bis die Angst von selbst nachlässt.",
       "notes": "Kernprinzip: Löschung (Extinction) der gelernten Angstreaktion. Besonders wirksam bei Phobien und Angststörungen.",
@@ -37,6 +40,7 @@
     },
     {
       "id": "kognitive-verhaltenstherapie",
+      "stable_id": "card-ms942qp40ltdt",
       "front": "Kognitive Verhaltenstherapie (KVT / Cognitive Behavioural Therapy, CBT)",
       "back": "Weiterentwicklung der Verhaltenstherapie: Nicht nur das Verhalten, sondern auch dysfunktionale Gedanken und Überzeugungen werden als Ursache von Leiden erkannt und verändert.",
       "notes": "Lektion 18. Vereint behaviorale Techniken mit kognitiver Umstrukturierung. Heute die am besten belegte Therapieform für viele Störungen.",
@@ -46,6 +50,7 @@
     },
     {
       "id": "abc-modell",
+      "stable_id": "card-ms942qp40ludl",
       "front": "ABC-Modell (Ellis)",
       "back": "A (Auslöser/Activating event) → B (Bewertung/Belief) → C (Konsequenz/Consequence). Nicht das Ereignis A, sondern die Bewertung B erzeugt die emotionale Reaktion C.",
       "notes": "Lektion 18. Grundlage der Rational-Emotiven Therapie (RET) von Albert Ellis. Zeigt, dass Denken und Fühlen untrennbar verbunden sind.",
@@ -56,6 +61,7 @@
     },
     {
       "id": "kognitive-umstrukturierung",
+      "stable_id": "card-ms942qp40lvr0",
       "front": "Kognitive Umstrukturierung (Cognitive Restructuring)",
       "back": "KVT-Technik: Dysfunktionale, verzerrte Gedanken werden identifiziert, hinterfragt und durch realistischere, hilfreichere Gedanken ersetzt.",
       "notes": "Schritt-für-Schritt: automatischen Gedanken erkennen → kognitive Verzerrung benennen → Alternativgedanken entwickeln. Kernstück von Becks kognitiver Therapie.",
@@ -65,6 +71,7 @@
     },
     {
       "id": "freie-assoziation",
+      "stable_id": "card-ms942qp40lwzj",
       "front": "Freie Assoziation (Free Association)",
       "back": "Psychoanalytische Grundregel: Klient:innen sagen alles laut, was ihnen in den Sinn kommt — ohne Zensur — damit unbewusste Konflikte an die Oberfläche gelangen.",
       "notes": "Lektion 19. Eingeführt von Sigmund Freud als zentrale Methode der Psychoanalyse. Das Unbewusste drückt sich in Assoziationen, Träumen und Fehlleistungen aus.",
@@ -74,6 +81,7 @@
     },
     {
       "id": "uebertragung",
+      "stable_id": "card-ms942qp40lxhg",
       "front": "Übertragung (Transference)",
       "back": "Psychoanalytisches Konzept: Klient:innen übertragen Gefühle und Erwartungen aus früheren (oft elterlichen) Beziehungen auf die Therapeut:in.",
       "notes": "Lektion 19. Die Analyse der Übertragung gilt als Herzstück der psychodynamischen Therapie — sie macht unbewusste Beziehungsmuster sichtbar.",
@@ -84,6 +92,7 @@
     },
     {
       "id": "klientenzentrierte-therapie",
+      "stable_id": "card-ms942qp40lydx",
       "front": "Klientenzentrierte Therapie (Person-Centred Therapy, Rogers)",
       "back": "Humanistisches Verfahren von Carl Rogers: In einer Beziehung aus Empathie, bedingungsloser Wertschätzung und Kongruenz kann der Mensch seine Fähigkeit zur Selbstaktualisierung entfalten.",
       "notes": "Lektion 19. Die drei Kernbedingungen nach Rogers: Empathie (einfühlendes Verstehen), bedingungslose Wertschätzung (Akzeptanz), Kongruenz (Echtheit der Therapeut:in).",
@@ -93,6 +102,7 @@
     },
     {
       "id": "therapeutische-beziehung-review",
+      "stable_id": "card-ms942qp40lzlo",
       "front": "Therapeutische Beziehung (Therapeutic Alliance) — Bedeutung",
       "back": "Das vertrauensvolle Arbeitsbündnis zwischen Therapeut:in und Klient:in ist einer der stärksten Vorhersagefaktoren für den Therapieerfolg — verfahrensübergreifend.",
       "notes": "Lektion 16 (Wirkfaktoren nach Grawe). Wichtiger als die Wahl des spezifischen Verfahrens. Voraussetzung: Schweigepflicht und gegenseitiger Respekt.",
@@ -102,6 +112,7 @@
     },
     {
       "id": "wirkfaktoren-review",
+      "stable_id": "card-ms942qp40m0ic",
       "front": "Allgemeine Wirkfaktoren nach Grawe (Common Factors)",
       "back": "Vier verfahrensübergreifende Wirkfaktoren: (1) therapeutische Beziehung, (2) Ressourcenaktivierung, (3) Problemaktualisierung, (4) Klärung und Bewältigung.",
       "notes": "Lektion 16. Sie erklären, warum verschiedene Verfahren oft ähnlich gut wirken ('Äquivalenzparadox').",
@@ -111,6 +122,7 @@
     },
     {
       "id": "indikation-review",
+      "stable_id": "card-ms942qp40m1kt",
       "front": "Indikation (Indication) — 'Was hilft wem?'",
       "back": "Die begründete Entscheidung, welches Verfahren für welche Person und welche Störung am besten geeignet ist — auf Basis von Diagnose, Persönlichkeit und wissenschaftlicher Evidenz.",
       "notes": "Lektion 16. Knüpft an Klinische Psychologie (Lektion 9) an. Gute Indikation erhöht Wirksamkeit und Effizienz der Behandlung.",
@@ -145,6 +157,7 @@
       "title": "Verfahren und ihr Kerngedanke",
       "exercise": {
         "id": "ex-match-verfahren-kerngedanke",
+        "stable_id": "ex-ms942qp40m2yu",
         "type": "matching",
         "prompt": "Ordne jedem Therapieverfahren seinen Kerngedanken zu.",
         "card_ids": ["verhaltenstherapie", "kognitive-verhaltenstherapie", "freie-assoziation", "klientenzentrierte-therapie"],
@@ -164,6 +177,7 @@
       "title": "Das ABC-Modell",
       "exercise": {
         "id": "ex-cloze-abc",
+        "stable_id": "ex-ms942qp40m3wx",
         "type": "cloze",
         "prompt": "Ergänze den fehlenden Buchstaben im ABC-Modell von Ellis.",
         "card_ids": ["abc-modell"],
@@ -182,6 +196,7 @@
       "title": "Grawes Wirkfaktoren nennen",
       "exercise": {
         "id": "ex-free-wirkfaktoren",
+        "stable_id": "ex-ms942qp40m4zv",
         "type": "free_text",
         "prompt": "Wie heißt das Konzept der verfahrensübergreifenden heilsamen Elemente, das Klaus Grawe beschrieben hat?",
         "card_ids": ["wirkfaktoren-review"],
@@ -198,6 +213,7 @@
       "title": "Rogers' drei Kernbedingungen",
       "exercise": {
         "id": "ex-match-rogers-bedingungen",
+        "stable_id": "ex-ms942qp40m5tf",
         "type": "matching",
         "prompt": "Ordne jeder Kernbedingung von Rogers ihre Beschreibung zu.",
         "card_ids": ["klientenzentrierte-therapie"],
@@ -216,6 +232,7 @@
       "title": "Verhaltenstherapeutische Technik",
       "exercise": {
         "id": "ex-free-exposition",
+        "stable_id": "ex-ms942qp40m6kp",
         "type": "free_text",
         "prompt": "Wie heißt die verhaltenstherapeutische Technik, bei der Klient:innen dem angstauslösenden Reiz gezielt begegnen, bis die Angst nachlässt?",
         "card_ids": ["exposition"],
@@ -232,6 +249,7 @@
       "title": "Übertragung erklären",
       "exercise": {
         "id": "ex-tiles-uebertragung",
+        "stable_id": "ex-ms942qp40m73d",
         "type": "word_tiles",
         "prompt": "Setze die Definition der Übertragung zusammen.",
         "card_ids": ["uebertragung"],
@@ -247,6 +265,7 @@
       "title": "Was hilft wem?",
       "exercise": {
         "id": "ex-cloze-indikation",
+        "stable_id": "ex-ms942qp40m8f0",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff für die Frage 'Was hilft wem?'.",
         "card_ids": ["indikation-review"],

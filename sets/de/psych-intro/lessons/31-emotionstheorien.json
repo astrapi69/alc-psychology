@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "emotion-definition",
+      "stable_id": "card-ms942qpb0rl4l",
       "front": "Emotion",
       "back": "Ein komplexes psychisches Erleben, das aus subjektivem Gefühl, körperlicher Erregung, Ausdruck und Verhalten besteht und durch bedeutsame Ereignisse ausgelöst wird.",
       "notes": "In Lektion 5 (Motivation und Emotion) eingeführt. Diese Lektion vertieft die theoretischen Grundlagen.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "james-lange-theorie",
+      "stable_id": "card-ms942qpb0rm4k",
       "front": "James-Lange-Theorie",
       "back": "Emotionen entstehen, weil wir unsere Körperreaktionen wahrnehmen und interpretieren: Erst reagiert der Körper (z. B. Herzklopfen), dann entsteht das Gefühl ('Ich bin aufgeregt').",
       "notes": "Formuliert unabhängig voneinander von William James und Carl Lange (1884/85). Merke: Körperreaktion → Emotion.",
@@ -28,6 +30,7 @@
     },
     {
       "id": "cannon-bard-theorie",
+      "stable_id": "card-ms942qpb0rnl4",
       "front": "Cannon-Bard-Theorie",
       "back": "Körperreaktion und subjektives Gefühl entstehen gleichzeitig und unabhängig voneinander. Der Thalamus leitet Signale parallel an Körper und Kortex weiter.",
       "notes": "Walter Cannon und Philip Bard kritisierten die James-Lange-Theorie: Körpersignale sind zu langsam und zu unspezifisch für verschiedene Emotionen. Merke: Körper und Gefühl gleichzeitig.",
@@ -38,6 +41,7 @@
     },
     {
       "id": "schachter-singer-theorie",
+      "stable_id": "card-ms942qpb0rocs",
       "front": "Schachter-Singer-Theorie (Zwei-Faktoren-Theorie)",
       "back": "Eine Emotion entsteht aus zwei Faktoren: (1) körperlicher Erregung (Arousal) und (2) der kognitiven Bewertung der Situation. Dasselbe Arousal kann je nach Kontext zu verschiedenen Emotionen führen.",
       "notes": "Stanley Schachter und Jerome Singer (1962): Das berühmte Adrenalin-Experiment. Körperliche Erregung ist notwendig, aber erst die kognitive Etikettierung ('das ist Wut / Freude') bestimmt die Emotion.",
@@ -48,6 +52,7 @@
     },
     {
       "id": "lazarus-appraisal",
+      "stable_id": "card-ms942qpb0rpjg",
       "front": "Lazarus-Appraisal-Theorie (Bewertungstheorie)",
       "back": "Die kognitive Bewertung (Appraisal) eines Ereignisses kommt zuerst und bestimmt, welche Emotion entsteht. Ohne Bewertung keine Emotion.",
       "notes": "Richard Lazarus (1982) betonte: Denken geht dem Fühlen voraus. Kontrovers diskutiert mit Zajonc ('Gefühl kommt vor dem Denken'). Bezug zu Stress aus Lektion 12.",
@@ -58,6 +63,7 @@
     },
     {
       "id": "emotionskomponenten",
+      "stable_id": "card-ms942qpb0rq6z",
       "front": "Komponenten einer Emotion (Components of Emotion)",
       "back": "Vier Bestandteile: (1) subjektives Erleben (Gefühl), (2) körperliche Erregung (physiologische Reaktion), (3) Ausdruck (Mimik, Gestik, Stimme), (4) Verhaltenstendenz (Handlungsimpuls).",
       "media_type": "text",
@@ -66,6 +72,7 @@
     },
     {
       "id": "basisemotionen-ekman",
+      "stable_id": "card-ms942qpb0rryv",
       "front": "Basisemotionen (Basic Emotions) nach Ekman",
       "back": "Paul Ekman identifizierte sechs kulturübergreifend erkennbare Basisemotionen: Freude, Trauer, Wut, Angst, Überraschung und Ekel. Später fügte er Verachtung hinzu.",
       "notes": "Ekman untersuchte Mimik in verschiedenen Kulturen, auch bei isolierten Völkern — die Ausdrücke waren universell erkennbar.",
@@ -76,6 +83,7 @@
     },
     {
       "id": "facial-feedback-hypothese",
+      "stable_id": "card-ms942qpb0rsr3",
       "front": "Facial-Feedback-Hypothese",
       "back": "Die Mimik beeinflusst das subjektive Erleben einer Emotion: Wer lächelt (auch unwillkürlich), empfindet eher positive Gefühle — das Gesicht sendet Rückmeldung ans Gehirn.",
       "notes": "Klassisches Experiment: Stift zwischen den Zähnen (erzwingt Lächeln) → Cartoons wurden als lustiger bewertet. Replizierbarkeit wird diskutiert.",
@@ -86,6 +94,7 @@
     },
     {
       "id": "amygdala-emotion",
+      "stable_id": "card-ms942qpb0rteh",
       "front": "Amygdala und Emotion",
       "back": "Die Amygdala (Mandelkern) im limbischen System ist das Zentrum für die schnelle emotionale Bewertung, besonders bei Angst und Bedrohung. Sie kann Emotionen auslösen, bevor der Kortex beteiligt ist.",
       "notes": "In Lektion 13 (Biologische Grundlagen) eingeführt. Erklärung für emotionale Reaktionen, die schneller als bewusstes Denken sind ('Low Road' nach LeDoux).",
@@ -95,6 +104,7 @@
     },
     {
       "id": "arousal",
+      "stable_id": "card-ms942qpb0ruig",
       "front": "Arousal (körperliche Erregung)",
       "back": "Der Zustand allgemeiner physiologischer Aktivierung des Körpers — erhöhter Herzschlag, Adrenalinausschüttung, Muskelanspannung. In der Schachter-Singer-Theorie notwendige Voraussetzung für Emotionen.",
       "media_type": "text",
@@ -103,6 +113,7 @@
     },
     {
       "id": "kognitive-bewertung",
+      "stable_id": "card-ms942qpb0rvqj",
       "front": "Kognitive Bewertung (Cognitive Appraisal)",
       "back": "Die gedankliche Einschätzung eines Ereignisses hinsichtlich seiner Bedeutung für das eigene Wohlbefinden. Laut Lazarus und Schachter-Singer entscheidend für die Art der entstehenden Emotion.",
       "media_type": "text",
@@ -111,6 +122,7 @@
     },
     {
       "id": "limbisches-system",
+      "stable_id": "card-ms942qpb0rwam",
       "front": "Limbisches System (Limbic System)",
       "back": "Ein Verbund von Hirnstrukturen — darunter Amygdala, Hippocampus und Hypothalamus — der für emotionale Verarbeitung, Gedächtnis und Motivation zentral ist.",
       "notes": "In Lektion 13 (Biologische Grundlagen) eingeführt. Die Amygdala ist der emotionale Kern dieses Systems.",
@@ -145,6 +157,7 @@
       "title": "James-Lange, Cannon-Bard und Schachter-Singer unterscheiden",
       "exercise": {
         "id": "ex-match-drei-theorien",
+        "stable_id": "ex-ms942qpb0rx04",
         "type": "matching",
         "prompt": "Ordne jeder Emotionstheorie ihre Kernaussage zu — ein häufige Verwechslungsquelle!",
         "card_ids": ["james-lange-theorie", "cannon-bard-theorie", "schachter-singer-theorie"],
@@ -163,6 +176,7 @@
       "title": "Die Zwei-Faktoren-Theorie ergänzen",
       "exercise": {
         "id": "ex-cloze-zwei-faktoren",
+        "stable_id": "ex-ms942qpb0rygh",
         "type": "cloze",
         "prompt": "Ergänze den fehlenden Begriff in der Zwei-Faktoren-Theorie.",
         "card_ids": ["schachter-singer-theorie", "arousal"],
@@ -181,6 +195,7 @@
       "title": "Theorien und Reihenfolge der Ereignisse",
       "exercise": {
         "id": "ex-match-theorien-reihenfolge",
+        "stable_id": "ex-ms942qpb0rz4x",
         "type": "matching",
         "prompt": "Welche Theorie beschreibt welche Abfolge? Ordne zu.",
         "card_ids": ["james-lange-theorie", "lazarus-appraisal", "cannon-bard-theorie"],
@@ -199,6 +214,7 @@
       "title": "Basisemotionen nach Ekman",
       "exercise": {
         "id": "ex-free-basisemotionen",
+        "stable_id": "ex-ms942qpb0s0of",
         "type": "free_text",
         "prompt": "Wie heißt das Konzept der sechs kulturübergreifend erkennbaren Grundemotionen, das Paul Ekman beschrieb?",
         "card_ids": ["basisemotionen-ekman"],
@@ -215,6 +231,7 @@
       "title": "Facial-Feedback-Hypothese zusammensetzen",
       "exercise": {
         "id": "ex-tiles-facial-feedback",
+        "stable_id": "ex-ms942qpb0s12e",
         "type": "word_tiles",
         "prompt": "Setze den Kernsatz der Facial-Feedback-Hypothese zusammen.",
         "card_ids": ["facial-feedback-hypothese"],
@@ -230,6 +247,7 @@
       "title": "Amygdala und schnelle Emotionen",
       "exercise": {
         "id": "ex-cloze-amygdala",
+        "stable_id": "ex-ms942qpb0s2uk",
         "type": "cloze",
         "prompt": "Ergänze die Hirnstruktur, die Emotionen schnell verarbeitet — noch vor dem Kortex.",
         "card_ids": ["amygdala-emotion", "limbisches-system"],
@@ -248,6 +266,7 @@
       "title": "Lazarus: Was kommt zuerst?",
       "exercise": {
         "id": "ex-free-lazarus",
+        "stable_id": "ex-ms942qpb0s3i1",
         "type": "free_text",
         "prompt": "Wie heißt die Theorie von Richard Lazarus, laut der die kognitive Bewertung eines Ereignisses die Emotion erst auslöst?",
         "card_ids": ["lazarus-appraisal", "kognitive-bewertung"],

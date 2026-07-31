@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "psychophysik",
+      "stable_id": "card-ms942qpg0wzkk",
       "front": "Psychophysik (Psychophysics)",
       "back": "Das Teilgebiet, das den Zusammenhang zwischen einem physikalischen Reiz und der dadurch ausgelösten subjektiven Empfindung quantitativ untersucht.",
       "notes": "Begründet von Gustav Theodor Fechner (19. Jh.). Vertieft die Wahrnehmung aus Lektion 2.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "absolute-schwelle",
+      "stable_id": "card-ms942qpg0x0re",
       "front": "Absolute Schwelle (Absolute Threshold)",
       "back": "Die kleinste Reizintensität, die eine Person in 50 % der Versuche gerade noch entdeckt.",
       "notes": "Beispiel: die schwächste Tonlautstärke, die man eben noch hört.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "unterschiedsschwelle",
+      "stable_id": "card-ms942qpg0x1ri",
       "front": "Unterschiedsschwelle (eben merklicher Unterschied, jnd)",
       "back": "Der kleinste Unterschied zwischen zwei Reizen, der in 50 % der Fälle gerade noch wahrgenommen wird.",
       "notes": "Englisch: just noticeable difference (jnd).",
@@ -37,6 +40,7 @@
     },
     {
       "id": "weber-gesetz",
+      "stable_id": "card-ms942qpg0x2wk",
       "front": "Webersches Gesetz",
       "back": "Der eben merkliche Unterschied ist ein konstanter Anteil (Prozentsatz) des Ausgangsreizes, nicht ein fester Betrag.",
       "notes": "Beispiel: Zu 100 g muss man ~2 g zugeben, um den Unterschied zu merken; zu 1000 g entsprechend ~20 g.",
@@ -46,6 +50,7 @@
     },
     {
       "id": "fechner-gesetz",
+      "stable_id": "card-ms942qpg0x3w8",
       "front": "Fechnersches Gesetz",
       "back": "Die Stärke der Empfindung wächst logarithmisch mit der Reizintensität: Verdopplung des Reizes verdoppelt die Empfindung nicht.",
       "notes": "Baut auf dem Weberschen Gesetz auf.",
@@ -55,6 +60,7 @@
     },
     {
       "id": "signalentdeckungstheorie",
+      "stable_id": "card-ms942qpg0x4l6",
       "front": "Signalentdeckungstheorie (Signal Detection Theory)",
       "back": "Theorie, nach der das Entdecken eines schwachen Reizes von zwei Dingen abhängt: der Sensitivität und dem Antwortkriterium (der Bereitschaft, 'ja' zu sagen).",
       "notes": "Unterscheidet Treffer, falschen Alarm, Verpasser und korrekte Ablehnung. Es gibt keine feste Schwelle.",
@@ -64,6 +70,7 @@
     },
     {
       "id": "sensorische-adaptation",
+      "stable_id": "card-ms942qpg0x5kz",
       "front": "Sensorische Adaptation",
       "back": "Die nachlassende Empfindlichkeit für einen Reiz, der konstant und unverändert bleibt.",
       "notes": "Beispiel: Man riecht das eigene Parfüm nach kurzer Zeit nicht mehr.",
@@ -73,6 +80,7 @@
     },
     {
       "id": "wahrnehmungskonstanz",
+      "stable_id": "card-ms942qpg0x60h",
       "front": "Wahrnehmungskonstanz (Perceptual Constancy)",
       "back": "Die Tendenz, Objekte trotz wechselnder Reizlage (Entfernung, Beleuchtung, Blickwinkel) als gleichbleibend wahrzunehmen.",
       "notes": "Arten: Größen-, Form- und Helligkeitskonstanz.",
@@ -82,6 +90,7 @@
     },
     {
       "id": "gestaltgesetze",
+      "stable_id": "card-ms942qpg0x7ev",
       "front": "Gestaltgesetze",
       "back": "Prinzipien, nach denen wir einzelne Reize zu sinnvollen Ganzheiten zusammenfassen — z. B. Nähe, Ähnlichkeit, Geschlossenheit und gute Fortsetzung.",
       "notes": "Aus der Gestaltpsychologie (vgl. Lektion 2 und 38): 'Das Ganze ist mehr als die Summe seiner Teile.'",
@@ -91,6 +100,7 @@
     },
     {
       "id": "figur-grund",
+      "stable_id": "card-ms942qpg0x81o",
       "front": "Figur-Grund-Unterscheidung",
       "back": "Die grundlegende Organisationsleistung, ein Objekt (Figur) von seinem Hintergrund (Grund) zu trennen.",
       "notes": "Kippbilder (z. B. die Vase/zwei Gesichter) zeigen, dass diese Zuordnung umschlagen kann.",
@@ -100,6 +110,7 @@
     },
     {
       "id": "bottom-up-top-down",
+      "stable_id": "card-ms942qpg0x9xw",
       "front": "Bottom-up- vs. Top-down-Verarbeitung",
       "back": "Bottom-up: Wahrnehmung beginnt bei den Sinnesdaten. Top-down: Vorwissen und Erwartungen steuern die Deutung der Reize.",
       "media_type": "text",
@@ -109,6 +120,7 @@
     },
     {
       "id": "tiefenwahrnehmung",
+      "stable_id": "card-ms942qpg0xan3",
       "front": "Tiefenwahrnehmung (Depth Perception)",
       "back": "Die Fähigkeit, räumliche Tiefe und Entfernung zu sehen — über binokulare (beidäugige) und monokulare (einäugige) Tiefenhinweise.",
       "notes": "Binokular z. B. die Querdisparation; monokular z. B. Größenabnahme und Verdeckung.",
@@ -143,6 +155,7 @@
       "title": "Das Teilgebiet benennen",
       "exercise": {
         "id": "ex-cloze-psychophysik",
+        "stable_id": "ex-ms942qpg0xb93",
         "type": "cloze",
         "prompt": "Ergänze den Namen des Teilgebiets, das Reiz und Empfindung quantitativ verbindet.",
         "card_ids": ["psychophysik"],
@@ -161,6 +174,7 @@
       "title": "Schwellen und Adaptation",
       "exercise": {
         "id": "ex-match-schwellen",
+        "stable_id": "ex-ms942qpg0xcy2",
         "type": "matching",
         "prompt": "Ordne jedem Begriff seine Bedeutung zu.",
         "card_ids": ["absolute-schwelle", "unterschiedsschwelle", "sensorische-adaptation"],
@@ -179,6 +193,7 @@
       "title": "Konstanter Anteil statt fester Betrag",
       "exercise": {
         "id": "ex-free-weber",
+        "stable_id": "ex-ms942qpg0xdp4",
         "type": "free_text",
         "prompt": "Welches Gesetz besagt, dass der eben merkliche Unterschied ein konstanter Anteil des Ausgangsreizes ist?",
         "card_ids": ["weber-gesetz"],
@@ -195,6 +210,7 @@
       "title": "Wie die Empfindung wächst",
       "exercise": {
         "id": "ex-cloze-fechner",
+        "stable_id": "ex-ms942qpg0xemr",
         "type": "cloze",
         "prompt": "Ergänze, wie die Empfindungsstärke nach Fechner mit der Reizintensität wächst.",
         "card_ids": ["fechner-gesetz"],
@@ -213,6 +229,7 @@
       "title": "Mehr als eine feste Schwelle",
       "exercise": {
         "id": "ex-free-signalentdeckung",
+        "stable_id": "ex-ms942qpg0xf4f",
         "type": "free_text",
         "prompt": "Welche Theorie erklärt das Entdecken schwacher Reize über Sensitivität UND Antwortkriterium (statt über eine feste Schwelle)?",
         "card_ids": ["signalentdeckungstheorie"],
@@ -229,6 +246,7 @@
       "title": "Wahrnehmungsorganisation",
       "exercise": {
         "id": "ex-match-organisation",
+        "stable_id": "ex-ms942qpg0xgwj",
         "type": "matching",
         "prompt": "Ordne jedem Begriff seine Beschreibung zu.",
         "card_ids": ["gestaltgesetze", "wahrnehmungskonstanz", "figur-grund", "bottom-up-top-down"],
@@ -248,6 +266,7 @@
       "title": "Das Gestalt-Prinzip",
       "exercise": {
         "id": "ex-tiles-gestalt",
+        "stable_id": "ex-ms942qpg0xhq5",
         "type": "word_tiles",
         "prompt": "Setze den Leitsatz der Gestaltpsychologie zusammen.",
         "card_ids": ["gestaltgesetze"],

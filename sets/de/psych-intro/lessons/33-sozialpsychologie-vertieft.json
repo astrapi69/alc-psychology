@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "einstellung",
+      "stable_id": "card-ms942qpc0snqy",
       "front": "Einstellung (Attitude)",
       "back": "Relativ stabile Bewertungstendenz gegenüber einem Objekt, einer Person oder einem Sachverhalt — bestehend aus kognitiver, affektiver und konativer Komponente.",
       "notes": "Einstellungen leiten Verhalten, können sich aber durch Erfahrung oder kognitive Dissonanz verändern.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "einstellung-drei-komponenten",
+      "stable_id": "card-ms942qpc0soim",
       "front": "Die drei Komponenten einer Einstellung",
       "back": "Kognitiv (Überzeugungen und Wissen), affektiv (Gefühle und Bewertungen), konativ (Verhaltensabsicht und Handlungstendenz).",
       "notes": "Auch als ABC-Modell der Einstellungen bekannt: Affect, Behavior, Cognition.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "kognitive-dissonanz-vertieft",
+      "stable_id": "card-ms942qpc0spsq",
       "front": "Kognitive Dissonanz (Cognitive Dissonance) — Vertiefung",
       "back": "Nach Festinger (1957) entsteht ein unangenehmer Spannungszustand, wenn zwei Kognitionen (Gedanken, Überzeugungen, Verhalten) unvereinbar sind. Der Mensch strebt danach, diese Spannung zu reduzieren.",
       "notes": "Wege der Dissonanzreduktion: Einstellung ändern, Verhalten ändern oder neue Kognitionen hinzufügen (Rationalisierung). Knüpft an Lektion 7 an.",
@@ -37,6 +40,7 @@
     },
     {
       "id": "asch-konformitaet-vertieft",
+      "stable_id": "card-ms942qpc0sqrf",
       "front": "Asch-Experiment — Konformität (Conformity) vertieft",
       "back": "Solomon Asch (1951) zeigte: Rund 75 % der Versuchspersonen passten ihre Linienurteile mindestens einmal der Mehrheit an — obwohl die Antwort der Mehrheit offensichtlich falsch war. Ursache: normativer und informativer sozialer Einfluss.",
       "notes": "Normativer Einfluss: Wunsch, dazuzugehören. Informativer Einfluss: Annahme, die Gruppe weiß mehr.",
@@ -46,6 +50,7 @@
     },
     {
       "id": "milgram-gehorsam-vertieft",
+      "stable_id": "card-ms942qpc0srps",
       "front": "Milgram-Experiment — Gehorsam (Obedience) vertieft",
       "back": "Stanley Milgram (1961): Ca. 65 % der Versuchspersonen verabreichten auf Befehl Stromschläge bis 450 Volt. Schlüsselfaktoren: physische Nähe zur Autoritätsperson, Distanz zum Opfer, institutionelle Legitimität.",
       "notes": "Unterschied zu Konformität: Gehorsam folgt einer Weisung von oben (Autorität), Konformität folgt dem Druck von Gleichgestellten (Peers).",
@@ -56,6 +61,7 @@
     },
     {
       "id": "gruppendenken-vertieft",
+      "stable_id": "card-ms942qpc0sszh",
       "front": "Gruppendenken (Groupthink) — Vertiefung",
       "back": "Irving Janis (1972): In eng zusammengeschlossenen Gruppen unterdrückt der Drang nach Einigkeit kritisches Denken. Symptome: Illusion der Unverwundbarkeit, Selbstzensur, kollektive Rationalisierung.",
       "notes": "Gegenmaßnahme: Advocatus Diaboli — eine Person wird explizit beauftragt, Gegenargumente zu liefern.",
@@ -65,6 +71,7 @@
     },
     {
       "id": "stereotyp",
+      "stable_id": "card-ms942qpc0st4n",
       "front": "Stereotyp (Stereotype)",
       "back": "Vereinfachtes, verallgemeinertes Bild einer sozialen Gruppe — eine kognitive Struktur, die Eigenschaften einer Gruppe beschreibt, unabhängig davon, ob diese Überzeugung positiv oder negativ bewertet wird.",
       "notes": "Stereotype sind zunächst neutral beschreibend (kognitiv); sie können aber zu Vorurteilen führen.",
@@ -74,6 +81,7 @@
     },
     {
       "id": "vorurteil",
+      "stable_id": "card-ms942qpc0suhd",
       "front": "Vorurteil (Prejudice)",
       "back": "Negative (oder übermäßig positive) emotionale Einstellung gegenüber einer sozialen Gruppe oder deren Mitgliedern — ohne ausreichende sachliche Grundlage.",
       "notes": "Vorurteil = affektive Komponente; geht über das bloße Stereotyp hinaus, da es eine Bewertung (meistens negativ) enthält.",
@@ -83,6 +91,7 @@
     },
     {
       "id": "diskriminierung",
+      "stable_id": "card-ms942qpc0sv28",
       "front": "Diskriminierung (Discrimination)",
       "back": "Ungleiche, benachteiligende Behandlung von Personen aufgrund ihrer Gruppenzugehörigkeit — die Verhaltensebene (konativ) der Einstellung.",
       "notes": "Diskriminierung ist die sichtbare Handlung, die aus einem Vorurteil folgen kann — aber nicht muss.",
@@ -92,6 +101,7 @@
     },
     {
       "id": "fundamentaler-attributionsfehler-vertieft",
+      "stable_id": "card-ms942qpc0sw3i",
       "front": "Fundamentaler Attributionsfehler (Fundamental Attribution Error) — Wiederaufgriff",
       "back": "Tendenz, das Verhalten anderer auf deren Charakter zurückzuführen (internale Attribution), statt die Situation zu berücksichtigen (externale Attribution). Eingeführt in Lektion 7.",
       "notes": "Ross (1977). Besonders im westlichen Kulturraum ausgeprägt. Das eigene Verhalten wird häufiger situational erklärt.",
@@ -101,6 +111,7 @@
     },
     {
       "id": "bystander-effekt",
+      "stable_id": "card-ms942qpc0sxws",
       "front": "Bystander-Effekt (Bystander Effect) / Verantwortungsdiffusion",
       "back": "Je mehr Personen Zeuge eines Notfalls sind, desto geringer ist die Wahrscheinlichkeit, dass eine Einzelperson eingreift — weil die Verantwortung auf alle Anwesenden verteilt (diffundiert) wird.",
       "notes": "Latané & Darley (1968): Ausgelöst durch den Mordfall Kitty Genovese. Verantwortungsdiffusion + pluralistische Ignoranz.",
@@ -111,6 +122,7 @@
     },
     {
       "id": "pluralistische-ignoranz",
+      "stable_id": "card-ms942qpc0syso",
       "front": "Pluralistische Ignoranz (Pluralistic Ignorance)",
       "back": "Phänomen, bei dem Individuen in einer Gruppe fälschlicherweise annehmen, alle anderen seien ruhig, weil die Situation kein Eingreifen erfordere — obwohl alle privat Bedenken haben.",
       "notes": "Verstärkt den Bystander-Effekt: Alle schauen auf andere und schließen daraus, dass kein Handlungsbedarf besteht.",
@@ -145,6 +157,7 @@
       "title": "Stereotyp, Vorurteil, Diskriminierung unterscheiden",
       "exercise": {
         "id": "ex-match-stereotyp-vorurteil-diskriminierung",
+        "stable_id": "ex-ms942qpc0sztm",
         "type": "matching",
         "prompt": "Ordne jede Beschreibung dem richtigen Begriff zu.",
         "card_ids": ["stereotyp", "vorurteil", "diskriminierung"],
@@ -163,6 +176,7 @@
       "title": "Asch vs. Milgram",
       "exercise": {
         "id": "ex-match-asch-milgram",
+        "stable_id": "ex-ms942qpc0t067",
         "type": "matching",
         "prompt": "Ordne jede Aussage dem richtigen Experiment oder Begriff zu.",
         "card_ids": ["asch-konformitaet-vertieft", "milgram-gehorsam-vertieft"],
@@ -182,6 +196,7 @@
       "title": "Die drei Einstellungskomponenten",
       "exercise": {
         "id": "ex-cloze-einstellungskomponenten",
+        "stable_id": "ex-ms942qpc0t1jr",
         "type": "cloze",
         "prompt": "Ergänze die fehlende Komponente der Einstellung.",
         "card_ids": ["einstellung-drei-komponenten", "einstellung"],
@@ -200,6 +215,7 @@
       "title": "Festingers Kernkonzept",
       "exercise": {
         "id": "ex-free-kognitive-dissonanz",
+        "stable_id": "ex-ms942qpc0t2gg",
         "type": "free_text",
         "prompt": "Wie nennt man den unangenehmen Spannungszustand, der entsteht, wenn Überzeugungen oder Verhaltensweisen einander widersprechen (nach Festinger)?",
         "card_ids": ["kognitive-dissonanz-vertieft"],
@@ -216,6 +232,7 @@
       "title": "Hilfe ausbleibt: Warum?",
       "exercise": {
         "id": "ex-free-bystander",
+        "stable_id": "ex-ms942qpc0t39q",
         "type": "free_text",
         "prompt": "Wie heißt das Phänomen, bei dem Menschen in einem Notfall weniger helfen, wenn viele andere anwesend sind — weil die Verantwortung auf alle verteilt wird?",
         "card_ids": ["bystander-effekt"],
@@ -232,6 +249,7 @@
       "title": "Fundamentaler Attributionsfehler — Wiederholung",
       "exercise": {
         "id": "ex-cloze-attributionsfehler",
+        "stable_id": "ex-ms942qpc0t4qw",
         "type": "cloze",
         "prompt": "Ergänze die fehlende Erklärungsebene im Satz zum fundamentalen Attributionsfehler.",
         "card_ids": ["fundamentaler-attributionsfehler-vertieft"],
@@ -250,6 +268,7 @@
       "title": "Gruppendenken definieren",
       "exercise": {
         "id": "ex-tiles-gruppendenken",
+        "stable_id": "ex-ms942qpc0t5fu",
         "type": "word_tiles",
         "prompt": "Setze die Kerndefinition des Gruppendenkens zusammen.",
         "card_ids": ["gruppendenken-vertieft"],

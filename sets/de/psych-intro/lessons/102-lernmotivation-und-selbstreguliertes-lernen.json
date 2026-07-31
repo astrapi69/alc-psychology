@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "lernmotivation-def",
+      "stable_id": "card-ms942qor0b0f4",
       "front": "Lernmotivation",
       "back": "Gesamtheit der Beweggründe, die ein Individuum dazu bewegen, eine Lerntätigkeit zu beginnen, aufrechtzuerhalten und mit einer bestimmten Intensität und Ausdauer zu verfolgen. Sie beeinflusst Richtung, Anstrengung und Persistenz des Lernens.",
       "notes": "Englisch: learning motivation. Motivation richtet Verhalten auf ein Ziel aus und hält es aufrecht.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "intrinsisch-extrinsisch",
+      "stable_id": "card-ms942qor0b10q",
       "front": "Intrinsische vs. extrinsische Motivation",
       "back": "Intrinsische Motivation entsteht aus der Tätigkeit selbst: Man lernt, weil es Freude macht oder interessiert. Extrinsische Motivation gründet auf äußeren Folgen: Noten, Lob, Belohnung oder Vermeidung von Strafe. Beide können zusammenwirken.",
       "notes": "Englisch: intrinsic vs. extrinsic motivation. Intrinsisch gilt als besonders stabil und qualitativ hochwertig.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "interesse",
+      "stable_id": "card-ms942qor0b2hu",
       "front": "Interesse",
       "back": "Eine relativ stabile, positiv getönte Beziehung einer Person zu einem Gegenstandsbereich, die mit Wertschätzung und positiven Gefühlen verbunden ist. Interesse fördert tiefere Verarbeitung und freiwillige Beschäftigung mit dem Stoff.",
       "notes": "Englisch: interest. Eng mit intrinsischer Motivation verknüpft (Person-Gegenstands-Theorie des Interesses).",
@@ -36,6 +39,7 @@
     },
     {
       "id": "zielorientierung",
+      "stable_id": "card-ms942qor0b3hk",
       "front": "Lern- vs. Leistungszielorientierung",
       "back": "Lernzielorientierung (mastery): Ziel ist der Kompetenzzuwachs, das Verstehen und Beherrschen. Leistungszielorientierung (performance): Ziel ist, gut auszusehen oder besser als andere zu sein. Lernziele begünstigen Anstrengung und Ausdauer auch bei Schwierigkeiten.",
       "notes": "Englisch: mastery vs. performance goals (Dweck, Elliot). Performance lässt sich in Annäherung und Vermeidung unterteilen.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "attributionstheorie",
+      "stable_id": "card-ms942qor0b49r",
       "front": "Attributionstheorie (Weiner)",
       "back": "Theorie der Ursachenzuschreibung: Wie Menschen sich Erfolg und Misserfolg erklären, beeinflusst ihre Motivation. Weiner ordnet Ursachen drei Dimensionen zu: Lokation (intern vs. extern), Stabilität (stabil vs. variabel) und Kontrollierbarkeit.",
       "notes": "Englisch: attribution theory. Typische Ursachen: Fähigkeit, Anstrengung, Aufgabenschwierigkeit, Glück/Zufall.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "attribution-dimensionen",
+      "stable_id": "card-ms942qor0b5od",
       "front": "Dimensionen der Attribution",
       "back": "Lokation: Liegt die Ursache in der Person (intern, z. B. Anstrengung) oder in der Situation (extern, z. B. Aufgabenschwierigkeit)? Stabilität: Ist die Ursache dauerhaft (stabil, z. B. Begabung) oder veränderlich (variabel, z. B. Tagesform)? Kontrollierbarkeit: Kann die Person die Ursache beeinflussen oder nicht?",
       "notes": "Günstig für Motivation: Misserfolg auf mangelnde Anstrengung (intern, variabel, kontrollierbar) attribuieren statt auf fehlende Begabung.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "erlernte-hilflosigkeit",
+      "stable_id": "card-ms942qor0b6as",
       "front": "Erlernte Hilflosigkeit (Seligman)",
       "back": "Zustand der Resignation, der entsteht, wenn eine Person wiederholt erlebt, dass ihr Handeln keinen Einfluss auf das Ergebnis hat. Sie gibt Bemühungen auf, selbst wenn später Kontrolle möglich wäre. Begünstigt durch internal-stabile Attribution von Misserfolg.",
       "notes": "Englisch: learned helplessness. Verbindung zu pessimistischem Attributionsstil und Depression.",
@@ -72,6 +79,7 @@
     },
     {
       "id": "selbstwirksamkeit",
+      "stable_id": "card-ms942qor0b7n7",
       "front": "Selbstwirksamkeit (Bandura)",
       "back": "Die Überzeugung einer Person, eine bestimmte Aufgabe aufgrund eigener Fähigkeiten erfolgreich bewältigen zu können. Hohe Selbstwirksamkeit führt zu mehr Anstrengung, Ausdauer und Zuversicht und ist ein zentraler Motivationsfaktor.",
       "notes": "Englisch: self-efficacy. Quellen: eigene Erfolgserfahrungen, stellvertretende Erfahrung (Modelle), Überredung, körperliche Zustände.",
@@ -81,6 +89,7 @@
     },
     {
       "id": "mindset",
+      "stable_id": "card-ms942qor0b85o",
       "front": "Mindset: fixed vs. growth (Dweck)",
       "back": "Fixed Mindset (statisches Selbstbild): Fähigkeit gilt als angeboren und unveränderlich. Growth Mindset (dynamisches Selbstbild): Fähigkeit kann durch Anstrengung und Übung wachsen. Ein Growth Mindset fördert Durchhalten bei Fehlern und Herausforderungen.",
       "notes": "Englisch: fixed vs. growth mindset. Eng verwandt mit Lernzielorientierung und günstiger Attribution.",
@@ -90,6 +99,7 @@
     },
     {
       "id": "selbstreguliertes-lernen",
+      "stable_id": "card-ms942qor0b9zc",
       "front": "Selbstreguliertes Lernen",
       "back": "Lernen, bei dem die Lernenden ihr eigenes Vorgehen aktiv steuern: Sie setzen Ziele, wählen und überwachen Strategien und passen ihr Vorgehen anhand der Ergebnisse an. Es verbindet motivationale, kognitive und metakognitive Prozesse.",
       "notes": "Englisch: self-regulated learning (SRL). Die Lernenden sind aktive Gestalter, nicht passive Empfänger.",
@@ -99,6 +109,7 @@
     },
     {
       "id": "zimmerman-zyklus",
+      "stable_id": "card-ms942qor0bafy",
       "front": "Zyklisches Modell (Zimmerman)",
       "back": "Selbstreguliertes Lernen verläuft in drei sich wiederholenden Phasen: 1) Planung/Vorausschau (Ziele setzen, Vorgehen planen), 2) Durchführung mit Monitoring (Lernen und gleichzeitiges Selbstbeobachten), 3) Selbstreflexion (Ergebnis bewerten, Ursachen zuschreiben, Konsequenzen ableiten).",
       "notes": "Englisch: forethought, performance/volitional control, self-reflection. Die Reflexion speist die nächste Planung.",
@@ -108,6 +119,7 @@
     },
     {
       "id": "lernstrategien",
+      "stable_id": "card-ms942qor0bb16",
       "front": "Kognitive, metakognitive und ressourcenbezogene Strategien",
       "back": "Kognitive Strategien dienen der direkten Verarbeitung des Stoffs (Wiederholen, Elaborieren, Organisieren). Metakognitive Strategien steuern den Lernprozess (Planen, Überwachen, Regulieren). Ressourcenbezogene Strategien verwalten innere und äußere Mittel (Zeit, Lernumgebung, Anstrengung, Hilfe suchen).",
       "notes": "Englisch: cognitive, metacognitive and resource-management strategies. Metakognition heißt sinngemäß das Denken über das eigene Denken.",
@@ -142,6 +154,7 @@
       "title": "Motivationsbegriffe zuordnen",
       "exercise": {
         "id": "ex-match-motivation",
+        "stable_id": "ex-ms942qor0bc5q",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Kennzeichnung zu.",
         "card_ids": ["intrinsisch-extrinsisch", "zielorientierung", "interesse", "selbstwirksamkeit"],
@@ -161,6 +174,7 @@
       "title": "Lernen selbst steuern",
       "exercise": {
         "id": "ex-cloze-srl",
+        "stable_id": "ex-ms942qor0bdrq",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff für das aktiv gesteuerte Lernen.",
         "card_ids": ["selbstreguliertes-lernen"],
@@ -177,6 +191,7 @@
       "title": "Ursachen zuschreiben",
       "exercise": {
         "id": "ex-free-attribution",
+        "stable_id": "ex-ms942qor0besf",
         "type": "free_text",
         "prompt": "Wie heißt die Theorie (nach Weiner), die untersucht, wie die Zuschreibung von Ursachen für Erfolg und Misserfolg die Motivation beeinflusst?",
         "card_ids": ["attributionstheorie"],
@@ -193,6 +208,7 @@
       "title": "Wenn Handeln nichts ändert",
       "exercise": {
         "id": "ex-cloze-hilflosigkeit",
+        "stable_id": "ex-ms942qor0bf2f",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff für den Zustand der Resignation nach wiederholt erlebter Wirkungslosigkeit.",
         "card_ids": ["erlernte-hilflosigkeit"],
@@ -209,6 +225,7 @@
       "title": "Dimensionen der Attribution",
       "exercise": {
         "id": "ex-match-attribution-dim",
+        "stable_id": "ex-ms942qor0bgx1",
         "type": "matching",
         "prompt": "Ordne jeder Attributionsdimension die passende Leitfrage zu.",
         "card_ids": ["attribution-dimensionen", "attributionstheorie"],
@@ -227,6 +244,7 @@
       "title": "Das veränderbare Selbstbild",
       "exercise": {
         "id": "ex-free-mindset",
+        "stable_id": "ex-ms942qor0bhhv",
         "type": "free_text",
         "prompt": "Wie heißt (nach Dweck) das Selbstbild, das Fähigkeit als durch Anstrengung und Übung veränderbar ansieht?",
         "card_ids": ["mindset"],
@@ -243,6 +261,7 @@
       "title": "Den Lernzyklus zusammensetzen",
       "exercise": {
         "id": "ex-tiles-zimmerman",
+        "stable_id": "ex-ms942qor0bily",
         "type": "word_tiles",
         "prompt": "Setze die drei Phasen des zyklischen Modells (Zimmerman) in der richtigen Reihenfolge zusammen.",
         "card_ids": ["zimmerman-zyklus"],
@@ -258,6 +277,7 @@
       "title": "Lernstrategien einordnen",
       "exercise": {
         "id": "ex-match-strategien",
+        "stable_id": "ex-ms942qor0bjfr",
         "type": "matching",
         "prompt": "Ordne jeder Strategieart ihre Funktion zu.",
         "card_ids": ["lernstrategien"],
@@ -276,6 +296,7 @@
       "title": "Zutrauen in die eigene Kraft",
       "exercise": {
         "id": "ex-cloze-selbstwirksamkeit",
+        "stable_id": "ex-ms942qor0bkg5",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff (nach Bandura) für das Zutrauen, eine Aufgabe selbst bewältigen zu können.",
         "card_ids": ["selbstwirksamkeit"],

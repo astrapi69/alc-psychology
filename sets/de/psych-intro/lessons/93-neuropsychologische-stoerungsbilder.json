@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "stoerungsbild-def",
+      "stable_id": "card-ms942qqb1onu5",
       "front": "Neuropsychologisches Störungsbild",
       "back": "Muster aus Funktionsausfällen, das nach einer erworbenen Hirnschädigung (z. B. Schlaganfall, Schädel-Hirn-Trauma) auftreten kann. Charakteristisch ist, dass bestimmte Leistungen gestört sind, während andere erhalten bleiben.",
       "notes": "Wichtig: Ein Störungsbild beschreibt einen Funktionsausfall, es definiert nicht den Wert eines Menschen. Englisch: neuropsychological syndrome.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "aphasie",
+      "stable_id": "card-ms942qqb1oou2",
       "front": "Aphasie",
       "back": "Erworbene Störung der Sprache nach Hirnschädigung, die das Sprechen, Verstehen, Lesen oder Schreiben betreffen kann. Die allgemeine Sprachfähigkeit ist beeinträchtigt, nicht die Intelligenz an sich.",
       "notes": "Tritt meist nach Schädigung der sprachdominanten (oft linken) Hemisphäre auf. Englisch: aphasia.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "broca-aphasie",
+      "stable_id": "card-ms942qqb1opsm",
       "front": "Broca-Aphasie",
       "back": "Nicht-flüssige Aphasie: Die Sprachproduktion ist stark erschwert, das Sprechen wirkt mühevoll und abgehackt (oft im Telegrammstil). Das Sprachverständnis ist vergleichsweise besser erhalten. Betroffene merken die Schwierigkeit häufig.",
       "notes": "Auch motorische bzw. expressive Aphasie genannt; Schädigung im Bereich des Broca-Areals (frontal). Englisch: Broca's aphasia.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "wernicke-aphasie",
+      "stable_id": "card-ms942qqb1oqh2",
       "front": "Wernicke-Aphasie",
       "back": "Flüssige Aphasie: Das Sprechen läuft flüssig, ist aber inhaltlich oft schwer verständlich (falsche oder erfundene Wörter). Vor allem das Sprachverständnis ist deutlich gestört.",
       "notes": "Auch sensorische bzw. rezeptive Aphasie genannt; Schädigung im Bereich des Wernicke-Areals (temporal). Englisch: Wernicke's aphasia.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "broca-vs-wernicke",
+      "stable_id": "card-ms942qqb1orux",
       "front": "Broca vs. Wernicke (Abgrenzung)",
       "back": "Faustregel: Broca-Aphasie ist nicht-flüssig mit gestörter Sprachproduktion bei besser erhaltenem Verständnis; Wernicke-Aphasie ist flüssig mit deutlich gestörtem Sprachverständnis. Beide sind in der Praxis nicht immer reine Formen.",
       "notes": "Merkhilfe: Broca = Produktion (front), Wernicke = Verständnis (hinten/temporal).",
@@ -54,6 +59,7 @@
     },
     {
       "id": "apraxie",
+      "stable_id": "card-ms942qqb1osh1",
       "front": "Apraxie",
       "back": "Störung der Planung und Ausführung zielgerichteter Handlungen, obwohl Beweglichkeit, Kraft und Koordination grundsätzlich erhalten sind. Vertraute Bewegungsabläufe (z. B. eine Geste oder den Umgang mit einem Gegenstand) auf Aufforderung auszuführen, fällt schwer.",
       "notes": "Nicht durch Lähmung oder Verständnisprobleme erklärbar, sondern eine Störung der Handlungsplanung. Englisch: apraxia.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "agnosie",
+      "stable_id": "card-ms942qqb1otbz",
       "front": "Agnosie",
       "back": "Störung des Erkennens von Reizen, obwohl die Sinnesorgane intakt sind und der Reiz wahrgenommen wird. Das Gesehene, Gehörte oder Getastete kann nicht zu einer Bedeutung zugeordnet werden.",
       "notes": "Wörtlich (aus dem Griechischen) Nicht-Erkennen. Englisch: agnosia.",
@@ -72,6 +79,7 @@
     },
     {
       "id": "visuelle-agnosie",
+      "stable_id": "card-ms942qqb1ou3d",
       "front": "Visuelle Agnosie",
       "back": "Form der Agnosie, bei der Objekte zwar gesehen, aber nicht als das erkannt werden, was sie sind, obwohl das Sehen selbst erhalten ist. Über andere Sinne (z. B. Tasten) gelingt die Erkennung oft trotzdem.",
       "notes": "Beispiel für eine modalitätsspezifische Erkennensstörung. Englisch: visual agnosia.",
@@ -81,6 +89,7 @@
     },
     {
       "id": "prosopagnosie",
+      "stable_id": "card-ms942qqb1ovkw",
       "front": "Prosopagnosie",
       "back": "Spezifische Störung des Erkennens von Gesichtern: Vertraute Personen können nicht mehr am Gesicht identifiziert werden, obwohl das Sehen intakt ist. Die Erkennung gelingt oft über andere Hinweise wie Stimme, Gang oder Kleidung.",
       "notes": "Auch Gesichtsblindheit genannt; eine Unterform der visuellen Agnosie. Englisch: prosopagnosia.",
@@ -90,6 +99,7 @@
     },
     {
       "id": "neglect",
+      "stable_id": "card-ms942qqb1owu8",
       "front": "Neglect",
       "back": "Halbseitige Vernachlässigung: Eine Raumhälfte (und oft die eigene Körperhälfte) wird nicht beachtet, obwohl die Sinnesorgane funktionieren. Betroffene übersehen z. B. Reize auf der vernachlässigten Seite, ohne es selbst zu bemerken.",
       "notes": "Meist nach rechtshemisphärischer Schädigung, dann Vernachlässigung der linken Seite. Englisch: (hemi)neglect.",
@@ -99,6 +109,7 @@
     },
     {
       "id": "alexie",
+      "stable_id": "card-ms942qqb1oxjd",
       "front": "Alexie",
       "back": "Erworbene Störung des Lesens nach Hirnschädigung: Das Lesen von Wörtern oder Texten ist beeinträchtigt oder nicht mehr möglich, obwohl Lesen zuvor beherrscht wurde.",
       "notes": "Abzugrenzen von einer Lese-Rechtschreib-Störung in der Entwicklung (Legasthenie). Englisch: alexia.",
@@ -108,6 +119,7 @@
     },
     {
       "id": "agrafie",
+      "stable_id": "card-ms942qqb1oyoj",
       "front": "Agrafie",
       "back": "Erworbene Störung des Schreibens nach Hirnschädigung: Das Schreiben von Wörtern ist beeinträchtigt oder nicht mehr möglich, unabhängig von einer reinen Bewegungsstörung der Hand.",
       "notes": "Tritt häufig zusammen mit Aphasie oder Alexie auf. Englisch: agraphia.",
@@ -142,6 +154,7 @@
       "title": "Störungsbilder zuordnen",
       "exercise": {
         "id": "ex-match-stoerungen",
+        "stable_id": "ex-ms942qqb1ozzu",
         "type": "matching",
         "prompt": "Ordne jedem Störungsbild die passende Kurzbeschreibung zu.",
         "card_ids": ["aphasie", "apraxie", "agnosie", "neglect"],
@@ -161,6 +174,7 @@
       "title": "Gesichter erkennen",
       "exercise": {
         "id": "ex-free-prosopagnosie",
+        "stable_id": "ex-ms942qqb1p0oc",
         "type": "free_text",
         "prompt": "Wie heißt die spezifische Störung, bei der vertraute Personen nicht mehr am Gesicht erkannt werden, obwohl das Sehen intakt ist?",
         "card_ids": ["prosopagnosie"],
@@ -177,6 +191,7 @@
       "title": "Die vernachlässigte Seite",
       "exercise": {
         "id": "ex-cloze-neglect",
+        "stable_id": "ex-ms942qqb1p1u3",
         "type": "cloze",
         "prompt": "Ergänze die Aussage zur typischen Lage der Schädigung beim Neglect.",
         "card_ids": ["neglect"],
@@ -193,6 +208,7 @@
       "title": "Handlung trotz erhaltener Motorik",
       "exercise": {
         "id": "ex-free-apraxie",
+        "stable_id": "ex-ms942qqb1p2d0",
         "type": "free_text",
         "prompt": "Wie heißt die Störung der Handlungsplanung, bei der zielgerichtete Bewegungen misslingen, obwohl Kraft und Beweglichkeit erhalten sind?",
         "card_ids": ["apraxie"],
@@ -209,6 +225,7 @@
       "title": "Broca-Aphasie kennzeichnen",
       "exercise": {
         "id": "ex-cloze-broca",
+        "stable_id": "ex-ms942qqb1p32m",
         "type": "cloze",
         "prompt": "Ergänze das Kennzeichen der Broca-Aphasie.",
         "card_ids": ["broca-aphasie", "broca-vs-wernicke"],
@@ -225,6 +242,7 @@
       "title": "Broca vs. Wernicke",
       "exercise": {
         "id": "ex-match-aphasieformen",
+        "stable_id": "ex-ms942qqb1p4z8",
         "type": "matching",
         "prompt": "Ordne jeder Aphasieform und verwandten Störung das richtige Merkmal zu.",
         "card_ids": ["broca-aphasie", "wernicke-aphasie", "alexie", "agrafie"],
@@ -244,6 +262,7 @@
       "title": "Erkennen trotz intakter Sinne",
       "exercise": {
         "id": "ex-free-agnosie",
+        "stable_id": "ex-ms942qqb1p5eu",
         "type": "free_text",
         "prompt": "Wie heißt die Störung des Erkennens, bei der ein Reiz wahrgenommen, aber nicht als das erkannt wird, was er ist — obwohl die Sinnesorgane intakt sind?",
         "card_ids": ["agnosie", "visuelle-agnosie"],
@@ -260,6 +279,7 @@
       "title": "Wernicke-Aphasie zusammensetzen",
       "exercise": {
         "id": "ex-tiles-wernicke",
+        "stable_id": "ex-ms942qqb1p66y",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zur Wernicke-Aphasie zusammen.",
         "card_ids": ["wernicke-aphasie", "broca-vs-wernicke"],

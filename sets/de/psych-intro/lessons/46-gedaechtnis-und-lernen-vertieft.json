@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "mehrspeichermodell",
+      "stable_id": "card-ms942qpj0zmv5",
       "front": "Mehrspeichermodell (Atkinson & Shiffrin)",
       "back": "Modell, das Gedächtnis in drei Stufen gliedert: sensorisches Register, Kurzzeitgedächtnis und Langzeitgedächtnis.",
       "notes": "Vertieft das Gedächtnis aus Lektion 3. Auch 'Modalmodell' genannt.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "sensorisches-register",
+      "stable_id": "card-ms942qpj0znd1",
       "front": "Sensorisches Register (Ultrakurzzeitgedächtnis)",
       "back": "Hält Sinneseindrücke für Sekundenbruchteile sehr originalgetreu, bevor sie verblassen oder weiterverarbeitet werden.",
       "notes": "Visuell: ikonisches Gedächtnis; akustisch: echoisches Gedächtnis.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "arbeitsgedaechtnis",
+      "stable_id": "card-ms942qpj0zorx",
       "front": "Arbeitsgedächtnis (Baddeley)",
       "back": "Erweiterung des Kurzzeitgedächtnisses: ein aktives System, das Informationen kurzfristig hält UND verarbeitet.",
       "notes": "Komponenten u. a.: phonologische Schleife, visuell-räumlicher Notizblock, zentrale Exekutive.",
@@ -37,6 +40,7 @@
     },
     {
       "id": "chunking",
+      "stable_id": "card-ms942qpj0zp0v",
       "front": "Chunking (Bündelung)",
       "back": "Das Zusammenfassen einzelner Einheiten zu größeren, sinnvollen Blöcken, um die Kapazität des Kurzzeitgedächtnisses besser zu nutzen.",
       "notes": "Faustregel: das Kurzzeitgedächtnis fasst etwa 7 ± 2 Einheiten (Miller).",
@@ -46,6 +50,7 @@
     },
     {
       "id": "verarbeitungstiefe",
+      "stable_id": "card-ms942qpj0zq3l",
       "front": "Verarbeitungstiefe (Levels of Processing)",
       "back": "Je tiefer (bedeutungsbezogen) Information verarbeitet wird, desto besser wird sie behalten — semantisch schlägt oberflächlich.",
       "notes": "Craik & Lockhart. Bedeutung verarbeiten > Klang > Aussehen.",
@@ -55,6 +60,7 @@
     },
     {
       "id": "vergessenskurve",
+      "stable_id": "card-ms942qpj0zrah",
       "front": "Vergessenskurve (Ebbinghaus)",
       "back": "Befund, dass frisch Gelerntes anfangs rasch und dann immer langsamer vergessen wird.",
       "notes": "Hermann Ebbinghaus, Pionier der experimentellen Gedächtnisforschung.",
@@ -64,6 +70,7 @@
     },
     {
       "id": "verteiltes-lernen",
+      "stable_id": "card-ms942qpj0zs96",
       "front": "Verteiltes Lernen (Spacing-Effekt)",
       "back": "Über mehrere Sitzungen verteiltes Lernen führt zu besserem Behalten als massiertes Lernen (Bulimielernen) am Stück.",
       "media_type": "text",
@@ -73,6 +80,7 @@
     },
     {
       "id": "interferenz",
+      "stable_id": "card-ms942qpj0ztfh",
       "front": "Interferenz",
       "back": "Vergessen durch Störung: Gedächtnisinhalte behindern einander. Proaktiv = Altes stört Neues; retroaktiv = Neues stört Altes.",
       "media_type": "text",
@@ -81,6 +89,7 @@
     },
     {
       "id": "abrufhinweis",
+      "stable_id": "card-ms942qpj0zuah",
       "front": "Abrufhinweis (Retrieval Cue)",
       "back": "Ein Reiz, der den Zugang zu einer gespeicherten Erinnerung erleichtert. Passende Hinweise verbessern den Abruf.",
       "notes": "Grundlage des kontextabhängigen Gedächtnisses.",
@@ -90,6 +99,7 @@
     },
     {
       "id": "false-memory",
+      "stable_id": "card-ms942qpj0zvn1",
       "front": "Falsche Erinnerung (False Memory)",
       "back": "Eine Erinnerung an ein Ereignis, das so nie stattgefunden hat. Erinnern ist rekonstruktiv, nicht wie eine Videoaufnahme.",
       "notes": "Forschung von Elizabeth Loftus zu suggestiven Fragen und Augenzeugenaussagen.",
@@ -99,6 +109,7 @@
     },
     {
       "id": "misinformationseffekt",
+      "stable_id": "card-ms942qpj0zwvj",
       "front": "Misinformationseffekt",
       "back": "Nachträgliche, irreführende Informationen verändern die Erinnerung an ein Ereignis.",
       "notes": "Loftus: Die Wortwahl einer Frage kann Augenzeugenaussagen verzerren.",
@@ -108,6 +119,7 @@
     },
     {
       "id": "prozedural-deklarativ",
+      "stable_id": "card-ms942qpj0zxk2",
       "front": "Deklaratives vs. prozedurales Gedächtnis",
       "back": "Deklarativ = bewusst abrufbares Wissen (Fakten, Ereignisse); prozedural = Fertigkeiten und Abläufe (z. B. Fahrradfahren).",
       "notes": "Deklarativ gliedert sich in semantisch (Fakten) und episodisch (Erlebnisse).",
@@ -142,6 +154,7 @@
       "title": "Die drei Speicher",
       "exercise": {
         "id": "ex-match-speicher",
+        "stable_id": "ex-ms942qpj0zyx9",
         "type": "matching",
         "prompt": "Ordne jedem Speicher seine Kennzeichnung zu.",
         "card_ids": ["sensorisches-register", "mehrspeichermodell", "arbeitsgedaechtnis"],
@@ -160,6 +173,7 @@
       "title": "Kapazität besser nutzen",
       "exercise": {
         "id": "ex-cloze-chunking",
+        "stable_id": "ex-ms942qpj0zzs1",
         "type": "cloze",
         "prompt": "Ergänze den Begriff für das Bündeln zu größeren Blöcken.",
         "card_ids": ["chunking"],
@@ -178,6 +192,7 @@
       "title": "Tief schlägt oberflächlich",
       "exercise": {
         "id": "ex-free-verarbeitungstiefe",
+        "stable_id": "ex-ms942qpj100xr",
         "type": "free_text",
         "prompt": "Wie nennt man das Prinzip, dass bedeutungsbezogenes (tiefes) Verarbeiten besser behalten wird als oberflächliches?",
         "card_ids": ["verarbeitungstiefe"],
@@ -194,6 +209,7 @@
       "title": "Vergessen und Verzerrung",
       "exercise": {
         "id": "ex-match-vergessen",
+        "stable_id": "ex-ms942qpj101f1",
         "type": "matching",
         "prompt": "Ordne jedem Begriff seine Beschreibung zu.",
         "card_ids": ["vergessenskurve", "interferenz", "misinformationseffekt", "verteiltes-lernen"],
@@ -213,6 +229,7 @@
       "title": "Erinnerung ist rekonstruktiv",
       "exercise": {
         "id": "ex-free-loftus",
+        "stable_id": "ex-ms942qpj1023e",
         "type": "free_text",
         "prompt": "Wie heißt eine Erinnerung an ein Ereignis, das so nie stattgefunden hat (erforscht von Loftus)?",
         "card_ids": ["false-memory"],
@@ -229,6 +246,7 @@
       "title": "Wenn Neues Altes überschreibt",
       "exercise": {
         "id": "ex-cloze-interferenz",
+        "stable_id": "ex-ms942qpj1036j",
         "type": "cloze",
         "prompt": "Ergänze die Art der Interferenz, bei der Neues das Alte stört.",
         "card_ids": ["interferenz"],
@@ -247,6 +265,7 @@
       "title": "Zwei Gedächtnisarten",
       "exercise": {
         "id": "ex-tiles-deklarativ",
+        "stable_id": "ex-ms942qpj104ec",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zum prozeduralen Gedächtnis zusammen.",
         "card_ids": ["prozedural-deklarativ"],

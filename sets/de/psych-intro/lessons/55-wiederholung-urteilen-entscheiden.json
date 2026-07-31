@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "verfuegbarkeitsheuristik-recap",
+      "stable_id": "card-ms942qpp14gr5",
       "front": "Verfügbarkeitsheuristik (Availability Heuristic)",
       "back": "Wir schätzen die Häufigkeit eines Ereignisses danach, wie leicht uns Beispiele dafür einfallen. Spektakuläres wird überschätzt.",
       "notes": "Kernbegriff aus Lektion 51.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "ankerheuristik-recap",
+      "stable_id": "card-ms942qpp14hay",
       "front": "Ankerheuristik (Anchoring)",
       "back": "Eine zuerst genannte Zahl (der Anker) beeinflusst die nachfolgende Schätzung — selbst wenn sie willkürlich ist.",
       "notes": "Kernbegriff aus Lektion 51.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "hindsight-bias-recap",
+      "stable_id": "card-ms942qpp14ihd",
       "front": "Rückschaufehler (Hindsight Bias)",
       "back": "Im Nachhinein erscheint ein Ereignis vorhersehbarer, als es vorher war. ('Ich hab's ja gewusst.')",
       "notes": "Kernbegriff aus Lektion 51.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "system1-recap",
+      "stable_id": "card-ms942qpp14ju4",
       "front": "System 1 (schnell, intuitiv)",
       "back": "Das schnelle, automatische und emotionale Denksystem. Urteilt mühelos, ist aber fehleranfällig.",
       "notes": "Kernbegriff aus Lektion 52 (Dual-Process-Theorie nach Kahneman).",
@@ -45,6 +49,7 @@
     },
     {
       "id": "system2-recap",
+      "stable_id": "card-ms942qpp14k7u",
       "front": "System 2 (langsam, analytisch)",
       "back": "Das langsame, bewusste und anstrengende Denksystem. Kann System-1-Fehler korrigieren, wird aber aus Bequemlichkeit oft übergangen.",
       "notes": "Kernbegriff aus Lektion 52; Stichwort: kognitiver Geizhals.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "kognitiver-geizhals",
+      "stable_id": "card-ms942qpp14lnw",
       "front": "Kognitiver Geizhals (Cognitive Miser)",
       "back": "Der Mensch neigt dazu, geistige Anstrengung zu vermeiden und verlässt sich lieber auf das schnelle System 1 als auf das aufwändige System 2.",
       "notes": "Begriff aus Lektion 52; erklärt, warum Heuristiken so häufig benutzt werden.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "verlustaversion-recap",
+      "stable_id": "card-ms942qpp14mng",
       "front": "Verlustaversion (Loss Aversion)",
       "back": "Verluste schmerzen psychologisch stärker als gleichgroße Gewinne erfreuen. Kern der Prospect Theory (Kahneman/Tversky).",
       "notes": "Kernbegriff aus Lektion 53.",
@@ -72,6 +79,7 @@
     },
     {
       "id": "framing-effekt-recap",
+      "stable_id": "card-ms942qpp14ny1",
       "front": "Framing-Effekt (Framing Effect)",
       "back": "Wie eine Information sprachlich verpackt wird (als Gewinn oder Verlust), beeinflusst die Entscheidung — obwohl der sachliche Inhalt identisch ist.",
       "notes": "Kernbegriff aus Lektion 53.",
@@ -81,6 +89,7 @@
     },
     {
       "id": "nudge-recap",
+      "stable_id": "card-ms942qpp14o0a",
       "front": "Nudge (Stupser)",
       "back": "Ein sanfter Anreiz, der Menschen zu einer bestimmten Entscheidung lenkt, ohne Verbote oder finanzielle Anreize. Konzept von Thaler und Sunstein.",
       "notes": "Kernbegriff aus Lektion 54.",
@@ -90,6 +99,7 @@
     },
     {
       "id": "default-effekt-recap",
+      "stable_id": "card-ms942qpp14p5d",
       "front": "Default-Effekt (Default Effect)",
       "back": "Menschen neigen dazu, die voreingestellte Option (den Standard) beizubehalten. Voreinstellungen sind deshalb ein mächtiges Nudge-Werkzeug.",
       "notes": "Kernbegriff aus Lektion 54.",
@@ -99,6 +109,7 @@
     },
     {
       "id": "sunk-cost-fehler-recap",
+      "stable_id": "card-ms942qpp14qzm",
       "front": "Sunk-Cost-Fehler (Sunk Cost Fallacy)",
       "back": "Bereits versunkene (nicht mehr rückholbare) Kosten werden in Entscheidungen einbezogen, obwohl sie rational irrelevant sind.",
       "notes": "Kernbegriff aus Lektion 54.",
@@ -108,6 +119,7 @@
     },
     {
       "id": "prospect-theory-recap",
+      "stable_id": "card-ms942qpp14r4a",
       "front": "Prospect Theory (Neue Erwartungstheorie)",
       "back": "Kahneman und Tverskys Theorie: Menschen bewerten Ergebnisse relativ zu einem Referenzpunkt, gewichten Verluste stärker als Gewinne und sind risikoscheu bei Gewinnen, risikofreudig bei Verlusten.",
       "notes": "Kernbegriff aus Lektion 53; Grundlage der Verhaltensökonomie.",
@@ -142,6 +154,7 @@
       "title": "Begriff und Lektion zuordnen",
       "exercise": {
         "id": "ex-match-lektionen",
+        "stable_id": "ex-ms942qpp14sla",
         "type": "matching",
         "prompt": "Ordne jedem Begriff seine Herkunftslektion (Themenblock) zu.",
         "card_ids": ["verfuegbarkeitsheuristik-recap", "system1-recap", "verlustaversion-recap", "nudge-recap"],
@@ -161,6 +174,7 @@
       "title": "Verluste schmerzen mehr",
       "exercise": {
         "id": "ex-cloze-verlustaversion",
+        "stable_id": "ex-ms942qpp14twr",
         "type": "cloze",
         "prompt": "Ergänze den zentralen Begriff der Prospect Theory, der beschreibt, dass Verluste stärker wiegen als gleich große Gewinne.",
         "card_ids": ["verlustaversion-recap", "prospect-theory-recap"],
@@ -179,6 +193,7 @@
       "title": "System 1 oder System 2?",
       "exercise": {
         "id": "ex-free-systeme",
+        "stable_id": "ex-ms942qpp14u6e",
         "type": "free_text",
         "prompt": "Wie nennt Kahneman das schnelle, automatische und intuitive Denksystem?",
         "card_ids": ["system1-recap"],
@@ -195,6 +210,7 @@
       "title": "Entscheidungsfehler erkennen",
       "exercise": {
         "id": "ex-match-fehler-definitionen",
+        "stable_id": "ex-ms942qpp14vlr",
         "type": "matching",
         "prompt": "Ordne jedem Fehler seine Kurzdefinition zu.",
         "card_ids": ["hindsight-bias-recap", "sunk-cost-fehler-recap", "framing-effekt-recap"],
@@ -213,6 +229,7 @@
       "title": "Was ist ein Nudge?",
       "exercise": {
         "id": "ex-tiles-nudge",
+        "stable_id": "ex-ms942qpp14wnz",
         "type": "word_tiles",
         "prompt": "Setze die Kurzdefinition eines Nudge zusammen.",
         "card_ids": ["nudge-recap"],
@@ -228,6 +245,7 @@
       "title": "Die Kraft der Voreinstellung",
       "exercise": {
         "id": "ex-free-default",
+        "stable_id": "ex-ms942qpp14xfl",
         "type": "free_text",
         "prompt": "Wie heißt der Effekt, bei dem Menschen dazu neigen, die voreingestellte Option beizubehalten?",
         "card_ids": ["default-effekt-recap"],
@@ -244,6 +262,7 @@
       "title": "Sparsam denken",
       "exercise": {
         "id": "ex-cloze-kognitiver-geizhals",
+        "stable_id": "ex-ms942qpp14y24",
         "type": "cloze",
         "prompt": "Ergänze den Begriff, der beschreibt, dass Menschen geistige Anstrengung vermeiden und System 1 bevorzugen.",
         "card_ids": ["kognitiver-geizhals", "system2-recap"],

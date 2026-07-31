@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "empirische-methode",
+      "stable_id": "card-ms942qp50m9sx",
       "front": "Empirische Methode (Empirical Method)",
       "back": "Der Weg, Erkenntnisse durch systematische Beobachtung und Experiment zu gewinnen — statt durch bloßes Nachdenken oder Autorität.",
       "notes": "In Lektion 1 hast du gesehen, dass die Psychologie mit Wundt zur empirischen Wissenschaft wurde. Hier vertiefen wir, *wie* sie arbeitet.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "hypothese",
+      "stable_id": "card-ms942qp50malj",
       "front": "Hypothese (Hypothesis)",
       "back": "Eine präzise, überprüfbare Vermutung über einen Zusammenhang — oft in der Form 'Wenn …, dann …'.",
       "notes": "Eine Hypothese muss sich grundsätzlich widerlegen lassen (Falsifizierbarkeit).",
@@ -28,6 +30,7 @@
     },
     {
       "id": "theorie",
+      "stable_id": "card-ms942qp50mbjy",
       "front": "Theorie (Theory)",
       "back": "Ein durch viele Befunde gestütztes Erklärungssystem, das Zusammenhänge ordnet und neue Vorhersagen erlaubt.",
       "notes": "Eine Theorie ist mehr als eine einzelne Hypothese — sie fasst viele bestätigte Annahmen zusammen.",
@@ -37,6 +40,7 @@
     },
     {
       "id": "variable",
+      "stable_id": "card-ms942qp50mcwe",
       "front": "Variable",
       "back": "Ein Merkmal, das verschiedene Werte annehmen kann (z. B. Alter, Reaktionszeit, Stimmung).",
       "media_type": "text",
@@ -45,6 +49,7 @@
     },
     {
       "id": "unabhaengige-variable",
+      "stable_id": "card-ms942qp50mdnd",
       "front": "Unabhängige Variable (UV)",
       "back": "Die Variable, die die Forscherin gezielt verändert oder manipuliert — die vermutete Ursache.",
       "notes": "Merkhilfe: Die UV ist *unabhängig* davon, was die Versuchsperson tut — sie wird vorgegeben.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "abhaengige-variable",
+      "stable_id": "card-ms942qp50me7j",
       "front": "Abhängige Variable (AV)",
       "back": "Die Variable, die gemessen wird — die vermutete Wirkung. Sie hängt (vermutlich) von der UV ab.",
       "notes": "Beispiel: UV = Schlafdauer, AV = Konzentrationsleistung.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "konstrukt",
+      "stable_id": "card-ms942qp50mfjb",
       "front": "Konstrukt (Construct)",
       "back": "Ein nicht direkt beobachtbares Merkmal, das man theoretisch annimmt — z. B. Intelligenz, Angst oder Motivation.",
       "media_type": "text",
@@ -71,6 +78,7 @@
     },
     {
       "id": "operationalisierung",
+      "stable_id": "card-ms942qp50mgrh",
       "front": "Operationalisierung",
       "back": "Ein abstraktes Konstrukt messbar machen, indem man es durch konkrete, beobachtbare Indikatoren festlegt.",
       "notes": "Beispiel: 'Stress' operationalisiert man etwa über den Cortisolwert oder einen Fragebogenwert.",
@@ -81,6 +89,7 @@
     },
     {
       "id": "population-stichprobe",
+      "stable_id": "card-ms942qp50mh2h",
       "front": "Population und Stichprobe",
       "back": "Population = alle Fälle, über die man etwas aussagen will; Stichprobe = die tatsächlich untersuchte Teilmenge daraus.",
       "media_type": "text",
@@ -89,6 +98,7 @@
     },
     {
       "id": "repraesentativitaet",
+      "stable_id": "card-ms942qp50migw",
       "front": "Repräsentativität",
       "back": "Eine Stichprobe ist repräsentativ, wenn sie die Population in wichtigen Merkmalen getreu widerspiegelt.",
       "notes": "Nur dann darf man von der Stichprobe auf die Population schließen.",
@@ -98,6 +108,7 @@
     },
     {
       "id": "quantitativ-qualitativ",
+      "stable_id": "card-ms942qp50mjxs",
       "front": "Quantitativ vs. qualitativ",
       "back": "Quantitative Forschung arbeitet mit Zahlen und Messung; qualitative Forschung untersucht Bedeutung, Erleben und Sprache.",
       "media_type": "text",
@@ -106,6 +117,7 @@
     },
     {
       "id": "replikation",
+      "stable_id": "card-ms942qp50mkbs",
       "front": "Replikation (Replication)",
       "back": "Die Wiederholung einer Studie, um zu prüfen, ob das Ergebnis stabil und verlässlich ist.",
       "notes": "Replizierbarkeit gilt als Qualitätsmerkmal wissenschaftlicher Befunde.",
@@ -140,6 +152,7 @@
       "title": "Wie Psychologie zu Wissen kommt",
       "exercise": {
         "id": "ex-cloze-empirisch",
+        "stable_id": "ex-ms942qp50mlvt",
         "type": "cloze",
         "prompt": "Ergänze das Adjektiv für die wissenschaftliche Vorgehensweise durch Beobachtung und Experiment.",
         "card_ids": ["empirische-methode"],
@@ -158,6 +171,7 @@
       "title": "Grundbegriffe der Messung",
       "exercise": {
         "id": "ex-match-variablen",
+        "stable_id": "ex-ms942qp50mmqo",
         "type": "matching",
         "prompt": "Ordne jedem Begriff seine Bedeutung zu.",
         "card_ids": ["unabhaengige-variable", "abhaengige-variable", "konstrukt", "operationalisierung"],
@@ -177,6 +191,7 @@
       "title": "Die überprüfbare Vermutung",
       "exercise": {
         "id": "ex-free-hypothese",
+        "stable_id": "ex-ms942qp50mnpd",
         "type": "free_text",
         "prompt": "Wie heißt eine präzise, überprüfbare Vermutung über einen Zusammenhang?",
         "card_ids": ["hypothese"],
@@ -193,6 +208,7 @@
       "title": "Von der Stichprobe zur Population",
       "exercise": {
         "id": "ex-match-stichprobe",
+        "stable_id": "ex-ms942qp50moce",
         "type": "matching",
         "prompt": "Ordne jeden Begriff seiner Bedeutung zu.",
         "card_ids": ["population-stichprobe", "repraesentativitaet", "replikation"],
@@ -212,6 +228,7 @@
       "title": "Ein Konstrukt messbar machen",
       "exercise": {
         "id": "ex-cloze-operationalisieren",
+        "stable_id": "ex-ms942qp50mpc9",
         "type": "cloze",
         "prompt": "Ergänze das Verb dafür, ein Konstrukt messbar zu machen.",
         "card_ids": ["operationalisierung", "konstrukt"],
@@ -230,6 +247,7 @@
       "title": "Die manipulierte Variable",
       "exercise": {
         "id": "ex-free-uv",
+        "stable_id": "ex-ms942qp50mq7m",
         "type": "free_text",
         "prompt": "Welche Variable verändert die Forscherin gezielt (die vermutete Ursache)?",
         "card_ids": ["unabhaengige-variable"],
@@ -246,6 +264,7 @@
       "title": "Was eine Hypothese können muss",
       "exercise": {
         "id": "ex-tiles-hypothese",
+        "stable_id": "ex-ms942qp50mrsg",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zur Hypothese zusammen.",
         "card_ids": ["hypothese"],

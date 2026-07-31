@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "zwei-faktoren-theorie",
+      "stable_id": "card-ms942qpd0tpz0",
       "front": "Zwei-Faktoren-Theorie (Two-Factor Theory) — Schachter & Singer",
       "back": "Emotionen entstehen aus zwei Zutaten: körperlicher Erregung (Arousal) UND kognitiver Bewertung (Attribution). Dieselbe Erregung führt je nach Situation zu Freude oder Ärger.",
       "notes": "Auch Schachter-Singer-Theorie genannt. Klassisches Adrenalin-Experiment (1962).",
@@ -19,6 +20,7 @@
     },
     {
       "id": "basisemotionen-ekman",
+      "stable_id": "card-ms942qpd0tqxk",
       "front": "Basisemotionen (Basic Emotions) — Ekman",
       "back": "Paul Ekman identifizierte sechs kulturübergreifende Grundemotionen: Freude, Trauer, Wut, Angst, Ekel und Überraschung — erkennbar an universellen Gesichtsausdrücken.",
       "media_type": "text",
@@ -27,6 +29,7 @@
     },
     {
       "id": "facial-feedback",
+      "stable_id": "card-ms942qpd0tre1",
       "front": "Facial-Feedback-Hypothese",
       "back": "Gesichtsausdrücke beeinflussen das subjektive Gefühlserleben: Wer lächelt, fühlt sich etwas besser — der Körper sendet Signale ans Gehirn zurück.",
       "notes": "Klassisch demonstriert mit dem Stift-im-Mund-Experiment von Strack.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "cocktailparty-effekt",
+      "stable_id": "card-ms942qpd0tsig",
       "front": "Cocktailparty-Effekt (Cocktail Party Effect)",
       "back": "Selbst bei lautem Umgebungslärm kann man das eigene Namenssignal aus dem Hintergrundrauschen herausfiltern — ein Beispiel für selektive Aufmerksamkeit (Selective Attention).",
       "media_type": "text",
@@ -44,6 +48,7 @@
     },
     {
       "id": "funktionale-gebundenheit",
+      "stable_id": "card-ms942qpd0ttq0",
       "front": "Funktionale Gebundenheit (Functional Fixedness)",
       "back": "Die Tendenz, Gegenstände nur in ihrer üblichen Funktion zu sehen — dies hemmt kreatives Problemlösen und Einsicht (Insight).",
       "notes": "Klassisches Beispiel: Duncker-Kerzenaufgabe.",
@@ -53,6 +58,7 @@
     },
     {
       "id": "kognitive-dissonanz",
+      "stable_id": "card-ms942qpd0tuww",
       "front": "Kognitive Dissonanz (Cognitive Dissonance) — Festinger",
       "back": "Unangenehme Spannung, wenn zwei Kognitionen (Gedanken, Überzeugungen, Handlungen) sich widersprechen. Menschen streben nach Auflösung — z. B. durch Einstellungsänderung.",
       "notes": "Leon Festinger (1957). Klassisches Experiment: 1-Dollar vs. 20-Dollar Bedingung.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "konformitaet-asch",
+      "stable_id": "card-ms942qpd0tvxl",
       "front": "Konformitätsexperiment — Asch",
       "back": "Solomon Asch zeigte: Menschen passen ihr Urteil (z. B. Linienlänge) an die Mehrheit an, selbst wenn die Mehrheit offensichtlich falsch liegt — sozialer Druck erzeugt Konformität (Conformity).",
       "media_type": "text",
@@ -71,6 +78,7 @@
     },
     {
       "id": "gehorsam-milgram",
+      "stable_id": "card-ms942qpd0twek",
       "front": "Gehorsamkeitsstudie (Obedience Study) — Milgram",
       "back": "Stanley Milgram zeigte, dass die Mehrheit der Versuchspersonen auf Anweisung einer Autorität scheinbar starke Elektroschocks verabreichte — Gehorsam gegenüber Autorität kann moralische Hemmschwellen überwinden.",
       "media_type": "text",
@@ -79,6 +87,7 @@
     },
     {
       "id": "bystander-effekt",
+      "stable_id": "card-ms942qpd0txm3",
       "front": "Bystander-Effekt (Bystander Effect) / Zuschauereffekt",
       "back": "Je mehr Personen anwesend sind, desto unwahrscheinlicher greift jeder Einzelne bei einem Notfall ein — Verantwortung diffundiert in der Gruppe (Verantwortungsdiffusion).",
       "notes": "Ausgelöst durch den Fall Kitty Genovese; untersucht von Latané & Darley.",
@@ -88,6 +97,7 @@
     },
     {
       "id": "bindungstypen-ainsworth",
+      "stable_id": "card-ms942qpd0ty8i",
       "front": "Bindungstypen — Ainsworth (Attachment Types)",
       "back": "Mary Ainsworth unterschied: sicher gebunden (secure), unsicher-vermeidend (anxious-avoidant) und unsicher-ambivalent (anxious-ambivalent). Sicher gebundene Kinder nutzen die Mutter als sicheren Hafen.",
       "notes": "Untersucht mit der Fremden Situation (Strange Situation). Bowlby lieferte die Bindungstheorie.",
@@ -98,6 +108,7 @@
     },
     {
       "id": "piaget-stufen",
+      "stable_id": "card-ms942qpd0tzw0",
       "front": "Piagets vier kognitive Stufen (Stages of Cognitive Development)",
       "back": "1. Sensomotorisch (0–2 J.): Objektpermanenz. 2. Präoperational (2–7 J.): symbolisches Denken, Egozentrismus. 3. Konkret-operational (7–11 J.): Konservierung. 4. Formal-operational (ab 12 J.): abstraktes Denken.",
       "media_type": "text",
@@ -106,6 +117,7 @@
     },
     {
       "id": "kohlberg-moralstufen",
+      "stable_id": "card-ms942qpd0u0ml",
       "front": "Kohlbergs moralische Entwicklungsstufen (Moral Development)",
       "back": "Drei Ebenen: Präkonventionell (Strafe/Belohnung), Konventionell (Normen/Gesetze), Postkonventionell (universelle Prinzipien). Die meisten Erwachsenen verbleiben auf der konventionellen Ebene.",
       "media_type": "text",
@@ -139,6 +151,7 @@
       "title": "Emotionstheorien zuordnen",
       "exercise": {
         "id": "ex-match-emotionstheorien",
+        "stable_id": "ex-ms942qpd0u1iv",
         "type": "matching",
         "prompt": "Ordne jede Emotionstheorie ihrer Kernaussage zu.",
         "card_ids": ["zwei-faktoren-theorie", "basisemotionen-ekman", "facial-feedback"],
@@ -157,6 +170,7 @@
       "title": "Cocktailparty-Effekt",
       "exercise": {
         "id": "ex-cloze-cocktailparty",
+        "stable_id": "ex-ms942qpd0u2bf",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff für das Phänomen, bei dem man den eigenen Namen aus dem Lärm heraushört.",
         "card_ids": ["cocktailparty-effekt"],
@@ -175,6 +189,7 @@
       "title": "Klassische Sozialpsychologie: Milgram und Asch",
       "exercise": {
         "id": "ex-free-milgram-asch",
+        "stable_id": "ex-ms942qpd0u3vh",
         "type": "free_text",
         "prompt": "Wie heißt das Phänomen, das Stanley Milgram untersuchte — also die Bereitschaft, Autorität zu folgen, selbst auf Kosten moralischer Überzeugungen?",
         "card_ids": ["gehorsam-milgram"],
@@ -191,6 +206,7 @@
       "title": "Entwicklungstheorien zuordnen",
       "exercise": {
         "id": "ex-match-entwicklung",
+        "stable_id": "ex-ms942qpd0u4rh",
         "type": "matching",
         "prompt": "Ordne jedem Theoretiker sein Modell zu.",
         "card_ids": ["bindungstypen-ainsworth", "piaget-stufen", "kohlberg-moralstufen"],
@@ -209,6 +225,7 @@
       "title": "Kognitive Dissonanz — Kerngedanke",
       "exercise": {
         "id": "ex-tiles-dissonanz",
+        "stable_id": "ex-ms942qpd0u58u",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zur kognitiven Dissonanz zusammen.",
         "card_ids": ["kognitive-dissonanz"],
@@ -224,6 +241,7 @@
       "title": "Bystander-Effekt und Piaget",
       "exercise": {
         "id": "ex-free-bystander-piaget",
+        "stable_id": "ex-ms942qpd0u6m2",
         "type": "free_text",
         "prompt": "Wie nennt man den Effekt, bei dem mehr Zuschauer in einem Notfall dazu führen, dass seltener geholfen wird?",
         "card_ids": ["bystander-effekt"],
@@ -240,6 +258,7 @@
       "title": "Funktionale Gebundenheit",
       "exercise": {
         "id": "ex-cloze-funktionale-gebundenheit",
+        "stable_id": "ex-ms942qpd0u7cq",
         "type": "cloze",
         "prompt": "Ergänze den Begriff für die Tendenz, Dinge nur in ihrer gewohnten Funktion zu sehen.",
         "card_ids": ["funktionale-gebundenheit"],
