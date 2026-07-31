@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "falsifikationismus",
+      "stable_id": "card-ms942qpf0vv02",
       "front": "Falsifikationismus (Falsificationism)",
       "back": "Poppers Kriterium für eine gute wissenschaftliche Theorie: Sie muss durch mögliche Befunde widerlegbar (falsifizierbar) sein — eine Theorie, die alles erklären kann, erklärt nichts.",
       "notes": "Verknüpft mit Lektion 21: Eine Hypothese muss grundsätzlich falsifizierbar sein.",
@@ -19,6 +20,7 @@
     },
     {
       "id": "empirismus",
+      "stable_id": "card-ms942qpf0vw4v",
       "front": "Empirismus (Empiricism)",
       "back": "Erkenntnistheoretische Position, dass Wissen aus Erfahrung und Beobachtung stammt — nicht aus reinem Vernunftdenken.",
       "notes": "Grundlage der empirischen Methode (Lektion 21).",
@@ -28,6 +30,7 @@
     },
     {
       "id": "deduktiv-induktiv",
+      "stable_id": "card-ms942qpf0vx4d",
       "front": "Deduktiv vs. induktiv (Deductive vs. Inductive)",
       "back": "Deduktiv: Von der allgemeinen Theorie zur Einzelhypothese (oben nach unten). Induktiv: Von Einzelbeobachtungen zur allgemeinen Schlussfolgerung (unten nach oben).",
       "notes": "Wissenschaftliche Psychologie arbeitet meist deduktiv-hypothesentestend.",
@@ -38,6 +41,7 @@
     },
     {
       "id": "operationalisierung-bruecke",
+      "stable_id": "card-ms942qpf0vy7f",
       "front": "Operationalisierung als Brücke",
       "back": "Operationalisierung macht abstrakte Konstrukte messbar, indem sie sie durch konkrete Indikatoren festlegt — sie bildet die Brücke zwischen Theorie und Messung.",
       "notes": "Eingeführt in Lektion 21: z. B. 'Stress' operationalisiert über den Cortisolwert.",
@@ -47,6 +51,7 @@
     },
     {
       "id": "replikationskrise",
+      "stable_id": "card-ms942qpf0vzr6",
       "front": "Replikationskrise (Replication Crisis)",
       "back": "Die Entdeckung, dass viele klassische Befunde der Psychologie sich in Wiederholungsstudien nicht bestätigen ließen — ausgelöst u. a. durch p-Hacking und Publikationsbias.",
       "notes": "Bezug zu Lektion 21 (Replikation). Begann öffentlich ca. 2011 mit dem Open Science Collaboration-Projekt.",
@@ -56,6 +61,7 @@
     },
     {
       "id": "p-hacking",
+      "stable_id": "card-ms942qpf0w0t1",
       "front": "p-Hacking",
       "back": "Das (oft unbewusste) Anpassen von Analysen, Stichproben oder Messzeitpunkten, bis der p-Wert unter die Signifikanzgrenze fällt — aufblähen statistisch signifikanter Ergebnisse.",
       "notes": "Mitursache der Replikationskrise.",
@@ -65,6 +71,7 @@
     },
     {
       "id": "publikationsbias",
+      "stable_id": "card-ms942qpf0w1k4",
       "front": "Publikationsbias (Publication Bias)",
       "back": "Tendenz, dass positive Befunde leichter veröffentlicht werden als Null-Ergebnisse — dies verzerrt das wissenschaftliche Bild einer Forschungsfrage.",
       "media_type": "text",
@@ -73,6 +80,7 @@
     },
     {
       "id": "informierte-einwilligung",
+      "stable_id": "card-ms942qpf0w2zx",
       "front": "Informierte Einwilligung (Informed Consent)",
       "back": "Teilnehmende müssen vor einer Studie umfassend informiert werden und freiwillig zustimmen — ein Grundprinzip der Forschungsethik.",
       "media_type": "text",
@@ -81,6 +89,7 @@
     },
     {
       "id": "debriefing",
+      "stable_id": "card-ms942qpf0w3qx",
       "front": "Aufklärung / Debriefing (Debriefing)",
       "back": "Nach der Studie werden Teilnehmende vollständig über Zweck und Vorgehen aufgeklärt — besonders wichtig nach Täuschungsstudien.",
       "notes": "Klassisches Beispiel: Milgrams Gehorsamkeitsstudien (Lektion 7/33).",
@@ -90,6 +99,7 @@
     },
     {
       "id": "schutz-vor-schaden",
+      "stable_id": "card-ms942qpf0w4lk",
       "front": "Schutz vor Schaden (Non-Maleficence)",
       "back": "Forschende müssen sicherstellen, dass Teilnehmende keinen körperlichen oder psychischen Schaden durch die Studie erleiden.",
       "media_type": "text",
@@ -98,6 +108,7 @@
     },
     {
       "id": "anonymitaet-vertraulichkeit",
+      "stable_id": "card-ms942qpf0w57t",
       "front": "Anonymität und Vertraulichkeit (Anonymity & Confidentiality)",
       "back": "Daten werden so erhoben oder aufbereitet, dass keine Rückschlüsse auf einzelne Personen möglich sind (Anonymität), bzw. nur autorisierte Personen Zugang haben (Vertraulichkeit).",
       "media_type": "text",
@@ -106,6 +117,7 @@
     },
     {
       "id": "recht-auf-abbruch",
+      "stable_id": "card-ms942qpf0w6ty",
       "front": "Recht auf Abbruch (Right to Withdraw)",
       "back": "Teilnehmende dürfen jederzeit und ohne Nachteile aus einer Studie aussteigen — auch nachdem sie zugestimmt haben.",
       "media_type": "text",
@@ -114,6 +126,7 @@
     },
     {
       "id": "ethikkommission",
+      "stable_id": "card-ms942qpf0w7se",
       "front": "Ethikkommission (Institutional Review Board / IRB)",
       "back": "Unabhängiges Gremium, das Forschungsvorhaben prüft und genehmigt, bevor Daten erhoben werden — wacht über die Einhaltung ethischer Standards.",
       "notes": "Ohne Ethikvotum sind Studien heute in der Regel nicht publizierbar.",
@@ -148,6 +161,7 @@
       "title": "Poppers Kernforderung",
       "exercise": {
         "id": "ex-cloze-popper",
+        "stable_id": "ex-ms942qpf0w86e",
         "type": "cloze",
         "prompt": "Ergänze das Schlüsselwort für Poppers Kriterium an eine wissenschaftliche Theorie.",
         "card_ids": ["falsifikationismus"],
@@ -166,6 +180,7 @@
       "title": "Schlussrichtungen zuordnen",
       "exercise": {
         "id": "ex-match-deduktiv-induktiv",
+        "stable_id": "ex-ms942qpf0w9j0",
         "type": "matching",
         "prompt": "Ordne jedem Schlussverfahren die passende Beschreibung zu.",
         "card_ids": ["deduktiv-induktiv", "empirismus", "falsifikationismus"],
@@ -184,6 +199,7 @@
       "title": "Ethische Prinzipien der Forschung",
       "exercise": {
         "id": "ex-match-ethische-prinzipien",
+        "stable_id": "ex-ms942qpf0waez",
         "type": "matching",
         "prompt": "Ordne jedem ethischen Prinzip seine Bedeutung zu.",
         "card_ids": ["informierte-einwilligung", "debriefing", "schutz-vor-schaden", "anonymitaet-vertraulichkeit", "recht-auf-abbruch"],
@@ -204,6 +220,7 @@
       "title": "Die Krise der Wiederholbarkeit",
       "exercise": {
         "id": "ex-free-replikationskrise",
+        "stable_id": "ex-ms942qpf0wbav",
         "type": "free_text",
         "prompt": "Wie heißt die Krise, bei der viele klassische Befunde der Psychologie sich in Wiederholungsstudien nicht bestätigen ließen?",
         "card_ids": ["replikationskrise"],
@@ -220,6 +237,7 @@
       "title": "Hüter der Forschungsethik",
       "exercise": {
         "id": "ex-free-ethikkommission",
+        "stable_id": "ex-ms942qpf0wc1u",
         "type": "free_text",
         "prompt": "Wie heißt das unabhängige Gremium, das Forschungsvorhaben vor der Datenerhebung ethisch prüft und genehmigt?",
         "card_ids": ["ethikkommission"],
@@ -236,6 +254,7 @@
       "title": "Verzerrtes Bild der Forschung",
       "exercise": {
         "id": "ex-cloze-publikationsbias",
+        "stable_id": "ex-ms942qpf0wdkr",
         "type": "cloze",
         "prompt": "Ergänze den Begriff für die Tendenz, dass positive Befunde leichter veröffentlicht werden als Null-Ergebnisse.",
         "card_ids": ["publikationsbias", "replikationskrise"],
@@ -254,6 +273,7 @@
       "title": "Poppers Merkregel",
       "exercise": {
         "id": "ex-tiles-falsifizierbar",
+        "stable_id": "ex-ms942qpf0we91",
         "type": "word_tiles",
         "prompt": "Setze Poppers Kernregel zusammen.",
         "card_ids": ["falsifikationismus"],

@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "paedagogische-psychologie-def",
+      "stable_id": "card-ms942qot0cpwn",
       "front": "Pädagogische Psychologie",
       "back": "Teilgebiet der Psychologie, das Lernen, Lehren, Erziehung und Entwicklung in pädagogischen Situationen (Schule, Hochschule, Beruf, Familie) untersucht. Ziel ist es, Bildungsprozesse zu beschreiben, zu erklären und wirksam zu gestalten.",
       "notes": "Anwendungsfach mit starkem Bezug zur Allgemeinen, Entwicklungs- und Differenziellen Psychologie. Englisch: educational psychology.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "angebots-nutzungs-modell",
+      "stable_id": "card-ms942qot0cquo",
       "front": "Angebots-Nutzungs-Modell",
       "back": "Rahmenmodell der Unterrichtsforschung (Helmke): Unterricht ist ein Angebot, dessen Wirkung von der Nutzung durch die Lernenden abhängt. Wirkfaktoren sind u. a. Lehrkraft, Unterrichtsqualität, Lernpotenzial der Schülerinnen und Schüler, Kontext und der Lernprozess (Mediation).",
       "notes": "Kernidee: Gutes Angebot wirkt nicht automatisch — die Lernenden müssen es aktiv nutzen. Englisch: supply-use model.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "lernmotivation-intrinsisch-extrinsisch",
+      "stable_id": "card-ms942qot0cru8",
       "front": "Intrinsische vs. extrinsische Lernmotivation",
       "back": "Intrinsisch motiviert lernt man um der Sache selbst willen (Interesse, Neugier, Freude). Extrinsisch motiviert lernt man wegen der Folgen (Noten, Lob, Vermeidung von Strafe). Beide können den Lernerfolg fördern; intrinsische Motivation ist oft nachhaltiger.",
       "notes": "Anschluss an die Selbstbestimmungstheorie (Deci & Ryan): Autonomie, Kompetenz und soziale Eingebundenheit stützen intrinsische Motivation.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "zielorientierung",
+      "stable_id": "card-ms942qot0cs8g",
       "front": "Zielorientierung",
       "back": "Persönliche Ausrichtung beim Lernen: Lernzielorientierung (Ziel ist Kompetenzzuwachs, Verstehen) versus Leistungszielorientierung (Ziel ist, gut auszusehen bzw. schlechtes Abschneiden zu vermeiden — Annäherung vs. Vermeidung).",
       "notes": "Englisch: goal orientation (mastery vs. performance goals). Lernziele begünstigen tiefes Lernen und Ausdauer.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "attribution-weiner",
+      "stable_id": "card-ms942qot0ctgq",
       "front": "Attributionstheorie (Weiner)",
       "back": "Erklärt, wie Menschen Erfolg und Misserfolg ursächlich deuten. Ursachen werden auf drei Dimensionen geordnet: Lokation (internal/external), Stabilität (stabil/variabel) und Kontrollierbarkeit. Günstig ist es, Misserfolg auf variable, kontrollierbare Ursachen wie mangelnde Anstrengung zu attribuieren.",
       "notes": "Beispiel-Ursachen: Fähigkeit (internal, stabil), Anstrengung (internal, variabel), Aufgabenschwierigkeit (external, stabil), Zufall (external, variabel). Englisch: attribution theory.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "selbstwirksamkeit-mindset",
+      "stable_id": "card-ms942qot0cub7",
       "front": "Selbstwirksamkeit und Mindset",
       "back": "Selbstwirksamkeitserwartung (Bandura): die Überzeugung, eine Aufgabe durch eigenes Handeln bewältigen zu können — sie steigert Anstrengung und Ausdauer. Mindset (Dweck): die Annahme, Fähigkeiten seien veränderbar (dynamisches/Growth Mindset) oder feststehend (statisches/Fixed Mindset).",
       "notes": "Growth Mindset und hohe Selbstwirksamkeit fördern Lernzielorientierung und günstige Attributionen. Englisch: self-efficacy, mindset.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "selbstreguliertes-lernen-zimmerman",
+      "stable_id": "card-ms942qot0cvpv",
       "front": "Selbstreguliertes Lernen (Zimmerman)",
       "back": "Lernende steuern ihr Lernen aktiv in einem zyklischen Prozess: (1) Planungsphase (Ziele setzen, Strategien wählen, Selbstwirksamkeit), (2) Durchführungsphase (Selbstkontrolle, Selbstbeobachtung), (3) Selbstreflexionsphase (Selbstbewertung, Ursachenzuschreibung). Die Reflexion wirkt auf die nächste Planung zurück.",
       "notes": "Englisch: self-regulated learning. Verbindet Motivation, Kognition und Metakognition.",
@@ -72,6 +79,7 @@
     },
     {
       "id": "lernstrategien",
+      "stable_id": "card-ms942qot0cwp0",
       "front": "Lernstrategien",
       "back": "Bewusst eingesetzte Vorgehensweisen beim Lernen: kognitive Strategien (Wiederholen, Elaborieren/Verknüpfen, Organisieren/Strukturieren), metakognitive Strategien (Planen, Überwachen, Bewerten) und Ressourcenstrategien (Zeit, Lernumgebung, Anstrengung, Hilfe suchen).",
       "notes": "Englisch: learning strategies. Elaboration und Organisation gelten als Tiefenstrategien.",
@@ -81,6 +89,7 @@
     },
     {
       "id": "instruktion-scaffolding",
+      "stable_id": "card-ms942qot0cx6h",
       "front": "Direkte Instruktion und Scaffolding",
       "back": "Direkte Instruktion ist stark strukturierter, lehrergeleiteter Unterricht mit klaren Zielen, Demonstration, geführtem Üben und Feedback. Scaffolding ist eine temporäre Unterstützung innerhalb der Zone der nächsten Entwicklung (Wygotski), die schrittweise abgebaut wird (Fading), bis Lernende selbstständig handeln.",
       "notes": "Zone der nächsten Entwicklung: Bereich zwischen dem, was allein, und dem, was mit Hilfe gelingt. Englisch: direct instruction, scaffolding, zone of proximal development.",
@@ -90,6 +99,7 @@
     },
     {
       "id": "cognitive-load-basisdimensionen",
+      "stable_id": "card-ms942qot0cycq",
       "front": "Cognitive Load und drei Basisdimensionen",
       "back": "Cognitive-Load-Theorie: Das Arbeitsgedächtnis ist begrenzt; lernrelevante Last (germane) soll gefördert, unnötige (extraneous) Last vermieden werden. Drei Basisdimensionen guter Unterrichtsqualität: Klassenführung (Klassenmanagement), konstruktive Unterstützung und kognitive Aktivierung.",
       "notes": "Englisch: cognitive load theory; three basic dimensions of teaching quality. Klassenführung schafft Zeit fürs Lernen.",
@@ -99,6 +109,7 @@
     },
     {
       "id": "hattie-feedback",
+      "stable_id": "card-ms942qot0czbt",
       "front": "Hattie und Feedback",
       "back": "Hatties Synthese vieler Metaanalysen zeigt, dass nicht das Was, sondern das Wie des Unterrichts entscheidet. Besonders wirksam sind sichtbares Lernen, klare Lernziele und vor allem gutes Feedback, das die Fragen beantwortet: Wohin gehe ich, wo stehe ich, wie geht es weiter (feed up, feed back, feed forward).",
       "notes": "Englisch: visible learning, feedback. Feedback wirkt nur, wenn es aufgenommen und genutzt wird.",
@@ -108,6 +119,7 @@
     },
     {
       "id": "leistungsbeurteilung-pruefungsangst",
+      "stable_id": "card-ms942qot0d00u",
       "front": "Leistungsbeurteilung und Prüfungsangst",
       "back": "Beurteilung nach Bezugsnormen: sozial (Vergleich mit anderen), kriterial (Vergleich mit Lernziel), individuell (Vergleich mit früherer eigener Leistung). Gütekriterien: Objektivität, Reliabilität, Validität. Typische Beurteilungsfehler: Halo-Effekt, Milde-/Strenge-Tendenz, Pygmalion-Effekt (Lehrererwartung beeinflusst die Leistung). Prüfungsangst hat zwei Komponenten: Besorgnis (kognitiv) und Emotionalität (körperlich); Zusammenhang mit Leistung folgt dem Yerkes-Dodson-Gesetz (umgekehrtes U).",
       "notes": "Pygmalion-Effekt = sich selbst erfüllende Erwartung (Rosenthal & Jacobson). Yerkes-Dodson: mittlere Erregung ist optimal.",
@@ -142,6 +154,7 @@
       "title": "Motivationskonzepte zuordnen",
       "exercise": {
         "id": "ex-match-motivation",
+        "stable_id": "ex-ms942qot0d15a",
         "type": "matching",
         "prompt": "Ordne jedem Konzept der Lernmotivation die passende Kennzeichnung zu.",
         "card_ids": ["lernmotivation-intrinsisch-extrinsisch", "zielorientierung", "attribution-weiner", "selbstwirksamkeit-mindset"],
@@ -161,6 +174,7 @@
       "title": "Das Rahmenmodell",
       "exercise": {
         "id": "ex-cloze-angebots-nutzung",
+        "stable_id": "ex-ms942qot0d2rh",
         "type": "cloze",
         "prompt": "Ergänze die Kernaussage des Angebots-Nutzungs-Modells.",
         "card_ids": ["angebots-nutzungs-modell"],
@@ -177,6 +191,7 @@
       "title": "Erwartung wird Wirklichkeit",
       "exercise": {
         "id": "ex-free-pygmalion",
+        "stable_id": "ex-ms942qot0d3m4",
         "type": "free_text",
         "prompt": "Wie heißt der Beurteilungsfehler, bei dem die Erwartung der Lehrkraft die spätere Leistung der Lernenden beeinflusst (sich selbst erfüllende Erwartung)?",
         "card_ids": ["leistungsbeurteilung-pruefungsangst"],
@@ -193,6 +208,7 @@
       "title": "Wo Scaffolding ansetzt",
       "exercise": {
         "id": "ex-cloze-zone",
+        "stable_id": "ex-ms942qot0d4zn",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff (nach Wygotski) für den Bereich zwischen dem, was allein, und dem, was mit Hilfe gelingt.",
         "card_ids": ["instruktion-scaffolding"],
@@ -209,6 +225,7 @@
       "title": "Unterricht und Beurteilung zuordnen",
       "exercise": {
         "id": "ex-match-instruktion-diagnostik",
+        "stable_id": "ex-ms942qot0d5ih",
         "type": "matching",
         "prompt": "Ordne jedem Begriff aus Instruktion und Leistungsbeurteilung die passende Beschreibung zu.",
         "card_ids": ["cognitive-load-basisdimensionen", "hattie-feedback", "leistungsbeurteilung-pruefungsangst", "selbstreguliertes-lernen-zimmerman"],
@@ -228,6 +245,7 @@
       "title": "Erregung und Leistung",
       "exercise": {
         "id": "ex-free-yerkes-dodson",
+        "stable_id": "ex-ms942qot0d6uu",
         "type": "free_text",
         "prompt": "Wie heißt das Gesetz (umgekehrtes U), nach dem mittlere Erregung zur besten Leistung führt — es erklärt sowohl Prüfungsangst als auch Arbeitsstress?",
         "card_ids": ["leistungsbeurteilung-pruefungsangst"],
@@ -244,6 +262,7 @@
       "title": "Die zwei Komponenten der Prüfungsangst",
       "exercise": {
         "id": "ex-tiles-pruefungsangst",
+        "stable_id": "ex-ms942qot0d7yb",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zu den beiden Komponenten der Prüfungsangst zusammen.",
         "card_ids": ["leistungsbeurteilung-pruefungsangst"],
@@ -259,6 +278,7 @@
       "title": "Querbezug der drei Blöcke",
       "exercise": {
         "id": "ex-tiles-rueckblick",
+        "stable_id": "ex-ms942qot0d8r9",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zusammen, der die drei Blöcke (91-105) als angewandte Felder verbindet.",
         "card_ids": ["paedagogische-psychologie-def"],
@@ -274,6 +294,7 @@
       "title": "Günstige Attribution",
       "exercise": {
         "id": "ex-cloze-attribution",
+        "stable_id": "ex-ms942qot0d9gs",
         "type": "cloze",
         "prompt": "Ergänze die günstige Ursachenzuschreibung für Misserfolg nach Weiner.",
         "card_ids": ["attribution-weiner"],

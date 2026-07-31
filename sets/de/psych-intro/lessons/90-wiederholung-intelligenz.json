@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "wdh-intelligenz-konstrukt",
+      "stable_id": "card-ms942qqa1n0ch",
       "front": "Intelligenz als Konstrukt",
       "back": "Intelligenz ist kein direkt messbares 'Ding', sondern ein theoretisches Konstrukt — erschlossen aus Verhalten. Ein einzelner Zahlenwert bildet sie nie vollständig ab.",
       "notes": "Zentrales Leitmotiv aus Lektion 86 und 88.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "wdh-g-faktor",
+      "stable_id": "card-ms942qqa1n1dn",
       "front": "g-Faktor (Spearman)",
       "back": "Spearmans allgemeiner Intelligenzfaktor: Wer in einer kognitiven Aufgabe gut abschneidet, schneidet oft auch in anderen gut ab — das nennt man positive Mannigfaltigkeit.",
       "notes": "Aus Lektion 86.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "wdh-fluide-kristallin",
+      "stable_id": "card-ms942qqa1n2wt",
       "front": "Fluide vs. kristalline Intelligenz (Cattell)",
       "back": "Fluide Intelligenz (Gf): neues Problemlösen, sinkt im Alter. Kristalline Intelligenz (Gc): angesammeltes Wissen, bleibt im Alter stabil oder wächst.",
       "notes": "Aus Lektion 86.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "wdh-chc-modell",
+      "stable_id": "card-ms942qqa1n3wt",
       "front": "CHC-Modell (Cattell-Horn-Carroll)",
       "back": "Heute einflussreichstes Intelligenzmodell: hierarchisch mit g an der Spitze, darunter breite Fähigkeiten (fluide, kristalline, Verarbeitungsgeschwindigkeit, Gedächtnis) und viele Einzelfertigkeiten an der Basis.",
       "media_type": "text",
@@ -45,6 +49,7 @@
     },
     {
       "id": "wdh-abweichungs-iq",
+      "stable_id": "card-ms942qqa1n4ha",
       "front": "Abweichungs-IQ (Mittelwert 100, SD 15)",
       "back": "Der moderne IQ drückt aus, wie weit jemand vom Mittelwert seiner Altersgruppe (100) abweicht. Eine Standardabweichung (SD) beträgt 15 Punkte; rund 68 % aller Werte liegen zwischen 85 und 115.",
       "notes": "Aus Lektion 87.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "wdh-guetekriterien",
+      "stable_id": "card-ms942qqa1n5vx",
       "front": "Gütekriterien (Objektivität, Reliabilität, Validität)",
       "back": "Ein guter Intelligenztest ist objektiv (unabhängig vom Testleiter), reliabel (zuverlässig reproduzierbar) und valide (misst, was er messen soll). Dazu kommt Testfairness für alle Gruppen.",
       "notes": "Aus Lektion 87.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "wdh-heritabilitaet",
+      "stable_id": "card-ms942qqa1n664",
       "front": "Heritabilität (Erblichkeit)",
       "back": "Statistisches Maß: welcher Anteil der Unterschiede in einer Gruppe auf Gene zurückgeht. Für Intelligenz etwa 50–80 % — aber als GRUPPEN-Maß, nicht als persönlicher 'Gen-Anteil'.",
       "notes": "Aus Lektion 88.",
@@ -73,6 +80,7 @@
     },
     {
       "id": "wdh-flynn-effekt",
+      "stable_id": "card-ms942qqa1n7f4",
       "front": "Flynn-Effekt",
       "back": "IQ-Werte sind über das 20. Jahrhundert hinweg generationenweise deutlich gestiegen. Da Gene sich so schnell kaum ändern, beweist das den starken Einfluss der Umwelt (Bildung, Ernährung, Gesundheit).",
       "notes": "Aus Lektion 88. Zentrales Argument gegen 'Intelligenz ist unveränderlich'.",
@@ -82,6 +90,7 @@
     },
     {
       "id": "wdh-potenzial-umwelt",
+      "stable_id": "card-ms942qqa1n853",
       "front": "Gene setzen ein Potenzial",
       "back": "Die Gene stecken einen möglichen Rahmen ab — aber die Umwelt (Bildung, Förderung, Lebensbedingungen) bestimmt, was daraus tatsächlich wird. Intelligenz ist kein fester, unveränderlicher Wert.",
       "notes": "Aus Lektion 88.",
@@ -91,6 +100,7 @@
     },
     {
       "id": "wdh-hochbegabung",
+      "stable_id": "card-ms942qqa1n9gn",
       "front": "Hochbegabung",
       "back": "Üblicherweise definiert als IQ ≥ 130 (ca. 2 % der Bevölkerung). Mythos: Hochbegabte scheitern zwangsläufig sozial — tatsächlich sind die meisten gut angepasst; Underachievement entsteht durch mangelnde Förderung.",
       "notes": "Aus Lektion 89.",
@@ -100,6 +110,7 @@
     },
     {
       "id": "wdh-legasthenie",
+      "stable_id": "card-ms942qqa1namp",
       "front": "Legasthenie (Lese-Rechtschreib-Störung)",
       "back": "Spezifische Lernstörung: Schwierigkeiten beim Lesen und Schreiben bei normaler Allgemeinintelligenz. Ursache neurobiologisch, kein Mangel an Bemühen. Gezielte Förderung hilft.",
       "notes": "Aus Lektion 89.",
@@ -109,6 +120,7 @@
     },
     {
       "id": "wdh-dyskalkulie",
+      "stable_id": "card-ms942qqa1nb2d",
       "front": "Dyskalkulie (Rechenstörung)",
       "back": "Spezifische Lernstörung: Schwierigkeiten mit Zahlen und Rechnen bei normaler Allgemeinintelligenz. Tritt unabhängig von der allgemeinen Lernfähigkeit auf.",
       "notes": "Aus Lektion 89.",
@@ -118,6 +130,7 @@
     },
     {
       "id": "wdh-diskreditierte-thesen",
+      "stable_id": "card-ms942qqa1ncps",
       "front": "Diskreditierte 'Rassen'-IQ-Thesen",
       "back": "Behauptungen, Unterschiede zwischen sozial definierten Gruppen seien genetisch bedingt, gelten als wissenschaftlich widerlegt. Gruppenunterschiede in Testwerten erklären sich durch Umwelt, Bildung und Testverzerrung (Bias).",
       "notes": "Aus Lektion 88. Wichtig: Heritabilität innerhalb einer Gruppe erlaubt keinen Schluss auf Ursachen zwischen Gruppen.",
@@ -152,6 +165,7 @@
       "title": "Modelle und ihre Urheber",
       "exercise": {
         "id": "ex-match-modelle-autoren",
+        "stable_id": "ex-ms942qqa1ndxx",
         "type": "matching",
         "prompt": "Ordne jedem Intelligenzmodell den richtigen Autor bzw. die richtige Kernidee zu.",
         "card_ids": ["wdh-g-faktor", "wdh-chc-modell", "wdh-fluide-kristallin", "wdh-heritabilitaet"],
@@ -171,6 +185,7 @@
       "title": "Abweichungs-IQ: die Zahlen",
       "exercise": {
         "id": "ex-cloze-iq-mittelwert",
+        "stable_id": "ex-ms942qqa1newm",
         "type": "cloze",
         "prompt": "Ergänze den Mittelwert des modernen Abweichungs-IQ.",
         "card_ids": ["wdh-abweichungs-iq"],
@@ -189,6 +204,7 @@
       "title": "Der Beweis für Umwelteinfluss",
       "exercise": {
         "id": "ex-free-flynn",
+        "stable_id": "ex-ms942qqa1nfxb",
         "type": "free_text",
         "prompt": "Wie heißt der Befund, der zeigt, dass IQ-Werte über Generationen hinweg deutlich gestiegen sind — und damit beweist, dass Umwelt Intelligenz massiv beeinflusst?",
         "card_ids": ["wdh-flynn-effekt"],
@@ -205,6 +221,7 @@
       "title": "Lernstörungen richtig einordnen",
       "exercise": {
         "id": "ex-match-lernstoerungen",
+        "stable_id": "ex-ms942qqa1ngdw",
         "type": "matching",
         "prompt": "Ordne jeder Lernstörung ihre korrekte Beschreibung zu.",
         "card_ids": ["wdh-legasthenie", "wdh-dyskalkulie", "wdh-hochbegabung"],
@@ -223,6 +240,7 @@
       "title": "Anlage und Umwelt — die Faustregel",
       "exercise": {
         "id": "ex-cloze-potenzial",
+        "stable_id": "ex-ms942qqa1nhve",
         "type": "cloze",
         "prompt": "Ergänze die Faustregel zum Zusammenspiel von Anlage und Umwelt.",
         "card_ids": ["wdh-potenzial-umwelt"],
@@ -241,6 +259,7 @@
       "title": "Was macht einen guten Test aus?",
       "exercise": {
         "id": "ex-free-guetekriterien",
+        "stable_id": "ex-ms942qqa1niah",
         "type": "free_text",
         "prompt": "Nenne eines der drei klassischen Gütekriterien, die ein guter Intelligenztest erfüllen muss.",
         "card_ids": ["wdh-guetekriterien"],
@@ -257,6 +276,7 @@
       "title": "Der rote Faden: Intelligenz als Konstrukt",
       "exercise": {
         "id": "ex-tiles-konstrukt",
+        "stable_id": "ex-ms942qqa1njkj",
         "type": "word_tiles",
         "prompt": "Setze den zentralen Merksatz dieser Wiederholung zusammen.",
         "card_ids": ["wdh-intelligenz-konstrukt", "wdh-potenzial-umwelt"],

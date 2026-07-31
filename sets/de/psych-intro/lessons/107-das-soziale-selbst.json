@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "soziales-selbst",
+      "stable_id": "card-ms942qov0dslv",
       "front": "Soziales Selbst (Social Self)",
       "back": "Das Bild, das eine Person von sich selbst hat, soweit es im sozialen Vergleich, durch Rückmeldungen anderer und durch die Beobachtung des eigenen Verhaltens entsteht.",
       "notes": "Das Selbst ist kein isolierter Kern, sondern wird sozial konstruiert und ständig aktualisiert.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "selbstwahrnehmungstheorie",
+      "stable_id": "card-ms942qov0dtca",
       "front": "Selbstwahrnehmungstheorie (Self-Perception Theory)",
       "back": "Nach Daryl Bem (1972) erschließen Menschen ihre eigenen Einstellungen und Gefühle teilweise, indem sie ihr eigenes Verhalten beobachten — so wie ein Außenstehender es täte —, wenn innere Hinweise schwach oder mehrdeutig sind.",
       "notes": "Beispiel: 'Ich esse ständig Karotten, also mag ich wohl Karotten.' Gegenposition zur Annahme, Einstellungen lägen immer schon klar vor.",
@@ -28,6 +30,7 @@
     },
     {
       "id": "selbstwertdienliche-verzerrung",
+      "stable_id": "card-ms942qov0dubv",
       "front": "Selbstwertdienliche Verzerrung (Self-Serving Bias)",
       "back": "Tendenz, eigene Erfolge auf internale Ursachen (Fähigkeit, Anstrengung) zurückzuführen, Misserfolge dagegen auf externale Ursachen (Pech, schwere Aufgabe, andere).",
       "notes": "Schützt das Selbstwertgefühl. 'Die Prüfung war gut, weil ich klug bin — schlecht, weil sie unfair war.'",
@@ -37,6 +40,7 @@
     },
     {
       "id": "akteur-beobachter-asymmetrie",
+      "stable_id": "card-ms942qov0dvmv",
       "front": "Akteur-Beobachter-Asymmetrie (Actor-Observer Asymmetry)",
       "back": "Wir erklären unser eigenes Verhalten eher situational (externale Attribution), das Verhalten anderer dagegen eher dispositional (internale Attribution) — Jones & Nisbett (1971).",
       "notes": "'Ich bin zu spät, weil der Bus ausfiel; er ist zu spät, weil er unzuverlässig ist.' Wir sehen bei uns die Situation, bei anderen den Charakter.",
@@ -47,6 +51,7 @@
     },
     {
       "id": "spotlight-effekt",
+      "stable_id": "card-ms942qov0dwpi",
       "front": "Spotlight-Effekt (Spotlight Effect)",
       "back": "Die Neigung, das Ausmaß zu überschätzen, in dem andere das eigene Aussehen und Verhalten bemerken und bewerten — als stünde man ständig im Rampenlicht.",
       "notes": "Gilovich, Medvec & Savitsky (2000): Versuchspersonen mit peinlichem T-Shirt überschätzten stark, wie viele es bemerkten.",
@@ -56,6 +61,7 @@
     },
     {
       "id": "falscher-konsens-effekt",
+      "stable_id": "card-ms942qov0dx86",
       "front": "Falscher-Konsens-Effekt (False Consensus Effect)",
       "back": "Tendenz, die Verbreitung der eigenen Meinungen, Vorlieben und Verhaltensweisen in der Bevölkerung zu überschätzen — anzunehmen, andere dächten und handelten wie man selbst.",
       "notes": "Ross, Greene & House (1977). 'Die meisten sehen das doch genauso wie ich.'",
@@ -65,6 +71,7 @@
     },
     {
       "id": "dunning-kruger-effekt",
+      "stable_id": "card-ms942qov0dy22",
       "front": "Dunning-Kruger-Effekt (Dunning-Kruger Effect)",
       "back": "Personen mit geringer Kompetenz in einem Bereich überschätzen ihre Fähigkeit systematisch, weil ihnen genau die Kompetenz fehlt, um die eigenen Fehler zu erkennen (metakognitives Defizit).",
       "notes": "Kruger & Dunning (1999). Mit wachsender Kompetenz wird die Selbsteinschätzung realistischer.",
@@ -75,6 +82,7 @@
     },
     {
       "id": "metakognition",
+      "stable_id": "card-ms942qov0dzl1",
       "front": "Metakognition (Metacognition)",
       "back": "Das Wissen über und die Überwachung der eigenen Denk- und Lernprozesse — 'Denken über das Denken'.",
       "notes": "Ein metakognitives Defizit erklärt, warum Unwissende ihre Wissenslücken nicht erkennen (Dunning-Kruger).",
@@ -84,6 +92,7 @@
     },
     {
       "id": "selbstdarstellung",
+      "stable_id": "card-ms942qov0e0jm",
       "front": "Selbstdarstellung (Impression Management)",
       "back": "Der Prozess, mit dem Menschen den Eindruck steuern, den andere von ihnen gewinnen — etwa durch Kleidung, Sprache oder selektive Selbstauskunft.",
       "notes": "Nach Goffman ein 'Bühnenhandeln': Wir spielen je nach Publikum unterschiedliche Rollen.",
@@ -93,6 +102,7 @@
     },
     {
       "id": "self-handicapping",
+      "stable_id": "card-ms942qov0e1mc",
       "front": "Selbstbehinderung (Self-Handicapping)",
       "back": "Das Schaffen von Hindernissen für die eigene Leistung, um bei Misserfolg eine externe Entschuldigung zu haben und das Selbstwertgefühl zu schützen.",
       "notes": "Beispiel: Vor einer wichtigen Prüfung absichtlich zu wenig lernen — bei Scheitern ist 'zu wenig gelernt' eine Ausrede, bei Erfolg gilt man als besonders begabt.",
@@ -102,6 +112,7 @@
     },
     {
       "id": "internale-vs-externale-attribution",
+      "stable_id": "card-ms942qov0e2yo",
       "front": "Internale vs. externale Attribution",
       "back": "Internale Attribution erklärt Verhalten durch Eigenschaften der Person (Fähigkeit, Charakter), externale Attribution durch die Situation (Umstände, Zufall, andere).",
       "notes": "Viele Selbstverzerrungen sind systematische Verschiebungen zwischen diesen beiden Erklärungsarten.",
@@ -111,6 +122,7 @@
     },
     {
       "id": "selbstwertgefuehl",
+      "stable_id": "card-ms942qov0e3d6",
       "front": "Selbstwertgefühl (Self-Esteem)",
       "back": "Die globale, bewertende Einstellung einer Person gegenüber sich selbst — wie wertvoll, fähig und liebenswert man sich einschätzt.",
       "notes": "Viele Selbstverzerrungen dienen dem Schutz oder der Stärkung des Selbstwertgefühls.",
@@ -139,6 +151,7 @@
       "title": "Selbstverzerrungen zuordnen",
       "exercise": {
         "id": "ex-match-selbstverzerrungen",
+        "stable_id": "ex-ms942qov0e4dj",
         "type": "matching",
         "prompt": "Ordne jeder Beschreibung die richtige Selbstverzerrung zu.",
         "card_ids": ["selbstwertdienliche-verzerrung", "spotlight-effekt", "falscher-konsens-effekt", "dunning-kruger-effekt"],
@@ -158,6 +171,7 @@
       "title": "Bems Theorie benennen",
       "exercise": {
         "id": "ex-free-selbstwahrnehmung",
+        "stable_id": "ex-ms942qov0e5cf",
         "type": "free_text",
         "prompt": "Wie heißt die Theorie von Daryl Bem, nach der wir unsere Einstellungen aus der Beobachtung des eigenen Verhaltens erschließen?",
         "card_ids": ["selbstwahrnehmungstheorie"],
@@ -174,6 +188,7 @@
       "title": "Akteur-Beobachter-Asymmetrie",
       "exercise": {
         "id": "ex-cloze-akteur-beobachter",
+        "stable_id": "ex-ms942qov0e6z0",
         "type": "cloze",
         "prompt": "Ergänze die fehlende Erklärungsart.",
         "card_ids": ["akteur-beobachter-asymmetrie", "internale-vs-externale-attribution"],
@@ -192,6 +207,7 @@
       "title": "Überschätzung bei geringer Kompetenz",
       "exercise": {
         "id": "ex-free-dunning-kruger",
+        "stable_id": "ex-ms942qov0e7zy",
         "type": "free_text",
         "prompt": "Wie heißt der Effekt, bei dem inkompetente Personen ihre Fähigkeiten überschätzen, weil ihnen die Metakognition zum Erkennen eigener Fehler fehlt?",
         "card_ids": ["dunning-kruger-effekt", "metakognition"],
@@ -208,6 +224,7 @@
       "title": "Selbstwertdienliche Verzerrung formulieren",
       "exercise": {
         "id": "ex-tiles-self-serving",
+        "stable_id": "ex-ms942qov0e8yn",
         "type": "word_tiles",
         "prompt": "Setze die Kernidee der selbstwertdienlichen Verzerrung zusammen.",
         "card_ids": ["selbstwertdienliche-verzerrung"],
@@ -223,6 +240,7 @@
       "title": "Welches Beispiel zeigt den Spotlight-Effekt?",
       "exercise": {
         "id": "ex-pick-spotlight",
+        "stable_id": "ex-ms942qov0e9l1",
         "type": "picture_choice",
         "prompt": "In welcher Situation wirkt der Spotlight-Effekt?",
         "card_ids": ["spotlight-effekt"],
@@ -248,6 +266,7 @@
       "title": "Grundbegriffe der Selbst-Attribution",
       "exercise": {
         "id": "ex-match-attribution-begriffe",
+        "stable_id": "ex-ms942qov0ea6g",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Erklärung zu.",
         "card_ids": ["internale-vs-externale-attribution", "selbstdarstellung", "self-handicapping", "metakognition"],

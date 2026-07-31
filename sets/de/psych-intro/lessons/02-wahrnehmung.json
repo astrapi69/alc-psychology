@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "wahrnehmung",
+      "stable_id": "card-ms942qoh03ckg",
       "front": "Wahrnehmung (Perception)",
       "back": "Aktiver Prozess, bei dem sensorische Reize aufgenommen, gefiltert und zu einem bedeutungsvollen Erlebnis verarbeitet werden.",
       "notes": "Wahrnehmung ist nicht passives Empfangen — das Gehirn konstruiert aktiv ein Bild der Realität.",
@@ -16,6 +17,7 @@
     },
     {
       "id": "visuell",
+      "stable_id": "card-ms942qoh03d9p",
       "front": "Visueller Sinn (Visual Sense)",
       "back": "Sehsinn; verarbeitet Licht über die Netzhaut des Auges zu visuellen Informationen.",
       "notes": "Der dominante Sinn beim Menschen — ca. 30 % der Gehirnrinde ist an visueller Verarbeitung beteiligt.",
@@ -23,6 +25,7 @@
     },
     {
       "id": "auditiv",
+      "stable_id": "card-ms942qoh03ep8",
       "front": "Auditiver Sinn (Auditory Sense)",
       "back": "Hörsinn; verarbeitet Schallwellen über das Innenohr zu Klang- und Sprachwahrnehmung.",
       "notes": "Wichtig für Sprache und Musik; eng mit dem Gleichgewichtssinn verbunden.",
@@ -30,6 +33,7 @@
     },
     {
       "id": "taktil",
+      "stable_id": "card-ms942qoh03fyz",
       "front": "Taktiler Sinn (Tactile Sense)",
       "back": "Tastsinn; nimmt Druck, Berührung, Temperatur und Schmerz über Hautrezeptoren wahr.",
       "notes": "Die Hände und Lippen haben besonders viele Tastrezeptoren — erkennbar im Homunculus.",
@@ -37,6 +41,7 @@
     },
     {
       "id": "olfaktorisch",
+      "stable_id": "card-ms942qoh03ge2",
       "front": "Olfaktorischer Sinn (Olfactory Sense)",
       "back": "Geruchssinn; erkennt flüchtige Moleküle über Rezeptoren in der Nasenschleimhaut.",
       "notes": "Gerüche sind besonders stark mit Erinnerungen und Emotionen verknüpft (Proustsches Phänomen).",
@@ -44,6 +49,7 @@
     },
     {
       "id": "gustatorisch",
+      "stable_id": "card-ms942qoh03hfj",
       "front": "Gustatorischer Sinn (Gustatory Sense)",
       "back": "Geschmackssinn; unterscheidet süß, sauer, salzig, bitter und umami über Geschmacksknospen.",
       "notes": "Geschmack und Geruch arbeiten eng zusammen — ein Schnupfen beeinträchtigt den Geschmack erheblich.",
@@ -51,6 +57,7 @@
     },
     {
       "id": "gestaltgesetze",
+      "stable_id": "card-ms942qoh03i6q",
       "front": "Gestaltgesetze (Gestalt Laws)",
       "back": "Prinzipien, nach denen das Gehirn einzelne Reize zu sinnvollen Ganzheiten (Gestalten) organisiert.",
       "notes": "Entwickelt von der Gestaltpsychologie (Wertheimer, Köhler, Koffka) zu Beginn des 20. Jahrhunderts.",
@@ -58,6 +65,7 @@
     },
     {
       "id": "gesetz-naehe",
+      "stable_id": "card-ms942qoh03jli",
       "front": "Gesetz der Nähe (Law of Proximity)",
       "back": "Nahe beieinanderliegende Elemente werden als zusammengehörend wahrgenommen.",
       "notes": "Beispiel: Punkte, die eng nebeneinander stehen, erscheinen als Gruppe — auch wenn sie identisch sind.",
@@ -65,6 +73,7 @@
     },
     {
       "id": "gesetz-aehnlichkeit",
+      "stable_id": "card-ms942qoh03kql",
       "front": "Gesetz der Ähnlichkeit (Law of Similarity)",
       "back": "Ähnliche Elemente (gleiche Form, Farbe, Größe) werden als zusammengehörend gruppiert.",
       "notes": "Schachbrettmuster: weiße und schwarze Felder bilden jeweils eigene Gruppen.",
@@ -72,6 +81,7 @@
     },
     {
       "id": "gesetz-geschlossenheit",
+      "stable_id": "card-ms942qoh03l4g",
       "front": "Gesetz der Geschlossenheit (Law of Closure)",
       "back": "Unvollständige Figuren werden mental ergänzt, sodass eine geschlossene, vollständige Form entsteht.",
       "notes": "Beispiel: ein unterbrochener Kreis wird dennoch als Kreis erkannt.",
@@ -79,6 +89,7 @@
     },
     {
       "id": "gesetz-gute-fortsetzung",
+      "stable_id": "card-ms942qoh03mum",
       "front": "Gesetz der guten Fortsetzung (Law of Continuity)",
       "back": "Linien und Kurven werden so wahrgenommen, als folgten sie dem gleichmäßigsten oder geradlinigsten Verlauf.",
       "notes": "Zwei sich kreuzende Kurven sehen wir als zwei durchgehende Kurven, nicht als zwei Knicklinien.",
@@ -86,6 +97,7 @@
     },
     {
       "id": "mueller-lyer",
+      "stable_id": "card-ms942qoh03n32",
       "front": "Müller-Lyer-Täuschung (Müller-Lyer Illusion)",
       "back": "Optische Täuschung: zwei gleich lange Linien wirken unterschiedlich lang, weil ihre Pfeilspitzen nach innen bzw. außen zeigen.",
       "notes": "Benannt nach Franz Carl Müller-Lyer (1889); eine der bekanntesten optischen Täuschungen überhaupt.",
@@ -93,6 +105,7 @@
     },
     {
       "id": "ponzo",
+      "stable_id": "card-ms942qoh03ovy",
       "front": "Ponzo-Täuschung (Ponzo Illusion)",
       "back": "Optische Täuschung: zwei gleich lange horizontale Linien wirken unterschiedlich lang, weil Konvergenzlinien Tiefe suggerieren.",
       "notes": "Ähnlich wie Eisenbahnschienen, die sich in der Ferne treffen — die obere Linie erscheint weiter entfernt und damit länger.",
@@ -100,6 +113,7 @@
     },
     {
       "id": "rubin-vase",
+      "stable_id": "card-ms942qoh03pda",
       "front": "Rubin-Vase (Rubin Vase / Kippbild)",
       "back": "Kippbild: je nach Figur-Grund-Zuweisung sieht man entweder eine Vase oder zwei einander zugewandte Gesichter.",
       "notes": "Zeigt, dass Wahrnehmung von der Interpretation des Gehirns abhängt, nicht allein vom Reiz.",
@@ -107,6 +121,7 @@
     },
     {
       "id": "cocktailparty-effekt",
+      "stable_id": "card-ms942qoh03qvx",
       "front": "Cocktailparty-Effekt (Cocktail Party Effect)",
       "back": "Fähigkeit, in einer lauten Umgebung auf ein einzelnes Gespräch zu fokussieren und irrelevante Geräusche auszublenden.",
       "notes": "Erstmals beschrieben von Colin Cherry (1953); veranschaulicht selektive Aufmerksamkeit im Alltag.",
@@ -114,6 +129,7 @@
     },
     {
       "id": "change-blindness",
+      "stable_id": "card-ms942qoh03rui",
       "front": "Veränderungsblindheit (Change Blindness)",
       "back": "Unvermögen, Veränderungen in einer visuellen Szene zu bemerken, wenn sie während einer Ablenkung oder Unterbrechung auftreten.",
       "notes": "Klassische Studie: Versuchspersonen bemerkten nicht, dass die befragte Person ausgetauscht wurde (Levin & Simons, 1998).",
@@ -121,6 +137,7 @@
     },
     {
       "id": "selektive-aufmerksamkeit",
+      "stable_id": "card-ms942qoh03smi",
       "front": "Selektive Aufmerksamkeit (Selective Attention)",
       "back": "Kognitive Fähigkeit, bestimmte Reize gezielt zu verarbeiten und andere zu ignorieren.",
       "notes": "Begrenzte Verarbeitungskapazität des Gehirns macht Selektion notwendig — wir können nicht alles gleichzeitig verarbeiten.",
@@ -128,6 +145,7 @@
     },
     {
       "id": "figur-grund",
+      "stable_id": "card-ms942qoh03tve",
       "front": "Figur-Grund-Wahrnehmung (Figure-Ground Perception)",
       "back": "Tendenz des Wahrnehmungssystems, eine Szene in eine hervorgehobene Figur und einen zurückweichenden Hintergrund (Grund) zu gliedern.",
       "notes": "Grundlage des Rubin-Vase-Kippbilds; tritt automatisch und meist unbewusst auf.",
@@ -160,6 +178,7 @@
       "title": "Sinne zuordnen",
       "exercise": {
         "id": "ex-match-sinne",
+        "stable_id": "ex-ms942qoh03uxu",
         "type": "matching",
         "prompt": "Ordne jedem Sinn sein Wahrnehmungsorgan zu.",
         "card_ids": ["visuell", "auditiv", "taktil", "olfaktorisch", "gustatorisch"],
@@ -180,6 +199,7 @@
       "title": "Gestaltgesetze zuordnen",
       "exercise": {
         "id": "ex-match-gestalt",
+        "stable_id": "ex-ms942qoh03v8t",
         "type": "matching",
         "prompt": "Ordne jedem Gestaltgesetz sein Prinzip zu.",
         "card_ids": ["gesetz-naehe", "gesetz-aehnlichkeit", "gesetz-geschlossenheit", "gesetz-gute-fortsetzung"],
@@ -199,6 +219,7 @@
       "title": "Begriff zur Definition",
       "exercise": {
         "id": "ex-free-cocktailparty",
+        "stable_id": "ex-ms942qoh03w36",
         "type": "free_text",
         "prompt": "Wie heißt das Phänomen, in lauter Umgebung auf ein einzelnes Gespräch zu fokussieren?",
         "card_ids": ["cocktailparty-effekt"],
@@ -215,6 +236,7 @@
       "title": "Täuschung benennen",
       "exercise": {
         "id": "ex-free-mueller-lyer",
+        "stable_id": "ex-ms942qoh03xnc",
         "type": "free_text",
         "prompt": "Wie heißt die Täuschung, bei der Pfeilspitzen zwei gleich lange Linien unterschiedlich lang erscheinen lassen?",
         "card_ids": ["mueller-lyer"],
@@ -231,6 +253,7 @@
       "title": "Gestaltgesetz ergänzen",
       "exercise": {
         "id": "ex-cloze-gestalt-naehe",
+        "stable_id": "ex-ms942qoh03yuf",
         "type": "cloze",
         "prompt": "Ergänze das passende Gestaltgesetz.",
         "card_ids": ["gesetz-naehe", "gesetz-aehnlichkeit"],
@@ -249,6 +272,7 @@
       "title": "Den fünften Sinn benennen",
       "exercise": {
         "id": "ex-cloze-fuenf-sinne",
+        "stable_id": "ex-ms942qoh03z1r",
         "type": "cloze",
         "prompt": "Ergänze die fehlenden Sinne.",
         "card_ids": ["visuell", "auditiv", "taktil", "olfaktorisch", "gustatorisch"],
@@ -267,6 +291,7 @@
       "title": "Welche Täuschung zeigt gleich lange Linien?",
       "exercise": {
         "id": "ex-picture-illusion",
+        "stable_id": "ex-ms942qoh0402q",
         "type": "picture_choice",
         "prompt": "Welche Täuschung zeigt zwei gleich lange Linien, die durch Pfeilspitzen unterschiedlich lang wirken?",
         "card_ids": ["mueller-lyer", "ponzo", "rubin-vase", "figur-grund"],
@@ -288,6 +313,7 @@
       "title": "Definition zusammensetzen",
       "exercise": {
         "id": "ex-tiles-wahrnehmung",
+        "stable_id": "ex-ms942qoh041eg",
         "type": "word_tiles",
         "prompt": "Setze die Definition der selektiven Aufmerksamkeit zusammen.",
         "card_ids": ["selektive-aufmerksamkeit"],
@@ -303,6 +329,7 @@
       "title": "Täuschungen zuordnen",
       "exercise": {
         "id": "ex-match-illusionen",
+        "stable_id": "ex-ms942qoh042co",
         "type": "matching",
         "prompt": "Ordne jeder optischen Täuschung ihre Beschreibung zu.",
         "card_ids": ["mueller-lyer", "ponzo", "rubin-vase"],

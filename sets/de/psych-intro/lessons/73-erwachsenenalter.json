@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "junges-erwachsenenalter-erikson",
+      "stable_id": "card-ms942qq11dx0g",
       "front": "Erikson: Intimität vs. Isolation (Intimacy vs. Isolation)",
       "back": "Die psychosoziale Krise des jungen Erwachsenenalters (ca. 20–40 Jahre): Es geht darum, enge, liebevolle Partnerschaften und Freundschaften einzugehen. Scheitert dies, droht das Gefühl der Isolation.",
       "notes": "Baut auf Lektion 34 (Eriksons Stufenmodell) auf.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "mittleres-erwachsenenalter-erikson",
+      "stable_id": "card-ms942qq11dytp",
       "front": "Erikson: Generativität vs. Stagnation (Generativity vs. Stagnation)",
       "back": "Die psychosoziale Krise des mittleren Erwachsenenalters (ca. 40–65 Jahre): Generativität bedeutet, etwas an die nächste Generation weiterzugeben — durch Kinder, Beruf oder gesellschaftliches Engagement. Fehlt dies, entsteht Stagnation.",
       "notes": "Generativität umfasst Fürsorge, Mentoring und kreatives Schaffen.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "emerging-adulthood",
+      "stable_id": "card-ms942qq11dzwy",
       "front": "Emerging Adulthood (verlängerte Übergangsphase)",
       "back": "Konzept von Jeffrey Arnett: die Phase zwischen 18 und 25 Jahren, in der Identitätserkundung, Instabilität und Selbstfokus kennzeichnend sind — weder Jugend noch vollwertiges Erwachsensein.",
       "notes": "Besonders ausgeprägt in Industriegesellschaften mit langen Bildungswegen.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "kristalline-intelligenz",
+      "stable_id": "card-ms942qq11e0us",
       "front": "Kristalline Intelligenz (Crystallized Intelligence)",
       "back": "Angesammeltes Wissen, Vokabular und erlernte Fertigkeiten — bleibt im Erwachsenenalter stabil oder nimmt sogar leicht zu.",
       "notes": "Wiederaufgriff aus Lektion 11. Profitiert von Bildung und Lebenserfahrung.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "fluide-intelligenz",
+      "stable_id": "card-ms942qq11e14i",
       "front": "Fluide Intelligenz (Fluid Intelligence)",
       "back": "Die Fähigkeit, neue Probleme flexibel zu lösen, logisch zu schlussfolgern und schnell zu verarbeiten — nimmt ab dem mittleren Erwachsenenalter langsam ab.",
       "notes": "Wiederaufgriff aus Lektion 11. Hängt stärker von der biologischen Hirnreife ab.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "soziale-uhr",
+      "stable_id": "card-ms942qq11e2co",
       "front": "Soziale Uhr (Social Clock)",
       "back": "Kulturell geteilte Erwartungen darüber, wann bestimmte Lebensereignisse eintreten sollen (z. B. Heirat, Karrierebeginn, Elternschaft). Wer 'zu früh' oder 'zu spät' handelt, kann sozialen Druck erleben.",
       "media_type": "text",
@@ -62,6 +68,7 @@
     },
     {
       "id": "midlife-crisis",
+      "stable_id": "card-ms942qq11e39v",
       "front": "Midlife-Crisis — Mythos oder Realität?",
       "back": "Empirisch betrachtet ist eine ausgeprägte Midlife-Crisis eher selten: Nur etwa 10–25 % der Menschen berichten davon. Die Mehrheit erlebt das mittlere Erwachsenenalter als stabile Phase.",
       "notes": "Populärer Begriff, der in der Forschung kaum Bestätigung findet.",
@@ -71,6 +78,7 @@
     },
     {
       "id": "reifungsprinzip",
+      "stable_id": "card-ms942qq11e4gu",
       "front": "Reifungsprinzip der Persönlichkeit (Maturity Principle)",
       "back": "Mit dem Alter werden Menschen im Durchschnitt gewissenhafter und verträglicher (Big Five). Diese Veränderung ist graduell und universell — die Persönlichkeit verändert sich, bleibt aber auch stabil.",
       "notes": "Belegt durch Längsschnittstudien (z. B. Roberts et al.).",
@@ -80,6 +88,7 @@
     },
     {
       "id": "erikson-erwachsen-ueberblick",
+      "stable_id": "card-ms942qq11e59u",
       "front": "Eriksons drei Erwachsenenstufen im Überblick",
       "back": "Junges Erwachsenenalter: Intimität vs. Isolation; Mittleres Erwachsenenalter: Generativität vs. Stagnation; Hohes Alter: Integrität vs. Verzweiflung.",
       "notes": "Die dritte Stufe (Hohes Alter) wird in Lektion 74 vertieft.",
@@ -89,6 +98,7 @@
     },
     {
       "id": "arnett-merkmale",
+      "stable_id": "card-ms942qq11e6yd",
       "front": "Fünf Merkmale des Emerging Adulthood (Arnett)",
       "back": "1. Identitätserkundung, 2. Instabilität, 3. Selbstfokus, 4. Gefühl des Dazwischenseins, 5. Gefühl unbegrenzter Möglichkeiten.",
       "media_type": "text",
@@ -97,6 +107,7 @@
     },
     {
       "id": "generativitaet-formen",
+      "stable_id": "card-ms942qq11e7o6",
       "front": "Formen der Generativität",
       "back": "Generativität kann sich ausdrücken in: Elternschaft, Mentoring jüngerer Kollegen, künstlerischem oder wissenschaftlichem Schaffen sowie ehrenamtlichem gesellschaftlichem Engagement.",
       "media_type": "text",
@@ -105,6 +116,7 @@
     },
     {
       "id": "stabilität-wandel-persoenlichkeit",
+      "stable_id": "card-ms942qq11e8ut",
       "front": "Stabilität und Wandel der Persönlichkeit im Erwachsenenalter",
       "back": "Persönlichkeit ist nicht statisch: Relative Rangordnungen der Eigenschaften bleiben stabil (Stabilität), doch die mittleren Ausprägungen verschieben sich — Gewissenhaftigkeit und Verträglichkeit nehmen zu (Wandel).",
       "media_type": "text",
@@ -138,6 +150,7 @@
       "title": "Eriksons Erwachsenenstufen zuordnen",
       "exercise": {
         "id": "ex-match-erikson-erwachsen",
+        "stable_id": "ex-ms942qq11e960",
         "type": "matching",
         "prompt": "Ordne jeder Lebensphase die passende Erikson-Krise zu.",
         "card_ids": ["junges-erwachsenenalter-erikson", "mittleres-erwachsenenalter-erikson", "erikson-erwachsen-ueberblick"],
@@ -156,6 +169,7 @@
       "title": "Generativität erkennen",
       "exercise": {
         "id": "ex-cloze-generativitaet",
+        "stable_id": "ex-ms942qq11eau6",
         "type": "cloze",
         "prompt": "Ergänze den Gegenbegriff zur Generativität in Eriksons mittlerer Erwachsenenstufe.",
         "card_ids": ["mittleres-erwachsenenalter-erikson"],
@@ -174,6 +188,7 @@
       "title": "Wer prägte das Konzept?",
       "exercise": {
         "id": "ex-free-emerging-adulthood",
+        "stable_id": "ex-ms942qq11ebx1",
         "type": "free_text",
         "prompt": "Wie heißt das Konzept der verlängerten Übergangsphase zwischen 18 und 25 Jahren, geprägt von Identitätserkundung und Instabilität?",
         "card_ids": ["emerging-adulthood"],
@@ -190,6 +205,7 @@
       "title": "Intelligenzarten im Erwachsenenalter",
       "exercise": {
         "id": "ex-match-intelligenz",
+        "stable_id": "ex-ms942qq11ecaf",
         "type": "matching",
         "prompt": "Ordne jeder Intelligenzart ihren typischen Verlauf im Erwachsenenalter zu.",
         "card_ids": ["kristalline-intelligenz", "fluide-intelligenz"],
@@ -208,6 +224,7 @@
       "title": "Die soziale Uhr",
       "exercise": {
         "id": "ex-cloze-soziale-uhr",
+        "stable_id": "ex-ms942qq11edhg",
         "type": "cloze",
         "prompt": "Ergänze den Begriff für kulturelle Erwartungen über den Zeitpunkt von Lebensereignissen.",
         "card_ids": ["soziale-uhr"],
@@ -226,6 +243,7 @@
       "title": "Persönlichkeit und Alter",
       "exercise": {
         "id": "ex-free-reifungsprinzip",
+        "stable_id": "ex-ms942qq11ee2q",
         "type": "free_text",
         "prompt": "Wie heißt das Prinzip, das beschreibt, dass Menschen mit dem Alter gewissenhafter und verträglicher werden?",
         "card_ids": ["reifungsprinzip", "stabilität-wandel-persoenlichkeit"],
@@ -242,6 +260,7 @@
       "title": "Emerging Adulthood zusammensetzen",
       "exercise": {
         "id": "ex-tiles-arnett",
+        "stable_id": "ex-ms942qq11effu",
         "type": "word_tiles",
         "prompt": "Setze den Kernsatz zu Arnetts Konzept zusammen.",
         "card_ids": ["emerging-adulthood", "arnett-merkmale"],

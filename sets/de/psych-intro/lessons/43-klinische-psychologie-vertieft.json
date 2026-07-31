@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "icd-11",
+      "stable_id": "card-ms942qph0y1va",
       "front": "ICD-11 (International Classification of Diseases, 11. Revision)",
       "back": "Das Klassifikationssystem der Weltgesundheitsorganisation (WHO) zur einheitlichen Diagnose von Krankheiten und psychischen Störungen weltweit.",
       "notes": "ICD steht für International Classification of Diseases. Die 11. Revision gilt seit 2022 offiziell. Komplementär zum DSM-5 der APA.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "dsm-5",
+      "stable_id": "card-ms942qph0y2ul",
       "front": "DSM-5 (Diagnostic and Statistical Manual of Mental Disorders, 5. Auflage)",
       "back": "Das Klassifikationssystem der American Psychiatric Association (APA), das psychische Störungen anhand einheitlicher Diagnosekriterien beschreibt.",
       "notes": "DSM steht für Diagnostic and Statistical Manual. Das DSM-5 erschien 2013 und ist besonders in der Forschung international einflussreich.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "komorbiditaet",
+      "stable_id": "card-ms942qph0y3lg",
       "front": "Komorbidität (Comorbidity)",
       "back": "Das gleichzeitige Vorliegen von zwei oder mehr eigenständigen psychischen (oder körperlichen) Störungen bei einer Person.",
       "notes": "Beispiel: Eine Person hat gleichzeitig eine Depression und eine Angststörung. Komorbidität ist in der klinischen Praxis eher die Regel als die Ausnahme.",
@@ -37,6 +40,7 @@
     },
     {
       "id": "panikstörung",
+      "stable_id": "card-ms942qph0y4or",
       "front": "Panikstörung (Panic Disorder)",
       "back": "Angststörung mit wiederkehrenden, unerwarteten Panikattacken und anhaltender Sorge vor weiteren Attacken sowie deren Folgen.",
       "notes": "Kernmerkmale: plötzliche intensive Angst, Herzrasen, Schwindel, Atemnot, Gefühl des Kontrollverlusts. Häufig entwickelt sich Vermeidungsverhalten.",
@@ -46,6 +50,7 @@
     },
     {
       "id": "generalisierte-angststörung",
+      "stable_id": "card-ms942qph0y5w3",
       "front": "Generalisierte Angststörung (Generalized Anxiety Disorder, GAD)",
       "back": "Anhaltende, schwer kontrollierbare Sorgen über viele Lebensbereiche, die seit mindestens sechs Monaten bestehen.",
       "notes": "Im Unterschied zur Panikstörung gibt es keine plötzlichen Attacken, sondern chronische Anspannung und Grübeln.",
@@ -55,6 +60,7 @@
     },
     {
       "id": "major-depression",
+      "stable_id": "card-ms942qph0y67f",
       "front": "Major Depression (Schwere Depressive Episode)",
       "back": "Affektive Störung mit mindestens zwei Wochen anhaltend gedrückter Stimmung, Interessenverlust und Antriebslosigkeit als Kernsymptomen.",
       "notes": "Weitere Symptome: Schlafstörungen, Konzentrationsprobleme, Schuldgefühle, suizidale Gedanken. Eine der häufigsten psychischen Erkrankungen weltweit.",
@@ -64,6 +70,7 @@
     },
     {
       "id": "bipolare-störung",
+      "stable_id": "card-ms942qph0y7jh",
       "front": "Bipolare Störung (Bipolar Disorder)",
       "back": "Affektive Störung mit abwechselnden Phasen von Depression und Manie (oder Hypomanie).",
       "notes": "Manische Phasen: gehobene Stimmung, vermindertes Schlafbedürfnis, Risikobereitschaft, Gedankenrasen. Früher 'manisch-depressive Erkrankung' genannt.",
@@ -74,6 +81,7 @@
     },
     {
       "id": "zwangsstörung",
+      "stable_id": "card-ms942qph0y849",
       "front": "Zwangsstörung (Obsessive-Compulsive Disorder, OCD)",
       "back": "Psychische Störung mit sich aufdrängenden, ungewollten Gedanken (Obsessionen) und/oder Zwangshandlungen (Kompulsionen), die die Person nicht unterdrücken kann.",
       "notes": "Beispiele: Waschzwang, Kontrollzwang. Die Zwangshandlungen reduzieren kurzfristig Angst, verstärken das Problem aber langfristig.",
@@ -83,6 +91,7 @@
     },
     {
       "id": "ptbs",
+      "stable_id": "card-ms942qph0y997",
       "front": "Posttraumatische Belastungsstörung (PTBS / Post-Traumatic Stress Disorder, PTSD)",
       "back": "Störung, die nach einem extrem belastenden Erlebnis auftreten kann und durch Intrusionen (Wiedererleben), Vermeidung, negative Stimmung und erhöhte Erregung gekennzeichnet ist.",
       "notes": "Intrusionen umfassen Flashbacks und Albträume. Nicht jede Person, die ein Trauma erlebt, entwickelt eine PTBS.",
@@ -92,6 +101,7 @@
     },
     {
       "id": "schizophrenie",
+      "stable_id": "card-ms942qph0yapx",
       "front": "Schizophrenie (Schizophrenia)",
       "back": "Schwere psychische Störung mit Positiv- und Negativsymptomatik, die das Denken, die Wahrnehmung und das Verhalten tiefgreifend beeinträchtigt.",
       "notes": "Positivsymptome (Hinzufügungen): Halluzinationen, Wahnvorstellungen, desorganisiertes Denken. Negativsymptome (Verluste): Affektverflachung, Antriebsarmut, sozialer Rückzug.",
@@ -102,6 +112,7 @@
     },
     {
       "id": "persönlichkeitsstörung",
+      "stable_id": "card-ms942qph0ybs8",
       "front": "Persönlichkeitsstörung (Personality Disorder)",
       "back": "Tief verwurzelte, anhaltende Muster des Erlebens und Verhaltens, die deutlich von den Erwartungen der Umgebung abweichen und zu Leidensdruck oder Beeinträchtigungen führen.",
       "notes": "Beispiel Borderline-Persönlichkeitsstörung: instabile Affekte, Impulsivität, instabile Beziehungen, Selbstbildprobleme. ICD-11 unterscheidet verschiedene Schweregrade.",
@@ -111,6 +122,7 @@
     },
     {
       "id": "vulnerabilitäts-stress-modell",
+      "stable_id": "card-ms942qph0yc39",
       "front": "Vulnerabilitäts-Stress-Modell (Diathese-Stress-Modell)",
       "back": "Entstehungsmodell psychischer Störungen: Eine biologische oder psychologische Disposition (Vulnerabilität) führt nur bei ausreichend großem Stress zur Störung.",
       "notes": "Vulnerabilität allein reicht nicht aus — erst Stress löst die Störung aus. Umgekehrt kann großer Stress auch bei geringer Vulnerabilität problematisch werden. Integriert Anlage und Umwelt.",
@@ -146,6 +158,7 @@
       "title": "ICD-11 und DSM-5 zuordnen",
       "exercise": {
         "id": "ex-match-klassifikation",
+        "stable_id": "ex-ms942qph0yd2p",
         "type": "matching",
         "prompt": "Ordne jedem Merkmal das richtige Klassifikationssystem zu.",
         "card_ids": ["icd-11", "dsm-5"],
@@ -165,6 +178,7 @@
       "title": "Störungsbilder und ihre Kernmerkmale",
       "exercise": {
         "id": "ex-match-störungsbilder",
+        "stable_id": "ex-ms942qph0ye2n",
         "type": "matching",
         "prompt": "Ordne jedem Störungsbild sein wichtigstes Kernmerkmal zu.",
         "card_ids": ["panikstörung", "major-depression", "zwangsstörung", "schizophrenie", "ptbs"],
@@ -185,6 +199,7 @@
       "title": "Das Entstehungsmodell benennen",
       "exercise": {
         "id": "ex-cloze-vulnerabilität",
+        "stable_id": "ex-ms942qph0yfpu",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff für das Modell, das biologische Anfälligkeit und Stress als gemeinsame Ursache beschreibt.",
         "card_ids": ["vulnerabilitäts-stress-modell"],
@@ -203,6 +218,7 @@
       "title": "Komorbidität erkennen",
       "exercise": {
         "id": "ex-free-komorbiditaet",
+        "stable_id": "ex-ms942qph0ygof",
         "type": "free_text",
         "prompt": "Wie nennt man das gleichzeitige Vorliegen von zwei oder mehr eigenständigen psychischen Störungen bei einer Person?",
         "card_ids": ["komorbiditaet"],
@@ -219,6 +235,7 @@
       "title": "Positiv- und Negativsymptome",
       "exercise": {
         "id": "ex-free-schizophrenie",
+        "stable_id": "ex-ms942qph0yhsr",
         "type": "free_text",
         "prompt": "Wie heißen bei der Schizophrenie die Symptome, die etwas Hinzufügen (z. B. Wahn und Halluzinationen)?",
         "card_ids": ["schizophrenie"],
@@ -235,6 +252,7 @@
       "title": "Das Modell zusammensetzen",
       "exercise": {
         "id": "ex-tiles-diathese",
+        "stable_id": "ex-ms942qph0yikq",
         "type": "word_tiles",
         "prompt": "Setze den alternativen Namen des Vulnerabilitäts-Stress-Modells zusammen.",
         "card_ids": ["vulnerabilitäts-stress-modell"],
@@ -250,6 +268,7 @@
       "title": "Bipolare Störung — die zwei Pole",
       "exercise": {
         "id": "ex-cloze-bipolar",
+        "stable_id": "ex-ms942qph0yj5o",
         "type": "cloze",
         "prompt": "Ergänze die beiden Phasen der bipolaren Störung.",
         "card_ids": ["bipolare-störung"],

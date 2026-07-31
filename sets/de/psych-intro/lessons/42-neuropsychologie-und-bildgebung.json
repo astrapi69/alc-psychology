@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "neuropsychologie",
+      "stable_id": "card-ms942qph0xi61",
       "front": "Neuropsychologie (Neuropsychology)",
       "back": "Teilgebiet, das den Zusammenhang zwischen Gehirnstruktur und -funktion einerseits und Verhalten sowie Kognition andererseits untersucht — häufig bei Patientinnen und Patienten mit Hirnschädigungen.",
       "notes": "Baut auf Lektion 13 (Biologische Grundlagen) und 37 (Biopsychologie) auf.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "laesionsmethode",
+      "stable_id": "card-ms942qph0xjdz",
       "front": "Läsionsmethode (Lesion Method)",
       "back": "Forschungsansatz, bei dem aus dem Ausfall bestimmter Funktionen nach einer Hirnschädigung auf die Funktion des betroffenen Areals geschlossen wird.",
       "notes": "Klassisches Beispiel: Phineas Gage — nach Unfall im Frontallappen veränderte sich seine Persönlichkeit drastisch.",
@@ -28,6 +30,7 @@
     },
     {
       "id": "phineas-gage",
+      "stable_id": "card-ms942qph0xkke",
       "front": "Phineas Gage",
       "back": "Historischer Patient (1848), dessen Frontallappen durch eine Eisenstange zerstört wurde; er überlebte, zeigte aber danach schwere Persönlichkeits- und Verhaltensveränderungen.",
       "notes": "Gilt als klassisches Fallbeispiel für die Bedeutung des präfrontalen Kortex für Persönlichkeit und soziales Verhalten.",
@@ -37,6 +40,7 @@
     },
     {
       "id": "eeg",
+      "stable_id": "card-ms942qph0xljm",
       "front": "EEG — Elektroenzephalografie (Electroencephalography)",
       "back": "Messverfahren, das elektrische Aktivität des Gehirns über Elektroden auf der Kopfhaut aufzeichnet; sehr hohe zeitliche Auflösung, aber geringe räumliche Auflösung.",
       "notes": "Nützlich zur Untersuchung von Schlafphasen, Anfällen (Epilepsie) und schnellen Reaktionen (EKP).",
@@ -46,6 +50,7 @@
     },
     {
       "id": "fmrt",
+      "stable_id": "card-ms942qph0xmud",
       "front": "fMRT — funktionelle Magnetresonanztomografie (fMRI)",
       "back": "Bildgebendes Verfahren, das über Veränderungen der Durchblutung (BOLD-Signal) aktive Hirnregionen sichtbar macht; hohe räumliche Auflösung, aber vergleichsweise geringe zeitliche Auflösung.",
       "notes": "BOLD = Blood-Oxygen-Level-Dependent. Misst nicht direkt elektrische Aktivität, sondern Sauerstoffverbrauch.",
@@ -56,6 +61,7 @@
     },
     {
       "id": "pet",
+      "stable_id": "card-ms942qph0xnzs",
       "front": "PET — Positronenemissionstomografie (Positron Emission Tomography)",
       "back": "Funktionelles Bildgebungsverfahren, das radioaktiv markierte Substanzen (Tracer) nutzt, um Stoffwechselaktivität und Durchblutung im Gehirn sichtbar zu machen.",
       "notes": "Strahlenbelastung durch radioaktiven Tracer; mittlere räumliche und geringe zeitliche Auflösung.",
@@ -65,6 +71,7 @@
     },
     {
       "id": "mrt-ct-struktur",
+      "stable_id": "card-ms942qph0xo90",
       "front": "MRT und CT — Strukturbildgebung",
       "back": "MRT (Magnetresonanztomografie) und CT (Computertomografie) liefern detaillierte anatomische Bilder des Gehirns, zeigen aber keine Aktivität — sie sind Strukturbildgebungsverfahren.",
       "notes": "MRT ohne Strahlung, hohe Kontraste für Weichgewebe; CT schneller, aber mit Röntgenstrahlung.",
@@ -74,6 +81,7 @@
     },
     {
       "id": "broca-aphasie",
+      "stable_id": "card-ms942qph0xp39",
       "front": "Broca-Aphasie (Broca's Aphasia)",
       "back": "Sprachstörung mit beeinträchtigter Sprachproduktion bei erhaltenem Sprachverständnis; verursacht durch eine Schädigung des Broca-Areals im linken Frontallappen.",
       "notes": "Benannt nach Paul Broca (1861). Betroffene sprechen mühsam und agrammatisch, verstehen aber größtenteils.",
@@ -83,6 +91,7 @@
     },
     {
       "id": "wernicke-aphasie",
+      "stable_id": "card-ms942qph0xq0t",
       "front": "Wernicke-Aphasie (Wernicke's Aphasia)",
       "back": "Sprachstörung mit fließender, aber inhaltlich sinnloser Sprache und gestörtem Sprachverständnis; verursacht durch eine Schädigung des Wernicke-Areals im linken Temporallappen.",
       "notes": "Benannt nach Carl Wernicke (1874). Betroffene produzieren viele Wörter, aber der Sinn fehlt.",
@@ -92,6 +101,7 @@
     },
     {
       "id": "hemisphaerenlaterlisierung",
+      "stable_id": "card-ms942qph0xroq",
       "front": "Hemisphärenlateralisierung (Hemispheric Lateralization)",
       "back": "Die funktionale Spezialisierung der linken und rechten Gehirnhälfte: z. B. ist die Sprachproduktion bei den meisten Menschen linkslateralisiert.",
       "notes": "Roger Sperry erforschte dies mit Split-Brain-Patienten und erhielt 1981 den Nobelpreis.",
@@ -101,6 +111,7 @@
     },
     {
       "id": "split-brain",
+      "stable_id": "card-ms942qph0xslf",
       "front": "Split-Brain (Commissurotomie)",
       "back": "Zustand nach chirurgischer Durchtrennung des Balkens (Corpus callosum), die die Kommunikation zwischen den Hemisphären unterbricht; Sperrys Studien zeigten, dass beide Hälften eigenständig wahrnehmen und handeln können.",
       "notes": "Wurde früher als Behandlung schwerer Epilepsie eingesetzt.",
@@ -111,6 +122,7 @@
     },
     {
       "id": "neuroplastizitaet-rekapitulation",
+      "stable_id": "card-ms942qph0xt5v",
       "front": "Neuroplastizität (Neural Plasticity) — Rekapitulation",
       "back": "Die Fähigkeit des Gehirns, seine Struktur und Verschaltung in Reaktion auf Erfahrungen, Lernen oder nach Verletzungen zu verändern — Grundlage für Rehabilitation nach Hirnschädigungen.",
       "notes": "Vertieft aus Lektion 13. Neuroplastizität ermöglicht, dass gesunde Areale Funktionen geschädigter Areale teilweise übernehmen können.",
@@ -145,6 +157,7 @@
       "title": "Die Läsionsmethode benennen",
       "exercise": {
         "id": "ex-cloze-laesion",
+        "stable_id": "ex-ms942qph0xuf0",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff für die Methode, die aus Hirnschäden auf Hirnfunktionen schließt.",
         "card_ids": ["laesionsmethode"],
@@ -163,6 +176,7 @@
       "title": "Bildgebende Verfahren zuordnen",
       "exercise": {
         "id": "ex-match-bildgebung",
+        "stable_id": "ex-ms942qph0xv5c",
         "type": "matching",
         "prompt": "Ordne jedem bildgebenden Verfahren seine wichtigste Eigenschaft zu.",
         "card_ids": ["eeg", "fmrt", "pet", "mrt-ct-struktur"],
@@ -182,6 +196,7 @@
       "title": "Broca- vs. Wernicke-Aphasie",
       "exercise": {
         "id": "ex-match-aphasien",
+        "stable_id": "ex-ms942qph0xw9w",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Beschreibung zu.",
         "card_ids": ["broca-aphasie", "wernicke-aphasie", "hemisphaerenlaterlisierung"],
@@ -200,6 +215,7 @@
       "title": "Neuropsychologie definieren",
       "exercise": {
         "id": "ex-free-neuropsychologie",
+        "stable_id": "ex-ms942qph0xxqy",
         "type": "free_text",
         "prompt": "Welches Teilgebiet untersucht den Zusammenhang zwischen Gehirnfunktion und Verhalten bzw. Kognition, häufig anhand von Hirnschädigungen?",
         "card_ids": ["neuropsychologie"],
@@ -216,6 +232,7 @@
       "title": "Sperry und das Split-Brain",
       "exercise": {
         "id": "ex-free-split-brain",
+        "stable_id": "ex-ms942qph0xyhq",
         "type": "free_text",
         "prompt": "Welcher Forscher führte die berühmten Split-Brain-Studien durch, die zeigten, dass beide Hemisphären eigenständig wahrnehmen und handeln können?",
         "card_ids": ["split-brain", "hemisphaerenlaterlisierung"],
@@ -232,6 +249,7 @@
       "title": "Das BOLD-Signal",
       "exercise": {
         "id": "ex-cloze-fmrt",
+        "stable_id": "ex-ms942qph0xz3s",
         "type": "cloze",
         "prompt": "Ergänze das Messprinzip des fMRT.",
         "card_ids": ["fmrt"],
@@ -250,6 +268,7 @@
       "title": "Neuroplastizität beschreiben",
       "exercise": {
         "id": "ex-tiles-neuroplastizitaet",
+        "stable_id": "ex-ms942qph0y0mz",
         "type": "word_tiles",
         "prompt": "Setze die Definition der Neuroplastizität zusammen.",
         "card_ids": ["neuroplastizitaet-rekapitulation"],

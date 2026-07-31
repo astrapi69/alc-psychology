@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "aundo-gegenstand",
+      "stable_id": "card-ms942qop09wmi",
       "front": "Arbeits- und Organisationspsychologie (A&O)",
       "back": "Teilgebiet der Psychologie, das Erleben und Verhalten von Menschen in der Arbeitswelt untersucht und gestaltet. Sie gliedert sich klassisch in drei Bereiche: Arbeitspsychologie (Tätigkeit und Arbeitsbedingungen), Personalpsychologie (Eignung, Auswahl, Entwicklung) und Organisationspsychologie (Zusammenarbeit, Führung, Struktur).",
       "notes": "Englisch: work and organizational psychology, in den USA auch I/O psychology. Drei Bereiche: Arbeit, Person, Organisation.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "taylorismus",
+      "stable_id": "card-ms942qop09xjx",
       "front": "Taylorismus (Scientific Management)",
       "back": "Von F. W. Taylor um 1900 begründeter Ansatz, Arbeit wissenschaftlich zu zergliedern und zu optimieren: strikte Trennung von Planung und Ausführung, Zeit- und Bewegungsstudien, Akkordlohn. Steigerte die Produktivität, vernachlässigte aber soziale und psychische Bedürfnisse.",
       "notes": "Englisch: scientific management. Menschenbild: Arbeit primär über Geld gesteuert (ökonomisches Menschenbild).",
@@ -27,6 +29,7 @@
     },
     {
       "id": "hawthorne",
+      "stable_id": "card-ms942qop09y9i",
       "front": "Hawthorne-Studien / Human-Relations-Bewegung",
       "back": "Untersuchungen in den Hawthorne-Werken (1920er/30er Jahre): Die Leistung stieg unabhängig von der konkreten Änderung der Arbeitsbedingungen — entscheidend waren Aufmerksamkeit, soziale Beziehungen und Gruppennormen. Begründete die Human-Relations-Bewegung, die den Menschen als soziales Wesen betont.",
       "notes": "Hawthorne-Effekt: Verhalten ändert sich, weil man sich beobachtet fühlt. Gegenbewegung zum rein technischen Taylorismus.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "belastung-beanspruchung",
+      "stable_id": "card-ms942qop09z0b",
       "front": "Belastung vs. Beanspruchung",
       "back": "Belastung meint die von außen einwirkenden, objektiven Anforderungen einer Tätigkeit (z. B. Lärm, Zeitdruck, Verantwortung). Beanspruchung ist die individuelle Auswirkung dieser Belastung im Menschen — abhängig von Fähigkeiten, Erfahrung und Bewertung. Gleiche Belastung kann unterschiedliche Beanspruchung erzeugen.",
       "notes": "Belastungs-Beanspruchungs-Konzept (Rohmert/Rutenfranz). Merke: Belastung = außen/objektiv, Beanspruchung = innen/individuell.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "herzberg",
+      "stable_id": "card-ms942qop0a0ac",
       "front": "Zwei-Faktoren-Theorie (Herzberg)",
       "back": "Herzberg unterscheidet zwei Gruppen von Faktoren: Hygienefaktoren (z. B. Gehalt, Arbeitsbedingungen, Sicherheit) verhindern Unzufriedenheit, schaffen aber keine echte Zufriedenheit. Motivatoren (z. B. Leistung, Anerkennung, Verantwortung, Inhalt der Arbeit) erzeugen Zufriedenheit und Motivation.",
       "notes": "Englisch: two-factor theory / motivation-hygiene theory. Hygienefaktoren wirken am Umfeld, Motivatoren an der Tätigkeit selbst.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "vroom-vie",
+      "stable_id": "card-ms942qop0a18u",
       "front": "VIE-Theorie / Erwartungs-x-Wert-Modell (Vroom)",
       "back": "Prozesstheorie der Motivation: Die Anstrengung hängt vom Produkt dreier Größen ab — Valenz (Wie attraktiv ist das Ergebnis?), Instrumentalität (Führt die Leistung zum Ergebnis?) und Erwartung (Kann ich die Leistung überhaupt erbringen?). Ist einer der Faktoren null, ist auch die Motivation null.",
       "notes": "Englisch: expectancy theory. V = Valenz, I = Instrumentalität, E = Erwartung (expectancy). Multiplikative Verknüpfung.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "locke-latham",
+      "stable_id": "card-ms942qop0a2jm",
       "front": "Zielsetzungstheorie (Locke & Latham)",
       "back": "Konkrete und herausfordernde Ziele führen zu höherer Leistung als vage Ziele (Motto: tu dein Bestes) oder gar keine Ziele — vorausgesetzt, die Person akzeptiert das Ziel, erhält Rückmeldung und besitzt die nötigen Fähigkeiten. Grundlage von SMART-Zielen.",
       "notes": "Englisch: goal-setting theory. Wirkfaktoren: Zielklarheit, Zielschwierigkeit, Zielbindung (Commitment), Feedback.",
@@ -72,6 +79,7 @@
     },
     {
       "id": "job-characteristics",
+      "stable_id": "card-ms942qop0a39j",
       "front": "Job Characteristics Model (Hackman & Oldham)",
       "back": "Modell der Arbeitsgestaltung: Fünf Kernmerkmale (Anforderungsvielfalt, Ganzheitlichkeit, Bedeutsamkeit, Autonomie, Rückmeldung) erzeugen drei psychologische Erlebniszustände, die wiederum zu Motivation, Zufriedenheit und Leistung führen. Autonomie und Feedback wirken besonders stark.",
       "notes": "Englisch: Job Characteristics Model (JCM). Vermittelnd: erlebte Bedeutsamkeit, erlebte Verantwortung, Kenntnis der Ergebnisse.",
@@ -81,6 +89,7 @@
     },
     {
       "id": "arbeitszufriedenheit",
+      "stable_id": "card-ms942qop0a4dm",
       "front": "Arbeitszufriedenheit",
       "back": "Einstellung gegenüber der eigenen Arbeit, die aus dem Vergleich von Erwartungen und tatsächlicher Situation entsteht. Sie ist nicht einfach das Gegenteil von Unzufriedenheit (vgl. Herzberg) und hängt nur mäßig mit Leistung zusammen — stärker mit Fehlzeiten und Kündigungsabsicht.",
       "notes": "Auch resignative Zufriedenheit möglich (gesenkte Ansprüche). Selbstbestimmungstheorie betont Autonomie, Kompetenz, soziale Eingebundenheit.",
@@ -90,6 +99,7 @@
     },
     {
       "id": "transformational-fuehrung",
+      "stable_id": "card-ms942qop0a5vv",
       "front": "Transformationale vs. transaktionale Führung",
       "back": "Transaktionale Führung beruht auf Austausch: Leistung gegen Belohnung, Kontrolle und Korrektur. Transformationale Führung inspiriert und verändert die Werte der Geführten über die vier I: idealisierter Einfluss (Vorbild), inspirierende Motivation, intellektuelle Stimulierung, individuelle Berücksichtigung.",
       "notes": "Englisch: transformational vs. transactional leadership (Bass). Die vier I gehören zur transformationalen Führung.",
@@ -99,6 +109,7 @@
     },
     {
       "id": "tuckman-team",
+      "stable_id": "card-ms942qop0a6ht",
       "front": "Teamentwicklung (Tuckman)",
       "back": "Phasenmodell der Gruppenentwicklung: Forming (Orientierung), Storming (Konflikte um Rollen und Macht), Norming (Regeln und Zusammenhalt), Performing (produktive Arbeit). Später ergänzt um Adjourning (Auflösung). Gruppen durchlaufen typischerweise Spannungen, bevor sie leistungsfähig werden.",
       "notes": "Englisch: forming-storming-norming-performing. Risiken der Gruppenarbeit: soziales Faulenzen und Groupthink.",
@@ -108,6 +119,7 @@
     },
     {
       "id": "burnout-maslach",
+      "stable_id": "card-ms942qop0a79n",
       "front": "Burnout (Maslach: drei Dimensionen)",
       "back": "Zustand chronischer arbeitsbezogener Erschöpfung mit drei Dimensionen nach Maslach: emotionale Erschöpfung (ausgelaugt sein), Depersonalisation/Zynismus (distanzierte, abweisende Haltung gegenüber Arbeit und Menschen) und reduzierte Leistungsfähigkeit (Gefühl mangelnder Wirksamkeit). Entwickelt sich meist schleichend.",
       "notes": "Erfasst mit dem Maslach Burnout Inventory (MBI). In Lektion 99 wurde betont: bei Belastung professionelle Hilfe in Anspruch nehmen, keine Selbstdiagnose.",
@@ -142,6 +154,7 @@
       "title": "Teildisziplinen und Geschichte",
       "exercise": {
         "id": "ex-match-teildisziplinen",
+        "stable_id": "ex-ms942qop0a83z",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Kennzeichnung zu.",
         "card_ids": ["aundo-gegenstand", "taylorismus", "hawthorne", "belastung-beanspruchung"],
@@ -161,6 +174,7 @@
       "title": "Die VIE-Formel",
       "exercise": {
         "id": "ex-cloze-vroom",
+        "stable_id": "ex-ms942qop0a9sy",
         "type": "cloze",
         "prompt": "Ergänze den fehlenden Faktor der VIE-Theorie von Vroom.",
         "card_ids": ["vroom-vie"],
@@ -177,6 +191,7 @@
       "title": "Zwei Gruppen von Faktoren",
       "exercise": {
         "id": "ex-free-herzberg",
+        "stable_id": "ex-ms942qop0aa7y",
         "type": "free_text",
         "prompt": "Wie heißen bei Herzberg die Faktoren, die Unzufriedenheit verhindern, aber keine echte Zufriedenheit schaffen (z. B. Gehalt, Arbeitsbedingungen)?",
         "card_ids": ["herzberg"],
@@ -193,6 +208,7 @@
       "title": "Die drei Burnout-Dimensionen",
       "exercise": {
         "id": "ex-tiles-burnout",
+        "stable_id": "ex-ms942qop0abkh",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zu den drei Burnout-Dimensionen nach Maslach zusammen.",
         "card_ids": ["burnout-maslach"],
@@ -208,6 +224,7 @@
       "title": "Führung und Team",
       "exercise": {
         "id": "ex-match-fuehrung",
+        "stable_id": "ex-ms942qop0acih",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die korrekte Beschreibung zu.",
         "card_ids": ["transformational-fuehrung", "tuckman-team"],
@@ -227,6 +244,7 @@
       "title": "Anforderung und Spielraum",
       "exercise": {
         "id": "ex-cloze-jdc",
+        "stable_id": "ex-ms942qop0adlq",
         "type": "cloze",
         "prompt": "Ergänze die Kernaussage des Job-Demand-Control-Modells.",
         "card_ids": ["belastung-beanspruchung", "burnout-maslach"],
@@ -243,6 +261,7 @@
       "title": "Phasen der Teamentwicklung",
       "exercise": {
         "id": "ex-free-tuckman",
+        "stable_id": "ex-ms942qop0aes2",
         "type": "free_text",
         "prompt": "Wie heißt die letzte der vier klassischen Tuckman-Phasen, in der das Team produktiv arbeitet?",
         "card_ids": ["tuckman-team"],
@@ -259,6 +278,7 @@
       "title": "Zielsetzungstheorie zusammensetzen",
       "exercise": {
         "id": "ex-tiles-zielsetzung",
+        "stable_id": "ex-ms942qop0afhn",
         "type": "word_tiles",
         "prompt": "Setze die Kernaussage der Zielsetzungstheorie von Locke & Latham zusammen.",
         "card_ids": ["locke-latham"],

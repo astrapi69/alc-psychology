@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "verhaltenstherapie",
+      "stable_id": "card-ms942qp20k4km",
       "front": "Verhaltenstherapie (Behaviour Therapy / CBT — Verhaltensanteil)",
       "back": "Ein psychotherapeutisches Verfahren, das auf der Annahme beruht, dass problematisches Verhalten erlernt wurde und durch gezielte Lernprozesse wieder umgelernt werden kann.",
       "notes": "Aufbauend auf Lektion 4 (klassische & operante Konditionierung) und Lektion 16 (Grundlagen der Psychotherapie).",
@@ -18,6 +19,7 @@
     },
     {
       "id": "lerntheoretische-grundlage",
+      "stable_id": "card-ms942qp20k5cl",
       "front": "Lerntheoretische Grundlage der VT",
       "back": "Die Verhaltenstherapie stützt sich auf die klassische Konditionierung (Pawlow) und die operante Konditionierung (Skinner): Verhalten entsteht durch Lernen und kann durch neue Lernerfahrungen verändert werden.",
       "notes": "Direkte Verbindung zu Lektion 4. Klassische Konditionierung erklärt das Entstehen von Angstreaktionen; operante Konditionierung das Aufrechterhalten durch Vermeidung.",
@@ -28,6 +30,7 @@
     },
     {
       "id": "sorkc-modell",
+      "stable_id": "card-ms942qp20k6da",
       "front": "SORKC-Modell (Verhaltensanalyse)",
       "back": "Ein Rahmenmodell zur Analyse von Verhalten: **S** = Stimulus (auslösende Situation), **O** = Organismus (Person mit Biografie, Kognitionen), **R** = Reaktion (Verhalten), **K** = Kontingenz (Regelmäßigkeit der Konsequenz), **C** = Consequenz (Folge des Verhaltens).",
       "notes": "Erweiterung des SORC-Modells. Wichtig: Ohne genaue Verhaltensanalyse kann keine zielgerichtete VT-Intervention geplant werden.",
@@ -38,6 +41,7 @@
     },
     {
       "id": "exposition",
+      "stable_id": "card-ms942qp20k781",
       "front": "Exposition / Konfrontation (Exposure)",
       "back": "Eine VT-Technik, bei der Betroffene der angstauslösenden Situation direkt ausgesetzt werden — ohne dabei das Angstvermeidungsverhalten zu zeigen (Reaktionsverhinderung). Ziel: die Angstreaktion erlischt durch Habituation.",
       "notes": "Gilt als Methode der Wahl bei Phobien und Zwangsstörungen. Kann in vivo (real) oder in sensu (in der Vorstellung) durchgeführt werden.",
@@ -48,6 +52,7 @@
     },
     {
       "id": "systematische-desensibilisierung",
+      "stable_id": "card-ms942qp20k818",
       "front": "Systematische Desensibilisierung (Systematic Desensitisation — Wolpe)",
       "back": "Eine graduierte Expositionstechnik nach Joseph Wolpe: Aufbau einer Angsthierarchie (von wenig bis sehr angstauslösend), Kombinieren mit tiefer Entspannung, schrittweises Aufsteigen in der Hierarchie — Angst und Entspannung können nicht gleichzeitig bestehen (reziproke Hemmung).",
       "notes": "Entwickelt von Joseph Wolpe in den 1950er Jahren. Geeignet für spezifische Phobien.",
@@ -58,6 +63,7 @@
     },
     {
       "id": "habituation",
+      "stable_id": "card-ms942qp20k9bc",
       "front": "Habituation (Gewöhnung)",
       "back": "Die natürliche Abnahme einer Reaktion (z. B. Angst) bei wiederholtem, anhaltendem Kontakt mit dem Reiz ohne negative Konsequenz. Basis des Wirkmechanismus der Exposition.",
       "notes": "Je länger und konsequenter die Exposition, desto stärker die Habituation. Vermeidung verhindert sie.",
@@ -67,6 +73,7 @@
     },
     {
       "id": "operante-verfahren",
+      "stable_id": "card-ms942qp20ka8a",
       "front": "Operante Verfahren (Operant Techniques)",
       "back": "VT-Techniken, die auf der operanten Konditionierung basieren: erwünschtes Verhalten wird durch positive Verstärkung (Belohnung) gefördert; unerwünschtes Verhalten durch negative Konsequenzen oder Löschung reduziert.",
       "notes": "Positive Verstärkung = angenehmer Reiz folgt dem Verhalten. Negative Verstärkung = unangenehmer Reiz wird entfernt. Beide erhöhen die Auftretenswahrscheinlichkeit.",
@@ -76,6 +83,7 @@
     },
     {
       "id": "token-system",
+      "stable_id": "card-ms942qp20kbke",
       "front": "Token-System (Token Economy)",
       "back": "Ein operantes Verfahren: Personen erhalten für erwünschtes Verhalten Symbole (Token, z. B. Punkte, Chips), die gegen Belohnungen eingetauscht werden können. Bewährt in stationären Settings und bei Kindern.",
       "notes": "Basiert auf dem Prinzip der positiven Verstärkung aus Lektion 4. Tauschsystem: Token = sekundärer Verstärker.",
@@ -85,6 +93,7 @@
     },
     {
       "id": "shaping",
+      "stable_id": "card-ms942qp20kcuu",
       "front": "Shaping (Schrittweise Annäherung / Verhaltensformung)",
       "back": "Sukzessive Annäherung an ein Zielverhalten: Es werden zunächst nur grobe Annäherungen an das gewünschte Verhalten verstärkt, dann schrittweise immer präzisere — bis das Zielverhalten vollständig gezeigt wird.",
       "notes": "Nützlich, wenn das Zielverhalten noch gar nicht im Repertoire vorhanden ist. Verwandt mit dem Prinzip der graduierten Aufgaben.",
@@ -95,6 +104,7 @@
     },
     {
       "id": "angsthierarchie",
+      "stable_id": "card-ms942qp20kdoj",
       "front": "Angsthierarchie (Fear Hierarchy)",
       "back": "Eine geordnete Liste von Situationen oder Reizen, die von der Person als zunehmend angstauslösend bewertet werden — von kaum beängstigend bis zum stärksten Angstauslöser. Grundlage der systematischen Desensibilisierung.",
       "notes": "Wird gemeinsam von Therapeut:in und Klient:in erstellt. Typischerweise 8–12 Stufen.",
@@ -104,6 +114,7 @@
     },
     {
       "id": "reaktionsverhinderung",
+      "stable_id": "card-ms942qp20kesp",
       "front": "Reaktionsverhinderung (Response Prevention)",
       "back": "Kernbestandteil der Expositionstherapie bei Zwangsstörungen: Betroffene konfrontieren sich mit dem angstauslösenden Reiz (z. B. Schmutz), führen aber die Zwangshandlung (z. B. Hände waschen) nicht aus — so kann Habituation eintreten.",
       "notes": "Ohne Reaktionsverhinderung verstärkt die Zwangshandlung die Angst langfristig (operante Verstärkung durch Angstreduktion).",
@@ -113,6 +124,7 @@
     },
     {
       "id": "anwendungsfelder-vt",
+      "stable_id": "card-ms942qp20kf4o",
       "front": "Anwendungsfelder der Verhaltenstherapie",
       "back": "Die VT zeigt besonders gute Wirksamkeit bei: spezifischen Phobien, sozialen Phobien, Panikstörungen, Zwangsstörungen (OCD), Depressionen und posttraumatischen Belastungsstörungen (PTBS).",
       "notes": "Evidenzbasiert im Sinne von Lektion 16: Für diese Störungsbilder liegen zahlreiche kontrollierte Studien vor.",
@@ -147,6 +159,7 @@
       "title": "Die Grundannahme der VT",
       "exercise": {
         "id": "ex-cloze-grundannahme",
+        "stable_id": "ex-ms942qp20kglf",
         "type": "cloze",
         "prompt": "Ergänze die Grundannahme der Verhaltenstherapie.",
         "card_ids": ["verhaltenstherapie"],
@@ -165,6 +178,7 @@
       "title": "SORKC-Modell: Buchstaben zuordnen",
       "exercise": {
         "id": "ex-match-sorkc",
+        "stable_id": "ex-ms942qp20khgv",
         "type": "matching",
         "prompt": "Ordne jeden Buchstaben des SORKC-Modells seinem Begriff zu.",
         "card_ids": ["sorkc-modell"],
@@ -185,6 +199,7 @@
       "title": "Was geschieht bei der Exposition?",
       "exercise": {
         "id": "ex-free-exposition",
+        "stable_id": "ex-ms942qp20ki5x",
         "type": "free_text",
         "prompt": "Wie nennt man die natürliche Abnahme der Angstreaktion bei wiederholtem, anhaltendem Kontakt mit dem Angstreiz ohne negative Konsequenz?",
         "card_ids": ["habituation", "exposition"],
@@ -201,6 +216,7 @@
       "title": "VT-Techniken und ihre Beschreibungen",
       "exercise": {
         "id": "ex-match-techniken",
+        "stable_id": "ex-ms942qp20kjw1",
         "type": "matching",
         "prompt": "Ordne jede Technik ihrer Beschreibung zu.",
         "card_ids": ["systematische-desensibilisierung", "token-system", "shaping", "reaktionsverhinderung"],
@@ -220,6 +236,7 @@
       "title": "Die drei Schritte der systematischen Desensibilisierung",
       "exercise": {
         "id": "ex-tiles-wolpe",
+        "stable_id": "ex-ms942qp20kkvu",
         "type": "word_tiles",
         "prompt": "Setze die drei Schritte der systematischen Desensibilisierung (Wolpe) in der richtigen Reihenfolge zusammen.",
         "card_ids": ["systematische-desensibilisierung", "angsthierarchie"],
@@ -235,6 +252,7 @@
       "title": "Wofür ist die VT besonders geeignet?",
       "exercise": {
         "id": "ex-free-anwendung",
+        "stable_id": "ex-ms942qp20kl4k",
         "type": "free_text",
         "prompt": "Nenne zwei klassische Anwendungsfelder der Verhaltenstherapie, für die sie besonders gut belegt ist.",
         "card_ids": ["anwendungsfelder-vt", "exposition"],
@@ -251,6 +269,7 @@
       "title": "Operantes Prinzip des Token-Systems",
       "exercise": {
         "id": "ex-cloze-operant",
+        "stable_id": "ex-ms942qp20km62",
         "type": "cloze",
         "prompt": "Ergänze das lerntheoretische Prinzip hinter dem Token-System.",
         "card_ids": ["token-system", "operante-verfahren"],

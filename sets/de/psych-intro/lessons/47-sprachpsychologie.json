@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "psycholinguistik",
+      "stable_id": "card-ms942qpk105y5",
       "front": "Psycholinguistik (Psycholinguistics)",
       "back": "Wissenschaftszweig, der untersucht, wie Menschen Sprache erwerben, verstehen und produzieren — an der Schnittstelle von Psychologie und Linguistik.",
       "notes": "Baut auf Lektion 32 (Kognition vertieft: Sprache und Aufmerksamkeit) auf.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "spracherwerb-stufen",
+      "stable_id": "card-ms942qpk106sn",
       "front": "Stufen des Spracherwerbs (Stages of Language Acquisition)",
       "back": "Die vier Hauptphasen: 1. Lallen/Brabbeln (Babbling), 2. Einwortphase (Holophrase), 3. Zweiwortphase, 4. Telegrammstil (Telegraphic Speech) — danach folgt Mehrwortsatz.",
       "notes": "Kinder durchlaufen diese Stufen weitgehend universell und in fester Reihenfolge.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "lallen-babbling",
+      "stable_id": "card-ms942qpk107rx",
       "front": "Lallen / Brabbeln (Babbling)",
       "back": "Erste Lauterzeugung des Säuglings (ab ca. 6 Monaten): spielerisches Wiederholen von Silben wie 'ba-ba-ba', noch ohne Bedeutung.",
       "media_type": "text",
@@ -35,6 +38,7 @@
     },
     {
       "id": "einwortphase",
+      "stable_id": "card-ms942qpk108l8",
       "front": "Einwortphase (Holophrase)",
       "back": "Phase ab ca. 12 Monaten: das Kind äußert ein einzelnes Wort, das einen ganzen Satz ersetzt, z. B. 'Milch!' für 'Ich möchte Milch haben.'",
       "media_type": "text",
@@ -43,6 +47,7 @@
     },
     {
       "id": "telegrammstil",
+      "stable_id": "card-ms942qpk109qo",
       "front": "Telegrammstil (Telegraphic Speech)",
       "back": "Phase ab ca. 24 Monaten: das Kind verbindet Inhaltswörter ohne Füllwörter oder Grammatik, z. B. 'Mama kommen' oder 'Ball haben'.",
       "notes": "Folgt auf die Zweiwortphase. Enthält bereits erste grammatische Strukturen.",
@@ -52,6 +57,7 @@
     },
     {
       "id": "skinner-spracherwerb",
+      "stable_id": "card-ms942qpk10azi",
       "front": "Skinners Theorie des Spracherwerbs (Operant Conditioning / Verbal Behavior)",
       "back": "B. F. Skinner: Kinder erwerben Sprache durch **operante Konditionierung** — Eltern verstärken korrekte Äußerungen und korrigieren Fehler. Sprache ist erlernte Verhaltensweise.",
       "notes": "Hauptwerk: 'Verbal Behavior' (1957). Kritisiert von Chomsky (1959).",
@@ -61,6 +67,7 @@
     },
     {
       "id": "chomsky-lad",
+      "stable_id": "card-ms942qpk10bnq",
       "front": "Chomskys Universalgrammatik / LAD (Language Acquisition Device)",
       "back": "Noam Chomsky: Kinder sind mit einer angeborenen **Universalgrammatik** (Universal Grammar) und einem 'Spracherwerbsgerät' (LAD) ausgestattet, das die Grundregeln aller Sprachen enthält. Sprache kann nicht allein durch Verstärkung erlernt werden.",
       "notes": "Argument: das Armutsproblem des Stimulus (Poverty of the Stimulus) — Kinder produzieren korrekte Sätze, die sie nie gehört haben.",
@@ -71,6 +78,7 @@
     },
     {
       "id": "kritische-periode",
+      "stable_id": "card-ms942qpk10cv4",
       "front": "Kritische Periode (Critical Period)",
       "back": "Zeitfenster (ungefähr bis zur Pubertät), in dem Spracherwerb besonders leicht fällt. Nach dieser Phase ist vollständiger Erstspracherwerb kaum noch möglich.",
       "notes": "Belegt durch Fälle wie 'Genie' (isoliertes Kind). Unterstützt Chomskys Nativismus.",
@@ -80,6 +88,7 @@
     },
     {
       "id": "mentales-lexikon",
+      "stable_id": "card-ms942qpk10dn0",
       "front": "Mentales Lexikon (Mental Lexicon)",
       "back": "Das im Langzeitgedächtnis gespeicherte innere Wörterbuch: Wörter sind dort nicht alphabetisch, sondern nach Bedeutung, Klang und grammatischer Kategorie vernetzt.",
       "notes": "Erklärt Phänomene wie den 'Zungenspitzenzustand' (Tip-of-the-Tongue) und semantische Priming-Effekte.",
@@ -89,6 +98,7 @@
     },
     {
       "id": "sapir-whorf-hypothese",
+      "stable_id": "card-ms942qpk10em9",
       "front": "Sapir-Whorf-Hypothese (Linguistic Relativity)",
       "back": "Die Annahme, dass die Sprache, die man spricht, das Denken und die Wahrnehmung beeinflusst (sprachliche Relativität). Starke Version: Sprache bestimmt Denken; schwache Version: Sprache beeinflusst Denken.",
       "notes": "Bereits in Lektion 32 eingeführt. Klassisches Beispiel: viele Schnee-Wörter im Inuit. Empirisch wird meist die schwache Version gestützt.",
@@ -98,6 +108,7 @@
     },
     {
       "id": "bilingualismus",
+      "stable_id": "card-ms942qpk10fph",
       "front": "Bilingualismus / Mehrsprachigkeit (Bilingualism)",
       "back": "Die Fähigkeit, zwei oder mehr Sprachen kompetent zu verwenden. Mehrsprachigkeit schadet der Erstsprache nicht; es gibt Hinweise auf kognitive Vorteile wie bessere Aufmerksamkeitskontrolle.",
       "notes": "Mythos widerlegt: Zwei Sprachen 'verwirren' Kinder nicht und behindern die Entwicklung nicht.",
@@ -107,6 +118,7 @@
     },
     {
       "id": "aphasie-bruecke",
+      "stable_id": "card-ms942qpk10gdx",
       "front": "Aphasie (Aphasia) — Brücke zu Lektion 42",
       "back": "Sprachstörung durch Hirnschädigung. **Broca-Aphasie** (Frontallappen): stockende Produktion, Verständnis relativ erhalten. **Wernicke-Aphasie** (Temporallappen): flüssige, aber sinnlose Sprache, schlechtes Verständnis.",
       "notes": "Vertieft in Lektion 42 (Neuropsychologie und bildgebende Verfahren). Zeigt die neuronale Basis von Produktion vs. Verstehen.",
@@ -141,6 +153,7 @@
       "title": "Spracherwerbsstufen und ihre Beispiele",
       "exercise": {
         "id": "ex-matching-spracherwerb-stufen",
+        "stable_id": "ex-ms942qpk10hye",
         "type": "matching",
         "prompt": "Ordne jeder Spracherwerbsstufe ihr typisches Beispiel oder Merkmal zu.",
         "card_ids": ["lallen-babbling", "einwortphase", "telegrammstil", "spracherwerb-stufen"],
@@ -160,6 +173,7 @@
       "title": "Skinner vs. Chomsky",
       "exercise": {
         "id": "ex-matching-skinner-chomsky",
+        "stable_id": "ex-ms942qpk10ib2",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Theorie oder den passenden Theoretiker zu.",
         "card_ids": ["skinner-spracherwerb", "chomsky-lad", "kritische-periode"],
@@ -179,6 +193,7 @@
       "title": "Chomskys Schlüsselbegriff",
       "exercise": {
         "id": "ex-cloze-lad",
+        "stable_id": "ex-ms942qpk10jud",
         "type": "cloze",
         "prompt": "Ergänze Chomskys Begriff für das angeborene Spracherwerbssystem.",
         "card_ids": ["chomsky-lad"],
@@ -197,6 +212,7 @@
       "title": "Sprachliche Relativität",
       "exercise": {
         "id": "ex-cloze-sapir-whorf",
+        "stable_id": "ex-ms942qpk10kck",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff für die Annahme, dass Sprache das Denken beeinflusst.",
         "card_ids": ["sapir-whorf-hypothese"],
@@ -215,6 +231,7 @@
       "title": "Wer sagt was?",
       "exercise": {
         "id": "ex-free-spracherwerb-debatte",
+        "stable_id": "ex-ms942qpk10l6f",
         "type": "free_text",
         "prompt": "Wer vertritt die Ansicht, Kinder seien mit einer angeborenen Universalgrammatik ausgestattet?",
         "card_ids": ["chomsky-lad"],
@@ -231,6 +248,7 @@
       "title": "Aphasie: Produktion oder Verständnis?",
       "exercise": {
         "id": "ex-free-aphasie",
+        "stable_id": "ex-ms942qpk10mem",
         "type": "free_text",
         "prompt": "Welche Aphasie ist durch stockende Sprachproduktion bei erhaltenem Sprachverständnis gekennzeichnet?",
         "card_ids": ["aphasie-bruecke"],
@@ -247,6 +265,7 @@
       "title": "Mentales Lexikon — Merksatz",
       "exercise": {
         "id": "ex-tiles-mentales-lexikon",
+        "stable_id": "ex-ms942qpk10n2g",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zum mentalen Lexikon zusammen.",
         "card_ids": ["mentales-lexikon"],

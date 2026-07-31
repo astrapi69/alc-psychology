@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "neurotransmitter-ueberblick",
+      "stable_id": "card-ms942qpe0us0r",
       "front": "Neurotransmitter (Botenstoffe)",
       "back": "Chemische Substanzen, die an der Synapse von einem Neuron ausgeschüttet werden und so Signale auf das nächste Neuron übertragen. Jeder Botenstoff hat spezifische Funktionen und Rezeptoren.",
       "notes": "Aufbauend auf Lektion 13: Synapse und Aktionspotential.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "dopamin",
+      "stable_id": "card-ms942qpe0ut5a",
       "front": "Dopamin",
       "back": "Neurotransmitter, der eine zentrale Rolle bei Belohnung, Motivation und Bewegungssteuerung spielt. Ein Mangel ist mit Parkinson, ein Überschuss mit Schizophrenie assoziiert.",
       "notes": "Das sogenannte 'Belohnungshormon' — genauer ein Neurotransmitter.",
@@ -28,6 +30,7 @@
     },
     {
       "id": "serotonin",
+      "stable_id": "card-ms942qpe0uuar",
       "front": "Serotonin",
       "back": "Neurotransmitter, der Stimmung, Wohlbefinden, Schlaf und Appetit reguliert. Viele Antidepressiva (z. B. SSRIs) erhöhen den Serotoninspiegel im synaptischen Spalt.",
       "notes": "SSRI = Selektiver Serotonin-Wiederaufnahmehemmer (Selective Serotonin Reuptake Inhibitor).",
@@ -37,6 +40,7 @@
     },
     {
       "id": "gaba-glutamat",
+      "stable_id": "card-ms942qpe0uvsw",
       "front": "GABA und Glutamat",
       "back": "GABA (Gamma-Aminobuttersäure) ist der wichtigste hemmende Neurotransmitter — er dämpft neuronale Aktivität. Glutamat ist der wichtigste erregenden Neurotransmitter — er steigert neuronale Aktivität.",
       "notes": "Beide sind für das Gleichgewicht zwischen Erregung und Hemmung im Gehirn unverzichtbar.",
@@ -47,6 +51,7 @@
     },
     {
       "id": "acetylcholin-noradrenalin",
+      "stable_id": "card-ms942qpe0uwbz",
       "front": "Acetylcholin und Noradrenalin",
       "back": "Acetylcholin (ACh) ist entscheidend für Gedächtnis, Aufmerksamkeit und die Steuerung der Muskulatur. Noradrenalin reguliert Wachheit, Konzentration und die Stressreaktion (Fight-or-Flight).",
       "notes": "Acetylcholin-Mangel ist mit der Alzheimer-Krankheit assoziiert.",
@@ -56,6 +61,7 @@
     },
     {
       "id": "endokrines-system",
+      "stable_id": "card-ms942qpe0ux2j",
       "front": "Endokrines System (Hormonsystem)",
       "back": "Das Netz aus Drüsen, das Hormone direkt ins Blut abgibt. Hormone wirken langsamer als Neurotransmitter, aber länger anhaltend. Schaltzentrale ist der Hypothalamus, der die Hypophyse steuert.",
       "media_type": "text",
@@ -64,6 +70,7 @@
     },
     {
       "id": "cortisol-adrenalin",
+      "stable_id": "card-ms942qpe0uyom",
       "front": "Cortisol und Adrenalin (Stresshormone)",
       "back": "Cortisol wird bei längerem Stress aus der Nebennierenrinde ausgeschüttet und mobilisiert Energiereserven (vgl. Lektion 12). Adrenalin (Epinephrin) bewirkt die schnelle Kampf-oder-Flucht-Reaktion (Fight-or-Flight).",
       "notes": "Zu viel Cortisol über längere Zeit schädigt Hippocampus und Immunsystem.",
@@ -74,6 +81,7 @@
     },
     {
       "id": "vegetatives-nervensystem",
+      "stable_id": "card-ms942qpe0uz5n",
       "front": "Vegetatives (autonomes) Nervensystem (Autonomic Nervous System)",
       "back": "Der Teil des peripheren Nervensystems, der innere Organe ohne bewusste Kontrolle steuert. Es besteht aus Sympathikus (Aktivierung) und Parasympathikus (Erholung).",
       "media_type": "text",
@@ -82,6 +90,7 @@
     },
     {
       "id": "sympathikus-parasympathikus",
+      "stable_id": "card-ms942qpe0v0r2",
       "front": "Sympathikus vs. Parasympathikus",
       "back": "Der Sympathikus bereitet den Körper auf Stress und Aktivität vor (Herzrate steigt, Pupillen weiten sich). Der Parasympathikus fördert Ruhe, Verdauung und Regeneration ('Rest and Digest').",
       "notes": "Beide Systeme wirken oft antagonistisch, d. h. gegensätzlich.",
@@ -92,6 +101,7 @@
     },
     {
       "id": "anlage-umwelt-debatte",
+      "stable_id": "card-ms942qpe0v10x",
       "front": "Anlage-Umwelt-Debatte (Nature vs. Nurture)",
       "back": "Die grundlegende Frage, ob menschliches Verhalten und Erleben stärker durch genetische Anlagen (Natur) oder durch Umwelteinflüsse und Erfahrungen (Erziehung/Umwelt) bestimmt wird. Heute gilt: beides wirkt zusammen.",
       "media_type": "text",
@@ -100,6 +110,7 @@
     },
     {
       "id": "verhaltensgenetik",
+      "stable_id": "card-ms942qpe0v2zd",
       "front": "Verhaltensgenetik (Behavioral Genetics)",
       "back": "Forschungsgebiet, das den genetischen Einfluss auf Verhalten und Erleben untersucht. Methoden: Zwillingsstudien (MZ vs. DZ) und Adoptionsstudien. Das Maß für den genetischen Anteil heißt Heritabilität (Erblichkeit).",
       "media_type": "text",
@@ -108,6 +119,7 @@
     },
     {
       "id": "heritabilitaet",
+      "stable_id": "card-ms942qpe0v3rr",
       "front": "Heritabilität (Erblichkeit / Heritability)",
       "back": "Statistisches Maß (0–1 bzw. 0–100 %), das angibt, welcher Anteil der Varianz eines Merkmals in einer bestimmten Population auf genetische Unterschiede zurückgeht. Hohe Heritabilität bedeutet nicht, das Merkmal sei unveränderlich.",
       "notes": "Beispiel: Intelligenz hat eine Heritabilität von ca. 0,5–0,8 je nach Studie und Altersgruppe.",
@@ -117,6 +129,7 @@
     },
     {
       "id": "epigenetik",
+      "stable_id": "card-ms942qpe0v4z1",
       "front": "Epigenetik (Epigenetics)",
       "back": "Die Erforschung von Veränderungen der Genaktivität, die nicht auf Mutationen der DNA-Sequenz beruhen, aber vererbt werden können. Umweltfaktoren (Stress, Ernährung) können epigenetische Schalter setzen.",
       "notes": "Brücke zwischen Anlage und Umwelt: die Umwelt beeinflusst, welche Gene abgelesen werden.",
@@ -151,6 +164,7 @@
       "title": "Neurotransmitter und ihre Funktionen",
       "exercise": {
         "id": "ex-match-neurotransmitter",
+        "stable_id": "ex-ms942qpe0v5k3",
         "type": "matching",
         "prompt": "Ordne jeden Neurotransmitter seiner Hauptfunktion zu.",
         "card_ids": ["dopamin", "serotonin", "gaba-glutamat", "acetylcholin-noradrenalin"],
@@ -170,6 +184,7 @@
       "title": "Bremse und Gaspedal",
       "exercise": {
         "id": "ex-cloze-gaba-glutamat",
+        "stable_id": "ex-ms942qpe0v6az",
         "type": "cloze",
         "prompt": "Ergänze die Begriffe für den hemmenden und den erregenden Hauptbotenstoff.",
         "card_ids": ["gaba-glutamat"],
@@ -189,6 +204,7 @@
       "title": "Sympathikus und Parasympathikus",
       "exercise": {
         "id": "ex-match-sympathikus-parasympathikus",
+        "stable_id": "ex-ms942qpe0v7pt",
         "type": "matching",
         "prompt": "Ordne jede Reaktion dem richtigen Teil des vegetativen Nervensystems zu.",
         "card_ids": ["sympathikus-parasympathikus", "vegetatives-nervensystem"],
@@ -208,6 +224,7 @@
       "title": "Das Stresshormon benennen",
       "exercise": {
         "id": "ex-free-cortisol",
+        "stable_id": "ex-ms942qpe0v85e",
         "type": "free_text",
         "prompt": "Wie heißt das Langzeitstresshormon, das bei anhaltender Belastung aus der Nebennierenrinde ausgeschüttet wird (vgl. Lektion 12)?",
         "card_ids": ["cortisol-adrenalin"],
@@ -224,6 +241,7 @@
       "title": "Anlage und Umwelt",
       "exercise": {
         "id": "ex-tiles-anlage-umwelt",
+        "stable_id": "ex-ms942qpe0v9sn",
         "type": "word_tiles",
         "prompt": "Setze den Kernaussatz der Anlage-Umwelt-Debatte zusammen.",
         "card_ids": ["anlage-umwelt-debatte"],
@@ -239,6 +257,7 @@
       "title": "Das Erblichkeitsmaß",
       "exercise": {
         "id": "ex-free-heritabilitaet",
+        "stable_id": "ex-ms942qpe0va4c",
         "type": "free_text",
         "prompt": "Wie heißt das statistische Maß, das den genetischen Anteil an der Merkmalsvarianz in einer Population beschreibt?",
         "card_ids": ["heritabilitaet", "verhaltensgenetik"],
@@ -255,6 +274,7 @@
       "title": "Epigenetik — die Brücke",
       "exercise": {
         "id": "ex-cloze-epigenetik",
+        "stable_id": "ex-ms942qpe0vblv",
         "type": "cloze",
         "prompt": "Ergänze das Fachgebiet, das Veränderungen der Genaktivität ohne Mutationen der DNA-Sequenz untersucht.",
         "card_ids": ["epigenetik"],

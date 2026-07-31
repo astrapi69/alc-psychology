@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "soziale-erleichterung",
+      "stable_id": "card-ms942qpx1aq1s",
       "front": "Soziale Erleichterung (Social Facilitation)",
       "back": "Die Anwesenheit anderer Personen verbessert die Leistung bei einfachen, gut geübten Aufgaben. Zajonc erklärte dies durch erhöhte physiologische Aktivierung (Erregung), die dominante Reaktionen stärkt.",
       "notes": "Erstmals beschrieben von Norman Triplett (1898); systematisch erklärt von Robert Zajonc (1965).",
@@ -18,6 +19,7 @@
     },
     {
       "id": "soziale-hemmung",
+      "stable_id": "card-ms942qpx1arxd",
       "front": "Soziale Hemmung (Social Inhibition)",
       "back": "Die Anwesenheit anderer verschlechtert die Leistung bei schwierigen oder neuen Aufgaben. Dieselbe Aktivierung, die einfache Aufgaben fördert, stört das Lernen unbekannter Inhalte.",
       "notes": "Kehrseite der sozialen Erleichterung — ebenfalls Teil von Zajoncs Aktivierungstheorie.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "soziales-faulenzen",
+      "stable_id": "card-ms942qpx1aswk",
       "front": "Soziales Faulenzen (Social Loafing)",
       "back": "In Gruppen sinkt die individuelle Anstrengung, wenn die eigenen Beiträge nicht erkennbar oder zurechenbar sind. Beschrieben von Latané, Williams & Harkins (1979).",
       "notes": "Wiederaufgriff Lektion 27 (Arbeits- und Organisationspsychologie): Gegenmaßnahme sind individuelle Erkennbarkeit und persönliche Verantwortung.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "deindividuation",
+      "stable_id": "card-ms942qpx1atoh",
       "front": "Deindividuation",
       "back": "Anonymität in einer Gruppe vermindert das Selbstbewusstsein und die Selbstkontrolle, sodass Hemmungen sinken und impulsives oder normverletzendes Verhalten zunimmt.",
       "notes": "Klassische Demonstrationen: Zimbardos Experimente mit Masken; Online-Trolle sind ein modernes Beispiel.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "gruppenpolarisierung",
+      "stable_id": "card-ms942qpx1aufx",
       "front": "Gruppenpolarisierung (Group Polarization)",
       "back": "Nach einer Gruppendiskussion fallen Entscheidungen extremer aus als die anfänglichen Einzelmeinungen — in die Richtung, zu der die Mehrheit bereits tendierte.",
       "notes": "Erklärt durch soziale Vergleichsprozesse und informationalen Einfluss: Argumente werden überwiegend in eine Richtung ausgetauscht.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "groupthink",
+      "stable_id": "card-ms942qpx1avmd",
       "front": "Groupthink (Gruppendenken)",
       "back": "Phänomen nach Irving Janis: Kohäsive Gruppen streben so stark nach Einmütigkeit, dass kritisches Denken und realistische Bewertung von Alternativen unterdrückt werden.",
       "notes": "Analysiert anhand historischer Fehlentscheidungen wie der Invasion in der Schweinebucht (1961) und der Challenger-Katastrophe (1986).",
@@ -64,6 +70,7 @@
     },
     {
       "id": "groupthink-symptome",
+      "stable_id": "card-ms942qpx1awu4",
       "front": "Symptome des Groupthink",
       "back": "Illusion der Unverwundbarkeit, kollektive Rationalisierung, Glaube an die moralische Überlegenheit der Gruppe, Stereotypisierung von Außenseitern, Druck auf Andersdenkende, Selbstzensur und die Illusion der Einmütigkeit.",
       "media_type": "text",
@@ -72,6 +79,7 @@
     },
     {
       "id": "groupthink-vermeidung",
+      "stable_id": "card-ms942qpx1axvw",
       "front": "Groupthink vermeiden",
       "back": "Maßnahmen: einen Advocatus Diaboli (Teufelsbeistand) benennen, externe Expert:innen einbeziehen, anonymes Feedback fördern, Untergruppen getrennt beraten lassen und die Führungsperson hält sich anfangs mit ihrer Meinung zurück.",
       "media_type": "text",
@@ -80,6 +88,7 @@
     },
     {
       "id": "fuehrungsstile",
+      "stable_id": "card-ms942qpx1ay24",
       "front": "Führungsstile in Gruppen",
       "back": "Transformationale Führung inspiriert durch Vision und individuelle Förderung; transaktionale Führung setzt auf Belohnung und Kontrolle. Situativ ist je nach Aufgabe und Gruppenreife ein anderer Stil wirksam (Hersey & Blanchard).",
       "notes": "Anknüpfung an Lektion 27 (Arbeits- und Organisationspsychologie): Führung beeinflusst soziales Faulenzen und Groupthink.",
@@ -89,6 +98,7 @@
     },
     {
       "id": "zajonc-aktivierung",
+      "stable_id": "card-ms942qpx1azx7",
       "front": "Zajoncs Aktivierungstheorie",
       "back": "Robert Zajonc erklärte soziale Erleichterung und Hemmung durch ein einheitliches Prinzip: Anwesenheit anderer erhöht die physiologische Erregung, welche die jeweils dominante Reaktion stärkt.",
       "media_type": "text",
@@ -97,6 +107,7 @@
     },
     {
       "id": "kohaesion",
+      "stable_id": "card-ms942qpx1b034",
       "front": "Gruppenkohäsion (Group Cohesion)",
       "back": "Das Ausmaß des Zusammenhalts und der gegenseitigen Anziehung in einer Gruppe. Hohe Kohäsion fördert Zufriedenheit und Kooperation, kann aber auch Groupthink begünstigen.",
       "media_type": "text",
@@ -105,6 +116,7 @@
     },
     {
       "id": "individuelle-erkennbarkeit",
+      "stable_id": "card-ms942qpx1b1gy",
       "front": "Individuelle Erkennbarkeit (Identifiability)",
       "back": "Wenn die Beiträge einzelner Gruppenmitglieder sichtbar und zurechenbar sind, sinkt soziales Faulenzen erheblich — die Person fühlt sich persönlich verantwortlich.",
       "media_type": "text",
@@ -138,6 +150,7 @@
       "title": "Vier Phänomene zuordnen",
       "exercise": {
         "id": "ex-match-phaenomene",
+        "stable_id": "ex-ms942qpx1b2y4",
         "type": "matching",
         "prompt": "Ordne jedem Gruppenphänomen seine Kernbeschreibung zu.",
         "card_ids": ["soziale-erleichterung", "soziales-faulenzen", "deindividuation", "gruppenpolarisierung"],
@@ -157,6 +170,7 @@
       "title": "Groupthink-Symptome einordnen",
       "exercise": {
         "id": "ex-match-groupthink-symptome",
+        "stable_id": "ex-ms942qpx1b39p",
         "type": "matching",
         "prompt": "Welcher Kategorie nach Janis gehört jedes Symptom an?",
         "card_ids": ["groupthink", "groupthink-symptome"],
@@ -175,6 +189,7 @@
       "title": "Zajoncs Kernprinzip",
       "exercise": {
         "id": "ex-cloze-zajonc",
+        "stable_id": "ex-ms942qpx1b4po",
         "type": "cloze",
         "prompt": "Ergänze Zajoncs Erklärung der sozialen Erleichterung und Hemmung.",
         "card_ids": ["zajonc-aktivierung", "soziale-erleichterung"],
@@ -193,6 +208,7 @@
       "title": "Fachbegriff Faulenzen",
       "exercise": {
         "id": "ex-free-soziales-faulenzen",
+        "stable_id": "ex-ms942qpx1b5je",
         "type": "free_text",
         "prompt": "Wie nennt man das Phänomen, bei dem individuelle Anstrengung in Gruppen sinkt, weil Beiträge nicht erkennbar sind?",
         "card_ids": ["soziales-faulenzen"],
@@ -209,6 +225,7 @@
       "title": "Wer beschrieb Groupthink?",
       "exercise": {
         "id": "ex-free-groupthink-janis",
+        "stable_id": "ex-ms942qpx1b6vw",
         "type": "free_text",
         "prompt": "Welcher Psychologe analysierte Groupthink anhand historischer Fehlentscheidungen wie der Schweinebucht-Invasion?",
         "card_ids": ["groupthink"],
@@ -225,6 +242,7 @@
       "title": "Gegenmaßnahme: Erkennbarkeit",
       "exercise": {
         "id": "ex-cloze-erkennbarkeit",
+        "stable_id": "ex-ms942qpx1b7vs",
         "type": "cloze",
         "prompt": "Ergänze die wichtigste Gegenmaßnahme gegen soziales Faulenzen.",
         "card_ids": ["individuelle-erkennbarkeit", "soziales-faulenzen"],
@@ -243,6 +261,7 @@
       "title": "Definition Deindividuation",
       "exercise": {
         "id": "ex-tiles-deindividuation",
+        "stable_id": "ex-ms942qpx1b8g9",
         "type": "word_tiles",
         "prompt": "Setze die Kerndefinition der Deindividuation zusammen.",
         "card_ids": ["deindividuation"],

@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "wundt-erstes-labor",
+      "stable_id": "card-ms942qpf0vc02",
       "front": "Wilhelm Wundt und das erste psychologische Labor",
       "back": "Wundt gründete 1879 in Leipzig das erste experimentelle psychologische Labor und begründete damit die Psychologie als eigenständige empirische Wissenschaft.",
       "notes": "Bereits in Lektion 1 erwähnt. Diese Lektion beleuchtet seinen Beitrag im historischen Kontext.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "strukturalismus",
+      "stable_id": "card-ms942qpf0vd1a",
       "front": "Strukturalismus (Structuralism)",
       "back": "Die erste Schule der wissenschaftlichen Psychologie (Wundt, Titchener): Sie wollte die grundlegenden Elemente ('Strukturen') des Bewusstseins durch systematische Introspektion (Selbstbeobachtung) zerlegen.",
       "notes": "Methode: Introspektion — Versuchspersonen beschreiben ihre inneren Erlebnisse möglichst genau.",
@@ -28,6 +30,7 @@
     },
     {
       "id": "funktionalismus",
+      "stable_id": "card-ms942qpf0ve4c",
       "front": "Funktionalismus (Functionalism)",
       "back": "Psychologische Schule um William James: statt der Struktur fragt sie nach der *Funktion* — wozu dienen Denken, Fühlen und Handeln für das Überleben und die Anpassung des Organismus?",
       "notes": "Stark beeinflusst von Darwins Evolutionstheorie. Vorläufer der modernen angewandten Psychologie.",
@@ -37,6 +40,7 @@
     },
     {
       "id": "behaviorismus",
+      "stable_id": "card-ms942qpf0vf20",
       "front": "Behaviorismus (Behaviorism)",
       "back": "Paradigma, das ausschließlich beobachtbares Verhalten untersucht und innere Zustände als unwissenschaftlich ausklammert. Hauptvertreter: John B. Watson und B. F. Skinner.",
       "notes": "Eng verbunden mit Lektion 4 (Lernen und Konditionierung): operante und klassische Konditionierung sind behavioristische Konzepte.",
@@ -46,6 +50,7 @@
     },
     {
       "id": "gestaltpsychologie",
+      "stable_id": "card-ms942qpf0vgp5",
       "front": "Gestaltpsychologie (Gestalt Psychology)",
       "back": "Schule (Wertheimer, Köhler, Koffka), die betont: 'Das Ganze ist mehr als die Summe seiner Teile.' Wahrnehmung wird als organisiertes Ganzes erlebt, nicht als Ansammlung von Einzelreizen.",
       "notes": "Eng mit Lektion 2 (Wahrnehmung) verknüpft: Gestaltgesetze erklären, wie wir Reize ordnen.",
@@ -56,6 +61,7 @@
     },
     {
       "id": "psychoanalyse",
+      "stable_id": "card-ms942qpf0vhye",
       "front": "Tiefenpsychologie / Psychoanalyse (Psychoanalysis)",
       "back": "Von Sigmund Freud begründetes Paradigma: das Unbewusste, Triebe und frühkindliche Erfahrungen prägen Erleben und Verhalten entscheidend. Methoden: freie Assoziation, Traumdeutung.",
       "notes": "Vertieft in Lektion 8 (Persönlichkeit) und Lektion 19 (psychodynamische Verfahren).",
@@ -65,6 +71,7 @@
     },
     {
       "id": "humanismus",
+      "stable_id": "card-ms942qpf0vigg",
       "front": "Humanistische Psychologie (Humanistic Psychology)",
       "back": "Paradigma (Rogers, Maslow), das den Menschen als wachstumsorientiertes Wesen mit freiem Willen sieht. Betont Selbstverwirklichung, subjektives Erleben und persönliches Wachstum.",
       "notes": "Grundlage humanistischer Therapie (Lektion 19); Maslows Bedürfnishierarchie auch in Lektion 10.",
@@ -74,6 +81,7 @@
     },
     {
       "id": "kognitive-wende",
+      "stable_id": "card-ms942qpf0vj66",
       "front": "Kognitive Wende (Cognitive Revolution)",
       "back": "Ab den 1950er/60er-Jahren: Die Psychologie entdeckte den Geist ('mind') wieder und modelliert ihn als Informationsverarbeitungssystem — Wahrnehmen, Speichern, Denken, Problemlösen.",
       "notes": "Wegbereiter: u. a. Miller, Bruner, Neisser. Legte die Grundlage für die Kognitionswissenschaft.",
@@ -83,6 +91,7 @@
     },
     {
       "id": "biologische-perspektive",
+      "stable_id": "card-ms942qpf0vk52",
       "front": "Biologische Perspektive (Biological Perspective)",
       "back": "Erklärt Erleben und Verhalten durch Gehirnstrukturen, Neurotransmitter, Gene und das Nervensystem. Grundlagen in Lektion 13 (Biologische Grundlagen).",
       "media_type": "text",
@@ -91,6 +100,7 @@
     },
     {
       "id": "evolutionaere-perspektive",
+      "stable_id": "card-ms942qpf0vldd",
       "front": "Evolutionäre Perspektive (Evolutionary Psychology)",
       "back": "Erklärt psychische Merkmale als Ergebnis natürlicher Selektion — Verhaltensweisen und Mechanismen, die das Überleben und die Fortpflanzung begünstigten, wurden bevorzugt weitergegeben.",
       "media_type": "text",
@@ -99,6 +109,7 @@
     },
     {
       "id": "multiparadigmatisch",
+      "stable_id": "card-ms942qpf0vmsx",
       "front": "Multiparadigmatische / eklektische Psychologie",
       "back": "Die heutige Psychologie ist nicht von einem einzigen Paradigma beherrscht, sondern kombiniert je nach Fragestellung verschiedene Ansätze (biologisch, kognitiv, sozial, humanistisch usw.).",
       "notes": "Kein Paradigma hat alle Fragen beantwortet — der eklektische Ansatz wählt das jeweils passende Werkzeug.",
@@ -108,6 +119,7 @@
     },
     {
       "id": "introspektion",
+      "stable_id": "card-ms942qpf0vncw",
       "front": "Introspektion (Introspection)",
       "back": "Systematische Selbstbeobachtung und Beschreibung eigener innerer Zustände; die Hauptmethode des frühen Strukturalismus unter Wundt und Titchener.",
       "notes": "Kritik: subjektiv und schwer kontrollierbar. Führte u. a. zur behavioristischen Reaktion.",
@@ -142,6 +154,7 @@
       "title": "Paradigmen und ihre Vertreter zuordnen",
       "exercise": {
         "id": "ex-match-paradigmen-vertreter",
+        "stable_id": "ex-ms942qpf0vomo",
         "type": "matching",
         "prompt": "Ordne jedes Paradigma seinem bekanntesten Vertreter (oder seiner Kernidee) zu.",
         "card_ids": ["strukturalismus", "behaviorismus", "gestaltpsychologie", "psychoanalyse", "humanismus"],
@@ -162,6 +175,7 @@
       "title": "Das Gründungsjahr der Psychologie",
       "exercise": {
         "id": "ex-cloze-wundt-jahr",
+        "stable_id": "ex-ms942qpf0vpk8",
         "type": "cloze",
         "prompt": "Ergänze das Gründungsjahr des ersten psychologischen Labors.",
         "card_ids": ["wundt-erstes-labor"],
@@ -180,6 +194,7 @@
       "title": "Der Merksatz der Gestaltpsychologie",
       "exercise": {
         "id": "ex-free-gestalt-merksatz",
+        "stable_id": "ex-ms942qpf0vqes",
         "type": "free_text",
         "prompt": "Wie lautet der berühmte Merksatz der Gestaltpsychologie über das Verhältnis von Ganzem und Teilen?",
         "card_ids": ["gestaltpsychologie"],
@@ -205,6 +220,7 @@
       "title": "Die kognitive Wende beschreiben",
       "exercise": {
         "id": "ex-tiles-kognitive-wende",
+        "stable_id": "ex-ms942qpf0vr5u",
         "type": "word_tiles",
         "prompt": "Setze die Kernaussage der kognitiven Wende zusammen.",
         "card_ids": ["kognitive-wende"],
@@ -220,6 +236,7 @@
       "title": "Paradigmen und ihre Kernideen",
       "exercise": {
         "id": "ex-match-paradigmen-kernideen",
+        "stable_id": "ex-ms942qpf0vsal",
         "type": "matching",
         "prompt": "Ordne jeder Perspektive ihre Kernidee zu.",
         "card_ids": ["biologische-perspektive", "evolutionaere-perspektive", "multiparadigmatisch"],
@@ -238,6 +255,7 @@
       "title": "Was untersucht der Behaviorismus?",
       "exercise": {
         "id": "ex-free-behaviorismus",
+        "stable_id": "ex-ms942qpf0vtcr",
         "type": "free_text",
         "prompt": "Worauf beschränkt der Behaviorismus seinen Untersuchungsgegenstand, und wer sind seine bekanntesten Vertreter?",
         "card_ids": ["behaviorismus"],
@@ -263,6 +281,7 @@
       "title": "Die Methode des Strukturalismus",
       "exercise": {
         "id": "ex-cloze-introspektion",
+        "stable_id": "ex-ms942qpf0vuhh",
         "type": "cloze",
         "prompt": "Ergänze die Hauptmethode, mit der der Strukturalismus das Bewusstsein erforschte.",
         "card_ids": ["introspektion", "strukturalismus"],

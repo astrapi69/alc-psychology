@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "positive-psychologie-recap",
+      "stable_id": "card-ms942qps16koq",
       "front": "Positive Psychologie (Positive Psychology)",
       "back": "Wissenschaftlicher Zweig der Psychologie, der untersucht, was Menschen aufblühen lässt — Wohlbefinden, Stärken und erfülltes Leben —, statt sich nur auf Störungen zu konzentrieren.",
       "notes": "Grundbegriff aus Lektion 10; hier vertiefen wir die zentralen Modelle und Befunde.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "perma-modell",
+      "stable_id": "card-ms942qps16l6a",
       "front": "PERMA-Modell (Seligman)",
       "back": "Fünf Säulen des Wohlbefindens nach Martin Seligman: Positive Emotionen, Engagement, Beziehungen (Relationships), Sinn (Meaning) und Zielerreichung (Accomplishment).",
       "notes": "Seligman entwickelte das Modell in 'Flourish' (2011) als Erweiterung seiner früheren Glücksformel.",
@@ -28,6 +30,7 @@
     },
     {
       "id": "subjektives-wohlbefinden",
+      "stable_id": "card-ms942qps16msj",
       "front": "Subjektives Wohlbefinden (Subjective Well-Being)",
       "back": "Selbstbeurteilung des eigenen Lebens: setzt sich zusammen aus Lebenszufriedenheit (kognitive Komponente) und Affektbilanz (mehr positive als negative Gefühle).",
       "notes": "Ed Diener prägte den Begriff; wird oft mit Fragebögen wie der SWLS gemessen.",
@@ -37,6 +40,7 @@
     },
     {
       "id": "affektbilanz",
+      "stable_id": "card-ms942qps16nz0",
       "front": "Affektbilanz (Affect Balance)",
       "back": "Das Verhältnis von positiven zu negativen Gefühlen im Alltag; eine günstige Affektbilanz bedeutet, dass positive Emotionen überwiegen.",
       "media_type": "text",
@@ -45,6 +49,7 @@
     },
     {
       "id": "hedonische-adaptation",
+      "stable_id": "card-ms942qps16obv",
       "front": "Hedonische Adaptation / Hedonistische Tretmühle (Hedonic Adaptation)",
       "back": "Die Tendenz, sich nach positiven oder negativen Ereignissen relativ schnell wieder an das gewohnte Glücksniveau anzupassen — Freude verblasst, Schmerz lässt nach.",
       "notes": "Auch 'hedonistische Tretmühle' (hedonic treadmill): Man läuft, ohne dauerhaft glücklicher zu werden.",
@@ -55,6 +60,7 @@
     },
     {
       "id": "set-point-theorie",
+      "stable_id": "card-ms942qps16p87",
       "front": "Set-Point-Theorie des Glücks (Happiness Set-Point)",
       "back": "Jeder Mensch hat ein genetisch mitbestimmtes Basis-Glücksniveau, auf das das subjektive Wohlbefinden nach Ereignissen zurückpendelt.",
       "notes": "Lykken & Tellegen (1996) schätzten den genetischen Anteil auf ca. 50 %; neuere Forschung diskutiert Modifizierbarkeit durch Lebensumstände und Verhalten.",
@@ -64,6 +70,7 @@
     },
     {
       "id": "resilienz",
+      "stable_id": "card-ms942qps16qi7",
       "front": "Resilienz (Resilience)",
       "back": "Psychische Widerstandsfähigkeit: die Fähigkeit, trotz Widrigkeiten, Krisen oder Stress das seelische Gleichgewicht zu bewahren oder es rasch wiederherzustellen.",
       "notes": "Resilienz gilt als erlernbar; Schutzfaktoren sind u. a. soziale Unterstützung, Selbstwirksamkeit und Problemlösekompetenzen.",
@@ -73,6 +80,7 @@
     },
     {
       "id": "charakterstaerken-via",
+      "stable_id": "card-ms942qps16rar",
       "front": "Charakterstärken und Tugenden — VIA-Klassifikation (VIA Classification of Character Strengths)",
       "back": "Von Peterson & Seligman entwickeltes System mit 24 universellen Charakterstärken (z. B. Neugier, Tapferkeit, Dankbarkeit), geordnet unter sechs Tugenden.",
       "notes": "VIA steht für 'Values in Action'. Der VIA-Fragebogen erfasst individuelle Stärkenprofile.",
@@ -82,6 +90,7 @@
     },
     {
       "id": "dankbarkeit",
+      "stable_id": "card-ms942qps16sx2",
       "front": "Dankbarkeit (Gratitude)",
       "back": "Emotionale Würdigung von Gutem im eigenen Leben; gezielte Dankbarkeitsübungen (z. B. Dankbarkeitstagebuch, Dankbarkeitsbrief) zeigen in Studien robuste positive Effekte auf das Wohlbefinden.",
       "notes": "Eine der am besten belegten positiven Interventionen; Emmons & McCullough (2003).",
@@ -91,6 +100,7 @@
     },
     {
       "id": "hedonisch-vs-eudaimonisch",
+      "stable_id": "card-ms942qps16tpq",
       "front": "Hedonisch vs. eudaimonisch (Hedonic vs. Eudaimonic)",
       "back": "Zwei Konzepte des Wohlbefindens: hedonisch = Maximierung von Genuss und Minimierung von Schmerz; eudaimonisch = sinnerfülltes, tugendhaftes Leben und Entfaltung des eigenen Potenzials.",
       "notes": "Eudaimonia geht auf Aristoteles zurück; eudaimonisches Wohlbefinden umfasst Sinn, Wachstum und Authentizität.",
@@ -100,6 +110,7 @@
     },
     {
       "id": "positive-interventionen",
+      "stable_id": "card-ms942qps16u9r",
       "front": "Positive Interventionen (Positive Interventions)",
       "back": "Wissenschaftlich geprüfte Übungen zur Steigerung des Wohlbefindens, z. B. Dankbarkeitsbrief, Drei-gute-Dinge-Übung, Stärken-Einsatz und achtsames Genießen (Savoring).",
       "notes": "Meta-Analysen (Lyubomirsky, Sin) zeigen moderate, aber bedeutsame Effektstärken.",
@@ -109,6 +120,7 @@
     },
     {
       "id": "seligman-person",
+      "stable_id": "card-ms942qps16vh2",
       "front": "Martin Seligman",
       "back": "US-amerikanischer Psychologe (* 1942), Begründer der Positiven Psychologie; bekannt für Forschung zu erlernter Hilflosigkeit, Optimismus und dem PERMA-Modell.",
       "notes": "Seligman war Präsident der American Psychological Association (APA) und startete 1998 die Positive Psychologie als Forschungsprogramm.",
@@ -143,6 +155,7 @@
       "title": "Die fünf PERMA-Elemente zuordnen",
       "exercise": {
         "id": "ex-match-perma",
+        "stable_id": "ex-ms942qps16w94",
         "type": "matching",
         "prompt": "Ordne jedem PERMA-Buchstaben die passende Beschreibung zu.",
         "card_ids": ["perma-modell"],
@@ -163,6 +176,7 @@
       "title": "Die hedonistische Tretmühle",
       "exercise": {
         "id": "ex-cloze-hedonische-adaptation",
+        "stable_id": "ex-ms942qps16xrv",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff für die Gewöhnung an positive und negative Ereignisse.",
         "card_ids": ["hedonische-adaptation", "set-point-theorie"],
@@ -181,6 +195,7 @@
       "title": "PERMA-Abkürzung entschlüsseln",
       "exercise": {
         "id": "ex-free-perma-buchstaben",
+        "stable_id": "ex-ms942qps16yyy",
         "type": "free_text",
         "prompt": "Wofür steht das 'M' im PERMA-Modell von Seligman?",
         "card_ids": ["perma-modell"],
@@ -197,6 +212,7 @@
       "title": "Hedonisch oder eudaimonisch?",
       "exercise": {
         "id": "ex-match-hedonisch-eudaimonisch",
+        "stable_id": "ex-ms942qps16zhj",
         "type": "matching",
         "prompt": "Ordne jede Beschreibung dem richtigen Wohlbefindens-Ansatz zu.",
         "card_ids": ["hedonisch-vs-eudaimonisch", "subjektives-wohlbefinden"],
@@ -216,6 +232,7 @@
       "title": "Psychische Widerstandsfähigkeit",
       "exercise": {
         "id": "ex-free-resilienz",
+        "stable_id": "ex-ms942qps170sz",
         "type": "free_text",
         "prompt": "Wie lautet der Fachbegriff für psychische Widerstandsfähigkeit — die Fähigkeit, Krisen zu überstehen und ins Gleichgewicht zurückzufinden?",
         "card_ids": ["resilienz"],
@@ -232,6 +249,7 @@
       "title": "Genetisches Glücksniveau",
       "exercise": {
         "id": "ex-cloze-set-point",
+        "stable_id": "ex-ms942qps171p4",
         "type": "cloze",
         "prompt": "Ergänze den Begriff für das genetisch mitbestimmte Basis-Glücksniveau.",
         "card_ids": ["set-point-theorie", "hedonische-adaptation"],
@@ -250,6 +268,7 @@
       "title": "Dankbarkeit als Intervention",
       "exercise": {
         "id": "ex-tiles-dankbarkeit",
+        "stable_id": "ex-ms942qps1724k",
         "type": "word_tiles",
         "prompt": "Setze den Satz über Dankbarkeitsinterventionen zusammen.",
         "card_ids": ["dankbarkeit", "positive-interventionen"],

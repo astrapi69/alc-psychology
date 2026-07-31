@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "psychologie",
+      "stable_id": "card-ms942qog02lat",
       "front": "Psychologie (Psychology)",
       "back": "Wissenschaft vom Erleben und Verhalten des Menschen.",
       "notes": "Vom griechischen 'psyche' (Seele) und 'logos' (Lehre). Eine empirische Wissenschaft, keine bloße Meinung.",
@@ -16,6 +17,7 @@
     },
     {
       "id": "erleben",
+      "stable_id": "card-ms942qog02mcn",
       "front": "Erleben",
       "back": "Innere Vorgänge wie Gedanken, Gefühle und Wahrnehmungen — von außen nicht direkt beobachtbar.",
       "notes": "Wird über Befragung oder indirekte Messung erschlossen.",
@@ -23,6 +25,7 @@
     },
     {
       "id": "verhalten",
+      "stable_id": "card-ms942qog02nmo",
       "front": "Verhalten (Behavior)",
       "back": "Von außen beobachtbare Handlungen und Reaktionen eines Menschen.",
       "notes": "Im Gegensatz zum Erleben direkt messbar (z. B. Reaktionszeit, Mimik).",
@@ -30,6 +33,7 @@
     },
     {
       "id": "wundt",
+      "stable_id": "card-ms942qog02oji",
       "front": "Wilhelm Wundt",
       "back": "Gründer des ersten psychologischen Labors (Leipzig, 1879); Begründer der experimentellen Psychologie.",
       "notes": "Markiert die Geburtsstunde der Psychologie als eigenständige Wissenschaft.",
@@ -37,6 +41,7 @@
     },
     {
       "id": "freud",
+      "stable_id": "card-ms942qog02pw5",
       "front": "Sigmund Freud",
       "back": "Begründer der Psychoanalyse; betonte das Unbewusste und frühe Kindheitserfahrungen.",
       "notes": "Sehr einflussreich, aber viele Annahmen sind empirisch umstritten.",
@@ -44,6 +49,7 @@
     },
     {
       "id": "skinner",
+      "stable_id": "card-ms942qog02qoq",
       "front": "B. F. Skinner",
       "back": "Hauptvertreter des Behaviorismus; erforschte die operante Konditionierung.",
       "notes": "Verhalten wird durch seine Konsequenzen (Verstärkung/Bestrafung) geformt.",
@@ -51,6 +57,7 @@
     },
     {
       "id": "rogers",
+      "stable_id": "card-ms942qog02rlu",
       "front": "Carl Rogers",
       "back": "Mitbegründer der humanistischen Psychologie; entwickelte die klientenzentrierte Therapie.",
       "notes": "Betonte Selbstverwirklichung und bedingungslose Wertschätzung.",
@@ -58,6 +65,7 @@
     },
     {
       "id": "behaviorismus",
+      "stable_id": "card-ms942qog02s7i",
       "front": "Behaviorismus (Behaviorism)",
       "back": "Strömung, nach der nur beobachtbares Verhalten wissenschaftlich untersuchbar ist.",
       "notes": "Lehnt das 'Innere' als unzugänglich ab. Vertreter: Watson, Skinner.",
@@ -65,6 +73,7 @@
     },
     {
       "id": "klinische",
+      "stable_id": "card-ms942qog02twf",
       "front": "Klinische Psychologie",
       "back": "Teilgebiet: Entstehung, Diagnostik und Behandlung psychischer Störungen.",
       "notes": "Größtes Anwendungsfeld der Psychologie.",
@@ -72,6 +81,7 @@
     },
     {
       "id": "sozialpsychologie",
+      "stable_id": "card-ms942qog02u4b",
       "front": "Sozialpsychologie (Social Psychology)",
       "back": "Teilgebiet: wie Denken, Fühlen und Verhalten durch andere Menschen beeinflusst werden.",
       "notes": "Beispiele: Konformität, Vorurteile, Gruppenverhalten.",
@@ -79,6 +89,7 @@
     },
     {
       "id": "entwicklungspsych",
+      "stable_id": "card-ms942qog02vgw",
       "front": "Entwicklungspsychologie",
       "back": "Teilgebiet: Veränderungen des Erlebens und Verhaltens über die gesamte Lebensspanne.",
       "notes": "Von der Geburt bis ins hohe Alter.",
@@ -86,6 +97,7 @@
     },
     {
       "id": "kognitionspsych",
+      "stable_id": "card-ms942qog02w9p",
       "front": "Kognitionspsychologie",
       "back": "Teilgebiet: geistige Prozesse wie Wahrnehmung, Aufmerksamkeit, Gedächtnis und Denken.",
       "notes": "Versteht den Menschen als informationsverarbeitendes System.",
@@ -93,6 +105,7 @@
     },
     {
       "id": "biologische",
+      "stable_id": "card-ms942qog02xnf",
       "front": "Biologische Psychologie",
       "back": "Teilgebiet: körperliche und neuronale Grundlagen des Erlebens und Verhaltens.",
       "notes": "Verbindung von Gehirn, Hormonen und Verhalten.",
@@ -100,6 +113,7 @@
     },
     {
       "id": "experiment",
+      "stable_id": "card-ms942qog02yjt",
       "front": "Experiment",
       "back": "Methode: gezielte Manipulation einer Variable unter kontrollierten Bedingungen, um Ursache und Wirkung zu prüfen.",
       "notes": "Die einzige Methode, die echte kausale Aussagen erlaubt.",
@@ -107,6 +121,7 @@
     },
     {
       "id": "beobachtung",
+      "stable_id": "card-ms942qog02zjc",
       "front": "Beobachtung (Observation)",
       "back": "Methode: systematisches Erfassen von Verhalten, ohne in die Situation einzugreifen.",
       "notes": "Hoher Realitätsbezug, aber keine Kontrolle über Störvariablen.",
@@ -114,6 +129,7 @@
     },
     {
       "id": "befragung",
+      "stable_id": "card-ms942qog0301o",
       "front": "Befragung",
       "back": "Methode: Erheben von Daten durch Fragebögen oder Interviews.",
       "notes": "Zugang zum Erleben — aber anfällig für verzerrte Selbstauskunft.",
@@ -121,6 +137,7 @@
     },
     {
       "id": "korrelation",
+      "stable_id": "card-ms942qog031h7",
       "front": "Korrelationsstudie",
       "back": "Methode: misst den Zusammenhang zwischen zwei Variablen — zeigt aber KEINE Ursache-Wirkung.",
       "notes": "Merksatz: 'Korrelation ist nicht Kausalität.'",
@@ -153,6 +170,7 @@
       "title": "Personen und Beiträge",
       "exercise": {
         "id": "ex-match-personen",
+        "stable_id": "ex-ms942qog0327x",
         "type": "matching",
         "prompt": "Ordne jeder Person ihren wichtigsten Beitrag zu.",
         "card_ids": ["wundt", "freud", "skinner", "rogers"],
@@ -172,6 +190,7 @@
       "title": "Teilgebiete zuordnen",
       "exercise": {
         "id": "ex-match-teilgebiete",
+        "stable_id": "ex-ms942qog033cm",
         "type": "matching",
         "prompt": "Ordne jedem Teilgebiet seine Beschreibung zu.",
         "card_ids": ["klinische", "sozialpsychologie", "entwicklungspsych", "kognitionspsych"],
@@ -191,6 +210,7 @@
       "title": "Begriff zur Definition",
       "exercise": {
         "id": "ex-free-psychologie",
+        "stable_id": "ex-ms942qog0340r",
         "type": "free_text",
         "prompt": "Welcher Begriff bezeichnet die 'Wissenschaft vom Erleben und Verhalten'?",
         "card_ids": ["psychologie"],
@@ -207,6 +227,7 @@
       "title": "Wer war es?",
       "exercise": {
         "id": "ex-free-wundt",
+        "stable_id": "ex-ms942qog035et",
         "type": "free_text",
         "prompt": "Wer gründete 1879 in Leipzig das erste psychologische Labor?",
         "card_ids": ["wundt"],
@@ -223,6 +244,7 @@
       "title": "Die Geburtsstunde",
       "exercise": {
         "id": "ex-cloze-1879",
+        "stable_id": "ex-ms942qog03640",
         "type": "cloze",
         "prompt": "Ergänze das Gründungsjahr des ersten Labors.",
         "card_ids": ["wundt"],
@@ -241,6 +263,7 @@
       "title": "Methode erkennen",
       "exercise": {
         "id": "ex-cloze-korrelation",
+        "stable_id": "ex-ms942qog037x7",
         "type": "cloze",
         "prompt": "Ergänze die Methode, die Zusammenhänge zeigt, aber keine Kausalität.",
         "card_ids": ["korrelation"],
@@ -259,6 +282,7 @@
       "title": "Welche Methode zeigt Ursache und Wirkung?",
       "exercise": {
         "id": "ex-pick-experiment",
+        "stable_id": "ex-ms942qog038y8",
         "type": "picture_choice",
         "prompt": "Mit welcher Methode lässt sich eine echte Ursache-Wirkung-Beziehung nachweisen?",
         "card_ids": ["experiment", "korrelation", "beobachtung", "befragung"],
@@ -280,6 +304,7 @@
       "title": "Die Definition zusammensetzen",
       "exercise": {
         "id": "ex-tile-definition",
+        "stable_id": "ex-ms942qog039sl",
         "type": "word_tiles",
         "prompt": "Setze die Definition der Psychologie zusammen.",
         "card_ids": ["psychologie"],
@@ -295,6 +320,7 @@
       "title": "Methoden zuordnen",
       "exercise": {
         "id": "ex-match-methoden",
+        "stable_id": "ex-ms942qog03azs",
         "type": "matching",
         "prompt": "Ordne jede Methode ihrer Beschreibung zu.",
         "card_ids": ["experiment", "beobachtung", "befragung"],
@@ -313,6 +339,7 @@
       "title": "Strömung benennen",
       "exercise": {
         "id": "ex-free-behaviorismus",
+        "stable_id": "ex-ms942qog03b0b",
         "type": "free_text",
         "prompt": "Welche Strömung untersucht nur beobachtbares Verhalten (Vertreter: Watson, Skinner)?",
         "card_ids": ["behaviorismus"],

@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "abrufbasiertes-lernen",
+      "stable_id": "card-ms942qoz0gzyw",
       "front": "Abrufbasiertes Lernen (Retrieval Practice)",
       "back": "Lernen durch das aktive Abrufen von Informationen aus dem Gedächtnis (z. B. sich selbst abfragen), statt den Stoff nur erneut zu lesen. Der Abruf selbst festigt das Gelernte.",
       "notes": "Auch 'Abrufpraxis' oder 'aktiver Abruf'. Grundlage des Lernens mit Karteikarten.",
@@ -19,6 +20,7 @@
     },
     {
       "id": "testing-effekt",
+      "stable_id": "card-ms942qoz0h0wz",
       "front": "Testing-Effekt (Testing Effect)",
       "back": "Der Befund, dass sich Gelerntes besser einprägt, wenn man es durch einen Test abruft, als wenn man es noch einmal liest — auch ohne zusätzliches Feedback.",
       "notes": "Roediger & Karpicke (2006): Testen schlägt erneutes Lesen, besonders bei längerem Behaltensintervall.",
@@ -29,6 +31,7 @@
     },
     {
       "id": "wuenschenswerte-erschwernisse",
+      "stable_id": "card-ms942qoz0h1g8",
       "front": "Wünschenswerte Erschwernisse (Desirable Difficulties)",
       "back": "Von Robert Bjork geprägter Begriff für Lernbedingungen, die das Lernen kurzfristig mühsamer und langsamer machen, das langfristige Behalten und den Transfer aber verbessern.",
       "notes": "Beispiele: verteiltes und verschachteltes Üben, abrufbasiertes Lernen.",
@@ -39,6 +42,7 @@
     },
     {
       "id": "generierungseffekt",
+      "stable_id": "card-ms942qoz0h25k",
       "front": "Generierungseffekt (Generation Effect)",
       "back": "Information, die man selbst erzeugt (etwa eine Antwort, ein Beispiel oder eine Lücke ausfüllt), wird besser behalten als Information, die man nur passiv vorgelegt bekommt.",
       "notes": "Selbst Erzeugtes hinterlässt eine tiefere Gedächtnisspur als bloßes Lesen.",
@@ -48,6 +52,7 @@
     },
     {
       "id": "verschachteltes-ueben",
+      "stable_id": "card-ms942qoz0h3ez",
       "front": "Verschachteltes Üben (Interleaving)",
       "back": "Das Mischen verschiedener Aufgabentypen oder Themen innerhalb einer Lernsitzung, statt jeweils einen Block lange am Stück zu üben (geblocktes Üben).",
       "notes": "Erschwert das Üben kurzfristig, verbessert aber das Unterscheiden und den Transfer — eine wünschenswerte Erschwernis.",
@@ -58,6 +63,7 @@
     },
     {
       "id": "geblocktes-ueben",
+      "stable_id": "card-ms942qoz0h41s",
       "front": "Geblocktes Üben (Blocked Practice)",
       "back": "Das Üben eines einzigen Aufgabentyps lange am Stück (AAAA BBBB). Es fühlt sich flüssig an, führt aber meist zu schwächerem langfristigem Lernen als verschachteltes Üben.",
       "notes": "Der Gegenbegriff zum Interleaving; verleitet zur Überschätzung des eigenen Lernfortschritts.",
@@ -67,6 +73,7 @@
     },
     {
       "id": "fluency-illusion",
+      "stable_id": "card-ms942qoz0h5dm",
       "front": "Flüssigkeitsillusion (Fluency Illusion)",
       "back": "Die trügerische Überzeugung, etwas gut zu beherrschen, nur weil sich das wiederholte Lesen leicht und flüssig anfühlt — obwohl der Abruf später nicht gelingt.",
       "notes": "Erklärt, warum sich passives Wiederlesen beliebt, aber wenig wirksam ist.",
@@ -77,6 +84,7 @@
     },
     {
       "id": "wiederlesen",
+      "stable_id": "card-ms942qoz0h68f",
       "front": "Wiederholtes Lesen (Rereading)",
       "back": "Die häufigste, aber wenig wirksame Lernmethode: denselben Text mehrfach lesen. Es erzeugt ein Gefühl von Vertrautheit (Flüssigkeitsillusion), festigt das Wissen aber kaum.",
       "notes": "Im direkten Vergleich dem abrufbasierten Lernen klar unterlegen.",
@@ -86,6 +94,7 @@
     },
     {
       "id": "feedback-lernen",
+      "stable_id": "card-ms942qoz0h7ai",
       "front": "Rolle des Feedbacks",
       "back": "Rückmeldung über richtige und falsche Antworten verstärkt den Testing-Effekt zusätzlich, indem sie Fehler korrigiert und korrektes Wissen festigt. Der Effekt tritt aber auch ohne Feedback auf.",
       "notes": "Verzögertes Feedback kann langfristig sogar wirksamer sein als sofortiges.",
@@ -95,6 +104,7 @@
     },
     {
       "id": "roediger-karpicke",
+      "stable_id": "card-ms942qoz0h8sp",
       "front": "Roediger & Karpicke (2006)",
       "back": "Klassische Studie zum Testing-Effekt: Lernende, die einen Text durch Abrufen wiederholten, behielten ihn nach einer Woche deutlich besser als jene, die ihn nur mehrfach gelesen hatten.",
       "notes": "Interessant: Die Wiederleser schätzten ihren Lernerfolg höher ein — ein Beispiel für die Flüssigkeitsillusion.",
@@ -104,6 +114,7 @@
     },
     {
       "id": "metakognitive-fehleinschaetzung",
+      "stable_id": "card-ms942qoz0h94t",
       "front": "Metakognitive Fehleinschätzung",
       "back": "Lernende halten leicht wirkende Methoden (Wiederlesen) oft für die besseren, obwohl mühsamere Methoden (Abrufen, Verschachteln) langfristig mehr bringen — eine Fehleinschätzung des eigenen Lernens.",
       "notes": "Deshalb wählen viele intuitiv die wenig wirksamen Strategien.",
@@ -113,6 +124,7 @@
     },
     {
       "id": "transfer",
+      "stable_id": "card-ms942qoz0haj7",
       "front": "Transfer (Transfer of Learning)",
       "back": "Die Fähigkeit, Gelerntes auf neue, andersartige Aufgaben oder Situationen anzuwenden. Wünschenswerte Erschwernisse verbessern besonders diesen Transfer.",
       "notes": "Ziel echten Verstehens: Wissen flexibel über die Übungsaufgaben hinaus nutzen.",
@@ -141,6 +153,7 @@
       "title": "Der wichtigste Lerneffekt",
       "exercise": {
         "id": "ex-free-testing-effekt",
+        "stable_id": "ex-ms942qoz0hb1f",
         "type": "free_text",
         "prompt": "Wie heißt der Befund, dass man sich Stoff besser merkt, wenn man ihn durch einen Test abruft, statt ihn erneut zu lesen?",
         "card_ids": ["testing-effekt", "abrufbasiertes-lernen"],
@@ -157,6 +170,7 @@
       "title": "Lernstrategien zuordnen",
       "exercise": {
         "id": "ex-match-strategien",
+        "stable_id": "ex-ms942qoz0hc71",
         "type": "matching",
         "prompt": "Ordne jeder Strategie die richtige Beschreibung zu.",
         "card_ids": ["abrufbasiertes-lernen", "verschachteltes-ueben", "generierungseffekt", "wiederlesen"],
@@ -176,6 +190,7 @@
       "title": "Bjorks Konzept",
       "exercise": {
         "id": "ex-cloze-erschwernisse",
+        "stable_id": "ex-ms942qoz0hdov",
         "type": "cloze",
         "prompt": "Ergänze das fehlende Wort in Bjorks Begriff.",
         "card_ids": ["wuenschenswerte-erschwernisse"],
@@ -194,6 +209,7 @@
       "title": "Die trügerische Leichtigkeit",
       "exercise": {
         "id": "ex-free-fluency",
+        "stable_id": "ex-ms942qoz0hebh",
         "type": "free_text",
         "prompt": "Wie heißt die trügerische Überzeugung, etwas zu beherrschen, nur weil sich das Wiederlesen leicht und flüssig anfühlt?",
         "card_ids": ["fluency-illusion"],
@@ -210,6 +226,7 @@
       "title": "Die Kernregel formulieren",
       "exercise": {
         "id": "ex-tiles-testing",
+        "stable_id": "ex-ms942qoz0hfae",
         "type": "word_tiles",
         "prompt": "Setze die zentrale Empfehlung des abrufbasierten Lernens zusammen.",
         "card_ids": ["abrufbasiertes-lernen", "testing-effekt"],
@@ -225,6 +242,7 @@
       "title": "Welches Vorgehen ist verschachteltes Üben?",
       "exercise": {
         "id": "ex-pick-interleaving",
+        "stable_id": "ex-ms942qoz0hgpn",
         "type": "picture_choice",
         "prompt": "Welche Lernsitzung nutzt verschachteltes Üben (Interleaving)?",
         "card_ids": ["verschachteltes-ueben", "geblocktes-ueben"],
@@ -250,6 +268,7 @@
       "title": "Vertiefende Begriffe",
       "exercise": {
         "id": "ex-match-vertiefung-lernen",
+        "stable_id": "ex-ms942qoz0hhd4",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Aussage zu.",
         "card_ids": ["roediger-karpicke", "feedback-lernen", "metakognitive-fehleinschaetzung", "transfer"],

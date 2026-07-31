@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "begrenzte-rationalitaet",
+      "stable_id": "card-ms942qpo13x1v",
       "front": "Begrenzte Rationalität (Bounded Rationality)",
       "back": "Das Konzept von Herbert Simon: Menschen sind keine vollkommen rationalen Entscheider, sondern durch Informationsmangel, Zeit und kognitive Kapazität eingeschränkt.",
       "notes": "Gegenentwurf zum 'Homo oeconomicus' der klassischen Wirtschaftstheorie.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "herbert-simon",
+      "stable_id": "card-ms942qpo13y9q",
       "front": "Herbert Simon",
       "back": "US-amerikanischer Wirtschafts- und Kognitionswissenschaftler, der den Begriff 'Begrenzte Rationalität' prägte und 1978 den Wirtschaftsnobelpreis erhielt.",
       "notes": "Simon arbeitete auch zu künstlicher Intelligenz und Problemlösung.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "satisficing",
+      "stable_id": "card-ms942qpo13z6b",
       "front": "Satisficing ('gut genug'-Strategie)",
       "back": "Statt die optimale Lösung zu suchen, wählen Menschen die erste Option, die einen akzeptablen Mindeststandard erfüllt. Wortmischung aus 'satisfying' und 'sufficing'.",
       "notes": "Beispiel: Man wählt nicht die beste Wohnung der Stadt, sondern die erste, die den eigenen Anforderungen genügt.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "verhaltensoekonmie",
+      "stable_id": "card-ms942qpo140uq",
       "front": "Verhaltensökonomie (Behavioral Economics)",
       "back": "Wissenschaftliches Forschungsfeld, das psychologische Erkenntnisse mit wirtschaftlichem Entscheidungsverhalten verbindet — und zeigt, wo Menschen von rationalen Modellen abweichen.",
       "notes": "Geprägt durch Kahneman, Tversky und Thaler; baut auf Heuristiken und Prospect Theory auf.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "richard-thaler",
+      "stable_id": "card-ms942qpo141y1",
       "front": "Richard Thaler",
       "back": "US-amerikanischer Ökonom und Mitbegründer der Verhaltensökonomie; bekannt für den Nudge-Ansatz und mentale Buchführung. Wirtschaftsnobelpreis 2017.",
       "notes": "Zusammen mit Cass Sunstein schrieb Thaler das Buch 'Nudge' (2008).",
@@ -54,6 +59,7 @@
     },
     {
       "id": "nudge",
+      "stable_id": "card-ms942qpo142hl",
       "front": "Nudge ('Schubs' — Anstupser)",
       "back": "Eine sanfte Veränderung der Entscheidungsarchitektur, die ein gewünschtes Verhalten wahrscheinlicher macht, ohne Optionen zu verbieten oder finanzielle Anreize zu verändern.",
       "notes": "Beispiel: Gesundes Essen in der Cafeteria auf Augenhöhe stellen, ohne ungesundes Essen zu verbieten.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "default-effekt",
+      "stable_id": "card-ms942qpo143ql",
       "front": "Default-Effekt / Voreinstellung (Default Effect)",
       "back": "Menschen neigen dazu, bei der voreingestellten Option zu bleiben (Status-quo-Präferenz). Opt-out-Systeme (z. B. automatische Organspende) erhöhen die Beteiligung drastisch.",
       "notes": "Klassisches Beispiel: In Ländern mit Opt-out-Organspende ist die Spendenquote deutlich höher als in Opt-in-Ländern.",
@@ -73,6 +80,7 @@
     },
     {
       "id": "libertaerer-paternalismus",
+      "stable_id": "card-ms942qpo1442k",
       "front": "Libertärer Paternalismus (Libertarian Paternalism)",
       "back": "Politisches Prinzip: Die Entscheidungsarchitektur wird so gestaltet, dass Menschen zu besseren Entscheidungen gelenkt werden, ohne ihre Wahlfreiheit einzuschränken.",
       "notes": "Verbindet libertäre Freiheitsbetonung mit paternalistischer Fürsorge.",
@@ -82,6 +90,7 @@
     },
     {
       "id": "hyperbolische-diskontierung",
+      "stable_id": "card-ms942qpo145ql",
       "front": "Hyperbolische Diskontierung (Hyperbolic Discounting)",
       "back": "Die Tendenz, unmittelbare Belohnungen überproportional hoch zu gewichten gegenüber späteren — und daher Aufgaben aufzuschieben oder kurzfristig zu handeln.",
       "notes": "Erklärt Prokrastination und Schwierigkeiten beim Sparen: die Gegenwart wird systematisch überbewertet.",
@@ -91,6 +100,7 @@
     },
     {
       "id": "sunk-cost-fehler",
+      "stable_id": "card-ms942qpo146p6",
       "front": "Sunk-Cost-Fehler (Versunkene-Kosten-Fehler)",
       "back": "Die Neigung, an einer Entscheidung oder Investition festzuhalten, weil man schon Ressourcen (Zeit, Geld, Energie) investiert hat — obwohl ein Abbruch rational besser wäre.",
       "notes": "Beispiel: Ein schlechtes Filmprojekt wird weiterfinanziert, 'weil wir schon so viel investiert haben'.",
@@ -101,6 +111,7 @@
     },
     {
       "id": "mentale-buchfuehrung",
+      "stable_id": "card-ms942qpo147d7",
       "front": "Mentale Buchführung (Mental Accounting)",
       "back": "Menschen ordnen Geld mental verschiedenen 'Konten' zu (z. B. Urlaubskonto, Notfallkonto) und behandeln gleich hohe Beträge je nach Herkunft oder Zweck unterschiedlich.",
       "notes": "Beispiel: Unerwartetes Geld ('Bonus') wird leichter ausgegeben als regulär verdientes.",
@@ -110,6 +121,7 @@
     },
     {
       "id": "entscheidungsarchitektur",
+      "stable_id": "card-ms942qpo148bp",
       "front": "Entscheidungsarchitektur (Choice Architecture)",
       "back": "Die bewusste Gestaltung der Umgebung, in der Entscheidungen getroffen werden — z. B. Reihenfolge, Rahmung oder Voreinstellungen — beeinflusst das Verhalten vorhersehbar.",
       "notes": "Der 'Architekt' plant, welche Option am einfachsten gewählt werden kann.",
@@ -144,6 +156,7 @@
       "title": "Kernbegriffe zuordnen",
       "exercise": {
         "id": "ex-match-konzepte",
+        "stable_id": "ex-ms942qpo149f5",
         "type": "matching",
         "prompt": "Ordne jedem Begriff seine Kernaussage zu.",
         "card_ids": ["begrenzte-rationalitaet", "satisficing", "nudge", "default-effekt"],
@@ -163,6 +176,7 @@
       "title": "Herbert Simons Schlüsselbegriff",
       "exercise": {
         "id": "ex-cloze-simon",
+        "stable_id": "ex-ms942qpo14a04",
         "type": "cloze",
         "prompt": "Ergänze den Begriff, den Herbert Simon für eingeschränkte menschliche Rationalität prägte.",
         "card_ids": ["begrenzte-rationalitaet", "herbert-simon"],
@@ -181,6 +195,7 @@
       "title": "Versunkene Kosten erkennen",
       "exercise": {
         "id": "ex-free-sunk-cost",
+        "stable_id": "ex-ms942qpo14b9i",
         "type": "free_text",
         "prompt": "Wie heißt der Fehler, bei dem man an einer Investition festhält, weil man bereits Ressourcen hineingesteckt hat?",
         "card_ids": ["sunk-cost-fehler"],
@@ -197,6 +212,7 @@
       "title": "Was ist ein Nudge?",
       "exercise": {
         "id": "ex-tiles-nudge",
+        "stable_id": "ex-ms942qpo14ctn",
         "type": "word_tiles",
         "prompt": "Setze die Definition des Nudge zusammen.",
         "card_ids": ["nudge"],
@@ -212,6 +228,7 @@
       "title": "Wer hat was beigetragen?",
       "exercise": {
         "id": "ex-match-personen",
+        "stable_id": "ex-ms942qpo14dt4",
         "type": "matching",
         "prompt": "Ordne jeder Person ihren wichtigsten Beitrag zu.",
         "card_ids": ["herbert-simon", "richard-thaler", "verhaltensoekonmie"],
@@ -230,6 +247,7 @@
       "title": "Opt-in oder Opt-out?",
       "exercise": {
         "id": "ex-free-default",
+        "stable_id": "ex-ms942qpo14eyv",
         "type": "free_text",
         "prompt": "Wie heißt der Effekt, der erklärt, warum Opt-out-Systeme bei der Organspende eine deutlich höhere Beteiligungsrate erzeugen?",
         "card_ids": ["default-effekt"],
@@ -246,6 +264,7 @@
       "title": "Gegenwart schlägt Zukunft",
       "exercise": {
         "id": "ex-cloze-diskontierung",
+        "stable_id": "ex-ms942qpo14fg0",
         "type": "cloze",
         "prompt": "Ergänze den Begriff für die Tendenz, unmittelbare Belohnungen überproportional stark zu gewichten.",
         "card_ids": ["hyperbolische-diskontierung"],

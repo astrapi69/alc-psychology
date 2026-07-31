@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "emotion-komponenten",
+      "stable_id": "card-ms942qpq15im2",
       "front": "Vier Komponenten einer Emotion",
       "back": "Subjektives Erleben, körperliche Erregung (physiologische Aktivierung), Ausdruck (expressiv-motorische Reaktion) und Handlungstendenz.",
       "notes": "Recap aus Lektion 31 (Emotionstheorien). Zusammen machen diese vier Komponenten eine vollständige emotionale Episode aus.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "emotion-funktionen",
+      "stable_id": "card-ms942qpq15jby",
       "front": "Funktionen von Emotionen",
       "back": "Bewertung von Situationen (appraisal), Vorbereitung auf Handlungen (Handlungstendenz) und Kommunikation des inneren Zustands an andere.",
       "notes": "Emotionen sind adaptiv: Sie helfen uns, relevante Reize schnell zu beurteilen und angemessen zu reagieren.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "stimmung-vs-emotion",
+      "stable_id": "card-ms942qpq15k87",
       "front": "Stimmung (Mood) vs. Emotion",
       "back": "Emotion: kurzfristig, gerichtet auf ein spezifisches Objekt oder Ereignis. Stimmung: länger anhaltend, diffus, ohne klaren Auslöser.",
       "notes": "Beispiel: Freude über ein Lob (Emotion) vs. allgemein gute Laune den ganzen Tag (Stimmung).",
@@ -36,6 +39,7 @@
     },
     {
       "id": "emotionsregulation",
+      "stable_id": "card-ms942qpq15lfo",
       "front": "Emotionsregulation (Emotion Regulation)",
       "back": "Der Einsatz von Strategien, um das Auftreten, die Intensität, die Dauer oder den Ausdruck von Emotionen zu beeinflussen.",
       "notes": "Kann bewusst oder unbewusst erfolgen; umfasst das Modell von James Gross.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "gross-prozessmodell",
+      "stable_id": "card-ms942qpq15md6",
       "front": "Prozessmodell der Emotionsregulation (Gross)",
       "back": "James Gross beschreibt fünf Strategien entlang der Zeitachse einer Emotion: Situationsauswahl, Situationsmodifikation, Aufmerksamkeitslenkung, kognitive Neubewertung und Reaktionsmodulation.",
       "notes": "Die Strategien setzen zu unterschiedlichen Zeitpunkten an — von der frühen Situationsauswahl bis zur späten Reaktionsunterdrückung.",
@@ -55,6 +60,7 @@
     },
     {
       "id": "situationsauswahl",
+      "stable_id": "card-ms942qpq15n1g",
       "front": "Situationsauswahl (Situation Selection)",
       "back": "Man sucht oder meidet Situationen bewusst, um die eigene emotionale Reaktion zu steuern (früheste Strategie im Gross-Modell).",
       "notes": "Beispiel: Stressige Partys meiden, um Angst zu vermeiden.",
@@ -64,6 +70,7 @@
     },
     {
       "id": "situationsmodifikation",
+      "stable_id": "card-ms942qpq15oyl",
       "front": "Situationsmodifikation (Situation Modification)",
       "back": "Man verändert aktiv die bestehende Situation, um deren emotionale Auswirkung zu beeinflussen.",
       "notes": "Beispiel: Einen Konflikt entschärfen, indem man das Thema wechselt.",
@@ -73,6 +80,7 @@
     },
     {
       "id": "aufmerksamkeitslenkung",
+      "stable_id": "card-ms942qpq15pjq",
       "front": "Aufmerksamkeitslenkung (Attentional Deployment)",
       "back": "Die eigene Aufmerksamkeit innerhalb einer Situation bewusst auf bestimmte Aspekte lenken oder ablenken, um Emotionen zu beeinflussen.",
       "notes": "Beispiele: Ablenken, Grübeln vermeiden, Meditation.",
@@ -82,6 +90,7 @@
     },
     {
       "id": "reappraisal",
+      "stable_id": "card-ms942qpq15qcz",
       "front": "Kognitive Neubewertung (Reappraisal)",
       "back": "Eine Situation oder deren Bedeutung umdeuten, um die emotionale Reaktion zu verändern — gilt als besonders gesunde und wirksame Regulationsstrategie.",
       "notes": "Beispiel: Eine Prüfung als Chance sehen statt als Bedrohung. Günstiger als Suppression: weniger physiologischer Stress, bessere Erinnerungsleistung.",
@@ -92,6 +101,7 @@
     },
     {
       "id": "suppression",
+      "stable_id": "card-ms942qpq15r9m",
       "front": "Reaktionsmodulation / Unterdrückung (Suppression)",
       "back": "Den emotionalen Ausdruck oder die körperliche Reaktion unterdrücken, nachdem die Emotion bereits ausgelöst wurde — gilt als weniger günstige Strategie.",
       "notes": "Späteste Strategie im Gross-Modell. Langfristig kostspielig: erhöhter physiologischer Stress, schlechteres Wohlbefinden, soziale Nachteile.",
@@ -101,6 +111,7 @@
     },
     {
       "id": "reappraisal-vs-suppression",
+      "stable_id": "card-ms942qpq15s3x",
       "front": "Neubewertung vs. Unterdrückung: Warum ist Neubewertung günstiger?",
       "back": "Neubewertung (Reappraisal) setzt früh an, reduziert das subjektive Erleben und die Physiologie, verbessert das Wohlbefinden. Unterdrückung (Suppression) wirkt spät, verbirgt nur den Ausdruck, erhöht aber physiologische Erregung und beeinträchtigt Gedächtnis und Wohlbefinden.",
       "notes": "Schlüsselbefund von Gross & John (2003).",
@@ -110,6 +121,7 @@
     },
     {
       "id": "emotionale-intelligenz",
+      "stable_id": "card-ms942qpq15t1x",
       "front": "Emotionale Intelligenz (Emotional Intelligence, EI)",
       "back": "Die Fähigkeit, eigene und fremde Emotionen wahrzunehmen, zu verstehen, zu regulieren und effektiv einzusetzen (Mayer, Salovey & Caruso).",
       "notes": "Vertieft aus Lektion 11. Hohe EI ist mit besserer psychischer Gesundheit, sozialen Beziehungen und beruflichem Erfolg verbunden.",
@@ -145,6 +157,7 @@
       "title": "Gross' Strategien zuordnen",
       "exercise": {
         "id": "ex-match-gross-strategien",
+        "stable_id": "ex-ms942qpq15uk0",
         "type": "matching",
         "prompt": "Ordne jede Regulationsstrategie ihrer Kernbeschreibung zu.",
         "card_ids": ["situationsauswahl", "situationsmodifikation", "aufmerksamkeitslenkung", "reappraisal", "suppression"],
@@ -165,6 +178,7 @@
       "title": "Emotionskomponenten erkennen",
       "exercise": {
         "id": "ex-match-emotion-komponenten",
+        "stable_id": "ex-ms942qpq15vsc",
         "type": "matching",
         "prompt": "Ordne jedem Beispiel die passende Emotionskomponente zu.",
         "card_ids": ["emotion-komponenten"],
@@ -184,6 +198,7 @@
       "title": "Die günstigste Strategie",
       "exercise": {
         "id": "ex-cloze-reappraisal",
+        "stable_id": "ex-ms942qpq15wwx",
         "type": "cloze",
         "prompt": "Ergänze den Begriff für die Strategie, bei der man die Bedeutung einer Situation umwertet.",
         "card_ids": ["reappraisal", "gross-prozessmodell"],
@@ -202,6 +217,7 @@
       "title": "Nachteile der Unterdrückung",
       "exercise": {
         "id": "ex-free-suppression-nachteile",
+        "stable_id": "ex-ms942qpq15xh4",
         "type": "free_text",
         "prompt": "Welche Strategie gilt laut Gross als weniger günstig — weil sie die Emotion nur verbirgt, aber physiologischen Stress erhöht?",
         "card_ids": ["suppression", "reappraisal-vs-suppression"],
@@ -218,6 +234,7 @@
       "title": "Emotionale Intelligenz",
       "exercise": {
         "id": "ex-free-emotionale-intelligenz",
+        "stable_id": "ex-ms942qpq15ywf",
         "type": "free_text",
         "prompt": "Wie heißt das Konstrukt, das die Fähigkeit beschreibt, eigene und fremde Emotionen wahrzunehmen, zu verstehen und zu regulieren (Mayer, Salovey & Caruso)?",
         "card_ids": ["emotionale-intelligenz"],
@@ -234,6 +251,7 @@
       "title": "Stimmung und Emotion unterscheiden",
       "exercise": {
         "id": "ex-tiles-stimmung-emotion",
+        "stable_id": "ex-ms942qpq15zwd",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz über den Unterschied zusammen.",
         "card_ids": ["stimmung-vs-emotion"],
@@ -249,6 +267,7 @@
       "title": "Zeitachse im Prozessmodell",
       "exercise": {
         "id": "ex-cloze-gross-zeitachse",
+        "stable_id": "ex-ms942qpq1608t",
         "type": "cloze",
         "prompt": "Ergänze die früheste Strategie im Prozessmodell von James Gross.",
         "card_ids": ["situationsauswahl", "gross-prozessmodell"],

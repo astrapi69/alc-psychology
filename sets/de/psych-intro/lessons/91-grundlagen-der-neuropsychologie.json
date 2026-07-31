@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "neuropsychologie-def",
+      "stable_id": "card-ms942qqa1nkuf",
       "front": "Neuropsychologie",
       "back": "Teilgebiet der Psychologie, das den Zusammenhang zwischen Gehirn (genauer: dem zentralen Nervensystem) und psychischen Funktionen wie Wahrnehmung, Gedächtnis, Sprache, Aufmerksamkeit und Handeln untersucht. Sie ist zugleich Grundlagen- und Anwendungsfach (klinische Neuropsychologie).",
       "notes": "Brücke zwischen Biopsychologie (Lektion 51 ff.) und klinischer Psychologie. Englisch: neuropsychology.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "gehirn-verhalten",
+      "stable_id": "card-ms942qqa1nl04",
       "front": "Gehirn-Verhalten-Beziehung",
       "back": "Leitfrage der Neuropsychologie: Welche Strukturen und Prozesse des Gehirns liegen welchen psychischen Leistungen zugrunde? Verändert sich das Gehirn, verändert sich oft auch das Verhalten — und umgekehrt formt Erfahrung das Gehirn.",
       "notes": "Englisch: brain-behavior relationship.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "laesionsmethode",
+      "stable_id": "card-ms942qqa1nmxq",
       "front": "Läsionsmethode",
       "back": "Klassische Vorgehensweise: Aus dem Ausfall einer Funktion nach einer Schädigung (Läsion) eines Hirnareals wird geschlossen, dass dieses Areal an der Funktion beteiligt ist. Grundlage vieler historischer Erkenntnisse.",
       "notes": "Englisch: lesion method. Vorsicht: Ausfall belegt Beteiligung, nicht zwingend den alleinigen Sitz einer Funktion.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "fall-phineas-gage",
+      "stable_id": "card-ms942qqa1nnnv",
       "front": "Phineas Gage (historischer Fall)",
       "back": "Eisenbahnarbeiter, dem 1848 eine Eisenstange den präfrontalen Cortex durchbohrte. Er überlebte, doch seine Persönlichkeit und Impulskontrolle veränderten sich. Frühes Indiz, dass der Frontallappen für Planung und soziales Verhalten wichtig ist.",
       "notes": "Sachlich behandelt: ein Lehrbeispiel der Läsionsmethode, kein Sensationsfall.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "bildgebung",
+      "stable_id": "card-ms942qqa1no1e",
       "front": "Bildgebende Verfahren (Neuroimaging)",
       "back": "Methoden, die Struktur oder Aktivität des lebenden Gehirns sichtbar machen: strukturell (CT, MRT) und funktionell (fMRT, PET, EEG, MEG). Sie ergänzen die Läsionsmethode und erlauben Untersuchungen am gesunden Menschen.",
       "notes": "Englisch: neuroimaging. fMRT misst Sauerstoffverbrauch (BOLD-Signal) als indirektes Aktivitätsmaß.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "struktur-funktionell",
+      "stable_id": "card-ms942qqa1np5n",
       "front": "Strukturelle vs. funktionelle Bildgebung",
       "back": "Strukturelle Verfahren (z. B. MRT) zeigen den Aufbau des Gehirns (Form, Schädigungen). Funktionelle Verfahren (z. B. fMRT, EEG) zeigen Aktivität während einer Aufgabe — also, welche Areale gerade arbeiten.",
       "notes": "Merkhilfe: Struktur = Bauplan, Funktion = Betrieb.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "lokalisation",
+      "stable_id": "card-ms942qqa1nqtn",
       "front": "Lokalisation (Lokalisationismus)",
       "back": "Annahme, dass bestimmte Funktionen an umschriebene Hirnareale gebunden sind (z. B. Sprachproduktion an das Broca-Areal). Historisch wichtig, aber in reiner Form zu einfach.",
       "notes": "Englisch: localization. Gegenpol: holistische/Netzwerk-Sichtweisen.",
@@ -72,6 +79,7 @@
     },
     {
       "id": "netzwerk-sicht",
+      "stable_id": "card-ms942qqa1nrz4",
       "front": "Netzwerk- und Plastizitätssicht",
       "back": "Moderne Sicht: Komplexe Leistungen entstehen im Zusammenspiel verteilter Netzwerke; das Gehirn ist zudem plastisch (Neuroplastizität) und kann sich umorganisieren. Lokalisation und Vernetzung schließen sich nicht aus.",
       "notes": "Englisch: neuroplasticity. Wichtig für Rehabilitation nach Hirnschädigung.",
@@ -81,6 +89,7 @@
     },
     {
       "id": "doppelte-dissoziation",
+      "stable_id": "card-ms942qqa1nsof",
       "front": "Doppelte Dissoziation",
       "back": "Stärkster Beleg dafür, dass zwei Funktionen unabhängig sind: Patient A kann Funktion 1, nicht Funktion 2; Patient B umgekehrt. Das spricht gegen einen gemeinsamen Mechanismus.",
       "notes": "Englisch: double dissociation. Zentrales Argumentationsmuster der kognitiven Neuropsychologie.",
@@ -90,6 +99,7 @@
     },
     {
       "id": "neuropsych-vs-neurologie",
+      "stable_id": "card-ms942qqa1ntf6",
       "front": "Neuropsychologie vs. Neurologie",
       "back": "Die Neurologie ist eine medizinische Disziplin und behandelt Erkrankungen des Nervensystems. Die Neuropsychologie untersucht und beschreibt die psychischen Folgen solcher Erkrankungen (z. B. Gedächtnis- oder Sprachstörungen) und unterstützt die Rehabilitation.",
       "notes": "Beide arbeiten oft eng zusammen, haben aber unterschiedliche Schwerpunkte.",
@@ -99,6 +109,7 @@
     },
     {
       "id": "kognitive-neuropsychologie",
+      "stable_id": "card-ms942qqa1nud7",
       "front": "Kognitive Neuropsychologie",
       "back": "Forschungsrichtung, die aus Störungsmustern (z. B. nach Schlaganfall) auf den normalen Aufbau kognitiver Funktionen schließt. Ziel ist ein Modell der gesunden Kognition, nicht nur die Beschreibung der Störung.",
       "notes": "Nutzt vor allem Einzelfallstudien und die doppelte Dissoziation.",
@@ -108,6 +119,7 @@
     },
     {
       "id": "klinische-neuropsychologie",
+      "stable_id": "card-ms942qqa1nvd6",
       "front": "Klinische Neuropsychologie",
       "back": "Anwendungsfeld: Diagnostik, Behandlung und Rehabilitation von Menschen mit erworbenen Hirnschädigungen (z. B. nach Schlaganfall, Schädel-Hirn-Trauma). Sie verbindet Testdiagnostik mit individueller Förderung.",
       "notes": "Vertieft in Lektion 94/95.",
@@ -142,6 +154,7 @@
       "title": "Methoden zuordnen",
       "exercise": {
         "id": "ex-match-methoden",
+        "stable_id": "ex-ms942qqa1nwuk",
         "type": "matching",
         "prompt": "Ordne jeder Methode bzw. jedem Begriff die passende Beschreibung zu.",
         "card_ids": ["laesionsmethode", "bildgebung", "doppelte-dissoziation", "struktur-funktionell"],
@@ -161,6 +174,7 @@
       "title": "Der Gegenstand",
       "exercise": {
         "id": "ex-cloze-definition",
+        "stable_id": "ex-ms942qqa1nxjl",
         "type": "cloze",
         "prompt": "Ergänze die Kernaussage zum Gegenstand der Neuropsychologie.",
         "card_ids": ["neuropsychologie-def", "gehirn-verhalten"],
@@ -177,6 +191,7 @@
       "title": "Der stärkste Beleg",
       "exercise": {
         "id": "ex-free-dissoziation",
+        "stable_id": "ex-ms942qqa1ny0g",
         "type": "free_text",
         "prompt": "Wie heißt das Muster, bei dem Patient A Funktion 1 (nicht 2) und Patient B Funktion 2 (nicht 1) zeigt — der stärkste Beleg für die Unabhängigkeit zweier Funktionen?",
         "card_ids": ["doppelte-dissoziation"],
@@ -193,6 +208,7 @@
       "title": "Das veränderbare Gehirn",
       "exercise": {
         "id": "ex-cloze-plastizitaet",
+        "stable_id": "ex-ms942qqa1nzko",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff für die Fähigkeit des Gehirns, sich umzuorganisieren.",
         "card_ids": ["netzwerk-sicht"],
@@ -209,6 +225,7 @@
       "title": "Fächer unterscheiden",
       "exercise": {
         "id": "ex-match-abgrenzung",
+        "stable_id": "ex-ms942qqa1o0oj",
         "type": "matching",
         "prompt": "Ordne jedem Fach bzw. jeder Richtung die korrekte Kennzeichnung zu.",
         "card_ids": ["neuropsych-vs-neurologie", "kognitive-neuropsychologie", "klinische-neuropsychologie"],
@@ -227,6 +244,7 @@
       "title": "Aus dem Ausfall schließen",
       "exercise": {
         "id": "ex-free-laesionsmethode",
+        "stable_id": "ex-ms942qqa1o1o9",
         "type": "free_text",
         "prompt": "Wie heißt die klassische Methode, bei der aus dem Funktionsausfall nach Schädigung eines Areals auf dessen Beteiligung geschlossen wird?",
         "card_ids": ["laesionsmethode"],
@@ -243,6 +261,7 @@
       "title": "Die Leitfrage zusammensetzen",
       "exercise": {
         "id": "ex-tiles-leitfrage",
+        "stable_id": "ex-ms942qqa1o2n7",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zur Leitfrage der Neuropsychologie zusammen.",
         "card_ids": ["gehirn-verhalten"],

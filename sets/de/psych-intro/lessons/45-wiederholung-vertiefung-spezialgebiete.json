@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "webersches-gesetz",
+      "stable_id": "card-ms942qpj0z3kb",
       "front": "Webersches Gesetz",
       "back": "Der eben merkliche Unterschied (jnd) ist kein fester Betrag, sondern ein konstanter Anteil (Prozentwert) des Ausgangsreizes — je stärker der Ausgangsreiz, desto größer muss der Unterschied sein.",
       "notes": "Benannt nach Ernst Heinrich Weber. Grundlage des Fechnerschen Gesetzes.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "signalentdeckungstheorie",
+      "stable_id": "card-ms942qpj0z4mq",
       "front": "Signalentdeckungstheorie (Signal Detection Theory)",
       "back": "Theorie, nach der das Entdecken eines schwachen Reizes von der Sensitivität und dem Antwortkriterium abhängt — nicht von einer festen Schwelle.",
       "notes": "Vier Ergebnistypen: Treffer, falscher Alarm, Verpasser, korrekte Ablehnung.",
@@ -28,6 +30,7 @@
     },
     {
       "id": "fmrt",
+      "stable_id": "card-ms942qpj0z50u",
       "front": "fMRT (funktionelle Magnetresonanztomographie)",
       "back": "Bildgebendes Verfahren, das die Gehirnaktivität indirekt über den Blutsauerstoffgehalt (BOLD-Signal) misst und räumlich hochauflösende Aktivitätskarten erzeugt.",
       "notes": "Gute räumliche, schlechte zeitliche Auflösung. Vgl. EEG (gute Zeit-, schlechte Ortsauflösung).",
@@ -37,6 +40,7 @@
     },
     {
       "id": "broca-aphasie",
+      "stable_id": "card-ms942qpj0z6s8",
       "front": "Broca-Aphasie",
       "back": "Sprachstörung mit stockender, angestrengter Produktion bei meist erhaltenem Sprachverständnis — verursacht durch eine Schädigung des Broca-Areals im linken Frontallappen.",
       "notes": "Gegenstück: Wernicke-Aphasie (flüssige, aber sinnlose Sprache, Verständnis gestört).",
@@ -46,6 +50,7 @@
     },
     {
       "id": "neuroplastizitaet",
+      "stable_id": "card-ms942qpj0z7im",
       "front": "Neuroplastizität (Neural Plasticity)",
       "back": "Die Fähigkeit des Gehirns, seine Struktur und Funktion als Reaktion auf Erfahrung, Lernen oder Verletzung lebenslang zu verändern.",
       "notes": "Basis für Rehabilitation nach Hirnschädigung und für Lernprozesse allgemein.",
@@ -55,6 +60,7 @@
     },
     {
       "id": "icd-11",
+      "stable_id": "card-ms942qpj0z87x",
       "front": "ICD-11 (Internationale Klassifikation der Krankheiten, 11. Revision)",
       "back": "Das weltweite Diagnosemanual der WHO zur einheitlichen Klassifikation psychischer und körperlicher Störungen — seit 2022 offiziell in Kraft.",
       "notes": "Parallel: DSM-5 (amerikanisches Diagnosesystem der APA).",
@@ -64,6 +70,7 @@
     },
     {
       "id": "vulnerabilitaets-stress-modell",
+      "stable_id": "card-ms942qpj0z935",
       "front": "Vulnerabilitäts-Stress-Modell (Diathesis-Stress Model)",
       "back": "Psychische Störungen entstehen, wenn eine individuelle Anfälligkeit (Vulnerabilität) auf belastende Lebensereignisse (Stressoren) trifft — keiner der beiden Faktoren allein ist ausreichend.",
       "notes": "Integriert biologische, psychologische und soziale Risikofaktoren.",
@@ -74,6 +81,7 @@
     },
     {
       "id": "ptbs",
+      "stable_id": "card-ms942qpj0zac9",
       "front": "Posttraumatische Belastungsstörung — PTBS (PTSD)",
       "back": "Psychische Störung nach einem traumatischen Erlebnis, gekennzeichnet durch Intrusionen (Flashbacks), Vermeidung, negative Gedanken und erhöhte Erregung (Hyperarousal).",
       "notes": "Gehört zur Gruppe der traumabezogenen Störungen im ICD-11 und DSM-5.",
@@ -83,6 +91,7 @@
     },
     {
       "id": "anova",
+      "stable_id": "card-ms942qpj0zbah",
       "front": "Varianzanalyse — ANOVA (Analysis of Variance)",
       "back": "Inferenzstatistisches Verfahren zum Vergleich der Mittelwerte von drei oder mehr Gruppen durch Zerlegung der Gesamtvarianz in Zwischen- und Innergruppenvarianz.",
       "notes": "Einfaktorielle ANOVA: ein Faktor. Mehrfaktorielle ANOVA: mehrere Faktoren und mögliche Interaktionen.",
@@ -92,6 +101,7 @@
     },
     {
       "id": "faktorenanalyse",
+      "stable_id": "card-ms942qpj0zcqd",
       "front": "Faktorenanalyse (Factor Analysis)",
       "back": "Statistisches Verfahren, das viele korrelierte Variablen auf eine kleinere Zahl zugrundeliegender latenter Faktoren reduziert.",
       "notes": "Anwendung: Entwicklung von Persönlichkeitstests (z. B. die 'Big Five' wurden faktorenanalytisch ermittelt).",
@@ -101,6 +111,7 @@
     },
     {
       "id": "effektstaerke",
+      "stable_id": "card-ms942qpj0zdzh",
       "front": "Effektstärke (Effect Size)",
       "back": "Maß für die praktische Bedeutsamkeit eines Ergebnisses, unabhängig von der Stichprobengröße — z. B. Cohens d für Mittelwertunterschiede oder r für Korrelationen.",
       "notes": "p-Wert sagt nur, ob ein Effekt signifikant ist; die Effektstärke sagt, wie groß er ist.",
@@ -111,6 +122,7 @@
     },
     {
       "id": "laengsschnitt-querschnitt",
+      "stable_id": "card-ms942qpj0zekh",
       "front": "Längsschnitt- vs. Querschnittsstudie",
       "back": "Längsschnitt: dieselben Personen werden über einen längeren Zeitraum wiederholt gemessen (Entwicklung verfolgbar). Querschnitt: verschiedene Altersgruppen werden zu einem Zeitpunkt verglichen (schneller, aber Kohorteneffekte möglich).",
       "notes": "Auch relevant für Entwicklungspsychologie (Lektion 34).",
@@ -145,6 +157,7 @@
       "title": "Begriff und Themenblock zuordnen",
       "exercise": {
         "id": "ex-match-themen",
+        "stable_id": "ex-ms942qpj0zfv2",
         "type": "matching",
         "prompt": "Ordne jeden Begriff dem richtigen Themenblock (Lektion) zu.",
         "card_ids": ["webersches-gesetz", "fmrt", "icd-11", "anova"],
@@ -164,6 +177,7 @@
       "title": "Anlage und Umwelt",
       "exercise": {
         "id": "ex-free-vulnerabilitaet",
+        "stable_id": "ex-ms942qpj0zgjz",
         "type": "free_text",
         "prompt": "Welches Modell erklärt psychische Störungen als Zusammenspiel von individueller Anfälligkeit und belastenden Lebensereignissen?",
         "card_ids": ["vulnerabilitaets-stress-modell"],
@@ -185,6 +199,7 @@
       "title": "Praktische Bedeutsamkeit",
       "exercise": {
         "id": "ex-cloze-effektstaerke",
+        "stable_id": "ex-ms942qpj0zhqp",
         "type": "cloze",
         "prompt": "Ergänze, welches Maß die praktische Bedeutsamkeit eines statistischen Ergebnisses unabhängig von der Stichprobengröße angibt.",
         "card_ids": ["effektstaerke"],
@@ -203,6 +218,7 @@
       "title": "Bildgebende Verfahren und ihre Stärken",
       "exercise": {
         "id": "ex-match-bildgebung",
+        "stable_id": "ex-ms942qpj0zi4d",
         "type": "matching",
         "prompt": "Welches bildgebende Verfahren hat welche besondere Stärke?",
         "card_ids": ["fmrt", "neuroplastizitaet"],
@@ -221,6 +237,7 @@
       "title": "Das Webersche Gesetz in eigenen Worten",
       "exercise": {
         "id": "ex-tiles-weber",
+        "stable_id": "ex-ms942qpj0zj70",
         "type": "word_tiles",
         "prompt": "Setze die Kernaussage des Weberschen Gesetzes zusammen.",
         "card_ids": ["webersches-gesetz"],
@@ -236,6 +253,7 @@
       "title": "Drei oder mehr Gruppen vergleichen",
       "exercise": {
         "id": "ex-free-anova",
+        "stable_id": "ex-ms942qpj0zkj8",
         "type": "free_text",
         "prompt": "Welches inferenzstatistische Verfahren vergleicht die Mittelwerte von drei oder mehr Gruppen durch Zerlegung der Gesamtvarianz?",
         "card_ids": ["anova"],
@@ -257,6 +275,7 @@
       "title": "Broca-Aphasie erkennen",
       "exercise": {
         "id": "ex-cloze-broca",
+        "stable_id": "ex-ms942qpj0zlpn",
         "type": "cloze",
         "prompt": "Ergänze, welche sprachliche Funktion bei der Broca-Aphasie beeinträchtigt ist.",
         "card_ids": ["broca-aphasie"],

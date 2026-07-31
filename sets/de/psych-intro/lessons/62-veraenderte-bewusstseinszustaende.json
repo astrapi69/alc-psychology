@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "vbz-definition",
+      "stable_id": "card-ms942qpt185d3",
       "front": "Veränderter Bewusstseinszustand (Altered State of Consciousness)",
       "back": "Jede deutliche Abweichung vom normalen Wachbewusstsein — z. B. durch Schlaf, Meditation, Hypnose oder psychoaktive Substanzen.",
       "notes": "Baut auf Lektion 14 (Bewusstsein) und Lektion 61 (Schlaf) auf.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "meditation",
+      "stable_id": "card-ms942qpt186iu",
       "front": "Meditation und Achtsamkeit (Mindfulness)",
       "back": "Übungspraxis, die Aufmerksamkeit absichtlich auf den gegenwärtigen Moment richtet; senkt nachweislich Stress und verbessert die Aufmerksamkeitssteuerung.",
       "notes": "Bezug zu Stressmodellen (Lektion 12) und Gesundheitspsychologie (Lektion 28).",
@@ -27,6 +29,7 @@
     },
     {
       "id": "hypnose",
+      "stable_id": "card-ms942qpt187en",
       "front": "Hypnose",
       "back": "Ein Zustand erhöhter Suggestibilität und fokussierter Aufmerksamkeit, der durch Einleitungsrituale herbeigeführt wird; kein Schlaf und keine Fremdsteuerung.",
       "notes": "Weit verbreiteter Irrglaube: Hypnose bedeutet weder Bewusstlosigkeit noch dass man gegen den eigenen Willen handeln muss.",
@@ -37,6 +40,7 @@
     },
     {
       "id": "suggestibilitaet",
+      "stable_id": "card-ms942qpt188ux",
       "front": "Suggestibilität (Suggestibility)",
       "back": "Die Bereitschaft einer Person, Vorschläge oder Anweisungen zu übernehmen — ein zentrales Merkmal der Hypnose.",
       "media_type": "text",
@@ -45,6 +49,7 @@
     },
     {
       "id": "tagtraeumen",
+      "stable_id": "card-ms942qpt1897e",
       "front": "Tagträumen (Daydreaming)",
       "back": "Alltäglicher veränderter Bewusstseinszustand, bei dem die Aufmerksamkeit von der Außenwelt zur inneren Vorstellungswelt wandert.",
       "media_type": "text",
@@ -53,6 +58,7 @@
     },
     {
       "id": "flow",
+      "stable_id": "card-ms942qpt18a92",
       "front": "Flow-Zustand (Flow State)",
       "back": "Zustand vollständiger, müheloser Vertiefung in eine Tätigkeit; beschrieben von Csikszentmihályi als optimales Erlebnis.",
       "notes": "Flow tritt auf, wenn Herausforderung und Kompetenz im Gleichgewicht sind.",
@@ -62,6 +68,7 @@
     },
     {
       "id": "depressiva",
+      "stable_id": "card-ms942qpt18bhd",
       "front": "Dämpfungsmittel / Depressiva (Depressants)",
       "back": "Psychoaktive Substanzen, die die Aktivität des Zentralnervensystems (ZNS) verlangsamen; z. B. Alkohol, Benzodiazepine.",
       "notes": "Wirkung u. a. über Verstärkung des hemmenden Neurotransmitters GABA (vgl. Lektion 37).",
@@ -71,6 +78,7 @@
     },
     {
       "id": "stimulanzien",
+      "stable_id": "card-ms942qpt18cad",
       "front": "Stimulanzien (Stimulants)",
       "back": "Substanzen, die das ZNS aktivieren und Wachheit sowie Energie steigern; z. B. Koffein, Nikotin, Amphetamine.",
       "notes": "Wirken oft über erhöhte Dopamin- und Noradrenalinausschüttung (vgl. Lektion 37).",
@@ -80,6 +88,7 @@
     },
     {
       "id": "halluzinogene",
+      "stable_id": "card-ms942qpt18de0",
       "front": "Halluzinogene (Hallucinogens)",
       "back": "Substanzen, die Wahrnehmung und Bewusstsein stark verzerren und Halluzinationen erzeugen können; z. B. LSD.",
       "notes": "Wirken u. a. auf Serotonin-Rezeptoren.",
@@ -89,6 +98,7 @@
     },
     {
       "id": "opioide",
+      "stable_id": "card-ms942qpt18e5d",
       "front": "Opioide (Opioids)",
       "back": "Substanzen, die an körpereigene Opioidrezeptoren binden und starke Schmerzlinderung sowie Euphorie erzeugen; z. B. Morphin, Heroin.",
       "notes": "Hohe Abhängigkeitsgefahr; der Körper produziert eigene Opioide (Endorphine).",
@@ -98,6 +108,7 @@
     },
     {
       "id": "neurotransmitter-substanzen",
+      "stable_id": "card-ms942qpt18fw3",
       "front": "Psychoaktive Substanzen und Neurotransmitter",
       "back": "Psychoaktive Substanzen verändern Bewusstseinszustände, indem sie die Ausschüttung, Wiederaufnahme oder Bindung von Neurotransmittern im Gehirn beeinflussen.",
       "notes": "Bezug Lektion 37 (Biopsychologie): Dopamin, Serotonin, GABA, Noradrenalin.",
@@ -107,6 +118,7 @@
     },
     {
       "id": "hypnose-mythos",
+      "stable_id": "card-ms942qpt18gxg",
       "front": "Hypnose — Mythos vs. Realität",
       "back": "Mythos: Hypnose ist Schlaf oder Fremdsteuerung. Realität: Hypnose ist ein Zustand fokussierter Aufmerksamkeit und erhöhter Suggestibilität — Betroffene bleiben bewusst und kontrollieren ihr Handeln.",
       "media_type": "text",
@@ -140,6 +152,7 @@
       "title": "Substanzen einordnen",
       "exercise": {
         "id": "ex-match-substanzen",
+        "stable_id": "ex-ms942qpt18hew",
         "type": "matching",
         "prompt": "Ordne jede Substanz ihrer Kategorie zu.",
         "card_ids": ["depressiva", "stimulanzien", "halluzinogene", "opioide"],
@@ -159,6 +172,7 @@
       "title": "Hypnose — Mythos oder Realität?",
       "exercise": {
         "id": "ex-match-hypnose",
+        "stable_id": "ex-ms942qpt18ibi",
         "type": "matching",
         "prompt": "Ordne jede Aussage über Hypnose der richtigen Einschätzung zu.",
         "card_ids": ["hypnose", "hypnose-mythos", "suggestibilitaet"],
@@ -177,6 +191,7 @@
       "title": "Der Flow-Zustand",
       "exercise": {
         "id": "ex-cloze-flow",
+        "stable_id": "ex-ms942qpt18j6s",
         "type": "cloze",
         "prompt": "Ergänze den Psychologen, der den Flow-Zustand beschrieben hat.",
         "card_ids": ["flow"],
@@ -195,6 +210,7 @@
       "title": "Wirkung der Depressiva",
       "exercise": {
         "id": "ex-free-kategorien",
+        "stable_id": "ex-ms942qpt18kbl",
         "type": "free_text",
         "prompt": "Wie beeinflussen Depressiva (Dämpfungsmittel) das Zentralnervensystem?",
         "card_ids": ["depressiva"],
@@ -211,6 +227,7 @@
       "title": "Wirkung von Meditation",
       "exercise": {
         "id": "ex-free-meditation",
+        "stable_id": "ex-ms942qpt18lwz",
         "type": "free_text",
         "prompt": "Nenne zwei belegte Wirkungen von Meditation auf die Psyche.",
         "card_ids": ["meditation"],
@@ -227,6 +244,7 @@
       "title": "Definition zusammensetzen",
       "exercise": {
         "id": "ex-tiles-vbz",
+        "stable_id": "ex-ms942qpt18myb",
         "type": "word_tiles",
         "prompt": "Setze die Definition eines veränderten Bewusstseinszustands zusammen.",
         "card_ids": ["vbz-definition"],

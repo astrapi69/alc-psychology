@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "arbeitsmotivation-def",
+      "stable_id": "card-ms942qqe1qvnp",
       "front": "Arbeitsmotivation",
       "back": "Gesamtheit der Beweggründe, die Richtung, Intensität und Ausdauer des Verhaltens im Arbeitskontext bestimmen. Sie erklärt, warum Menschen eine Tätigkeit aufnehmen, wie viel Energie sie investieren und wie lange sie dabei bleiben.",
       "notes": "Englisch: work motivation. Unterschieden werden Inhaltstheorien (was motiviert?) und Prozesstheorien (wie entsteht Motivation?).",
@@ -18,6 +19,7 @@
     },
     {
       "id": "maslow-beduerfnishierarchie",
+      "stable_id": "card-ms942qqe1qwy7",
       "front": "Bedürfnishierarchie (Maslow)",
       "back": "Inhaltstheorie, die menschliche Bedürfnisse in einer Stufenfolge ordnet: physiologische Bedürfnisse, Sicherheit, soziale Bindung, Wertschätzung und Selbstverwirklichung. Erst wenn niedrigere Bedürfnisse befriedigt sind, werden höhere handlungsleitend.",
       "notes": "Englisch: hierarchy of needs (Maslow). Populär, empirisch aber umstritten; die strenge Stufenfolge ließ sich kaum bestätigen.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "herzberg-zwei-faktoren",
+      "stable_id": "card-ms942qqe1qx0n",
       "front": "Zwei-Faktoren-Theorie (Herzberg)",
       "back": "Inhaltstheorie, die zwei unabhängige Gruppen von Einflussgrößen unterscheidet: Motivatoren (z. B. Leistung, Anerkennung, Arbeitsinhalt) erzeugen Zufriedenheit; Hygienefaktoren (z. B. Gehalt, Arbeitsbedingungen, Führung) verhindern bei Erfüllung nur Unzufriedenheit, motivieren aber nicht.",
       "notes": "Englisch: two-factor theory / motivation-hygiene theory (Herzberg). Kernidee: Zufriedenheit und Unzufriedenheit sind keine Gegenpole derselben Skala.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "vroom-vie",
+      "stable_id": "card-ms942qqe1qy9j",
       "front": "VIE-Theorie / Erwartungs-Wert-Theorie (Vroom)",
       "back": "Prozesstheorie: Die Motivation, eine Handlung zu zeigen, ergibt sich aus dem Zusammenspiel von Valenz (Wert des Ergebnisses), Instrumentalität (führt die Leistung zum Ergebnis?) und Erwartung (kann ich die Leistung erbringen?). Fehlt einer der Faktoren, sinkt die Motivation stark.",
       "notes": "Englisch: VIE theory / expectancy theory (Vroom). VIE = Valenz, Instrumentalität, Erwartung (expectancy).",
@@ -45,6 +49,7 @@
     },
     {
       "id": "locke-latham-zielsetzung",
+      "stable_id": "card-ms942qqe1qzfr",
       "front": "Zielsetzungstheorie (Locke & Latham)",
       "back": "Prozesstheorie: Spezifische und herausfordernde (aber erreichbare) Ziele führen zu höherer Leistung als vage Ziele wie *Gib dein Bestes*. Wirksam vor allem, wenn die Person das Ziel annimmt (Zielbindung) und Rückmeldung über den Fortschritt erhält.",
       "notes": "Englisch: goal-setting theory (Locke & Latham). Praktisch oft als SMART-Kriterien formuliert: spezifisch, messbar, attraktiv/akzeptiert, realistisch, terminiert.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "adams-gerechtigkeit",
+      "stable_id": "card-ms942qqe1r0y7",
       "front": "Gerechtigkeitstheorie / Equity-Theorie (Adams)",
       "back": "Prozesstheorie: Beschäftigte vergleichen das Verhältnis ihres Einsatzes (Input) zu ihrem Ertrag (Output) mit dem Verhältnis bei Vergleichspersonen. Wird Ungleichheit empfunden, entsteht Spannung, die zu Verhaltensänderungen führt (z. B. weniger Einsatz, Vergleichswechsel).",
       "notes": "Englisch: equity theory (Adams). Zentral ist der soziale Vergleich, nicht der absolute Betrag der Belohnung.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "jcm-modell",
+      "stable_id": "card-ms942qqe1r10u",
       "front": "Job Characteristics Model (Hackman & Oldham)",
       "back": "Modell der motivierenden Arbeitsgestaltung: Fünf Tätigkeitsmerkmale (Anforderungsvielfalt, Ganzheitlichkeit, Bedeutsamkeit, Autonomie, Rückmeldung) lösen psychologische Erlebniszustände aus, die wiederum Motivation, Zufriedenheit und Leistung fördern.",
       "notes": "Englisch: Job Characteristics Model (Hackman & Oldham). Die fünf Merkmale werden im Job Diagnostic Survey erfasst.",
@@ -72,6 +79,7 @@
     },
     {
       "id": "jcm-merkmale",
+      "stable_id": "card-ms942qqe1r297",
       "front": "Die fünf Tätigkeitsmerkmale (JCM)",
       "back": "Anforderungsvielfalt (Einsatz verschiedener Fähigkeiten), Ganzheitlichkeit (Bearbeitung einer vollständigen Aufgabe), Bedeutsamkeit (Bedeutung der Arbeit für andere), Autonomie (Handlungsspielraum) und Rückmeldung (Information über das Ergebnis). Hohe Ausprägungen erhöhen das Motivationspotenzial der Tätigkeit.",
       "notes": "Englisch: skill variety, task identity, task significance, autonomy, feedback. Autonomie wirkt auf erlebte Verantwortung, Rückmeldung auf das Wissen um Ergebnisse.",
@@ -81,6 +89,7 @@
     },
     {
       "id": "deci-ryan-sdt",
+      "stable_id": "card-ms942qqe1r33v",
       "front": "Selbstbestimmungstheorie (Deci & Ryan)",
       "back": "Theorie, die intrinsische von extrinsischer Motivation unterscheidet und drei psychologische Grundbedürfnisse postuliert: Autonomie, Kompetenz und soziale Eingebundenheit. Werden diese unterstützt, steigt die selbstbestimmte (intrinsische) Motivation und mit ihr Wohlbefinden und Leistung.",
       "notes": "Englisch: self-determination theory (Deci & Ryan). Grundbedürfnisse: autonomy, competence, relatedness.",
@@ -90,6 +99,7 @@
     },
     {
       "id": "intrinsisch-extrinsisch",
+      "stable_id": "card-ms942qqe1r4gr",
       "front": "Intrinsische vs. extrinsische Motivation",
       "back": "Intrinsische Motivation entsteht aus der Tätigkeit selbst (Interesse, Freude, Sinn). Extrinsische Motivation speist sich aus äußeren Folgen (Geld, Lob, Vermeidung von Strafe). Starke äußere Anreize können intrinsische Motivation unter Umständen verdrängen (Korrumpierungseffekt).",
       "notes": "Englisch: intrinsic vs. extrinsic motivation. Korrumpierungseffekt / undermining effect: Belohnungen schwächen mitunter das ursprüngliche Interesse.",
@@ -99,6 +109,7 @@
     },
     {
       "id": "arbeitszufriedenheit-def",
+      "stable_id": "card-ms942qqe1r556",
       "front": "Arbeitszufriedenheit",
       "back": "Einstellung gegenüber der eigenen Arbeit und ihren Aspekten (Tätigkeit, Kollegium, Führung, Bezahlung). Sie umfasst eine bewertende und eine gefühlsmäßige Komponente. Der Zusammenhang mit der Arbeitsleistung ist real, aber eher schwach.",
       "notes": "Englisch: job satisfaction. Faustregel der Forschung: zufriedene Beschäftigte sind nicht automatisch deutlich leistungsfähiger; die Korrelation ist gering bis moderat.",
@@ -108,6 +119,7 @@
     },
     {
       "id": "bruggemann-formen",
+      "stable_id": "card-ms942qqe1r6wo",
       "front": "Formen der Arbeitszufriedenheit (Bruggemann)",
       "back": "Modell, das verschiedene Verarbeitungsformen unterscheidet, je nachdem wie Soll-Ist-Vergleich, Anspruchsniveau und Problemlösung zusammenwirken. Wichtig ist der Gegensatz von resignativer Zufriedenheit (Ansprüche werden gesenkt) und stabilisierter Zufriedenheit (Ansprüche bleiben erfüllt und gehalten).",
       "notes": "Modell nach Agnes Bruggemann. Resignative Zufriedenheit kann nach außen wie echte Zufriedenheit aussehen, beruht aber auf gesenkten Ansprüchen.",
@@ -142,6 +154,7 @@
       "title": "Theorien und Kernaussagen",
       "exercise": {
         "id": "ex-match-inhaltstheorien",
+        "stable_id": "ex-ms942qqe1r7nw",
         "type": "matching",
         "prompt": "Ordne jeder Theorie ihre Kernaussage bzw. ihren Urheber zu.",
         "card_ids": ["maslow-beduerfnishierarchie", "herzberg-zwei-faktoren", "vroom-vie", "adams-gerechtigkeit"],
@@ -161,6 +174,7 @@
       "title": "Die drei Faktoren von Vroom",
       "exercise": {
         "id": "ex-cloze-vie",
+        "stable_id": "ex-ms942qqe1r8r4",
         "type": "cloze",
         "prompt": "Ergänze den fehlenden Faktor der VIE-Theorie.",
         "card_ids": ["vroom-vie"],
@@ -177,6 +191,7 @@
       "title": "Zufriedenheit und Unzufriedenheit getrennt",
       "exercise": {
         "id": "ex-free-herzberg",
+        "stable_id": "ex-ms942qqe1r9kc",
         "type": "free_text",
         "prompt": "Welche Theorie unterscheidet Motivatoren (erzeugen Zufriedenheit) von Hygienefaktoren (verhindern nur Unzufriedenheit)?",
         "card_ids": ["herzberg-zwei-faktoren"],
@@ -193,6 +208,7 @@
       "title": "Selbstbestimmung und Zufriedenheit",
       "exercise": {
         "id": "ex-match-sdt-bruggemann",
+        "stable_id": "ex-ms942qqe1rax0",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die korrekte Kennzeichnung zu.",
         "card_ids": ["deci-ryan-sdt", "intrinsisch-extrinsisch", "bruggemann-formen"],
@@ -211,6 +227,7 @@
       "title": "Spezifische, herausfordernde Ziele",
       "exercise": {
         "id": "ex-free-zielsetzung",
+        "stable_id": "ex-ms942qqe1rb0n",
         "type": "free_text",
         "prompt": "Welche Prozesstheorie besagt, dass spezifische und herausfordernde Ziele zu höherer Leistung führen als vage Ziele?",
         "card_ids": ["locke-latham-zielsetzung"],
@@ -227,6 +244,7 @@
       "title": "Zufriedenheit und Leistung",
       "exercise": {
         "id": "ex-cloze-arbeitszufriedenheit",
+        "stable_id": "ex-ms942qqe1rchg",
         "type": "cloze",
         "prompt": "Ergänze die Aussage zum Zusammenhang von Arbeitszufriedenheit und Leistung.",
         "card_ids": ["arbeitszufriedenheit-def"],
@@ -243,6 +261,7 @@
       "title": "Die fünf Tätigkeitsmerkmale",
       "exercise": {
         "id": "ex-tiles-jcm",
+        "stable_id": "ex-ms942qqe1rd3d",
         "type": "word_tiles",
         "prompt": "Setze die fünf Tätigkeitsmerkmale des Job Characteristics Model in der üblichen Reihenfolge zusammen.",
         "card_ids": ["jcm-merkmale"],
@@ -258,6 +277,7 @@
       "title": "Die drei Grundbedürfnisse",
       "exercise": {
         "id": "ex-cloze-grundbeduerfnisse",
+        "stable_id": "ex-ms942qqe1re37",
         "type": "cloze",
         "prompt": "Ergänze das fehlende Grundbedürfnis der Selbstbestimmungstheorie.",
         "card_ids": ["deci-ryan-sdt"],

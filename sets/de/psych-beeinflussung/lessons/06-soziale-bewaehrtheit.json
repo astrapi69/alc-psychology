@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "card-soziale-bewaehrtheit",
+      "stable_id": "card-ms942qof01nr2",
       "front": "Soziale Bewährtheit",
       "back": "Menschen orientieren sich am Verhalten anderer, um zu entscheiden, was richtig ist — besonders in unsicheren oder mehrdeutigen Situationen",
       "notes": "Englisch *social proof*; eines der Einflussprinzipien nach Cialdini.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "card-informationaler-einfluss",
+      "stable_id": "card-ms942qof01o60",
       "front": "Informationaler sozialer Einfluss",
       "back": "Das Verhalten anderer wird als Information über die Wirklichkeit genutzt — man nimmt an, dass die vielen schon wissen werden, was richtig ist",
       "notes": "Abgegrenzt vom normativen Einfluss (Dazugehören-Wollen). Deutsch & Gerard (1955).",
@@ -27,6 +29,7 @@
     },
     {
       "id": "card-hotel-handtuch",
+      "stable_id": "card-ms942qof01pde",
       "front": "Goldstein, Cialdini & Griskevicius (2008)",
       "back": "Hinweisschilder, die betonten, dass die meisten Gäste ihre Handtücher wiederverwenden, erhöhten die Wiederverwendung stärker als reine Umwelt-Appelle",
       "notes": "Reales Feldexperiment in Hotels. Der Effekt war messbar, aber moderat.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "card-unsicherheit-aehnlichkeit",
+      "stable_id": "card-ms942qof01q4s",
       "front": "Wann wirkt soziale Bewährtheit stärker?",
       "back": "Vor allem bei Unsicherheit und wenn die anderen einem ähnlich sind — dann ist ihr Verhalten ein besonders überzeugender Hinweis",
       "notes": "Zwei Verstärker des Effekts.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "card-bewaehrtheit-grenze",
+      "stable_id": "card-ms942qof01rzy",
       "front": "Augenmaß bei sozialer Bewährtheit",
       "back": "Das Verhalten der Mehrheit ist nicht automatisch richtig; wer klare eigene Information oder Expertise hat, folgt der Masse seltener",
       "notes": "Eine Orientierungshilfe, kein Wahrheitsbeweis.",
@@ -67,6 +72,7 @@
       "title": "Definition: Soziale Bewährtheit",
       "exercise": {
         "id": "ex-free-bewaehrtheit",
+        "stable_id": "ex-ms942qof01s2i",
         "type": "free_text",
         "prompt": "Was beschreibt das Prinzip der sozialen Bewährtheit?",
         "card_ids": ["card-soziale-bewaehrtheit"],
@@ -91,6 +97,7 @@
       "title": "Wann wirkt der Effekt stärker?",
       "exercise": {
         "id": "ex-cloze-unsicherheit",
+        "stable_id": "ex-ms942qof01t75",
         "type": "cloze",
         "prompt": "Ergänze die verstärkenden Bedingungen.",
         "card_ids": ["card-unsicherheit-aehnlichkeit"],
@@ -110,6 +117,7 @@
       "title": "Welcher Einfluss steckt dahinter?",
       "exercise": {
         "id": "ex-select-einfluss",
+        "stable_id": "ex-ms942qof01up9",
         "type": "cloze",
         "prompt": "Wähle die Art des sozialen Einflusses, die der sozialen Bewährtheit zugrunde liegt.",
         "card_ids": ["card-informationaler-einfluss"],
@@ -129,6 +137,7 @@
       "title": "Soziale Bewährtheit: Begriffe zuordnen",
       "exercise": {
         "id": "ex-match-bewaehrtheit",
+        "stable_id": "ex-ms942qof01v8w",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Aussage zu.",
         "card_ids": ["card-soziale-bewaehrtheit", "card-informationaler-einfluss", "card-hotel-handtuch", "card-bewaehrtheit-grenze"],
@@ -148,6 +157,7 @@
       "title": "Setze den Kernsatz zusammen",
       "exercise": {
         "id": "ex-tiles-bewaehrtheit",
+        "stable_id": "ex-ms942qof01wsp",
         "type": "word_tiles",
         "prompt": "Setze den Kernsatz zur sozialen Bewährtheit zusammen.",
         "card_ids": ["card-soziale-bewaehrtheit"],

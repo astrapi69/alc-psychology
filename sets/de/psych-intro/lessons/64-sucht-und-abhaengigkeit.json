@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "abhaengigkeit",
+      "stable_id": "card-ms942qpv1963l",
       "front": "Abhängigkeit / Sucht (Addiction)",
       "back": "Zwanghafter Substanzkonsum oder ein zwanghaftes Verhalten trotz negativer Folgen und Kontrollverlust über den Konsum.",
       "notes": "Abhängigkeit ist keine Willensschwäche, sondern eine psychische und häufig körperliche Erkrankung.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "koerperliche-abhaengigkeit",
+      "stable_id": "card-ms942qpv197py",
       "front": "Körperliche Abhängigkeit (Physical Dependence)",
       "back": "Anpassung des Körpers an eine Substanz, sodass beim Absetzen körperliche Entzugserscheinungen auftreten (z. B. Zittern, Schwitzen, Krämpfe).",
       "media_type": "text",
@@ -26,6 +28,7 @@
     },
     {
       "id": "psychische-abhaengigkeit",
+      "stable_id": "card-ms942qpv198nf",
       "front": "Psychische Abhängigkeit (Psychological Dependence)",
       "back": "Starkes Verlangen (Craving) nach einer Substanz oder einem Verhalten, das durch Erwartung von Lust oder Linderung von Unwohlsein angetrieben wird — ohne zwingend körperliche Entzugszeichen.",
       "media_type": "text",
@@ -34,6 +37,7 @@
     },
     {
       "id": "belohnungssystem",
+      "stable_id": "card-ms942qpv1992k",
       "front": "Belohnungssystem (Reward System) des Gehirns",
       "back": "Ein Netzwerk aus mesolimbischen Strukturen (v. a. Nucleus accumbens, ventrales Tegmentum), das bei angenehmen Erlebnissen Dopamin ausschüttet und Verhalten verstärkt.",
       "notes": "Bezug Lektion 37 (Biopsychologie vertieft): Das Belohnungssystem ist die neurobiologische Grundlage von Motivation und Sucht.",
@@ -43,6 +47,7 @@
     },
     {
       "id": "dopamin-sucht",
+      "stable_id": "card-ms942qpv19apv",
       "front": "Rolle von Dopamin (Dopamine) bei Sucht",
       "back": "Suchtmittel fluten das Belohnungssystem mit Dopamin, was ein intensives Lustgefühl erzeugt. Wiederholter Konsum verändert die Dopaminregulation dauerhaft und schwächt die natürliche Belohnungsreaktion.",
       "notes": "Bezug Lektion 37. Der Nucleus accumbens ist das zentrale Zielgebiet.",
@@ -52,6 +57,7 @@
     },
     {
       "id": "toleranz",
+      "stable_id": "card-ms942qpv19bd4",
       "front": "Toleranz (Tolerance)",
       "back": "Mit der Zeit wird eine immer höhere Dosis einer Substanz benötigt, um dieselbe Wirkung zu erzielen — weil sich das Gehirn an die Substanz angepasst hat.",
       "media_type": "text",
@@ -60,6 +66,7 @@
     },
     {
       "id": "entzug",
+      "stable_id": "card-ms942qpv19c7t",
       "front": "Entzugserscheinungen (Withdrawal Symptoms)",
       "back": "Körperliche und psychische Beschwerden beim Absetzen oder starken Reduzieren einer Substanz, bei der körperliche Abhängigkeit besteht (z. B. Angst, Übelkeit, Schlafstörungen, Zittern).",
       "media_type": "text",
@@ -68,6 +75,7 @@
     },
     {
       "id": "craving",
+      "stable_id": "card-ms942qpv19dea",
       "front": "Craving (Suchtdruck)",
       "back": "Ein intensives, oft unwiderstehliches Verlangen nach einer Substanz oder einem Suchtverhalten, das durch Auslösereize (Cues) oder Stress ausgelöst werden kann.",
       "notes": "Craving ist ein Kernmerkmal der Abhängigkeit und zentraler Ansatzpunkt in der Therapie.",
@@ -77,6 +85,7 @@
     },
     {
       "id": "konditionierung-sucht",
+      "stable_id": "card-ms942qpv19esr",
       "front": "Konditionierung (Conditioning) und Auslösereize (Cues) bei Sucht",
       "back": "Neutrale Reize (Orte, Personen, Gerüche), die wiederholt mit dem Substanzkonsum aufgetreten sind, werden zu konditionierten Auslösern, die Craving auslösen — klassische Konditionierung (Bezug Lektion 4).",
       "notes": "Negative Verstärkung: Konsum lindert Entzugssymptome → Verhalten wird aufrechterhalten (operante Konditionierung).",
@@ -86,6 +95,7 @@
     },
     {
       "id": "verhaltenssucht",
+      "stable_id": "card-ms942qpv19fpc",
       "front": "Verhaltenssucht (Behavioral Addiction)",
       "back": "Suchtartiges, zwanghaftes Verhalten ohne Substanzkonsum, das dieselben Belohnungskreise aktiviert (z. B. Glücksspielsucht, Internet-/Spielsucht, Kaufsucht).",
       "notes": "Die Glücksspielstörung ist in ICD-11 und DSM-5 als Störung anerkannt.",
@@ -95,6 +105,7 @@
     },
     {
       "id": "biopsychosoziales-modell-sucht",
+      "stable_id": "card-ms942qpv19gk1",
       "front": "Biopsychosoziales Modell (Biopsychosocial Model) der Sucht",
       "back": "Sucht entsteht durch das Zusammenwirken biologischer (Genetik, Neurobiologie), psychologischer (Stressbewältigung, Persönlichkeit) und sozialer Faktoren (Umfeld, Verfügbarkeit) — kein einzelner Faktor reicht aus.",
       "notes": "Bezug Lektion 28 (Gesundheitspsychologie). Dieses Modell betont, dass Sucht eine komplexe Erkrankung ist.",
@@ -104,6 +115,7 @@
     },
     {
       "id": "behandlung-sucht",
+      "stable_id": "card-ms942qpv19h1w",
       "front": "Behandlungsansätze bei Abhängigkeit",
       "back": "Entzug (medizinisch begleitet), Entwöhnung (Psychotherapie, z. B. kognitive Verhaltenstherapie), Selbsthilfegruppen, ggf. Substitution (z. B. Methadon) und Rückfallprävention.",
       "notes": "Rückfälle sind häufig und gehören zum Genesungsprozess — kein Zeichen des Scheiterns.",
@@ -138,6 +150,7 @@
       "title": "Körperlich vs. psychisch zuordnen",
       "exercise": {
         "id": "ex-match-abhaengigkeit",
+        "stable_id": "ex-ms942qpv19ifm",
         "type": "matching",
         "prompt": "Ordne jeden Begriff seiner Beschreibung zu.",
         "card_ids": ["koerperliche-abhaengigkeit", "psychische-abhaengigkeit", "craving"],
@@ -156,6 +169,7 @@
       "title": "Toleranz, Entzug und Craving",
       "exercise": {
         "id": "ex-match-toleranz-entzug-craving",
+        "stable_id": "ex-ms942qpv19jhb",
         "type": "matching",
         "prompt": "Ordne jedem Fachbegriff seine Beschreibung zu.",
         "card_ids": ["toleranz", "entzug", "craving", "dopamin-sucht"],
@@ -175,6 +189,7 @@
       "title": "Dopamin im Belohnungssystem",
       "exercise": {
         "id": "ex-cloze-dopamin",
+        "stable_id": "ex-ms942qpv19kti",
         "type": "cloze",
         "prompt": "Ergänze den zentralen Neurotransmitter des Belohnungssystems.",
         "card_ids": ["dopamin-sucht", "belohnungssystem"],
@@ -193,6 +208,7 @@
       "title": "Auslösereize und Konditionierung",
       "exercise": {
         "id": "ex-cloze-konditionierung",
+        "stable_id": "ex-ms942qpv19lsi",
         "type": "cloze",
         "prompt": "Ergänze den Lernmechanismus, durch den neutrale Reize zu Craving-Auslösern werden.",
         "card_ids": ["konditionierung-sucht"],
@@ -211,6 +227,7 @@
       "title": "Abhängigkeit definieren",
       "exercise": {
         "id": "ex-free-abhaengigkeit",
+        "stable_id": "ex-ms942qpv19mn0",
         "type": "free_text",
         "prompt": "Wie heißt der Zustand, in dem jemand trotz negativer Folgen und mit Kontrollverlust zwanghaft eine Substanz konsumiert oder ein Verhalten ausführt?",
         "card_ids": ["abhaengigkeit"],
@@ -227,6 +244,7 @@
       "title": "Glücksspielsucht einordnen",
       "exercise": {
         "id": "ex-free-verhaltenssucht",
+        "stable_id": "ex-ms942qpv19nf9",
         "type": "free_text",
         "prompt": "Zu welcher Kategorie von Sucht gehört die Glücksspielstörung — bei der keine Substanz konsumiert wird?",
         "card_ids": ["verhaltenssucht"],
@@ -243,6 +261,7 @@
       "title": "Das Modell der Suchtursachen",
       "exercise": {
         "id": "ex-tiles-biopsychosozial",
+        "stable_id": "ex-ms942qpv19ont",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zum Erklärungsmodell der Sucht zusammen.",
         "card_ids": ["biopsychosoziales-modell-sucht"],

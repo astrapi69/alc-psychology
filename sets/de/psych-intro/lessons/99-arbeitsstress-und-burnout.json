@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "belastung-beanspruchung",
+      "stable_id": "card-ms942qqf1rzcs",
       "front": "Belastung vs. Beanspruchung",
       "back": "Belastung meint die von außen einwirkenden Anforderungen einer Tätigkeit (z. B. Termindruck, Lärm). Beanspruchung ist die individuelle Reaktion darauf, die von den persönlichen Voraussetzungen abhängt. Gleiche Belastung kann unterschiedlich stark beanspruchen.",
       "notes": "Belastungs-Beanspruchungs-Konzept; knüpft an Lektion 96 an. Englisch: load vs. strain.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "transaktionales-modell",
+      "stable_id": "card-ms942qqf1s05v",
       "front": "Transaktionales Stressmodell (Lazarus)",
       "back": "Stress entsteht nicht durch einen Reiz allein, sondern durch die Bewertung der Situation im Verhältnis zu den eigenen Ressourcen. Stress ist damit das Ergebnis einer Transaktion zwischen Person und Umwelt.",
       "notes": "Nach Richard Lazarus. Englisch: transactional model of stress.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "primaere-sekundaere-bewertung",
+      "stable_id": "card-ms942qqf1s1wa",
       "front": "Primäre und sekundäre Bewertung",
       "back": "Bei der primären Bewertung schätzt eine Person ein, ob eine Situation bedrohlich, herausfordernd oder irrelevant ist. Bei der sekundären Bewertung prüft sie, welche Bewältigungsmöglichkeiten ihr zur Verfügung stehen.",
       "notes": "Teil des transaktionalen Modells. Englisch: primary appraisal / secondary appraisal.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "stressoren-arbeitsplatz",
+      "stable_id": "card-ms942qqf1s290",
       "front": "Stressoren am Arbeitsplatz",
       "back": "Bedingungen der Arbeit, die Stressreaktionen auslösen können: z. B. Zeit- und Termindruck, häufige Unterbrechungen, Rollenkonflikte, geringe Handlungsspielräume, soziale Konflikte oder Arbeitsplatzunsicherheit.",
       "notes": "Englisch: workplace stressors. Stressoren beschreiben Bedingungen, kein persönliches Versagen.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "job-demand-control",
+      "stable_id": "card-ms942qqf1s3yp",
       "front": "Job-Demand-Control-Modell (Karasek)",
       "back": "Die Belastung am Arbeitsplatz ergibt sich aus dem Zusammenspiel von Anforderungen und Kontrolle (Entscheidungsspielraum). Besonders ungünstig ist die Kombination hoher Anforderungen mit geringem Spielraum (High-Strain-Jobs).",
       "notes": "Nach Robert Karasek. Englisch: job demand-control model. Auch Demand-Control-Modell genannt.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "entscheidungsspielraum",
+      "stable_id": "card-ms942qqf1s4rb",
       "front": "Entscheidungsspielraum (Kontrolle)",
       "back": "Das Ausmaß, in dem eine Person über die eigene Arbeit mitbestimmen kann: wie, wann und in welcher Reihenfolge Aufgaben erledigt werden. Ein hoher Spielraum kann hohe Anforderungen abpuffern.",
       "notes": "Im Modell von Karasek der zweite zentrale Faktor. Englisch: job control / decision latitude.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "effort-reward-imbalance",
+      "stable_id": "card-ms942qqf1s5jk",
       "front": "Effort-Reward-Imbalance (Siegrist)",
       "back": "Stress entsteht, wenn ein dauerhaftes Ungleichgewicht zwischen hoher Verausgabung und zu geringer Belohnung besteht. Belohnung umfasst Geld, Anerkennung, Aufstiegschancen und Arbeitsplatzsicherheit.",
       "notes": "Nach Johannes Siegrist; auch Modell beruflicher Gratifikationskrisen. Englisch: effort-reward imbalance.",
@@ -72,6 +79,7 @@
     },
     {
       "id": "gratifikationskrise",
+      "stable_id": "card-ms942qqf1s604",
       "front": "Gratifikationskrise",
       "back": "Der Zustand, in dem die erlebte Belohnung dauerhaft nicht zur eingebrachten Anstrengung passt. Das anhaltende Ungleichgewicht zwischen Verausgabung und Belohnung gilt als Risiko für gesundheitliche Beeinträchtigungen.",
       "notes": "Kernbegriff des Modells von Siegrist. Englisch: reward crisis.",
@@ -81,6 +89,7 @@
     },
     {
       "id": "burnout-definition",
+      "stable_id": "card-ms942qqf1s75d",
       "front": "Burnout",
       "back": "Ein Zustand anhaltender Erschöpfung, der sich infolge chronischer, nicht erfolgreich bewältigter Arbeitsüberlastung entwickelt. Burnout wird als Folge länger andauernder Belastung im Arbeitskontext beschrieben.",
       "notes": "Englisch: burnout. Burnout entsteht als Prozess über die Zeit, nicht plötzlich.",
@@ -90,6 +99,7 @@
     },
     {
       "id": "maslach-dimensionen",
+      "stable_id": "card-ms942qqf1s8ge",
       "front": "Die drei Burnout-Dimensionen (Maslach)",
       "back": "Burnout wird über drei Dimensionen beschrieben: emotionale Erschöpfung, Depersonalisation bzw. Zynismus (distanzierte, abweisende Haltung gegenüber Arbeit und Menschen) und reduzierte Leistungsfähigkeit (Gefühl verringerter Wirksamkeit).",
       "notes": "Nach Christina Maslach; erfasst u. a. mit dem Maslach Burnout Inventory. Englisch: emotional exhaustion, depersonalization/cynicism, reduced personal accomplishment.",
@@ -99,6 +109,7 @@
     },
     {
       "id": "icd11-burnout",
+      "stable_id": "card-ms942qqf1s9qb",
       "front": "Burnout im ICD-11",
       "back": "Im ICD-11 wird Burnout als Syndrom im Zusammenhang mit dem Arbeitskontext geführt, das aus chronischem, nicht bewältigtem Arbeitsstress resultiert. Es ist dort ausdrücklich keine eigenständige medizinische Krankheitsdiagnose im klassischen Sinn.",
       "notes": "ICD-11 ordnet Burnout den Faktoren zu, die den Gesundheitszustand beeinflussen, nicht den Erkrankungen. Englisch: ICD-11.",
@@ -108,6 +119,7 @@
     },
     {
       "id": "verhaeltnis-verhaltenspraevention",
+      "stable_id": "card-ms942qqf1sags",
       "front": "Verhältnis- vs. Verhaltensprävention",
       "back": "Verhältnisprävention verändert die Arbeitsbedingungen selbst (z. B. Aufgabengestaltung, Spielräume). Verhaltensprävention setzt beim Einzelnen an (z. B. Stresskompetenz, Erholung). Wirksame Prävention kombiniert beides.",
       "notes": "Eingebettet in betriebliches Gesundheitsmanagement (BGM). Recovery meint planmäßige Erholung. Englisch: structural vs. behavioral prevention.",
@@ -142,6 +154,7 @@
       "title": "Modelle und ihre Kernidee",
       "exercise": {
         "id": "ex-match-modelle",
+        "stable_id": "ex-ms942qqf1sb4b",
         "type": "matching",
         "prompt": "Ordne jedem Modell bzw. Begriff die passende Kernidee zu.",
         "card_ids": ["transaktionales-modell", "job-demand-control", "effort-reward-imbalance", "gratifikationskrise"],
@@ -161,6 +174,7 @@
       "title": "Belastung und Beanspruchung",
       "exercise": {
         "id": "ex-cloze-belastung",
+        "stable_id": "ex-ms942qqf1scos",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff für die individuelle Reaktion auf die Anforderungen einer Tätigkeit.",
         "card_ids": ["belastung-beanspruchung"],
@@ -177,6 +191,7 @@
       "title": "Der Zustand nach chronischer Überlastung",
       "exercise": {
         "id": "ex-free-burnout",
+        "stable_id": "ex-ms942qqf1sdx1",
         "type": "free_text",
         "prompt": "Wie heißt der Zustand anhaltender Erschöpfung, der sich infolge chronischer, nicht bewältigter Arbeitsüberlastung entwickelt?",
         "card_ids": ["burnout-definition"],
@@ -193,6 +208,7 @@
       "title": "Die drei Burnout-Dimensionen (Maslach)",
       "exercise": {
         "id": "ex-match-maslach",
+        "stable_id": "ex-ms942qqf1sel0",
         "type": "matching",
         "prompt": "Ordne jeder Burnout-Dimension nach Maslach die passende Beschreibung zu.",
         "card_ids": ["maslach-dimensionen"],
@@ -211,6 +227,7 @@
       "title": "Einordnung im ICD-11",
       "exercise": {
         "id": "ex-cloze-icd11",
+        "stable_id": "ex-ms942qqf1sfgy",
         "type": "cloze",
         "prompt": "Ergänze, als was Burnout im ICD-11 geführt wird.",
         "card_ids": ["icd11-burnout"],
@@ -227,6 +244,7 @@
       "title": "Der puffernde Faktor",
       "exercise": {
         "id": "ex-free-karasek",
+        "stable_id": "ex-ms942qqf1sgne",
         "type": "free_text",
         "prompt": "Welcher Faktor kann im Modell von Karasek hohe Anforderungen abpuffern (Mitbestimmung über die eigene Arbeit)?",
         "card_ids": ["job-demand-control", "entscheidungsspielraum"],
@@ -243,6 +261,7 @@
       "title": "Prävention auf zwei Ebenen",
       "exercise": {
         "id": "ex-tiles-praevention",
+        "stable_id": "ex-ms942qqf1shaj",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zu den beiden Präventionsebenen zusammen.",
         "card_ids": ["verhaeltnis-verhaltenspraevention"],
@@ -258,6 +277,7 @@
       "title": "Das Ungleichgewicht bei Siegrist",
       "exercise": {
         "id": "ex-cloze-siegrist",
+        "stable_id": "ex-ms942qqf1si71",
         "type": "cloze",
         "prompt": "Ergänze den Begriff für das anhaltende Missverhältnis zwischen Verausgabung und Belohnung.",
         "card_ids": ["effort-reward-imbalance", "gratifikationskrise"],

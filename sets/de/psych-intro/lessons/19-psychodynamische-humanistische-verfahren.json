@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "unbewusstes",
+      "stable_id": "card-ms942qp40l6gi",
       "front": "Das Unbewusste (The Unconscious)",
       "back": "Der Teil des seelischen Lebens, der dem Bewusstsein nicht direkt zugänglich ist — nach Freud der größte Teil der Psyche, in dem verdrängte Wünsche, Konflikte und Erinnerungen gespeichert sind.",
       "notes": "Sigmund Freud kennst du aus **Lektion 8 (Persönlichkeit)**. Das Unbewusste ist das Fundament seiner gesamten Theorie.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "verdraengung",
+      "stable_id": "card-ms942qp40l7cl",
       "front": "Verdrängung (Repression) — Abwehrmechanismus",
       "back": "Ein unbewusster Abwehrmechanismus: bedrohliche Gedanken, Gefühle oder Erinnerungen werden aus dem Bewusstsein ferngehalten, ohne dass die Person es merkt.",
       "notes": "Der bekannteste und grundlegendste Abwehrmechanismus nach Freud. Das Verdrängte bleibt im Unbewussten wirksam.",
@@ -28,6 +30,7 @@
     },
     {
       "id": "abwehrmechanismen",
+      "stable_id": "card-ms942qp40l82n",
       "front": "Abwehrmechanismen (Defense Mechanisms)",
       "back": "Unbewusste psychische Strategien, mit denen das Ich (Ego) angstauslösende Konflikte oder Impulse vom Bewusstsein fernhält — z. B. Verdrängung, Projektion, Rationalisierung.",
       "notes": "Ursprünglich von Sigmund Freud beschrieben, systematisch ausgearbeitet von seiner Tochter **Anna Freud**.",
@@ -37,6 +40,7 @@
     },
     {
       "id": "freie-assoziation",
+      "stable_id": "card-ms942qp40l9gb",
       "front": "Freie Assoziation (Free Association)",
       "back": "Die psychoanalytische Grundregel: der Patient spricht alles aus, was ihm in den Sinn kommt, ohne zu zensieren — so sollen unbewusste Inhalte ans Licht kommen.",
       "notes": "Die Hauptmethode der klassischen Psychoanalyse. Der Patient liegt auf der Couch und spricht ohne Unterbrechung.",
@@ -46,6 +50,7 @@
     },
     {
       "id": "uebertragung",
+      "stable_id": "card-ms942qp40la81",
       "front": "Übertragung (Transference)",
       "back": "Das Phänomen, dass ein Patient unbewusst Gefühle, Erwartungen und Reaktionsmuster aus früheren Beziehungen (v. a. Eltern) auf den Therapeuten überträgt.",
       "notes": "Die Analyse der Übertragung gilt als Herzstück der psychodynamischen Therapie — darin werden alte Beziehungsmuster sichtbar und veränderbar.",
@@ -56,6 +61,7 @@
     },
     {
       "id": "gegenuebertragung",
+      "stable_id": "card-ms942qp40lbab",
       "front": "Gegenübertragung (Countertransference)",
       "back": "Die emotionalen Reaktionen des Therapeuten auf den Patienten — teils durch eigene unbewusste Muster ausgelöst. Moderne Ansätze nutzen sie als diagnostisches Werkzeug.",
       "notes": "Freud sah sie ursprünglich als Hindernis, das kontrolliert werden müsse. Heute gilt sie als wichtige Information über den Patienten.",
@@ -65,6 +71,7 @@
     },
     {
       "id": "einsicht",
+      "stable_id": "card-ms942qp40lc8s",
       "front": "Einsicht (Insight) — psychodynamisches Therapieziel",
       "back": "Das zentrale Ziel psychodynamischer Therapien: die bewusste Erkenntnis unbewusster Konflikte, Muster und Motive — die Überzeugung, dass Verstehen heilt.",
       "notes": "Durch **Einsicht** soll der Patient seine unbewussten Muster erkennen und so aus zwanghaften Wiederholungen ausbrechen können.",
@@ -74,6 +81,7 @@
     },
     {
       "id": "rogers",
+      "stable_id": "card-ms942qp40ld1t",
       "front": "Carl Rogers (1902–1987)",
       "back": "US-amerikanischer Psychologe und Begründer der humanistischen/klientenzentrierten Therapie (Gesprächspsychotherapie). Kernthese: der Mensch strebt von Natur aus nach Wachstum.",
       "notes": "Rogers humanistischen Blick auf den Menschen kennst du aus **Lektion 10 (Positive Psychologie)**. Hier entwickelt er daraus eine konkrete Therapieform.",
@@ -83,6 +91,7 @@
     },
     {
       "id": "selbstaktualisierung",
+      "stable_id": "card-ms942qp40lehv",
       "front": "Selbstaktualisierung (Self-Actualization)",
       "back": "Die angeborene Tendenz des Menschen, seine Potenziale zu entfalten und zu wachsen — nach Rogers die treibende Kraft, die Therapie freisetzt, wenn sie gehemmt wird.",
       "notes": "Rogers übernahm den Begriff von Kurt Goldfield und Abraham Maslow. Vgl. Maslows Bedürfnispyramide aus Lektion 5.",
@@ -92,6 +101,7 @@
     },
     {
       "id": "empathie",
+      "stable_id": "card-ms942qp40lfwg",
       "front": "Empathie (Empathy) — Rogers' erste Therapeutenvariable",
       "back": "Die Fähigkeit und Bereitschaft des Therapeuten, sich in die Erlebnisperspektive des Klienten einzufühlen und dieses Verstehen auch zu kommunizieren.",
       "notes": "Rogers unterscheidet **empathisches Verstehen** (einfühlen) von bloßem Mitgefühl (sympathy). Entscheidend ist, dass der Klient sich wirklich verstanden fühlt.",
@@ -101,6 +111,7 @@
     },
     {
       "id": "bedingungslose-wertschaetzung",
+      "stable_id": "card-ms942qp40lgtg",
       "front": "Bedingungslose positive Wertschätzung (Unconditional Positive Regard)",
       "back": "Rogers' zweite Therapeutenvariable: der Klient wird vollständig und ohne Bedingungen akzeptiert — unabhängig von seinem Verhalten oder seinen Gefühlen.",
       "notes": "Auch 'Akzeptanz' oder 'bedingungslose Akzeptanz' genannt. Das Gegenteil konditionaler Liebe, die der Klient oft in der Kindheit erfahren hat.",
@@ -111,6 +122,7 @@
     },
     {
       "id": "kongruenz",
+      "stable_id": "card-ms942qp40lh85",
       "front": "Kongruenz / Echtheit (Congruence / Genuineness)",
       "back": "Rogers' dritte Therapeutenvariable: der Therapeut ist authentisch — sein inneres Erleben stimmt mit seinem äußeren Ausdruck überein; er stellt keine professionelle Fassade zur Schau.",
       "notes": "Von lat. *congruere* = übereinstimmen. Rogers hielt Kongruenz für die wichtigste der drei Variablen.",
@@ -120,6 +132,7 @@
     },
     {
       "id": "gestalttherapie",
+      "stable_id": "card-ms942qp40lij0",
       "front": "Gestalttherapie (Gestalt Therapy)",
       "back": "Eine humanistische Therapieform, entwickelt von Fritz Perls in den 1950er-Jahren. Fokus auf das Hier-und-Jetzt-Erleben, Körperwahrnehmung und das Schließen offener 'Gestalten' (unvollendeter Erfahrungen).",
       "notes": "Bekannte Methode: der 'leere Stuhl', auf dem imaginär eine wichtige Person sitzt, mit der der Klient spricht.",
@@ -154,6 +167,7 @@
       "title": "Psychodynamische Grundbegriffe zuordnen",
       "exercise": {
         "id": "ex-match-psychodynamisch",
+        "stable_id": "ex-ms942qp40ljiq",
         "type": "matching",
         "prompt": "Ordne jeden psychodynamischen Begriff seiner Beschreibung zu.",
         "card_ids": ["unbewusstes", "verdraengung", "uebertragung", "freie-assoziation"],
@@ -173,6 +187,7 @@
       "title": "Rogers' drei Therapeutenvariablen",
       "exercise": {
         "id": "ex-match-rogers-variablen",
+        "stable_id": "ex-ms942qp40lk6r",
         "type": "matching",
         "prompt": "Welcher Begriff beschreibt welche Haltung des Therapeuten nach Rogers?",
         "card_ids": ["empathie", "bedingungslose-wertschaetzung", "kongruenz"],
@@ -191,6 +206,7 @@
       "title": "Das Ziel der psychodynamischen Therapie",
       "exercise": {
         "id": "ex-cloze-einsicht",
+        "stable_id": "ex-ms942qp40llx9",
         "type": "cloze",
         "prompt": "Ergänze das zentrale Therapieziel der psychodynamischen Verfahren.",
         "card_ids": ["einsicht"],
@@ -209,6 +225,7 @@
       "title": "Rogers' Menschenbild",
       "exercise": {
         "id": "ex-cloze-selbstaktualisierung",
+        "stable_id": "ex-ms942qp40lm9u",
         "type": "cloze",
         "prompt": "Welchen Begriff verwendete Rogers für die angeborene Wachstumstendenz des Menschen?",
         "card_ids": ["selbstaktualisierung"],
@@ -227,6 +244,7 @@
       "title": "Abwehrmechanismen erkennen",
       "exercise": {
         "id": "ex-free-abwehrmechanismen",
+        "stable_id": "ex-ms942qp40ln22",
         "type": "free_text",
         "prompt": "Wie nennt man unbewusste psychische Strategien, mit denen das Ich angstauslösende Impulse vom Bewusstsein fernhält (z. B. Verdrängung, Projektion)?",
         "card_ids": ["abwehrmechanismen"],
@@ -250,6 +268,7 @@
       "title": "Was empfindet der Therapeut?",
       "exercise": {
         "id": "ex-free-gegenuebertragung",
+        "stable_id": "ex-ms942qp40lo3u",
         "type": "free_text",
         "prompt": "Wenn ein Therapeut emotionale Reaktionen auf den Patienten entwickelt, die durch eigene unbewusste Muster mitgeprägt sind — wie heißt dieses Phänomen?",
         "card_ids": ["gegenuebertragung"],
@@ -271,6 +290,7 @@
       "title": "Rogers' Therapieform benennen",
       "exercise": {
         "id": "ex-tiles-rogers",
+        "stable_id": "ex-ms942qp40lplf",
         "type": "word_tiles",
         "prompt": "Setze den Namen von Rogers' Therapieform zusammen.",
         "card_ids": ["rogers"],

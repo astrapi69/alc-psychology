@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "ethologie",
+      "stable_id": "card-ms942qow0ebbb",
       "front": "Ethologie (Ethology)",
       "back": "Die biologische Verhaltensforschung, die das angeborene Verhalten von Tieren in ihrer natürlichen Umgebung untersucht. Sie lieferte wichtige Konzepte für die Bindungsforschung.",
       "notes": "Konrad Lorenz und Niko Tinbergen gelten als Begründer; beide erhielten 1973 den Nobelpreis.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "harlow-experiment",
+      "stable_id": "card-ms942qow0eckh",
       "front": "Harlows Rhesusaffen-Experiment",
       "back": "Harry Harlow (1958) trennte junge Rhesusaffen von der Mutter und bot ihnen zwei Ersatzmütter an: eine Drahtmutter mit Milchflasche und eine weiche, milchlose Stoffmutter. Die Affen klammerten sich an die Stoffmutter und suchten sie bei Angst auf.",
       "notes": "Wegweisender Befund: Die Bindung beruht nicht primär auf Nahrung, sondern auf Körperkontakt und Geborgenheit.",
@@ -28,6 +30,7 @@
     },
     {
       "id": "kontaktkomfort",
+      "stable_id": "card-ms942qow0edw4",
       "front": "Kontaktkomfort (Contact Comfort)",
       "back": "Das durch weichen Körperkontakt erzeugte Gefühl von Sicherheit und Geborgenheit. Harlow zeigte, dass es für die Bindung wichtiger ist als die bloße Versorgung mit Nahrung.",
       "notes": "Widerlegte die behavioristische Annahme, das Kind binde sich an die Mutter nur, weil sie es füttert (sekundäres Triebmodell).",
@@ -37,6 +40,7 @@
     },
     {
       "id": "sichere-basis",
+      "stable_id": "card-ms942qow0ee6z",
       "front": "Sichere Basis (Secure Base)",
       "back": "Die Bezugsperson als sicherer Ausgangspunkt, von dem aus das Junge bzw. Kind die Umwelt erkundet und zu dem es bei Angst zurückkehrt. Harlows Affen nutzten die Stoffmutter genau so.",
       "notes": "Das Konzept wurde später zentral für Bowlby und Ainsworth.",
@@ -46,6 +50,7 @@
     },
     {
       "id": "lorenz-praegung",
+      "stable_id": "card-ms942qow0efxa",
       "front": "Prägung (Imprinting) nach Lorenz",
       "back": "Konrad Lorenz (1935) beschrieb, dass frisch geschlüpfte Graugänse dem ersten bewegten Objekt folgen, das sie sehen, und es als 'Mutter' behandeln — ein rascher, früh festgelegter und kaum umkehrbarer Lernvorgang.",
       "notes": "Lorenz selbst wurde von den Gänsen geprägt, weil er das erste war, was sie sahen.",
@@ -56,6 +61,7 @@
     },
     {
       "id": "kritische-phase",
+      "stable_id": "card-ms942qow0egil",
       "front": "Kritische Phase (Critical Period)",
       "back": "Ein eng begrenztes Zeitfenster, in dem ein bestimmter Erfahrungseinfluss vorhanden sein muss, damit eine Entwicklung normal verläuft. Bei Lorenz' Gänsen: die ersten Stunden nach dem Schlüpfen.",
       "notes": "Verstreicht das Fenster, ist die Prägung nicht mehr (oder kaum) möglich.",
@@ -65,6 +71,7 @@
     },
     {
       "id": "sensible-phase",
+      "stable_id": "card-ms942qow0ehph",
       "front": "Sensible Phase (Sensitive Period)",
       "back": "Ein Zeitraum, in dem ein Organismus für bestimmte Reize besonders empfänglich ist, der aber weicher begrenzt ist als eine kritische Phase — Lernen bleibt auch danach möglich, fällt aber schwerer.",
       "notes": "In der menschlichen Entwicklung spricht man meist von sensiblen, nicht von strikt kritischen Phasen.",
@@ -74,6 +81,7 @@
     },
     {
       "id": "bowlby-grundlage",
+      "stable_id": "card-ms942qow0eivq",
       "front": "Bowlbys Anknüpfung an die Ethologie",
       "back": "John Bowlby übernahm die ethologischen Befunde und formulierte, dass Bindung ein angeborenes, evolutionär entstandenes Verhaltenssystem ist, das die Nähe zur Bezugsperson sichert und so das Überleben fördert.",
       "notes": "Harlow lieferte den experimentellen Beleg gegen das reine Nahrungsmodell, Lorenz das Konzept der frühen, festgelegten Bindung.",
@@ -83,6 +91,7 @@
     },
     {
       "id": "sekundaeres-triebmodell",
+      "stable_id": "card-ms942qow0ej0j",
       "front": "Sekundäres Triebmodell (Cupboard Love)",
       "back": "Die ältere, behavioristische Annahme, das Kind binde sich an die Mutter, weil sie den primären Trieb Hunger befriedigt — Liebe als 'gelernte' Folge des Fütterns.",
       "notes": "Genau diese Annahme widerlegte Harlow mit dem Kontaktkomfort.",
@@ -92,6 +101,7 @@
     },
     {
       "id": "trennungsangst",
+      "stable_id": "card-ms942qow0ekwn",
       "front": "Trennungsangst (Separation Distress)",
       "back": "Die belastende Reaktion eines Jungtiers oder Kindes auf die Trennung von der Bindungsperson — ein Hinweis darauf, dass eine echte Bindung besteht.",
       "notes": "Harlows isoliert aufgezogene Affen zeigten schwere, dauerhafte Verhaltensstörungen.",
@@ -101,6 +111,7 @@
     },
     {
       "id": "deprivation",
+      "stable_id": "card-ms942qow0elz7",
       "front": "Deprivation (Deprivation)",
       "back": "Der Mangel an oder Entzug von wichtigen Reizen und sozialen Beziehungen während der Entwicklung. Harlows sozial isolierte Affen entwickelten schwere, oft irreversible Störungen.",
       "notes": "Unterstreicht die Bedeutung früher sozialer Bindung für eine gesunde Entwicklung.",
@@ -110,6 +121,7 @@
     },
     {
       "id": "nachfolgereaktion",
+      "stable_id": "card-ms942qow0emkq",
       "front": "Nachfolgereaktion (Following Response)",
       "back": "Das angeborene Verhalten frisch geschlüpfter Nestflüchter, dem geprägten Objekt zu folgen. Es ist die sichtbare Folge der Prägung.",
       "notes": "Bei Graugänsen das Hinterherlaufen hinter Lorenz statt hinter der Gans-Mutter.",
@@ -138,6 +150,7 @@
       "title": "Forscher und Befunde",
       "exercise": {
         "id": "ex-match-forscher",
+        "stable_id": "ex-ms942qow0eno2",
         "type": "matching",
         "prompt": "Ordne jedem Forscher seinen zentralen Befund zu.",
         "card_ids": ["harlow-experiment", "lorenz-praegung", "bowlby-grundlage"],
@@ -156,6 +169,7 @@
       "title": "Harlows Schlüsselbegriff",
       "exercise": {
         "id": "ex-free-kontaktkomfort",
+        "stable_id": "ex-ms942qow0eo47",
         "type": "free_text",
         "prompt": "Wie heißt das durch weichen Körperkontakt erzeugte Gefühl von Geborgenheit, das laut Harlow für die Bindung wichtiger ist als Nahrung?",
         "card_ids": ["kontaktkomfort"],
@@ -172,6 +186,7 @@
       "title": "Lorenz' Prägung",
       "exercise": {
         "id": "ex-cloze-praegung",
+        "stable_id": "ex-ms942qow0ep09",
         "type": "cloze",
         "prompt": "Ergänze das fehlende Wort zur Prägung.",
         "card_ids": ["lorenz-praegung", "nachfolgereaktion"],
@@ -190,6 +205,7 @@
       "title": "Die widerlegte Annahme",
       "exercise": {
         "id": "ex-free-sekundaeres-triebmodell",
+        "stable_id": "ex-ms942qow0eq9q",
         "type": "free_text",
         "prompt": "Wie nennt man die von Harlow widerlegte Annahme, das Kind binde sich an die Mutter nur, weil sie es füttert?",
         "card_ids": ["sekundaeres-triebmodell"],
@@ -206,6 +222,7 @@
       "title": "Kritische vs. sensible Phase",
       "exercise": {
         "id": "ex-match-phasen",
+        "stable_id": "ex-ms942qow0erux",
         "type": "matching",
         "prompt": "Ordne jeder Beschreibung den richtigen Begriff zu.",
         "card_ids": ["kritische-phase", "sensible-phase", "deprivation"],
@@ -224,6 +241,7 @@
       "title": "Harlows Kernaussage",
       "exercise": {
         "id": "ex-tiles-harlow",
+        "stable_id": "ex-ms942qow0es31",
         "type": "word_tiles",
         "prompt": "Setze Harlows zentrale Schlussfolgerung zusammen.",
         "card_ids": ["harlow-experiment", "kontaktkomfort"],
@@ -239,6 +257,7 @@
       "title": "Welches Beispiel zeigt Prägung?",
       "exercise": {
         "id": "ex-pick-praegung",
+        "stable_id": "ex-ms942qow0etdf",
         "type": "picture_choice",
         "prompt": "Welche Situation ist ein Beispiel für Prägung (imprinting)?",
         "card_ids": ["lorenz-praegung", "nachfolgereaktion"],

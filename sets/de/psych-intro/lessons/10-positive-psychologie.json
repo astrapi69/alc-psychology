@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "positive-psychologie",
+      "stable_id": "card-ms942qoo095gp",
       "front": "Positive Psychologie (Positive Psychology)",
       "back": "Wissenschaftlicher Ansatz, der Wohlbefinden, Stärken und Aufblühen des Menschen erforscht — statt sich nur auf Störungen zu konzentrieren.",
       "notes": "Begründet von Martin Seligman in den späten 1990er-Jahren als Gegenpol zur pathologiefokussierten Psychologie.",
@@ -16,6 +17,7 @@
     },
     {
       "id": "seligman",
+      "stable_id": "card-ms942qoo096eh",
       "front": "Martin Seligman",
       "back": "US-amerikanischer Psychologe und Begründer der Positiven Psychologie; entwickelte das PERMA-Modell des Wohlbefindens.",
       "notes": "Als Präsident der American Psychological Association rief er 1998 die Positive Psychologie offiziell ins Leben.",
@@ -23,6 +25,7 @@
     },
     {
       "id": "perma-modell",
+      "stable_id": "card-ms942qoo097hl",
       "front": "PERMA-Modell",
       "back": "Seligmans Modell des Wohlbefindens mit fünf Elementen: Positive Emotionen, Engagement, Relationships (Beziehungen), Meaning (Sinn), Achievement (Zielerreichung).",
       "notes": "Jedes Element trägt unabhängig zum Aufblühen (Flourishing) bei.",
@@ -30,6 +33,7 @@
     },
     {
       "id": "positive-emotionen",
+      "stable_id": "card-ms942qoo098lf",
       "front": "Positive Emotionen (Positive Emotions) — PERMA P",
       "back": "Freude, Dankbarkeit, Heiterkeit, Interesse und andere angenehme Gefühle, die das Wohlbefinden direkt fördern.",
       "notes": "Broaden-and-Build-Theorie (Fredrickson): positive Emotionen erweitern das Denken und helfen, Ressourcen aufzubauen.",
@@ -37,6 +41,7 @@
     },
     {
       "id": "engagement",
+      "stable_id": "card-ms942qoo099ta",
       "front": "Engagement (Engagement) — PERMA E",
       "back": "Völliges Aufgehen in einer Tätigkeit, eng verwandt mit dem Flow-Erlebnis.",
       "notes": "Wenn man eine Aufgabe so vertieft ausführt, dass man Zeit und Umgebung vergisst.",
@@ -44,6 +49,7 @@
     },
     {
       "id": "beziehungen-perma",
+      "stable_id": "card-ms942qoo09abp",
       "front": "Beziehungen (Relationships) — PERMA R",
       "back": "Positive soziale Verbindungen zu anderen Menschen als wesentliche Quelle von Wohlbefinden.",
       "notes": "Soziale Unterstützung ist einer der stärksten Puffer gegen Stress und psychische Erkrankungen.",
@@ -51,6 +57,7 @@
     },
     {
       "id": "sinn-perma",
+      "stable_id": "card-ms942qoo09bjo",
       "front": "Sinn (Meaning) — PERMA M",
       "back": "Das Gefühl, Teil von etwas Größerem zu sein und einem bedeutsamen Zweck zu dienen.",
       "notes": "Kann durch Arbeit, Engagement in Gemeinschaft, Religion oder Werte entstehen.",
@@ -58,6 +65,7 @@
     },
     {
       "id": "leistung-perma",
+      "stable_id": "card-ms942qoo09ckq",
       "front": "Zielerreichung/Leistung (Achievement) — PERMA A",
       "back": "Das Verfolgen und Erreichen von Zielen um ihrer selbst willen — auch unabhängig von positiven Emotionen.",
       "notes": "Erfolge stärken das Selbstvertrauen und tragen zum Aufblühen bei.",
@@ -65,6 +73,7 @@
     },
     {
       "id": "flow-zustand",
+      "stable_id": "card-ms942qoo09dty",
       "front": "Flow-Zustand (Flow)",
       "back": "Völlige Vertiefung in eine Tätigkeit bei optimaler Herausforderung — nicht zu leicht, nicht zu schwer.",
       "notes": "Im Flow verschwindet das Zeitgefühl, Selbstbewusstsein tritt in den Hintergrund. Beschrieben von Mihály Csikszentmihalyi.",
@@ -72,6 +81,7 @@
     },
     {
       "id": "csikszentmihalyi",
+      "stable_id": "card-ms942qoo09ekl",
       "front": "Mihály Csikszentmihalyi",
       "back": "Ungarisch-amerikanischer Psychologe; erforschte den Flow-Zustand als optimale Erfahrung.",
       "notes": "Sein bekanntestes Werk: 'Flow — Das Geheimnis des Glücks' (1990).",
@@ -79,6 +89,7 @@
     },
     {
       "id": "resilienz",
+      "stable_id": "card-ms942qoo09fks",
       "front": "Resilienz (Resilience)",
       "back": "Psychische Widerstandsfähigkeit: die Fähigkeit, nach Rückschlägen und Stress wieder aufzustehen.",
       "notes": "Resilienz ist kein festes Persönlichkeitsmerkmal, sondern ein erlernbarer Prozess.",
@@ -86,6 +97,7 @@
     },
     {
       "id": "selbstwirksamkeit",
+      "stable_id": "card-ms942qoo09gbb",
       "front": "Selbstwirksamkeitserwartung (Self-Efficacy)",
       "back": "Die Überzeugung, eine schwierige Situation durch eigenes Handeln erfolgreich meistern zu können (Bandura).",
       "notes": "Hohe Selbstwirksamkeit erhöht Ausdauer und Resilienz; wird durch Erfolge und Vorbilder gestärkt.",
@@ -93,6 +105,7 @@
     },
     {
       "id": "dankbarkeit",
+      "stable_id": "card-ms942qoo09h0t",
       "front": "Dankbarkeit (Gratitude)",
       "back": "Wertschätzung positiver Erfahrungen und Anerkennung ihrer Quellen — eine trainierbare Haltung.",
       "notes": "Dankbarkeitstagebücher (3 Dinge täglich notieren) erhöhen nachweislich das subjektive Wohlbefinden.",
@@ -100,6 +113,7 @@
     },
     {
       "id": "staerkenorientierung",
+      "stable_id": "card-ms942qoo09iex",
       "front": "Stärkenorientierung (Character Strengths)",
       "back": "Fokus auf die individuellen Charakterstärken einer Person statt auf ihre Schwächen.",
       "notes": "VIA-Klassifikation (Peterson & Seligman) listet 24 universelle Charakterstärken wie Kreativität, Mut und Dankbarkeit.",
@@ -107,6 +121,7 @@
     },
     {
       "id": "growth-mindset",
+      "stable_id": "card-ms942qoo09jsa",
       "front": "Growth Mindset / Dynamisches Selbstbild (Growth Mindset)",
       "back": "Überzeugung, dass Fähigkeiten durch Einsatz, Lernen und Ausdauer entwickelt werden können (Dweck).",
       "notes": "Gegenteil: Fixed Mindset — die Annahme, Talente seien angeboren und unveränderlich.",
@@ -114,6 +129,7 @@
     },
     {
       "id": "fixed-mindset",
+      "stable_id": "card-ms942qoo09kfk",
       "front": "Fixed Mindset / Statisches Selbstbild (Fixed Mindset)",
       "back": "Überzeugung, dass Fähigkeiten und Intelligenz feststehen und durch Anstrengung kaum veränderbar sind.",
       "notes": "Menschen mit Fixed Mindset meiden Herausforderungen aus Angst zu scheitern.",
@@ -121,6 +137,7 @@
     },
     {
       "id": "aufbluehen",
+      "stable_id": "card-ms942qoo09lk2",
       "front": "Aufblühen (Flourishing)",
       "back": "Zustand optimalen psychischen Wohlbefindens: Kombination aus positivem Erleben, Funktionsfähigkeit und Sinnhaftigkeit.",
       "notes": "Gegenteil: Languishing (Dahinvegetieren) — funktionierend, aber ohne Freude oder Engagement.",
@@ -153,6 +170,7 @@
       "title": "PERMA-Elemente zuordnen",
       "exercise": {
         "id": "ex-match-perma",
+        "stable_id": "ex-ms942qoo09mbz",
         "type": "matching",
         "prompt": "Ordne jeden PERMA-Buchstaben seiner Bedeutung zu.",
         "card_ids": ["positive-emotionen", "engagement", "beziehungen-perma", "sinn-perma", "leistung-perma"],
@@ -173,6 +191,7 @@
       "title": "Begründer benennen",
       "exercise": {
         "id": "ex-free-seligman",
+        "stable_id": "ex-ms942qoo09nw1",
         "type": "free_text",
         "prompt": "Wer gilt als Begründer der Positiven Psychologie und entwickelte das PERMA-Modell?",
         "card_ids": ["seligman", "perma-modell"],
@@ -189,6 +208,7 @@
       "title": "Flow definieren",
       "exercise": {
         "id": "ex-free-flow",
+        "stable_id": "ex-ms942qoo09o1s",
         "type": "free_text",
         "prompt": "Wie nennt man den Zustand völliger Vertiefung in eine Tätigkeit bei optimaler Herausforderung?",
         "card_ids": ["flow-zustand"],
@@ -205,6 +225,7 @@
       "title": "PERMA-Akronym ergänzen",
       "exercise": {
         "id": "ex-cloze-perma",
+        "stable_id": "ex-ms942qoo09pnl",
         "type": "cloze",
         "prompt": "Ergänze die fehlenden PERMA-Elemente.",
         "card_ids": ["perma-modell", "sinn-perma", "leistung-perma"],
@@ -224,6 +245,7 @@
       "title": "Flow-Bedingung vervollständigen",
       "exercise": {
         "id": "ex-cloze-flow",
+        "stable_id": "ex-ms942qoo09qi4",
         "type": "cloze",
         "prompt": "Vervollständige die Bedingung für den Flow-Zustand.",
         "card_ids": ["flow-zustand", "csikszentmihalyi"],
@@ -242,6 +264,7 @@
       "title": "Growth Mindset erkennen",
       "exercise": {
         "id": "ex-pick-growth-mindset",
+        "stable_id": "ex-ms942qoo09r5r",
         "type": "picture_choice",
         "prompt": "Welches Bild veranschaulicht ein Growth Mindset (dynamisches Selbstbild)?",
         "card_ids": ["growth-mindset", "fixed-mindset"],
@@ -263,6 +286,7 @@
       "title": "PERMA zusammensetzen",
       "exercise": {
         "id": "ex-tiles-perma",
+        "stable_id": "ex-ms942qoo09stm",
         "type": "word_tiles",
         "prompt": "Setze die fünf PERMA-Elemente in der richtigen Reihenfolge zusammen.",
         "card_ids": ["perma-modell"],
@@ -278,6 +302,7 @@
       "title": "Konzepte und Forscher zuordnen",
       "exercise": {
         "id": "ex-match-konzepte",
+        "stable_id": "ex-ms942qoo09th6",
         "type": "matching",
         "prompt": "Ordne jedem Konzept den passenden Forscher oder die passende Beschreibung zu.",
         "card_ids": ["seligman", "csikszentmihalyi", "selbstwirksamkeit", "growth-mindset"],
@@ -297,6 +322,7 @@
       "title": "Begriff zur Widerstandsfähigkeit",
       "exercise": {
         "id": "ex-free-resilienz",
+        "stable_id": "ex-ms942qoo09uud",
         "type": "free_text",
         "prompt": "Wie nennt man die psychische Widerstandsfähigkeit, die Menschen hilft, nach Rückschlägen wieder aufzustehen?",
         "card_ids": ["resilienz"],
@@ -313,6 +339,7 @@
       "title": "Positive-Psychologie-Interventionen",
       "exercise": {
         "id": "ex-match-interventionen",
+        "stable_id": "ex-ms942qoo09vko",
         "type": "matching",
         "prompt": "Ordne jeder Intervention ihre Beschreibung zu.",
         "card_ids": ["dankbarkeit", "staerkenorientierung", "growth-mindset"],

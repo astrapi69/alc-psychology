@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "hinweis-keine-diagnose",
+      "stable_id": "card-ms942qq31gljs",
       "front": "Wichtiger Hinweis",
       "back": "Diese Lektion ersetzt keine professionelle Diagnose oder Behandlung. Bei eigener Belastung oder Sorge um andere hilft eine Ärztin, eine Psychotherapeutin, eine Beratungsstelle oder die Telefonseelsorge.",
       "notes": "Anlaufstellen findest du am Ende der Lektion.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "psychische-krise",
+      "stable_id": "card-ms942qq31gmso",
       "front": "Psychische Krise",
       "back": "Eine vorübergehende, überwältigende Notlage, in der die eigenen Bewältigungsmöglichkeiten (Coping) vorübergehend nicht ausreichen. Krisen sind zeitlich begrenzt — sie gehen vorüber.",
       "notes": "Das Wort 'Krise' leitet sich vom griechischen krísis ab: Wendepunkt, Entscheidung.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "suizidale-gedanken",
+      "stable_id": "card-ms942qq31gnst",
       "front": "Suizidale Gedanken (Suizidgedanken)",
       "back": "Gedanken, nicht mehr leben zu wollen, die Ausdruck großer seelischer Not sind und unbedingt ernst genommen werden müssen. Sie sind kein Zeichen von Schwäche, sondern ein Hilferuf.",
       "notes": "Wichtig: Suizidale Gedanken sind ein Zeichen, dass jemand Unterstützung braucht — keine Entscheidung, die unwiderruflich ist.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "risikofaktoren",
+      "stable_id": "card-ms942qq31gogj",
       "front": "Risikofaktoren (auf allgemeiner Ebene)",
       "back": "Allgemeine Faktoren, die eine Krise begünstigen können: z. B. psychische Erkrankungen, sozialer Rückzug und Isolation, fehlende Unterstützung, anhaltende Hoffnungslosigkeit. Diese Faktoren erklären Not — sie bestimmen keine Zukunft.",
       "notes": "Keine Checkliste zur Selbstprüfung — ausschließlich zum Verständnis, um anderen helfen zu können.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "schutzfaktoren",
+      "stable_id": "card-ms942qq31gpxd",
       "front": "Schutzfaktoren (Resilienz, Protective Factors)",
       "back": "Faktoren, die in einer Krise stützen und schützen können: z. B. tragfähige soziale Beziehungen, professionelle Hilfe, das Gefühl von Sinn, Hoffnung und Zugehörigkeit.",
       "notes": "Soziale Unterstützung ist einer der wichtigsten Schutzfaktoren — deshalb ist da sein so bedeutsam.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "mythos-ansprechen",
+      "stable_id": "card-ms942qq31gqld",
       "front": "Mythos: Suizidgedanken ansprechen erhöht das Risiko",
       "back": "FALSCH. Jemanden offen und einfühlsam auf Suizidgedanken anzusprechen erhöht das Risiko NICHT. Es kann entlasten, Vertrauen schaffen und Wege zur Hilfe öffnen. Schweigen hilft nicht — Zuhören schon.",
       "notes": "Dieser Mythos ist weit verbreitet und gefährlich, weil er Menschen davon abhält, das Thema anzusprechen.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "wie-man-hilft",
+      "stable_id": "card-ms942qq31gru6",
       "front": "Wie man unterstützt — da sein und zuhören",
       "back": "Zuhören ohne zu urteilen; ernst nehmen, nicht bagatellisieren; nicht allein lassen; ruhig und direkt ansprechen; zur professionellen Hilfe begleiten. Das Wichtigste: zeigen, dass man da ist.",
       "notes": "Man muss keine Antworten haben — echtes Zuhören und Begleiten ist oft das Wertvollste.",
@@ -72,6 +79,7 @@
     },
     {
       "id": "krisenintervention",
+      "stable_id": "card-ms942qq31gs6c",
       "front": "Krisenintervention (Crisis Intervention)",
       "back": "Kurzfristige, stabilisierende Unterstützung in der akuten Phase einer Krise. Ziel ist es, die Sicherheit zu gewährleisten, Entlastung zu schaffen und Zugang zu weiterführender Hilfe herzustellen.",
       "notes": "Krisenintervention ist oft der erste Schritt — sie überbrückt, bis umfassendere Hilfe greifen kann.",
@@ -81,6 +89,7 @@
     },
     {
       "id": "anzeichen-ernst-nehmen",
+      "stable_id": "card-ms942qq31gtdx",
       "front": "Anzeichen, die man ernst nehmen und ansprechen sollte",
       "back": "Wenn jemand über Hoffnungslosigkeit, Sinnlosigkeit oder den Wunsch spricht, nicht mehr da zu sein — das sind Signale, die man ernst nehmen und behutsam ansprechen sollte, um Unterstützung anzubieten.",
       "notes": "Ziel ist immer: zur professionellen Hilfe begleiten, nicht selbst alles lösen.",
@@ -90,6 +99,7 @@
     },
     {
       "id": "krisen-gehen-vorbei",
+      "stable_id": "card-ms942qq31gukn",
       "front": "Krisen sind vorübergehend — Hilfe wirkt",
       "back": "Eine zentrale Botschaft der Suizidprävention: Krisen sind zeitlich begrenzt. Mit Unterstützung und professioneller Hilfe verändert sich die Perspektive. Es gibt Wege aus der Not.",
       "notes": "Hoffnung ist keine Verharmlosung — sie ist wissenschaftlich fundiert und ein wichtiger Teil der Krisenintervention.",
@@ -99,6 +109,7 @@
     },
     {
       "id": "krisennummern",
+      "stable_id": "card-ms942qq31gvya",
       "front": "Krisentelefone und Anlaufstellen (Deutschland)",
       "back": "Telefonseelsorge: 0800 111 0 111 · 0800 111 0 222 · 116 123 (kostenlos, anonym, 24/7). Akute Gefahr / Notruf: 112. Ärztlicher Bereitschaftsdienst: 116 117. Nummer gegen Kummer (Kinder/Jugendliche): 116 111.",
       "notes": "Alle genannten Nummern sind kostenlos und rund um die Uhr erreichbar. Kein Anruf ist zu unwichtig.",
@@ -108,6 +119,7 @@
     },
     {
       "id": "nicht-allein-lassen",
+      "stable_id": "card-ms942qq31gwid",
       "front": "Nicht allein lassen — Begleitung zur Hilfe",
       "back": "Wenn jemand in einer Krise ist, ist Begleitung entscheidend: gemeinsam eine Fachkraft aufsuchen, beim Telefonieren helfen oder einfach präsent bleiben. Professionelle Hilfe zu suchen ist ein Zeichen von Stärke.",
       "notes": "Auch Angehörige und Unterstützende können selbst Beratung in Anspruch nehmen.",
@@ -142,6 +154,7 @@
       "title": "Risiko- und Schutzfaktoren zuordnen",
       "exercise": {
         "id": "ex-match-risiko-schutz",
+        "stable_id": "ex-ms942qq31gxgd",
         "type": "matching",
         "prompt": "Ordne jeden Begriff zu: Ist er ein Risikofaktor oder ein Schutzfaktor in einer Krise?",
         "card_ids": ["risikofaktoren", "schutzfaktoren"],
@@ -161,6 +174,7 @@
       "title": "Den Mythos richtigstellen",
       "exercise": {
         "id": "ex-cloze-mythos",
+        "stable_id": "ex-ms942qq31gy9v",
         "type": "cloze",
         "prompt": "Ergänze das fehlende Wort: Was bewirkt das offene Ansprechen von Suizidgedanken gegenüber dem betroffenen Menschen?",
         "card_ids": ["mythos-ansprechen"],
@@ -179,6 +193,7 @@
       "title": "Was ist Krisenintervention?",
       "exercise": {
         "id": "ex-free-krisenintervention",
+        "stable_id": "ex-ms942qq31gzkj",
         "type": "free_text",
         "prompt": "Wie nennt man die kurzfristige, stabilisierende Unterstützung in der akuten Phase einer Krise?",
         "card_ids": ["krisenintervention"],
@@ -195,6 +210,7 @@
       "title": "Die zentrale Botschaft zusammensetzen",
       "exercise": {
         "id": "ex-tiles-botschaft",
+        "stable_id": "ex-ms942qq31h04g",
         "type": "word_tiles",
         "prompt": "Setze den Kernsatz der Suizidprävention zusammen.",
         "card_ids": ["krisen-gehen-vorbei"],
@@ -210,6 +226,7 @@
       "title": "Krisentelefone kennen",
       "exercise": {
         "id": "ex-match-anlaufstellen",
+        "stable_id": "ex-ms942qq31h1zf",
         "type": "matching",
         "prompt": "Ordne jeder Telefonnummer ihr Angebot zu.",
         "card_ids": ["krisennummern"],
@@ -229,6 +246,7 @@
       "title": "Wie man unterstützt",
       "exercise": {
         "id": "ex-free-wie-helfen",
+        "stable_id": "ex-ms942qq31h2mu",
         "type": "free_text",
         "prompt": "Nenne eine wichtige Haltung oder Handlung, wenn man jemanden in einer Krise unterstützen möchte (z. B. nicht allein lassen, Ernst nehmen …).",
         "card_ids": ["wie-man-hilft", "nicht-allein-lassen"],
@@ -245,6 +263,7 @@
       "title": "Krisen sind zeitlich begrenzt",
       "exercise": {
         "id": "ex-cloze-krise-vorbeigeht",
+        "stable_id": "ex-ms942qq31h3qv",
         "type": "cloze",
         "prompt": "Ergänze das fehlende Wort in der zentralen Botschaft der Suizidprävention.",
         "card_ids": ["krisen-gehen-vorbei", "psychische-krise"],

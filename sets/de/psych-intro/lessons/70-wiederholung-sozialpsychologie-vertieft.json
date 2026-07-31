@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "zentrale-route-recap",
+      "stable_id": "card-ms942qpz1cbpw",
       "front": "Zentrale Route (Central Route)",
       "back": "Überzeugung durch sorgfältiges Abwägen von Argumenten; setzt hohe Motivation und Fähigkeit voraus und führt zu stabilen Einstellungen.",
       "notes": "Teil des Elaboration-Likelihood-Modells (Petty & Cacioppo); aus Lektion 66.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "periphere-route-recap",
+      "stable_id": "card-ms942qpz1cc4v",
       "front": "Periphere Route (Peripheral Route)",
       "back": "Überzeugung durch oberflächliche Hinweisreize (z. B. Attraktivität des Senders); führt zu eher instabilen Einstellungen.",
       "notes": "Gegensatz zur zentralen Route im ELM; aus Lektion 66.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "reziprozitaet-recap",
+      "stable_id": "card-ms942qpz1cdmk",
       "front": "Reziprozität (Reciprocity) — Cialdini",
       "back": "Wir fühlen uns verpflichtet, eine Gefälligkeit zu erwidern; ein kleines Geschenk erhöht die spätere Zustimmungsbereitschaft.",
       "media_type": "text",
@@ -35,6 +38,7 @@
     },
     {
       "id": "soziales-faulenzen-recap",
+      "stable_id": "card-ms942qpz1cekt",
       "front": "Soziales Faulenzen (Social Loafing)",
       "back": "In einer Gruppe reduzieren Individuen ihre individuelle Anstrengung, weil sie annehmen, dass andere den Unterschied ausgleichen.",
       "notes": "Phänomen der Gruppenleistung; Gegenstück zur sozialen Erleichterung; aus Lektion 67.",
@@ -44,6 +48,7 @@
     },
     {
       "id": "deindividuation-recap",
+      "stable_id": "card-ms942qpz1cf3j",
       "front": "Deindividuation (Deindividuation)",
       "back": "In anonymen Gruppen verlieren Personen das Bewusstsein für sich als Individuum, was Selbstkontrolle vermindert und normwidriges Verhalten begünstigt.",
       "notes": "Aus Lektion 67; tritt z. B. bei Massenveranstaltungen auf.",
@@ -53,6 +58,7 @@
     },
     {
       "id": "gruppenpolarisierung-recap",
+      "stable_id": "card-ms942qpz1cg3f",
       "front": "Gruppenpolarisierung (Group Polarization)",
       "back": "Gruppenentscheidungen fallen extremer aus als der Durchschnitt der Einzelmeinungen — bestehende Tendenzen werden durch Diskussion verstärkt.",
       "notes": "Aus Lektion 67; verwandt mit Groupthink.",
@@ -62,6 +68,7 @@
     },
     {
       "id": "frustrations-aggressions-hypothese-recap",
+      "stable_id": "card-ms942qpz1chni",
       "front": "Frustrations-Aggressions-Hypothese (Frustration-Aggression Hypothesis)",
       "back": "Jede Frustration erzeugt eine Tendenz zu aggressivem Verhalten; jede Aggression hat eine vorausgegangene Frustration als Ursache (Dollard et al.).",
       "notes": "Aus Lektion 68; später von Berkowitz erweitert.",
@@ -71,6 +78,7 @@
     },
     {
       "id": "bystander-effekt-recap",
+      "stable_id": "card-ms942qpz1ci1r",
       "front": "Bystander-Effekt (Bystander Effect)",
       "back": "Die Wahrscheinlichkeit, dass eine Person eingreift, sinkt mit steigender Anzahl anwesender Zuschauer — Verantwortung wird diffus verteilt.",
       "notes": "Aus Lektion 68; Latané & Darley; Schlüsselbegriff: Verantwortungsdiffusion.",
@@ -80,6 +88,7 @@
     },
     {
       "id": "soziale-identitaet-recap",
+      "stable_id": "card-ms942qpz1cje4",
       "front": "Soziale Identität (Social Identity) — Tajfel",
       "back": "Teile des Selbstkonzepts leiten sich aus der Mitgliedschaft in sozialen Gruppen ab; wir werten die Ingroup auf, um Selbstwert zu gewinnen.",
       "notes": "Aus Lektion 69; Grundlage der Theorie der sozialen Identität (Social Identity Theory).",
@@ -89,6 +98,7 @@
     },
     {
       "id": "kontakthypothese-recap",
+      "stable_id": "card-ms942qpz1ckmd",
       "front": "Kontakthypothese (Contact Hypothesis) — Allport",
       "back": "Vorurteile können durch direkten Kontakt zwischen Gruppen abgebaut werden — sofern die Bedingungen gleicher Status, gemeinsame Ziele und institutionelle Unterstützung erfüllt sind.",
       "notes": "Aus Lektion 69; Allport (1954); ergänzt durch übergeordnete Ziele (Sherif).",
@@ -98,6 +108,7 @@
     },
     {
       "id": "outgroup-homogenitaet-recap",
+      "stable_id": "card-ms942qpz1cln3",
       "front": "Outgroup-Homogenitätseffekt (Outgroup Homogeneity Effect)",
       "back": "Mitglieder der Eigengruppe (Ingroup) nehmen die Fremdgruppe (Outgroup) als homogener wahr als sie tatsächlich ist: 'Die sind alle gleich.'",
       "notes": "Aus Lektion 69; verstärkt Stereotypenbildung.",
@@ -107,6 +118,7 @@
     },
     {
       "id": "groupthink-recap",
+      "stable_id": "card-ms942qpz1cmu0",
       "front": "Groupthink (Gruppendenken)",
       "back": "Streben nach Konsens in Gruppen unterdrückt kritisches Denken; Mitglieder vermeiden abweichende Meinungen, was zu schlechten Entscheidungen führt.",
       "notes": "Aus Lektion 67; Janis (1972); bekannte Beispiele: Challenger-Unglück, Bay of Pigs.",
@@ -141,6 +153,7 @@
       "title": "Konzept und Lektion zuordnen",
       "exercise": {
         "id": "ex-match-lektionen",
+        "stable_id": "ex-ms942qpz1cnew",
         "type": "matching",
         "prompt": "Ordne jedem Begriff seine Herkunfts-Lektion bzw. seinen Kerngedanken zu.",
         "card_ids": ["zentrale-route-recap", "soziales-faulenzen-recap", "bystander-effekt-recap", "kontakthypothese-recap"],
@@ -160,6 +173,7 @@
       "title": "Kritisches Denken in Gruppen",
       "exercise": {
         "id": "ex-cloze-groupthink",
+        "stable_id": "ex-ms942qpz1cowl",
         "type": "cloze",
         "prompt": "Ergänze den Begriff, der das Unterdrücken kritischer Meinungen in sehr kohäsiven Gruppen bezeichnet.",
         "card_ids": ["groupthink-recap"],
@@ -178,6 +192,7 @@
       "title": "Warum schaut man zu?",
       "exercise": {
         "id": "ex-free-bystander",
+        "stable_id": "ex-ms942qpz1cpzy",
         "type": "free_text",
         "prompt": "Wie heißt das Phänomen, bei dem die Eingreifwahrscheinlichkeit sinkt, weil Verantwortung auf viele Zuschauer verteilt wird?",
         "card_ids": ["bystander-effekt-recap"],
@@ -194,6 +209,7 @@
       "title": "Strategien gegen Vorurteile",
       "exercise": {
         "id": "ex-match-vorurteile",
+        "stable_id": "ex-ms942qpz1cqd8",
         "type": "matching",
         "prompt": "Ordne jeder Strategie ihren Kerngedanken zu.",
         "card_ids": ["kontakthypothese-recap", "soziale-identitaet-recap", "outgroup-homogenitaet-recap"],
@@ -212,6 +228,7 @@
       "title": "Die Hypothese zusammensetzen",
       "exercise": {
         "id": "ex-tiles-frustr-aggr",
+        "stable_id": "ex-ms942qpz1craw",
         "type": "word_tiles",
         "prompt": "Setze den Kerngedanken der Frustrations-Aggressions-Hypothese zusammen.",
         "card_ids": ["frustrations-aggressions-hypothese-recap"],
@@ -227,6 +244,7 @@
       "title": "Anonymität in der Gruppe",
       "exercise": {
         "id": "ex-free-deindividuation",
+        "stable_id": "ex-ms942qpz1csiy",
         "type": "free_text",
         "prompt": "Wie heißt der Zustand, bei dem anonyme Gruppenbedinungen die Selbstkontrolle vermindern und normwidriges Verhalten begünstigen?",
         "card_ids": ["deindividuation-recap"],
@@ -243,6 +261,7 @@
       "title": "Der schnelle Weg der Überzeugung",
       "exercise": {
         "id": "ex-cloze-periphere-route",
+        "stable_id": "ex-ms942qpz1ctpe",
         "type": "cloze",
         "prompt": "Ergänze, welche Route auf oberflächliche Hinweisreize statt auf Argumente setzt.",
         "card_ids": ["periphere-route-recap"],

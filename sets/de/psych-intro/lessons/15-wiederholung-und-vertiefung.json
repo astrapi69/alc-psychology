@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "r-wundt-1879",
+      "stable_id": "card-ms942qp10j2ou",
       "front": "Wundt 1879 (Gründungsjahr der Psychologie)",
       "back": "Wilhelm Wundt gründete 1879 in Leipzig das erste psychologische Labor — Beginn der Psychologie als eigenständige Wissenschaft.",
       "media_type": "text",
@@ -17,6 +18,7 @@
     },
     {
       "id": "r-erleben-verhalten",
+      "stable_id": "card-ms942qp10j38g",
       "front": "Erleben vs. Verhalten",
       "back": "Erleben = innere Vorgänge (Gedanken, Gefühle, Wahrnehmungen) — von außen nicht direkt beobachtbar. Verhalten = von außen beobachtbare Handlungen und Reaktionen.",
       "media_type": "text",
@@ -25,6 +27,7 @@
     },
     {
       "id": "r-korrelation-kausalitaet",
+      "stable_id": "card-ms942qp10j4g6",
       "front": "Korrelation ≠ Kausalität",
       "back": "Eine Korrelationsstudie zeigt nur den Zusammenhang zweier Variablen, aber keine Ursache-Wirkung. Nur das Experiment erlaubt kausale Schlüsse.",
       "media_type": "text",
@@ -34,6 +37,7 @@
     },
     {
       "id": "r-konditionierung",
+      "stable_id": "card-ms942qp10j59e",
       "front": "Klassische vs. operante Konditionierung",
       "back": "Klassische Konditionierung (Pawlow): neutraler Reiz wird mit einem Reflex verknüpft. Operante Konditionierung (Skinner): Verhalten wird durch Konsequenzen (Verstärkung/Bestrafung) geformt.",
       "media_type": "text",
@@ -42,6 +46,7 @@
     },
     {
       "id": "r-gedaechtnis",
+      "stable_id": "card-ms942qp10j6vm",
       "front": "Kurzzeitgedächtnis vs. Langzeitgedächtnis",
       "back": "Kurzzeitgedächtnis (KZG): begrenzte Kapazität (~7 ± 2 Einheiten), kurze Dauer (~15–30 Sekunden). Langzeitgedächtnis (LZG): quasi unbegrenzte Kapazität und Dauer.",
       "media_type": "text",
@@ -50,6 +55,7 @@
     },
     {
       "id": "r-intelligenz-modelle",
+      "stable_id": "card-ms942qp10j7vc",
       "front": "g-Faktor und fluide/kristalline Intelligenz",
       "back": "g-Faktor (Spearman): eine allgemeine geistige Leistungsfähigkeit. Fluide Intelligenz: neues Problemlösen, nimmt im Alter ab. Kristalline Intelligenz: angesammeltes Wissen, bleibt stabil oder wächst.",
       "media_type": "text",
@@ -58,6 +64,7 @@
     },
     {
       "id": "r-stress",
+      "stable_id": "card-ms942qp10j8zl",
       "front": "Kampf-oder-Flucht-Reaktion und Cortisol",
       "back": "Die Kampf-oder-Flucht-Reaktion (Fight-or-Flight) ist die körperliche Stressreaktion: Adrenalin und Cortisol werden ausgeschüttet, Herzrate und Atemfrequenz steigen.",
       "media_type": "text",
@@ -66,6 +73,7 @@
     },
     {
       "id": "r-neuron-synapse",
+      "stable_id": "card-ms942qp10j9ep",
       "front": "Neuron und Synapse",
       "back": "Neuron = Nervenzelle mit Soma, Dendriten und Axon. Synapse = Verbindungsstelle zwischen zwei Neuronen, an der Neurotransmitter den Impuls übertragen.",
       "media_type": "text",
@@ -74,6 +82,7 @@
     },
     {
       "id": "r-hirnlappen",
+      "stable_id": "card-ms942qp10jaqx",
       "front": "Die vier Hirnlappen",
       "back": "Frontallappen (Planung, Sprache), Parietallappen (Berührung, Raumorientierung), Temporallappen (Hören, Gedächtnis), Okzipitallappen (Sehen).",
       "media_type": "text",
@@ -82,6 +91,7 @@
     },
     {
       "id": "r-schlaf",
+      "stable_id": "card-ms942qp10jbdf",
       "front": "REM-Schlaf und zirkadianer Rhythmus",
       "back": "REM-Schlaf (Rapid Eye Movement): Traumschlafphase, wichtig für Gedächtniskonsolidierung. Zirkadianer Rhythmus: innere 24-Stunden-Uhr, gesteuert durch Licht und Melatonin.",
       "media_type": "text",
@@ -90,6 +100,7 @@
     },
     {
       "id": "r-sozialpsych",
+      "stable_id": "card-ms942qp10jc4r",
       "front": "Konformität und Attributionsfehler (Sozialpsychologie)",
       "back": "Konformität: Anpassung des Verhaltens an Gruppennormen. Fundamentaler Attributionsfehler: Verhalten anderer wird zu sehr auf Charakter und zu wenig auf Situation zurückgeführt.",
       "media_type": "text",
@@ -98,6 +109,7 @@
     },
     {
       "id": "r-entwicklung",
+      "stable_id": "card-ms942qp10jdjs",
       "front": "Kognitive Entwicklung — Piaget",
       "back": "Jean Piaget beschrieb vier Stadien der kognitiven Entwicklung: sensomotorisch, präoperational, konkret-operational und formal-operational.",
       "media_type": "text",
@@ -125,6 +137,7 @@
       "title": "Themen und Kernbegriffe zuordnen",
       "exercise": {
         "id": "ex-match-themen",
+        "stable_id": "ex-ms942qp10jeb8",
         "type": "matching",
         "prompt": "Ordne jedem Kursthema seinen wichtigsten Kernbegriff zu.",
         "card_ids": ["r-wundt-1879", "r-konditionierung", "r-intelligenz-modelle", "r-schlaf"],
@@ -144,6 +157,7 @@
       "title": "Gehirn und Nervensystem",
       "exercise": {
         "id": "ex-match-biologie",
+        "stable_id": "ex-ms942qp10jfgw",
         "type": "matching",
         "prompt": "Ordne jedem Begriff seine Beschreibung zu.",
         "card_ids": ["r-neuron-synapse", "r-hirnlappen", "r-stress"],
@@ -162,6 +176,7 @@
       "title": "Gründungsjahr der Psychologie",
       "exercise": {
         "id": "ex-cloze-wundt",
+        "stable_id": "ex-ms942qp10jgvr",
         "type": "cloze",
         "prompt": "Ergänze das Gründungsjahr des ersten psychologischen Labors.",
         "card_ids": ["r-wundt-1879"],
@@ -180,6 +195,7 @@
       "title": "Kapazität des Kurzzeitgedächtnisses",
       "exercise": {
         "id": "ex-cloze-gedaechtnis",
+        "stable_id": "ex-ms942qp10jhsy",
         "type": "cloze",
         "prompt": "Ergänze die Kapazität des Kurzzeitgedächtnisses nach Miller.",
         "card_ids": ["r-gedaechtnis"],
@@ -198,6 +214,7 @@
       "title": "Methode ohne Kausalschluss",
       "exercise": {
         "id": "ex-free-korrelation",
+        "stable_id": "ex-ms942qp10jity",
         "type": "free_text",
         "prompt": "Welche Methode zeigt nur Zusammenhänge, aber keine Ursache-Wirkung-Beziehungen?",
         "card_ids": ["r-korrelation-kausalitaet"],
@@ -214,6 +231,7 @@
       "title": "Schlafphase mit Träumen",
       "exercise": {
         "id": "ex-free-rem",
+        "stable_id": "ex-ms942qp10jjvw",
         "type": "free_text",
         "prompt": "Wie heißt die Schlafphase, die durch schnelle Augenbewegungen gekennzeichnet ist und in der wir am lebhaftesten träumen?",
         "card_ids": ["r-schlaf"],
@@ -230,6 +248,7 @@
       "title": "Definition der Psychologie zusammensetzen",
       "exercise": {
         "id": "ex-tiles-psychologie",
+        "stable_id": "ex-ms942qp10jkbm",
         "type": "word_tiles",
         "prompt": "Setze die klassische Definition der Psychologie zusammen.",
         "card_ids": ["r-erleben-verhalten"],

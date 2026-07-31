@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "card-fitd",
+      "stable_id": "card-ms942qof01xbw",
       "front": "Foot-in-the-door",
       "back": "Wer zuerst einer kleinen Bitte zustimmt, willigt anschließend mit höherer Wahrscheinlichkeit auch in eine größere Bitte ein",
       "notes": "Die kleine Zusage öffnet die Tür für die große.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "card-freedman-fraser",
+      "stable_id": "card-ms942qof01yfm",
       "front": "Freedman & Fraser (1966)",
       "back": "Hausbesitzer, die zuerst einer kleinen Bitte zustimmten, willigten danach häufiger ein, ein großes Verkehrssicherheits-Schild im Vorgarten aufzustellen",
       "notes": "Reale, klassische Studie zur Foot-in-the-door-Technik.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "card-selbstwahrnehmung",
+      "stable_id": "card-ms942qof01znw",
       "front": "Selbstwahrnehmung als Erklärung",
       "back": "Nach der ersten Zusage sieht man sich selbst als hilfsbereite, engagierte Person — und handelt danach konsistent weiter",
       "notes": "Anknüpfend an die Selbstwahrnehmungstheorie (Bem, 1972) und an das Konsistenzstreben.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "card-fitd-vs-ditf",
+      "stable_id": "card-ms942qof02016",
       "front": "Foot-in-the-door vs. Door-in-the-face",
       "back": "Foot-in-the-door beginnt mit einer kleinen Bitte und steigert; Door-in-the-face beginnt mit einer überzogenen Bitte und reduziert",
       "notes": "Gegensätzliche Reihenfolge, unterschiedliche Mechanismen (Konsistenz vs. Reziprozität).",
@@ -45,6 +49,7 @@
     },
     {
       "id": "card-fitd-grenze",
+      "stable_id": "card-ms942qof021ep",
       "front": "Augenmaß bei Foot-in-the-door",
       "back": "Die Effektstärke ist real, aber moderat und nicht garantiert; sie hängt von Kontext, Größe der Bitten und Freiwilligkeit der ersten Zusage ab",
       "notes": "Eine belegte Tendenz, kein sicherer Hebel.",
@@ -67,6 +72,7 @@
       "title": "Definition: Foot-in-the-door",
       "exercise": {
         "id": "ex-free-fitd",
+        "stable_id": "ex-ms942qof022sd",
         "type": "free_text",
         "prompt": "Was beschreibt die Foot-in-the-door-Technik?",
         "card_ids": ["card-fitd"],
@@ -91,6 +97,7 @@
       "title": "Warum wirkt die Technik?",
       "exercise": {
         "id": "ex-cloze-selbstwahrnehmung",
+        "stable_id": "ex-ms942qof023i0",
         "type": "cloze",
         "prompt": "Ergänze die Erklärung über die Selbstwahrnehmung.",
         "card_ids": ["card-selbstwahrnehmung"],
@@ -109,6 +116,7 @@
       "title": "Das Schild-im-Vorgarten-Experiment",
       "exercise": {
         "id": "ex-select-fitd-studie",
+        "stable_id": "ex-ms942qof0242d",
         "type": "cloze",
         "prompt": "Wähle die korrekte Zuordnung der klassischen Foot-in-the-door-Studie.",
         "card_ids": ["card-freedman-fraser"],
@@ -128,6 +136,7 @@
       "title": "Foot-in-the-door: Begriffe zuordnen",
       "exercise": {
         "id": "ex-match-fitd",
+        "stable_id": "ex-ms942qof025rj",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Aussage zu.",
         "card_ids": ["card-fitd", "card-selbstwahrnehmung", "card-fitd-vs-ditf", "card-fitd-grenze"],
@@ -147,6 +156,7 @@
       "title": "Setze den Kernsatz zusammen",
       "exercise": {
         "id": "ex-tiles-fitd",
+        "stable_id": "ex-ms942qof0265k",
         "type": "word_tiles",
         "prompt": "Setze den Kernsatz zur Foot-in-the-door-Technik zusammen.",
         "card_ids": ["card-fitd"],

@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "triebtheorie-recap",
+      "stable_id": "card-ms942qps173pm",
       "front": "Triebtheorie (Drive-Reduction Theory)",
       "back": "Ein inneres Ungleichgewicht (z. B. Hunger) erzeugt einen Trieb, der Verhalten motiviert, bis die Homöostase wiederhergestellt ist.",
       "notes": "Erklärt biologische Bedürfnisse gut; Neugier oder Risikosuche lassen sich damit kaum erklären.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "maslow-recap",
+      "stable_id": "card-ms942qps174f0",
       "front": "Bedürfnishierarchie (Maslow)",
       "back": "Bedürfnisse sind stufenförmig geordnet — von physiologischen über Sicherheits-, soziale und Wertschätzungsbedürfnisse bis zur Selbstverwirklichung.",
       "notes": "Die strikte Stufenreihenfolge ist heute umstritten.",
@@ -28,6 +30,7 @@
     },
     {
       "id": "flow-recap",
+      "stable_id": "card-ms942qps175wl",
       "front": "Flow (Csikszentmihalyi)",
       "back": "Zustand völligen Aufgehens in einer Tätigkeit, wenn Anforderung und Können gut ausbalanciert sind — weder Über- noch Unterforderung.",
       "media_type": "text",
@@ -36,6 +39,7 @@
     },
     {
       "id": "korrumpierungseffekt-recap",
+      "stable_id": "card-ms942qps176m7",
       "front": "Korrumpierungseffekt (Overjustification Effect)",
       "back": "Eine externe Belohnung für eine ohnehin gern ausgeübte Tätigkeit kann die intrinsische Motivation untergraben.",
       "notes": "Die Belohnung verdrängt die Freude an der Sache.",
@@ -46,6 +50,7 @@
     },
     {
       "id": "reappraisal-recap",
+      "stable_id": "card-ms942qps177u1",
       "front": "Kognitive Umbewertung (Reappraisal)",
       "back": "Eine Strategie der Emotionsregulation: Die Situation wird neu gedeutet, bevor eine emotionale Reaktion entsteht — frühe, wirksame Regulation.",
       "notes": "Gehört zum Gross-Prozessmodell; gilt als adaptiver als Suppression.",
@@ -55,6 +60,7 @@
     },
     {
       "id": "suppression-recap",
+      "stable_id": "card-ms942qps17829",
       "front": "Unterdrückung (Suppression)",
       "back": "Eine Strategie der Emotionsregulation: Der Ausdruck einer bereits bestehenden Emotion wird aktiv unterdrückt — späte, weniger wirksame Regulation.",
       "notes": "Erhöht langfristig den inneren Stres und ist kognitiv aufwändig.",
@@ -64,6 +70,7 @@
     },
     {
       "id": "selbstkontrolle-recap",
+      "stable_id": "card-ms942qps1797u",
       "front": "Selbstkontrolle (Self-Control)",
       "back": "Die Fähigkeit, kurzfristige Impulse zugunsten langfristiger Ziele zu unterdrücken — untersucht u. a. im Marshmallow-Test (Mischel).",
       "notes": "Ego-Depletion-Hypothese: Selbstkontrolle erschöpft sich mit Nutzung; Replikationsstudien zweifeln daran.",
@@ -73,6 +80,7 @@
     },
     {
       "id": "gewohnheitsschleife-recap",
+      "stable_id": "card-ms942qps17afw",
       "front": "Gewohnheitsschleife (Habit Loop)",
       "back": "Automatisiertes Verhalten besteht aus drei Teilen: Auslöser (Cue), Routine und Belohnung (Reward).",
       "notes": "Kenntnisse über die Schleife ermöglichen gezielte Verhaltensänderung.",
@@ -83,6 +91,7 @@
     },
     {
       "id": "perma-recap",
+      "stable_id": "card-ms942qps17b57",
       "front": "PERMA (Seligman)",
       "back": "Fünf Säulen des Wohlbefindens laut Seligman: Positive Emotionen (Positive Emotions), Engagement, Beziehungen (Relationships), Sinn (Meaning) und Leistung (Accomplishment).",
       "media_type": "text",
@@ -91,6 +100,7 @@
     },
     {
       "id": "hedonische-adaptation-recap",
+      "stable_id": "card-ms942qps17cma",
       "front": "Hedonische Adaptation (Hedonic Adaptation)",
       "back": "Menschen gewöhnen sich an positive wie negative Veränderungen und kehren zum persönlichen Wohlbefindens-Grundniveau (Set-Point) zurück.",
       "notes": "Erklärt, warum Lottogewinne das Glück oft nur kurz steigern.",
@@ -100,6 +110,7 @@
     },
     {
       "id": "resilienz-recap",
+      "stable_id": "card-ms942qps17dcd",
       "front": "Resilienz (Resilience)",
       "back": "Die Fähigkeit, sich nach Rückschlägen, Krisen oder Stress wieder zu erholen und funktionsfähig zu bleiben.",
       "notes": "Resilienz gilt als erlernbar und multifaktoriell — Beziehungen, Selbstwirksamkeit und Sinngebung spielen eine Rolle.",
@@ -109,6 +120,7 @@
     },
     {
       "id": "implementierungsintentionen-recap",
+      "stable_id": "card-ms942qps17e5b",
       "front": "Implementierungsintentionen (Implementation Intentions)",
       "back": "Konkrete Wenn-Dann-Pläne ('Wenn Situation X eintritt, tue ich Y'), die die Lücke zwischen Intention und tatsächlichem Verhalten schließen.",
       "notes": "Wirksames Mittel gegen Prokrastination; verankert Verhalten im Kontext.",
@@ -144,6 +156,7 @@
       "title": "Konzepte den Lektionen zuordnen",
       "exercise": {
         "id": "ex-match-theorien-uebersicht",
+        "stable_id": "ex-ms942qps17f50",
         "type": "matching",
         "prompt": "Ordne jedes Konzept seiner Zugehörigkeit zu.",
         "card_ids": ["korrumpierungseffekt-recap", "reappraisal-recap", "gewohnheitsschleife-recap", "perma-recap"],
@@ -163,6 +176,7 @@
       "title": "Flow-Bedingung",
       "exercise": {
         "id": "ex-cloze-flow",
+        "stable_id": "ex-ms942qps17g4z",
         "type": "cloze",
         "prompt": "Ergänze die Bedingung für den Flow-Zustand.",
         "card_ids": ["flow-recap"],
@@ -181,6 +195,7 @@
       "title": "Emotionsregulationsstrategien",
       "exercise": {
         "id": "ex-free-regulation",
+        "stable_id": "ex-ms942qps17h85",
         "type": "free_text",
         "prompt": "Wie heißt die adaptive Emotionsregulationsstrategie im Gross-Modell, bei der eine Situation neu gedeutet wird?",
         "card_ids": ["reappraisal-recap", "suppression-recap"],
@@ -197,6 +212,7 @@
       "title": "Maslows Bedürfnispyramide",
       "exercise": {
         "id": "ex-match-maslow-stufen",
+        "stable_id": "ex-ms942qps17i6z",
         "type": "matching",
         "prompt": "Ordne jede Stufe ihrem Beispiel zu.",
         "card_ids": ["maslow-recap"],
@@ -216,6 +232,7 @@
       "title": "PERMA zusammensetzen",
       "exercise": {
         "id": "ex-tiles-perma",
+        "stable_id": "ex-ms942qps17j9i",
         "type": "word_tiles",
         "prompt": "Setze die fünf PERMA-Säulen in der richtigen Reihenfolge zusammen.",
         "card_ids": ["perma-recap"],
@@ -231,6 +248,7 @@
       "title": "Hedonische Adaptation",
       "exercise": {
         "id": "ex-free-wohlbefinden",
+        "stable_id": "ex-ms942qps17ktm",
         "type": "free_text",
         "prompt": "Wie heißt der Effekt, dass Menschen sich an positive und negative Veränderungen gewöhnen und zum persönlichen Wohlbefindens-Grundniveau zurückkehren?",
         "card_ids": ["hedonische-adaptation-recap"],
@@ -247,6 +265,7 @@
       "title": "Die Gewohnheitsschleife",
       "exercise": {
         "id": "ex-cloze-gewohnheit",
+        "stable_id": "ex-ms942qps17lc5",
         "type": "cloze",
         "prompt": "Ergänze das fehlende Element der Gewohnheitsschleife.",
         "card_ids": ["gewohnheitsschleife-recap"],

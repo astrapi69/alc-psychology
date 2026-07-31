@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "gesundheitspsychologie",
+      "stable_id": "card-ms942qp90pyir",
       "front": "Gesundheitspsychologie (Health Psychology)",
       "back": "Das Anwendungsfach der Psychologie, das untersucht, wie Verhalten, Psyche und soziales Umfeld Gesundheit, Krankheit und Wohlbefinden beeinflussen.",
       "notes": "In Lektion 12 ging es um Stress und Bewältigung. Die Gesundheitspsychologie betrachtet umfassender, wie Verhalten, Psyche und soziales Umfeld Gesundheit beeinflussen.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "biopsychosoziales-modell",
+      "stable_id": "card-ms942qp90pzbi",
       "front": "Biopsychosoziales Modell (Biopsychosocial Model)",
       "back": "Gesundheit entsteht aus dem Zusammenspiel biologischer (z. B. Gene, Immunsystem), psychischer (z. B. Gedanken, Emotionen) und sozialer Faktoren (z. B. soziale Unterstützung, Lebensumstände).",
       "notes": "Alternative zum rein biomedizinischen Modell, das nur körperliche Ursachen berücksichtigt.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "gesundheitsverhalten",
+      "stable_id": "card-ms942qp90q07k",
       "front": "Gesundheitsverhalten (Health Behaviour)",
       "back": "Verhaltensweisen, die Gesundheit erhalten oder verbessern (z. B. regelmäßige Bewegung, ausgewogene Ernährung, Nichtrauchen) oder gefährden (z. B. Rauchen, Bewegungsmangel, riskanter Alkoholkonsum).",
       "media_type": "text",
@@ -35,6 +38,7 @@
     },
     {
       "id": "salutogenese",
+      "stable_id": "card-ms942qp90q10w",
       "front": "Salutogenese (Salutogenesis)",
       "back": "Konzept des Medizinsoziologen Aaron Antonovsky: statt zu fragen 'Was macht krank?' (Pathogenese) fragt die Salutogenese 'Was hält gesund?' — also welche Ressourcen und Faktoren zur Gesundheit beitragen.",
       "notes": "Salut = Gesundheit (lat./frz.), Genesis = Entstehung.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "kohaerenzsinn",
+      "stable_id": "card-ms942qp90q2qh",
       "front": "Kohärenzsinn (Sense of Coherence)",
       "back": "Das zentrale Konzept der Salutogenese (Antonovsky): die Grundüberzeugung, dass das Leben verständlich (Verstehbarkeit), handhabbar (Bewältigbarkeit) und bedeutsam (Bedeutsamkeit) ist.",
       "notes": "Drei Komponenten: Verstehbarkeit, Bewältigbarkeit, Bedeutsamkeit. Hoher Kohärenzsinn gilt als wichtiger Schutzfaktor.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "praevention",
+      "stable_id": "card-ms942qp90q34r",
       "front": "Prävention (Prevention)",
       "back": "Maßnahmen zur Verhütung von Krankheiten. Man unterscheidet: Primärprävention (Krankheit verhindern), Sekundärprävention (Früherkennung) und Tertiärprävention (Rückfall verhüten, Folgen mindern).",
       "media_type": "text",
@@ -62,6 +68,7 @@
     },
     {
       "id": "transtheoretisches-modell",
+      "stable_id": "card-ms942qp90q4d0",
       "front": "Transtheoretisches Modell / Stufenmodell (Transtheoretical Model, TTM)",
       "back": "Modell der Verhaltensänderung von Prochaska und DiClemente: Menschen durchlaufen fünf Stufen — Absichtslosigkeit, Absichtsbildung, Vorbereitung, Handlung, Aufrechterhaltung — bevor eine Verhaltensänderung stabil ist.",
       "notes": "Auch als 'Stages of Change' bekannt. Wichtig: Man kann Stufen überspringen oder zurückfallen.",
@@ -72,6 +79,7 @@
     },
     {
       "id": "coping",
+      "stable_id": "card-ms942qp90q5ej",
       "front": "Krankheitsbewältigung / Coping",
       "back": "Bewusste und unbewusste Strategien, mit denen Menschen Belastungen durch Krankheit oder Stress umgehen. Man unterscheidet problemorientiertes Coping (Ursache angehen) und emotionsorientiertes Coping (Gefühle regulieren).",
       "notes": "Bereits in Lektion 12 eingeführt. In der Gesundheitspsychologie zentral für den Umgang mit chronischer Krankheit.",
@@ -81,6 +89,7 @@
     },
     {
       "id": "soziale-unterstuetzung",
+      "stable_id": "card-ms942qp90q6my",
       "front": "Soziale Unterstützung (Social Support)",
       "back": "Hilfe und Rückhalt durch das soziale Umfeld — emotional (Zuwendung, Empathie), informationell (Rat, Wissen) und instrumentell (praktische Hilfe). Soziale Unterstützung puffert Stressfolgen und fördert Genesung.",
       "notes": "Starker Schutzfaktor; fehlendes soziales Netz gilt als gesundheitliches Risiko.",
@@ -90,6 +99,7 @@
     },
     {
       "id": "adhaerenz",
+      "stable_id": "card-ms942qp90q7sk",
       "front": "Adhärenz / Therapietreue (Adherence)",
       "back": "Das Ausmaß, in dem Patienten ärztliche oder therapeutische Empfehlungen (Medikamente, Lebensstiländerungen) tatsächlich umsetzen. Geringe Adhärenz ist ein Hauptproblem der medizinischen Versorgung.",
       "notes": "Früher 'Compliance' (einseitiger Begriff); 'Adhärenz' betont die aktive Rolle des Patienten.",
@@ -99,6 +109,7 @@
     },
     {
       "id": "primärprävention",
+      "stable_id": "card-ms942qp90q8ei",
       "front": "Primärprävention",
       "back": "Maßnahmen, die das Auftreten von Krankheiten verhindern, bevor sie entstehen — z. B. Impfungen, Aufklärungskampagnen zu Rauchen oder Bewegungsförderung.",
       "media_type": "text",
@@ -107,6 +118,7 @@
     },
     {
       "id": "sekundaerprävention",
+      "stable_id": "card-ms942qp90q9mq",
       "front": "Sekundärprävention",
       "back": "Früherkennung und Frühbehandlung von Krankheiten, um ihre Ausbreitung oder Verschlimmerung zu verhindern — z. B. Krebs-Screening, Blutdruckmessung.",
       "media_type": "text",
@@ -115,6 +127,7 @@
     },
     {
       "id": "tertiärprävention",
+      "stable_id": "card-ms942qp90qadb",
       "front": "Tertiärprävention",
       "back": "Maßnahmen bei bereits bestehender Erkrankung, die Rückfälle verhüten und Folgeschäden mindern — z. B. Rehabilitation nach Herzinfarkt, Rückfallprävention bei Sucht.",
       "media_type": "text",
@@ -148,6 +161,7 @@
       "title": "Biopsychosoziale Faktoren zuordnen",
       "exercise": {
         "id": "ex-match-biopsychosozial",
+        "stable_id": "ex-ms942qp90qbih",
         "type": "matching",
         "prompt": "Ordne jeden Faktor der richtigen Gruppe des biopsychosozialen Modells zu.",
         "card_ids": ["biopsychosoziales-modell"],
@@ -166,6 +180,7 @@
       "title": "Die Frage der Salutogenese",
       "exercise": {
         "id": "ex-cloze-salutogenese",
+        "stable_id": "ex-ms942qp90qc2n",
         "type": "cloze",
         "prompt": "Ergänze die Leitfrage der Salutogenese.",
         "card_ids": ["salutogenese"],
@@ -184,6 +199,7 @@
       "title": "Präventionsstufen zuordnen",
       "exercise": {
         "id": "ex-match-praevention",
+        "stable_id": "ex-ms942qp90qdcl",
         "type": "matching",
         "prompt": "Ordne jeder Präventionsstufe ihr Ziel zu.",
         "card_ids": ["praevention", "primärprävention", "sekundaerprävention", "tertiärprävention"],
@@ -202,6 +218,7 @@
       "title": "Antonovskys Schlüsselbegriff",
       "exercise": {
         "id": "ex-free-kohaerenzsinn",
+        "stable_id": "ex-ms942qp90qe5t",
         "type": "free_text",
         "prompt": "Wie heißt das zentrale Konzept der Salutogenese, das Verstehbarkeit, Bewältigbarkeit und Bedeutsamkeit umfasst?",
         "card_ids": ["kohaerenzsinn", "salutogenese"],
@@ -218,6 +235,7 @@
       "title": "Stufen des Transtheoretischen Modells",
       "exercise": {
         "id": "ex-tiles-ttm",
+        "stable_id": "ex-ms942qp90qfvm",
         "type": "word_tiles",
         "prompt": "Bringe die fünf Stufen des Transtheoretischen Modells in die richtige Reihenfolge.",
         "card_ids": ["transtheoretisches-modell"],
@@ -233,6 +251,7 @@
       "title": "Therapietreue benennen",
       "exercise": {
         "id": "ex-free-adhaerenz",
+        "stable_id": "ex-ms942qp90qgb2",
         "type": "free_text",
         "prompt": "Wie heißt der Begriff für den Grad, in dem Patienten Behandlungsempfehlungen tatsächlich umsetzen?",
         "card_ids": ["adhaerenz"],
@@ -249,6 +268,7 @@
       "title": "Problemorientiertes Coping",
       "exercise": {
         "id": "ex-cloze-coping",
+        "stable_id": "ex-ms942qp90qh5z",
         "type": "cloze",
         "prompt": "Ergänze die Art des Copings, die sich direkt mit der Belastungsquelle befasst.",
         "card_ids": ["coping"],

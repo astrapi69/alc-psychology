@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "card-dissonanz",
+      "stable_id": "card-ms942qod012a7",
       "front": "Kognitive Dissonanz",
       "back": "Unangenehmer Spannungszustand, wenn Überzeugungen, Werte und das eigene Verhalten nicht zusammenpassen",
       "notes": "Begründet von Leon Festinger (1957).",
@@ -18,6 +19,7 @@
     },
     {
       "id": "card-reduktion",
+      "stable_id": "card-ms942qod013hh",
       "front": "Dissonanzreduktion",
       "back": "Das Bestreben, die Spannung zu verringern — etwa indem man die Einstellung ändert, das Verhalten anpasst oder neue Rechtfertigungen sucht",
       "notes": "Häufig ist die Einstellung leichter zu ändern als das bereits gezeigte Verhalten.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "card-festinger-carlsmith",
+      "stable_id": "card-ms942qod014m8",
       "front": "Festinger & Carlsmith (1959)",
       "back": "Wer für eine Lüge nur 1 Dollar bekam, fand die langweilige Aufgabe danach interessanter als wer 20 Dollar bekam — die geringe Belohnung erzwang innere Rechtfertigung",
       "notes": "Reale, klassische Studie. Die kleine Bezahlung bot keine äußere Rechtfertigung, also passte sich die Einstellung an.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "card-rechtfertigung",
+      "stable_id": "card-ms942qod015i4",
       "front": "Unzureichende Rechtfertigung",
       "back": "Fehlt ein starker äußerer Grund für ein Verhalten, ändert man eher die innere Einstellung, um das Verhalten stimmig erscheinen zu lassen",
       "notes": "Erklärt das Ergebnis des 1-Dollar-Bedingung.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "card-dissonanz-beeinflussung",
+      "stable_id": "card-ms942qod016dw",
       "front": "Dissonanz als Hebel der Beeinflussung",
       "back": "Wer jemanden zu einer kleinen freiwilligen Handlung bewegt, kann eine Einstellungsänderung anstoßen, weil die Person ihr Verhalten nachträglich rechtfertigt",
       "notes": "Verbindung zu Foot-in-the-door: aus Handlung folgt Haltung.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "card-dissonanz-grenze",
+      "stable_id": "card-ms942qod0175v",
       "front": "Augenmaß bei kognitiver Dissonanz",
       "back": "Dissonanz wird nicht immer durch Einstellungsänderung aufgelöst — man kann sie auch aushalten, die Information abwerten oder das Verhalten ändern",
       "notes": "Die Richtung der Auflösung ist nicht festgelegt.",
@@ -76,6 +82,7 @@
       "title": "Definition: Kognitive Dissonanz",
       "exercise": {
         "id": "ex-free-dissonanz",
+        "stable_id": "ex-ms942qod018i3",
         "type": "free_text",
         "prompt": "Was ist kognitive Dissonanz?",
         "card_ids": ["card-dissonanz"],
@@ -100,6 +107,7 @@
       "title": "Warum wirkte 1 Dollar stärker?",
       "exercise": {
         "id": "ex-cloze-rechtfertigung",
+        "stable_id": "ex-ms942qod019ed",
         "type": "cloze",
         "prompt": "Ergänze die Erklärung des 1-Dollar-Effekts.",
         "card_ids": ["card-rechtfertigung", "card-festinger-carlsmith"],
@@ -119,6 +127,7 @@
       "title": "Das 1-Dollar-Experiment",
       "exercise": {
         "id": "ex-select-studie",
+        "stable_id": "ex-ms942qod01af3",
         "type": "cloze",
         "prompt": "Wähle die korrekte Zuordnung des 1-Dollar-Experiments.",
         "card_ids": ["card-festinger-carlsmith"],
@@ -138,6 +147,7 @@
       "title": "Dissonanz-Konzepte zuordnen",
       "exercise": {
         "id": "ex-match-dissonanz",
+        "stable_id": "ex-ms942qod01bcg",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Aussage zu.",
         "card_ids": ["card-dissonanz", "card-reduktion", "card-rechtfertigung", "card-dissonanz-grenze"],
@@ -157,6 +167,7 @@
       "title": "Setze den Merksatz zusammen",
       "exercise": {
         "id": "ex-tiles-dissonanz",
+        "stable_id": "ex-ms942qod01crr",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zur Dissonanzreduktion zusammen.",
         "card_ids": ["card-reduktion"],

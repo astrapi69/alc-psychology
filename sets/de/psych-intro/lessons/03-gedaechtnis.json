@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "mehrspeichermodell",
+      "stable_id": "card-ms942qoi043oo",
       "front": "Mehrspeichermodell (Multi-Store Model)",
       "back": "Modell von Atkinson & Shiffrin (1968): Informationen durchlaufen drei Speicher — sensorisches Register, Kurzzeitgedächtnis und Langzeitgedächtnis.",
       "notes": "Das Modell ist ein Meilenstein der Kognitionspsychologie, obwohl spätere Forschung es erweitert hat.",
@@ -16,6 +17,7 @@
     },
     {
       "id": "sensorisches-register",
+      "stable_id": "card-ms942qoi044q7",
       "front": "Sensorisches Register (Sensory Register)",
       "back": "Erster Speicher im Mehrspeichermodell: hält Sinneseindrücke für Millisekunden bis wenige Sekunden, bevor sie gefiltert werden.",
       "notes": "Beispiel: Das ikonische Gedächtnis (visuell) hält ein Bild etwa 0,5 Sekunden.",
@@ -23,6 +25,7 @@
     },
     {
       "id": "kurzzeitgedaechtnis",
+      "stable_id": "card-ms942qoi04512",
       "front": "Kurzzeitgedächtnis (Short-Term Memory, STM)",
       "back": "Zweiter Speicher: begrenzte Kapazität (ca. 7 ± 2 Einheiten nach Miller) und kurze Dauer (ca. 15–30 Sekunden ohne Wiederholung).",
       "notes": "Durch aktive Wiederholung (rehearsal) können Informationen länger gehalten oder ins Langzeitgedächtnis überführt werden.",
@@ -30,6 +33,7 @@
     },
     {
       "id": "langzeitgedaechtnis",
+      "stable_id": "card-ms942qoi0465z",
       "front": "Langzeitgedächtnis (Long-Term Memory, LTM)",
       "back": "Dritter Speicher: quasi unbegrenzte Kapazität und Dauer; enthält deklaratives und prozedurales Wissen.",
       "notes": "Unterteilung in explizites (episodisch, semantisch) und implizites Gedächtnis.",
@@ -37,6 +41,7 @@
     },
     {
       "id": "arbeitsgedaechtnis",
+      "stable_id": "card-ms942qoi047bs",
       "front": "Arbeitsgedächtnis (Working Memory)",
       "back": "Modell von Baddeley & Hitch (1974): aktives System, das Informationen kurzzeitig speichert und gleichzeitig verarbeitet.",
       "notes": "Ersetzt das einfache Konzept des Kurzzeitgedächtnisses durch ein flexibleres, mehrkomponentiges Modell.",
@@ -44,6 +49,7 @@
     },
     {
       "id": "phonologische-schleife",
+      "stable_id": "card-ms942qoi048cx",
       "front": "Phonologische Schleife (Phonological Loop)",
       "back": "Komponente des Arbeitsgedächtnisses: speichert sprachliche und akustische Information durch inneres Sprechen.",
       "notes": "Verantwortlich für das Behalten von Telefonnummern beim kurzen Merken.",
@@ -51,6 +57,7 @@
     },
     {
       "id": "visuell-raeumlicher-notizblock",
+      "stable_id": "card-ms942qoi049nf",
       "front": "Visuell-räumlicher Notizblock (Visuospatial Sketchpad)",
       "back": "Komponente des Arbeitsgedächtnisses: verarbeitet und speichert visuelle und räumliche Informationen.",
       "notes": "Aktiv beim mentalen Rotieren von Objekten oder beim Navigieren.",
@@ -58,6 +65,7 @@
     },
     {
       "id": "zentrale-exekutive",
+      "stable_id": "card-ms942qoi04a5x",
       "front": "Zentrale Exekutive (Central Executive)",
       "back": "Übergeordnete Kontrollinstanz des Arbeitsgedächtnisses: steuert Aufmerksamkeit und koordiniert die Subsysteme.",
       "notes": "Keine eigene Speicherkapazität — nur Steuerung und Koordination.",
@@ -65,6 +73,7 @@
     },
     {
       "id": "vergessenskurve",
+      "stable_id": "card-ms942qoi04b5f",
       "front": "Vergessenskurve (Forgetting Curve)",
       "back": "Von Ebbinghaus entdeckt: Vergessen verläuft exponentiell — der größte Verlust tritt kurz nach dem Lernen auf.",
       "notes": "Ebbinghaus lernte sinnlose Silben und maß Behaltensleistung über die Zeit. Nach einem Tag sind oft über 50 % vergessen.",
@@ -72,6 +81,7 @@
     },
     {
       "id": "ebbinghaus",
+      "stable_id": "card-ms942qoi04car",
       "front": "Hermann Ebbinghaus",
       "back": "Pionier der Gedächtnisforschung; entdeckte die Vergessenskurve und den Spacing-Effekt durch systematische Selbstversuche.",
       "notes": "Verwendete bedeutungslose Silben (z. B. 'DAX', 'BUP') um Vorwissen auszuschließen.",
@@ -79,6 +89,7 @@
     },
     {
       "id": "spacing-effekt",
+      "stable_id": "card-ms942qoi04dmx",
       "front": "Spacing-Effekt (Spacing Effect)",
       "back": "Verteiltes Lernen über die Zeit führt zu besserem Behalten als massiertes Lernen (Bulimie-Lernen).",
       "notes": "Das Gegenmittel gegen die Vergessenskurve: lieber täglich 20 Minuten als einmal 4 Stunden.",
@@ -86,6 +97,7 @@
     },
     {
       "id": "chunking",
+      "stable_id": "card-ms942qoi04e4u",
       "front": "Chunking",
       "back": "Gedächtnisstrategie: Einzelinformationen zu bedeutungsvollen Einheiten (Chunks) zusammenfassen, um die KZG-Kapazität zu erhöhen.",
       "notes": "Beispiel: '0 17 0 – 1 2 3 4 5 6' statt '0170123456' Ziffer für Ziffer merken.",
@@ -93,6 +105,7 @@
     },
     {
       "id": "elaboration",
+      "stable_id": "card-ms942qoi04f3z",
       "front": "Elaboration (Elaborative Rehearsal)",
       "back": "Gedächtnisstrategie: neues Wissen mit vorhandenem verknüpfen, um tiefere und dauerhaftere Gedächtnisrepräsentationen zu erzeugen.",
       "notes": "Im Gegensatz zum reinen Wiederholen (maintenance rehearsal) viel effektiver für das Langzeitgedächtnis.",
@@ -100,6 +113,7 @@
     },
     {
       "id": "loci-methode",
+      "stable_id": "card-ms942qoi04gos",
       "front": "Loci-Methode (Method of Loci)",
       "back": "Mnemonische Strategie: zu merkende Informationen gedanklich an bekannte Orte eines vertrauten Weges platzieren.",
       "notes": "Auch 'Gedächtnispalast' genannt. Schon von antiken Rednern genutzt.",
@@ -107,6 +121,7 @@
     },
     {
       "id": "eselbruecken",
+      "stable_id": "card-ms942qoi04hnp",
       "front": "Eselsbrücken (Mnemonik / Mnemonic Devices)",
       "back": "Gedächtnishilfen, die durch Reime, Abkürzungen oder bildhafte Assoziationen das Behalten erleichtern.",
       "notes": "Beispiel: 'Mein Vater erklärt mir jeden Sonntag unsere Nachbarplaneten' für die Planetenreihenfolge.",
@@ -114,6 +129,7 @@
     },
     {
       "id": "srs",
+      "stable_id": "card-ms942qoi04ii6",
       "front": "Spaced Repetition System (SRS / Verteiltes Wiederholen)",
       "back": "Lernalgorithmus, der Wiederholungszeitpunkte so plant, dass Karteikarten kurz vor dem Vergessen erneut gezeigt werden.",
       "notes": "Adaptive Learner nutzt genau dieses Prinzip: je öfter du eine Karte richtig beantwortest, desto länger das Intervall bis zur nächsten Wiederholung.",
@@ -146,6 +162,7 @@
       "title": "Speicher zuordnen",
       "exercise": {
         "id": "ex-match-speicher",
+        "stable_id": "ex-ms942qoi04jdq",
         "type": "matching",
         "prompt": "Ordne jedem Speicher des Mehrspeichermodells seine Eigenschaft zu.",
         "card_ids": ["sensorisches-register", "kurzzeitgedaechtnis", "langzeitgedaechtnis"],
@@ -164,6 +181,7 @@
       "title": "Baddeley-Komponenten zuordnen",
       "exercise": {
         "id": "ex-match-baddeley",
+        "stable_id": "ex-ms942qoi04k7a",
         "type": "matching",
         "prompt": "Ordne jede Komponente des Arbeitsgedächtnisses ihrer Funktion zu.",
         "card_ids": ["phonologische-schleife", "visuell-raeumlicher-notizblock", "zentrale-exekutive"],
@@ -182,6 +200,7 @@
       "title": "Gedächtnisstrategien zuordnen",
       "exercise": {
         "id": "ex-match-strategien",
+        "stable_id": "ex-ms942qoi04l3g",
         "type": "matching",
         "prompt": "Ordne jede Strategie ihrer Beschreibung zu.",
         "card_ids": ["chunking", "elaboration", "loci-methode", "eselbruecken"],
@@ -201,6 +220,7 @@
       "title": "Begriff zur Definition",
       "exercise": {
         "id": "ex-free-spacing",
+        "stable_id": "ex-ms942qoi04muc",
         "type": "free_text",
         "prompt": "Wie heißt das Phänomen, dass verteiltes Lernen besser wirkt als massiertes Lernen?",
         "card_ids": ["spacing-effekt"],
@@ -217,6 +237,7 @@
       "title": "Wer entdeckte die Vergessenskurve?",
       "exercise": {
         "id": "ex-free-ebbinghaus",
+        "stable_id": "ex-ms942qoi04n16",
         "type": "free_text",
         "prompt": "Wer entdeckte durch Selbstversuche mit sinnlosen Silben die Vergessenskurve?",
         "card_ids": ["ebbinghaus", "vergessenskurve"],
@@ -233,6 +254,7 @@
       "title": "Kapazität des Kurzzeitgedächtnisses",
       "exercise": {
         "id": "ex-cloze-kapazitaet",
+        "stable_id": "ex-ms942qoi04o0j",
         "type": "cloze",
         "prompt": "Ergänze die typische Kapazität des Kurzzeitgedächtnisses nach Miller.",
         "card_ids": ["kurzzeitgedaechtnis"],
@@ -251,6 +273,7 @@
       "title": "Spacing-Effekt beschreiben",
       "exercise": {
         "id": "ex-cloze-spacing",
+        "stable_id": "ex-ms942qoi04p7g",
         "type": "cloze",
         "prompt": "Ergänze den Gegenbegriff zum massierten Lernen.",
         "card_ids": ["spacing-effekt"],
@@ -269,6 +292,7 @@
       "title": "Welches Modell zeigt das Arbeitsgedächtnis?",
       "exercise": {
         "id": "ex-picture-arbeitsgedaechtnis",
+        "stable_id": "ex-ms942qoi04qdm",
         "type": "picture_choice",
         "prompt": "Welches Bild repräsentiert das Arbeitsgedächtnismodell von Baddeley?",
         "card_ids": ["arbeitsgedaechtnis", "phonologische-schleife", "visuell-raeumlicher-notizblock", "zentrale-exekutive"],
@@ -290,6 +314,7 @@
       "title": "Satz zur Vergessenskurve zusammensetzen",
       "exercise": {
         "id": "ex-tiles-vergessenskurve",
+        "stable_id": "ex-ms942qoi04rls",
         "type": "word_tiles",
         "prompt": "Setze die Aussage zur Vergessenskurve zusammen.",
         "card_ids": ["vergessenskurve"],

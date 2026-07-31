@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "zikadianer-rhythmus-recap",
+      "stable_id": "card-ms942qpw19pwu",
       "front": "Zirkadianer Rhythmus (Circadian Rhythm)",
       "back": "Der etwa 24-stündige innere Takt, der Schlaf, Wachheit, Körpertemperatur und Hormone steuert — gesteuert vom SCN im Hypothalamus.",
       "notes": "Lektion 61. Lateinisch 'circa diem' = ungefähr ein Tag.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "rem-schlaf-recap",
+      "stable_id": "card-ms942qpw19qg7",
       "front": "REM-Schlaf (Rapid Eye Movement Sleep)",
       "back": "Schlafphase mit raschen Augenbewegungen, lebhaften Träumen und nahezu gelähmter Muskulatur; das Gehirn ist hochaktiv.",
       "notes": "Lektion 61. Anteil nimmt in der zweiten Nachthälfte zu.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "melatonin-recap",
+      "stable_id": "card-ms942qpw19r5m",
       "front": "Melatonin",
       "back": "Hormon der Zirbeldrüse, das bei Dunkelheit ausgeschüttet wird und den Schlaf einleitet; blaues Bildschirmlicht hemmt die Ausschüttung.",
       "notes": "Lektion 61. Bindeglied zwischen SCN und Schlafbeginn.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "hypnose-recap",
+      "stable_id": "card-ms942qpw19s7r",
       "front": "Hypnose (Hypnosis)",
       "back": "Veränderter Bewusstseinszustand mit erhöhter Suggestibilität; die Person folgt Anweisungen, bleibt aber wach und kann unethische Befehle ablehnen.",
       "notes": "Lektion 62. Wird in der Therapie zur Schmerzreduktion eingesetzt.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "stimulanzien-recap",
+      "stable_id": "card-ms942qpw19t20",
       "front": "Stimulanzien (Stimulants)",
       "back": "Psychoaktive Substanzen, die das Zentralnervensystem (ZNS) aktivieren, Dopamin und Noradrenalin erhöhen und Wachheit sowie Euphorie erzeugen (z. B. Kokain, Amphetamine, Koffein).",
       "notes": "Lektion 62. Gegenteil: Depressiva dämpfen das ZNS.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "halluzinogene-recap",
+      "stable_id": "card-ms942qpw19udl",
       "front": "Halluzinogene (Hallucinogens)",
       "back": "Substanzen, die Wahrnehmung und Bewusstsein stark verändern und Sinneseindrücke ohne äußere Reize erzeugen (z. B. LSD, Psilocybin, Mescalin).",
       "notes": "Lektion 62. Wirken u. a. auf Serotonin-Rezeptoren.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "ssri-recap",
+      "stable_id": "card-ms942qpw19v14",
       "front": "SSRI (Selektive Serotonin-Wiederaufnahmehemmer)",
       "back": "Antidepressiva, die den Serotonin-Spiegel im synaptischen Spalt erhöhen, indem sie die Wiederaufnahme blockieren (z. B. Fluoxetin, Sertralin).",
       "notes": "Lektion 63. Häufigste Antidepressiva-Klasse; Wirkung setzt nach 2–4 Wochen ein.",
@@ -72,6 +79,7 @@
     },
     {
       "id": "antipsychotika-recap",
+      "stable_id": "card-ms942qpw19w4t",
       "front": "Antipsychotika (Antipsychotics)",
       "back": "Medikamente, die Dopamin-Rezeptoren blockieren und psychotische Symptome wie Halluzinationen und Wahnvorstellungen lindern.",
       "notes": "Lektion 63. Auch als Neuroleptika bezeichnet; Nebenwirkungen u. a. Bewegungsstörungen.",
@@ -81,6 +89,7 @@
     },
     {
       "id": "placebo-effekt-recap",
+      "stable_id": "card-ms942qpw19xca",
       "front": "Placebo-Effekt (Placebo Effect)",
       "back": "Verbesserung des Befindens allein durch die Erwartungshaltung, eine wirksame Behandlung zu erhalten — auch ohne pharmakologisch aktiven Wirkstoff.",
       "notes": "Lektion 63. Belegt die Kraft der Erwartung; Nocebo = negativer Placebo-Effekt.",
@@ -90,6 +99,7 @@
     },
     {
       "id": "toleranz-recap",
+      "stable_id": "card-ms942qpw19y62",
       "front": "Toleranz (Tolerance)",
       "back": "Bei wiederholtem Substanzkonsum nimmt die Wirkung ab, sodass immer höhere Dosen benötigt werden, um denselben Effekt zu erzielen.",
       "notes": "Lektion 64. Entsteht durch Anpassung des Rezeptorsystems.",
@@ -99,6 +109,7 @@
     },
     {
       "id": "entzug-recap",
+      "stable_id": "card-ms942qpw19zzl",
       "front": "Entzug (Withdrawal)",
       "back": "Körperliche und psychische Symptome beim Absetzen einer Substanz, auf die der Körper abhängig ist; das Gegenteil der ursprünglichen Drogenwirkung.",
       "notes": "Lektion 64. Kann bei Alkohol und Opioiden lebensbedrohlich sein.",
@@ -108,6 +119,7 @@
     },
     {
       "id": "belohnungssystem-dopamin-recap",
+      "stable_id": "card-ms942qpw1a0dn",
       "front": "Belohnungssystem und Dopamin (Reward System / Dopamine)",
       "back": "Das mesolimbische Dopaminsystem vermittelt das Erleben von Belohnung und Motivation; Suchtmittel fluten dieses System mit Dopamin und führen zu starkem Verlangen (Craving).",
       "notes": "Lektion 64. Nucleus accumbens ist der Kern dieses Systems.",
@@ -142,6 +154,7 @@
       "title": "Begriffe den richtigen Lektionen zuordnen",
       "exercise": {
         "id": "ex-match-lektionen",
+        "stable_id": "ex-ms942qpw1a1ra",
         "type": "matching",
         "prompt": "Ordne jeden Begriff seiner thematischen Gruppe zu.",
         "card_ids": ["melatonin-recap", "ssri-recap", "toleranz-recap", "halluzinogene-recap"],
@@ -161,6 +174,7 @@
       "title": "Das Belohnungssystem",
       "exercise": {
         "id": "ex-cloze-dopamin",
+        "stable_id": "ex-ms942qpw1a275",
         "type": "cloze",
         "prompt": "Ergänze den fehlenden Botenstoff im Belohnungssystem.",
         "card_ids": ["belohnungssystem-dopamin-recap"],
@@ -179,6 +193,7 @@
       "title": "Die Schlafphase mit Träumen",
       "exercise": {
         "id": "ex-free-rem",
+        "stable_id": "ex-ms942qpw1a3re",
         "type": "free_text",
         "prompt": "Wie heißt die Schlafphase, in der lebhafte Träume auftreten, die Augen sich schnell bewegen und die Muskulatur gelähmt ist?",
         "card_ids": ["rem-schlaf-recap"],
@@ -195,6 +210,7 @@
       "title": "Pharmakologische Wirkmechanismen zuordnen",
       "exercise": {
         "id": "ex-match-pharma-mechanismus",
+        "stable_id": "ex-ms942qpw1a4af",
         "type": "matching",
         "prompt": "Ordne jeder Substanzklasse ihren Wirkmechanismus zu.",
         "card_ids": ["ssri-recap", "antipsychotika-recap", "stimulanzien-recap"],
@@ -213,6 +229,7 @@
       "title": "Den Suchtkreislauf beschreiben",
       "exercise": {
         "id": "ex-tiles-sucht",
+        "stable_id": "ex-ms942qpw1a5jw",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zur Toleranzentwicklung zusammen.",
         "card_ids": ["toleranz-recap", "belohnungssystem-dopamin-recap"],
@@ -228,6 +245,7 @@
       "title": "Die Kraft der Erwartung",
       "exercise": {
         "id": "ex-free-placebo",
+        "stable_id": "ex-ms942qpw1a601",
         "type": "free_text",
         "prompt": "Wie nennt man die Verbesserung des Befindens allein durch die Erwartung einer wirksamen Behandlung, ohne pharmakologisch aktiven Wirkstoff?",
         "card_ids": ["placebo-effekt-recap"],

@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "selbstwirksamkeit-review",
+      "stable_id": "card-ms942qpa0r190",
       "front": "Selbstwirksamkeit (Self-Efficacy)",
       "back": "Die Überzeugung, eine Aufgabe aus eigener Kraft bewältigen zu können — nach Albert Bandura ein zentraler Prädiktor für Lernausdauer und Leistung.",
       "notes": "Lektion 26 (Pädagogische Psychologie). Gegensatz: Hilflosigkeit.",
@@ -19,6 +20,7 @@
     },
     {
       "id": "selbstbestimmungstheorie-review",
+      "stable_id": "card-ms942qpa0r2wl",
       "front": "Selbstbestimmungstheorie — drei Grundbedürfnisse",
       "back": "Deci und Ryan: Motivation gedeiht, wenn Autonomie (selbst entscheiden), Kompetenz (sich fähig fühlen) und soziale Eingebundenheit (dazugehören) erfüllt sind.",
       "notes": "Lektion 26. Werden alle drei Bedürfnisse befriedigt, entsteht intrinsische Motivation.",
@@ -28,6 +30,7 @@
     },
     {
       "id": "scaffolding-zpd-review",
+      "stable_id": "card-ms942qpa0r35l",
       "front": "Scaffolding & Zone der nächsten Entwicklung (ZPD)",
       "back": "Scaffolding = vorübergehendes Lerngerüst, das schrittweise abgebaut wird. ZPD (Wygotski) = der Bereich zwischen dem, was allein und was mit Unterstützung möglich ist.",
       "notes": "Lektion 26. Scaffolding wirkt genau in der ZPD am besten.",
@@ -37,6 +40,7 @@
     },
     {
       "id": "herzberg-zwei-faktoren-review",
+      "stable_id": "card-ms942qpa0r4vz",
       "front": "Zwei-Faktoren-Theorie (Herzberg)",
       "back": "Hygienefaktoren (z. B. Gehalt, Arbeitsbedingungen) verhindern Unzufriedenheit, schaffen aber keine Zufriedenheit. Motivatoren (z. B. Anerkennung, Verantwortung) erzeugen aktive Zufriedenheit.",
       "notes": "Lektion 27 (Arbeits- und Organisationspsychologie).",
@@ -46,6 +50,7 @@
     },
     {
       "id": "soziales-faulenzen-review",
+      "stable_id": "card-ms942qpa0r5xe",
       "front": "Soziales Faulenzen (Social Loafing)",
       "back": "In Gruppen erbringen Einzelpersonen oft weniger Leistung als allein, weil der individuelle Beitrag weniger sichtbar und zurechenbar ist.",
       "notes": "Lektion 27. Gegenmittel: individuelle Verantwortlichkeit und klare Aufgabenteilung.",
@@ -55,6 +60,7 @@
     },
     {
       "id": "burnout-review",
+      "stable_id": "card-ms942qpa0r6vg",
       "front": "Burnout",
       "back": "Zustand chronischer Erschöpfung, Zynismus und reduzierter Leistungsfähigkeit infolge anhaltender Arbeitsbelastung — zentrales Thema der Arbeits- und Gesundheitspsychologie.",
       "notes": "Lektion 27. Maslach identifizierte drei Dimensionen: emotionale Erschöpfung, Depersonalisation, reduzierte Leistung.",
@@ -64,6 +70,7 @@
     },
     {
       "id": "biopsychosoziales-modell-review",
+      "stable_id": "card-ms942qpa0r778",
       "front": "Biopsychosoziales Modell (Engel)",
       "back": "Gesundheit und Krankheit entstehen durch das Zusammenwirken biologischer (Genetik, Organe), psychologischer (Gedanken, Emotionen) und sozialer Faktoren (Umfeld, Beziehungen).",
       "notes": "Lektion 28 (Gesundheitspsychologie). Ersetzt das rein biomedizinische Krankheitsmodell.",
@@ -73,6 +80,7 @@
     },
     {
       "id": "salutogenese-review",
+      "stable_id": "card-ms942qpa0r888",
       "front": "Salutogenese (Antonovsky)",
       "back": "Fragt nicht 'Warum werden Menschen krank?', sondern 'Was hält Menschen gesund?' — Kohärenzgefühl (Verstehbarkeit, Handhabbarkeit, Bedeutsamkeit) als zentraler Schutzfaktor.",
       "notes": "Lektion 28. Gegenbegriff: Pathogenese.",
@@ -82,6 +90,7 @@
     },
     {
       "id": "praevention-review",
+      "stable_id": "card-ms942qpa0r9ln",
       "front": "Prävention: primär / sekundär / tertiär",
       "back": "Primär = vor der Erkrankung (Risiken reduzieren); sekundär = Früherkennung; tertiär = Rückfall und Folgeschäden verhindern.",
       "notes": "Lektion 28. Beispiel primär: Impfung; sekundär: Krebs-Screening; tertiär: Reha nach Herzinfarkt.",
@@ -91,6 +100,7 @@
     },
     {
       "id": "guetekriterien-review",
+      "stable_id": "card-ms942qpa0ra63",
       "front": "Gütekriterien psychologischer Tests",
       "back": "Hauptgütekriterien: Objektivität (unabhängig vom Testleiter), Reliabilität (zuverlässig, konsistent), Validität (misst, was es soll). Validität gilt als wichtigstes Kriterium.",
       "notes": "Lektion 29 (Psychologische Diagnostik). Objektivität ist Voraussetzung für Reliabilität; Reliabilität ist Voraussetzung für Validität.",
@@ -100,6 +110,7 @@
     },
     {
       "id": "validitaet-arten-review",
+      "stable_id": "card-ms942qpa0rb60",
       "front": "Validitätsarten (Inhalts- / Kriteriums- / Konstruktvalidität)",
       "back": "Inhaltsvalidität = deckt alle relevanten Inhaltsbereiche ab; Kriteriumsvalidität = sagt ein Außenkriterium voraus; Konstruktvalidität = misst das theoretische Konstrukt korrekt.",
       "notes": "Lektion 29. Konstruktvalidität gilt als umfassendstes Kriterium.",
@@ -109,6 +120,7 @@
     },
     {
       "id": "bezugsnorm-review",
+      "stable_id": "card-ms942qpa0rcfk",
       "front": "Bezugsnormen (sozial / sachlich / individuell)",
       "back": "Soziale Norm = Vergleich mit einer Normgruppe (z. B. Prozentrang); sachliche Norm = Vergleich mit einem definierten Kriterium; individuelle Norm = Vergleich mit der eigenen Vorleistung.",
       "notes": "Lektion 29. Im Schulkontext ist die soziale Bezugsnorm verbreitet, die individuelle Norm gilt als motivationsförderlicher.",
@@ -118,6 +130,7 @@
     },
     {
       "id": "klassische-testtheorie-review",
+      "stable_id": "card-ms942qpa0rd5u",
       "front": "Klassische Testtheorie (KTT)",
       "back": "Modell, das einen beobachteten Testwert als Summe aus wahrem Wert und Messfehler beschreibt: X = T + E. Reliabilität = Anteil wahrer Varianz an der Gesamtvarianz.",
       "notes": "Lektion 29. Grundannahmen: der Messfehler ist zufällig und unkorreliert mit dem wahren Wert.",
@@ -152,6 +165,7 @@
       "title": "Anwendungsfeld zuordnen",
       "exercise": {
         "id": "ex-match-felder",
+        "stable_id": "ex-ms942qpa0rebd",
         "type": "matching",
         "prompt": "Ordne jeden Schlüsselbegriff dem richtigen Anwendungsfeld zu.",
         "card_ids": ["selbstwirksamkeit-review", "herzberg-zwei-faktoren-review", "salutogenese-review", "guetekriterien-review"],
@@ -171,6 +185,7 @@
       "title": "Formel der klassischen Testtheorie",
       "exercise": {
         "id": "ex-cloze-ktt",
+        "stable_id": "ex-ms942qpa0rfjl",
         "type": "cloze",
         "prompt": "Ergänze die Formel der klassischen Testtheorie.",
         "card_ids": ["klassische-testtheorie-review"],
@@ -189,6 +204,7 @@
       "title": "Antonovskys Frage",
       "exercise": {
         "id": "ex-free-salutogenese",
+        "stable_id": "ex-ms942qpa0rg5h",
         "type": "free_text",
         "prompt": "Wie heißt Antonovskys Ansatz, der fragt 'Was hält Menschen gesund?' statt 'Warum werden sie krank?'",
         "card_ids": ["salutogenese-review"],
@@ -205,6 +221,7 @@
       "title": "Gütekriterien und Bezugsnormen",
       "exercise": {
         "id": "ex-match-guetekriterien",
+        "stable_id": "ex-ms942qpa0rhfk",
         "type": "matching",
         "prompt": "Ordne jedem Begriff seine Bedeutung zu.",
         "card_ids": ["guetekriterien-review", "validitaet-arten-review", "bezugsnorm-review"],
@@ -223,6 +240,7 @@
       "title": "Gruppenphänomen in der A&O-Psychologie",
       "exercise": {
         "id": "ex-free-soziales-faulenzen",
+        "stable_id": "ex-ms942qpa0rieb",
         "type": "free_text",
         "prompt": "Wie heißt das Phänomen, bei dem Einzelpersonen in Gruppen weniger Leistung erbringen, weil ihr individueller Beitrag weniger sichtbar ist?",
         "card_ids": ["soziales-faulenzen-review"],
@@ -239,6 +257,7 @@
       "title": "Präventionsstufen in der richtigen Reihenfolge",
       "exercise": {
         "id": "ex-tiles-praevention",
+        "stable_id": "ex-ms942qpa0rj48",
         "type": "word_tiles",
         "prompt": "Setze die drei Stufen der Prävention in der richtigen zeitlichen Reihenfolge zusammen.",
         "card_ids": ["praevention-review"],
@@ -254,6 +273,7 @@
       "title": "Zone der nächsten Entwicklung",
       "exercise": {
         "id": "ex-cloze-zpd",
+        "stable_id": "ex-ms942qpa0rkfd",
         "type": "cloze",
         "prompt": "Ergänze den Namen des Konzepts, das beschreibt, wo Scaffolding am wirksamsten ist.",
         "card_ids": ["scaffolding-zpd-review"],

@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "erwartungsnutzen",
+      "stable_id": "card-ms942qpn13d3t",
       "front": "Erwartungsnutzen-Theorie (Expected Utility Theory)",
       "back": "Das klassische rationale Modell der Entscheidung unter Risiko: Man bewertet jede Option nach dem gewichteten Durchschnitt ihrer möglichen Ergebnisse und wählt die Option mit dem höchsten Erwartungsnutzen.",
       "notes": "Gilt als normativer Maßstab — wie Menschen entscheiden sollten, nicht unbedingt wie sie es tun.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "prospect-theory",
+      "stable_id": "card-ms942qpn13eye",
       "front": "Prospect Theory (Neue Erwartungstheorie)",
       "back": "Eine deskriptive Entscheidungstheorie von Kahneman und Tversky (1979), die beschreibt, wie Menschen tatsächlich unter Risiko entscheiden — abweichend vom Erwartungsnutzen-Modell.",
       "notes": "Baut auf Lektionen 51 (Heuristiken/Kahneman & Tversky) und 52 (System 1 und 2) auf.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "referenzpunkt",
+      "stable_id": "card-ms942qpn13fkp",
       "front": "Referenzpunkt (Reference Point)",
       "back": "Der gedankliche Ausgangspunkt, von dem aus Ergebnisse als Gewinne oder Verluste bewertet werden. Entscheidend ist nicht der absolute Wert, sondern die Abweichung vom Referenzpunkt.",
       "notes": "Typischer Referenzpunkt: der aktuelle Besitzstand oder eine Erwartung.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "verlustaversion",
+      "stable_id": "card-ms942qpn13g2b",
       "front": "Verlustaversion (Loss Aversion)",
       "back": "Verluste wiegen psychologisch etwa doppelt so schwer wie gleich große Gewinne. Ein Verlust von 100 € schmerzt mehr, als ein Gewinn von 100 € erfreut.",
       "notes": "Kernbefund der Prospect Theory; treibt viele irrationale Entscheidungen an.",
@@ -46,6 +50,7 @@
     },
     {
       "id": "abnehmende-sensitivitaet",
+      "stable_id": "card-ms942qpn13hqw",
       "front": "Abnehmende Sensitivität (Diminishing Sensitivity)",
       "back": "Der Unterschied zwischen 10 € und 20 € fühlt sich größer an als der zwischen 110 € und 120 €. Je weiter man sich vom Referenzpunkt entfernt, desto geringer ist die emotionale Reaktion auf weitere Veränderungen.",
       "media_type": "text",
@@ -54,6 +59,7 @@
     },
     {
       "id": "wertfunktion",
+      "stable_id": "card-ms942qpn13ioy",
       "front": "Wertfunktion (Value Function)",
       "back": "Die S-förmige Kurve der Prospect Theory: im Gewinnbereich konkav (risikoscheu), im Verlustbereich konvex (risikofreudig), mit einem steileren Abfall auf der Verlustseite wegen der Verlustaversion.",
       "media_type": "text",
@@ -62,6 +68,7 @@
     },
     {
       "id": "framing-effekt",
+      "stable_id": "card-ms942qpn13jq8",
       "front": "Framing-Effekt (Framing Effect)",
       "back": "Dieselbe Information führt zu unterschiedlichen Entscheidungen, je nachdem, ob sie als Gewinn oder als Verlust formuliert wird — z. B. '90 % Überlebenschance' vs. '10 % Sterberisiko'.",
       "notes": "Berühmtes Beispiel: das Asien-Krankheits-Problem von Tversky und Kahneman (1981).",
@@ -72,6 +79,7 @@
     },
     {
       "id": "besitztumseffekt",
+      "stable_id": "card-ms942qpn13k6r",
       "front": "Besitztumseffekt (Endowment Effect)",
       "back": "Dinge, die wir bereits besitzen, bewerten wir höher als gleiche Dinge, die wir noch nicht besitzen. Der Besitz erhöht den subjektiven Wert.",
       "notes": "Erklärt durch Verlustaversion: Abgeben fühlt sich wie ein Verlust an.",
@@ -81,6 +89,7 @@
     },
     {
       "id": "status-quo-verzerrung",
+      "stable_id": "card-ms942qpn13l1u",
       "front": "Status-quo-Verzerrung (Status Quo Bias)",
       "back": "Die Tendenz, den aktuellen Zustand beizubehalten und Veränderungen zu vermeiden, auch wenn eine Änderung objektiv vorteilhafter wäre.",
       "notes": "Eng verwandt mit Verlustaversion und Besitztumseffekt.",
@@ -90,6 +99,7 @@
     },
     {
       "id": "risikoscheu-gewinnbereich",
+      "stable_id": "card-ms942qpn13mg0",
       "front": "Risikoscheu im Gewinnbereich (Risk Aversion in Gains)",
       "back": "Bei Gewinnen ziehen Menschen eine sichere Option einer riskanten vor, selbst wenn der Erwartungswert der riskanten Option höher wäre — z. B. sicherer Gewinn von 50 € statt 50 % Chance auf 100 €.",
       "media_type": "text",
@@ -98,6 +108,7 @@
     },
     {
       "id": "risikofreude-verlustbereich",
+      "stable_id": "card-ms942qpn13n7q",
       "front": "Risikofreude im Verlustbereich (Risk Seeking in Losses)",
       "back": "Bei Verlusten bevorzugen Menschen die riskante Option, um einen sicheren Verlust zu vermeiden — z. B. 50 % Chance auf Verlust von 100 € statt sicheren Verlust von 50 €.",
       "media_type": "text",
@@ -106,6 +117,7 @@
     },
     {
       "id": "asien-krankheits-problem",
+      "stable_id": "card-ms942qpn13o7l",
       "front": "Asien-Krankheits-Problem (Asian Disease Problem)",
       "back": "Klassisches Experiment von Tversky und Kahneman: Identische Optionen führen zu entgegengesetzten Wählpräferenzen, je nachdem ob sie als 'Leben gerettet' (Gewinn-Framing) oder 'Todesfälle' (Verlust-Framing) dargestellt werden.",
       "media_type": "text",
@@ -114,6 +126,7 @@
     },
     {
       "id": "deskriptiv-vs-normativ",
+      "stable_id": "card-ms942qpn13p4y",
       "front": "Deskriptive vs. normative Theorie",
       "back": "Normative Theorien (z. B. Erwartungsnutzen) beschreiben, wie man rational entscheiden sollte. Deskriptive Theorien (z. B. Prospect Theory) beschreiben, wie Menschen tatsächlich entscheiden.",
       "media_type": "text",
@@ -147,6 +160,7 @@
       "title": "Erwartungsnutzen vs. Prospect Theory",
       "exercise": {
         "id": "ex-match-vergleich",
+        "stable_id": "ex-ms942qpn13q3j",
         "type": "matching",
         "prompt": "Ordne jedes Merkmal der richtigen Theorie zu.",
         "card_ids": ["erwartungsnutzen", "prospect-theory", "referenzpunkt", "verlustaversion"],
@@ -166,6 +180,7 @@
       "title": "Verluste und Gewinne",
       "exercise": {
         "id": "ex-cloze-verlustaversion",
+        "stable_id": "ex-ms942qpn13r2s",
         "type": "cloze",
         "prompt": "Ergänze die fehlende Angabe über die Verlustaversion.",
         "card_ids": ["verlustaversion"],
@@ -184,6 +199,7 @@
       "title": "Wenn der Rahmen entscheidet",
       "exercise": {
         "id": "ex-free-framing",
+        "stable_id": "ex-ms942qpn13sca",
         "type": "free_text",
         "prompt": "Wie heißt der Effekt, bei dem dieselbe Option als Gewinn oder Verlust formuliert zu unterschiedlichen Entscheidungen führt?",
         "card_ids": ["framing-effekt"],
@@ -200,6 +216,7 @@
       "title": "Was ist ein Referenzpunkt?",
       "exercise": {
         "id": "ex-tiles-referenzpunkt",
+        "stable_id": "ex-ms942qpn13ty6",
         "type": "word_tiles",
         "prompt": "Setze die Definition des Referenzpunkts zusammen.",
         "card_ids": ["referenzpunkt"],
@@ -215,6 +232,7 @@
       "title": "Verzerrungen der Prospect Theory zuordnen",
       "exercise": {
         "id": "ex-match-verzerrungen",
+        "stable_id": "ex-ms942qpn13unu",
         "type": "matching",
         "prompt": "Ordne jeder Verzerrung ihre Beschreibung zu.",
         "card_ids": ["framing-effekt", "besitztumseffekt", "status-quo-verzerrung", "verlustaversion"],
@@ -234,6 +252,7 @@
       "title": "Der Besitz macht's teurer",
       "exercise": {
         "id": "ex-free-endowment",
+        "stable_id": "ex-ms942qpn13vde",
         "type": "free_text",
         "prompt": "Wie nennt man den Effekt, dass wir Dinge, die wir besitzen, höher bewerten als gleiche Dinge, die wir nicht besitzen?",
         "card_ids": ["besitztumseffekt"],
@@ -250,6 +269,7 @@
       "title": "Die Form der Wertfunktion",
       "exercise": {
         "id": "ex-cloze-wertfunktion",
+        "stable_id": "ex-ms942qpn13wmc",
         "type": "cloze",
         "prompt": "Ergänze die Beschreibung der Wertfunktion der Prospect Theory.",
         "card_ids": ["wertfunktion"],

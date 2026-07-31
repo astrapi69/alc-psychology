@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "stressor",
+      "stable_id": "card-ms942qp00hiak",
       "front": "Stressor",
       "back": "Ein Reiz oder eine Situation, die eine Stressreaktion auslöst — z. B. Zeitdruck, Lärm, Konflikte oder Verluste.",
       "notes": "Stressoren können physischer, sozialer oder psychologischer Natur sein.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "eustress-distress",
+      "stable_id": "card-ms942qp00hj6t",
       "front": "Eustress vs. Distress",
       "back": "Eustress ist positiver, motivierender Stress (z. B. vor einer Prüfung). Distress ist negativer, belastender Stress, der die Gesundheit schädigen kann.",
       "notes": "Der Begriff geht auf den Stressforscher Hans Selye zurück.",
@@ -28,6 +30,7 @@
     },
     {
       "id": "kampf-oder-flucht",
+      "stable_id": "card-ms942qp00hkrf",
       "front": "Kampf-oder-Flucht-Reaktion (Fight-or-Flight Response)",
       "back": "Die angeborene körperliche Stressreaktion: Herzschlag und Atemfrequenz steigen, Adrenalin wird ausgeschüttet — der Körper bereitet sich auf Kämpfen oder Fliehen vor.",
       "notes": "Beschrieben von Walter Cannon. Bei modernen Alltagsstressoren oft nicht mehr hilfreich.",
@@ -37,6 +40,7 @@
     },
     {
       "id": "cortisol",
+      "stable_id": "card-ms942qp00hl5m",
       "front": "Cortisol",
       "back": "Das wichtigste Stresshormon: wird bei Stress in der Nebennierenrinde ausgeschüttet, mobilisiert Energiereserven und dämpft das Immunsystem bei Dauerbelastung.",
       "notes": "Kurzfristig nützlich; chronisch erhöhter Cortisolspiegel schadet der Gesundheit.",
@@ -46,6 +50,7 @@
     },
     {
       "id": "allgemeines-anpassungssyndrom",
+      "stable_id": "card-ms942qp00hmzb",
       "front": "Allgemeines Anpassungssyndrom (General Adaptation Syndrome, GAS)",
       "back": "Hans Selyes Modell der körperlichen Stressreaktion in drei Phasen: 1. Alarmreaktion, 2. Widerstandsphase, 3. Erschöpfungsphase.",
       "notes": "Selye beschrieb dieses Muster 1936 auf der Grundlage von Tierversuchen.",
@@ -56,6 +61,7 @@
     },
     {
       "id": "gas-phasen",
+      "stable_id": "card-ms942qp00hndd",
       "front": "Die drei Phasen des Allgemeinen Anpassungssyndroms",
       "back": "1. Alarmreaktion: sofortige Mobilisierung (Adrenalinausstoß). 2. Widerstandsphase: Körper passt sich an und hält Stress stand. 3. Erschöpfungsphase: Ressourcen sind erschöpft, Erkrankungsrisiko steigt.",
       "media_type": "text",
@@ -64,6 +70,7 @@
     },
     {
       "id": "coping",
+      "stable_id": "card-ms942qp00ho5h",
       "front": "Coping (Stressbewältigung)",
       "back": "Alle kognitiven und verhaltensbezogenen Bemühungen, mit Stressoren umzugehen. Zwei Hauptformen: problemorientiertes und emotionsorientiertes Coping.",
       "notes": "Nach Lazarus und Folkman (1984).",
@@ -73,6 +80,7 @@
     },
     {
       "id": "problemorientiertes-coping",
+      "stable_id": "card-ms942qp00hp7y",
       "front": "Problemorientiertes Coping",
       "back": "Der Stressor selbst wird direkt angegangen: z. B. Zeitplan erstellen, Hilfe suchen, die Situation verändern.",
       "notes": "Besonders hilfreich, wenn die Situation kontrollierbar ist.",
@@ -82,6 +90,7 @@
     },
     {
       "id": "emotionsorientiertes-coping",
+      "stable_id": "card-ms942qp00hqg6",
       "front": "Emotionsorientiertes Coping",
       "back": "Die emotionale Reaktion auf den Stressor wird reguliert: z. B. Neubewertung, Ablenkung, soziale Unterstützung suchen.",
       "notes": "Hilfreich, wenn die Situation nicht veränderbar ist.",
@@ -91,6 +100,7 @@
     },
     {
       "id": "soziale-unterstuetzung",
+      "stable_id": "card-ms942qp00hrds",
       "front": "Soziale Unterstützung als Schutzfaktor",
       "back": "Ein starkes soziales Netzwerk (Familie, Freunde, Gemeinschaft) puffert Stressreaktionen ab und schützt die körperliche und psychische Gesundheit.",
       "notes": "Gilt als einer der stärksten Schutzfaktoren gegen stressbedingte Erkrankungen.",
@@ -100,6 +110,7 @@
     },
     {
       "id": "burnout",
+      "stable_id": "card-ms942qp00hshx",
       "front": "Burnout",
       "back": "Ein Zustand tiefer emotionaler, mentaler und körperlicher Erschöpfung infolge anhaltenden Stresses — oft durch berufliche Überlastung. Merkmale: Erschöpfung, Zynismus, verringerte Leistungsfähigkeit.",
       "notes": "Beschrieben von Herbert Freudenberger (1974). Kein offizieller ICD-Diagnosecode, aber klinisch anerkannt.",
@@ -109,6 +120,7 @@
     },
     {
       "id": "gesundheitspsychologie",
+      "stable_id": "card-ms942qp00htjk",
       "front": "Gesundheitspsychologie (Health Psychology)",
       "back": "Teilgebiet der Psychologie, das untersucht, wie psychologische, soziale und biologische Faktoren die Gesundheit und Krankheit beeinflussen. Zielt auf Prävention und Förderung von Gesundheitsverhalten.",
       "media_type": "text",
@@ -142,6 +154,7 @@
       "title": "Das Stresshormon benennen",
       "exercise": {
         "id": "ex-cloze-cortisol",
+        "stable_id": "ex-ms942qp00hukk",
         "type": "cloze",
         "prompt": "Ergänze das wichtigste Stresshormon.",
         "card_ids": ["cortisol"],
@@ -160,6 +173,7 @@
       "title": "Phasen des Anpassungssyndroms",
       "exercise": {
         "id": "ex-cloze-gas-phasen",
+        "stable_id": "ex-ms942qp00hv60",
         "type": "cloze",
         "prompt": "Ergänze die dritte Phase des Allgemeinen Anpassungssyndroms.",
         "card_ids": ["allgemeines-anpassungssyndrom", "gas-phasen"],
@@ -178,6 +192,7 @@
       "title": "Stressor definieren",
       "exercise": {
         "id": "ex-free-stressor",
+        "stable_id": "ex-ms942qp00hw4d",
         "type": "free_text",
         "prompt": "Wie nennt man einen Reiz oder eine Situation, die eine Stressreaktion auslöst?",
         "card_ids": ["stressor"],
@@ -194,6 +209,7 @@
       "title": "Positiver Stress",
       "exercise": {
         "id": "ex-free-eustress",
+        "stable_id": "ex-ms942qp00hxdo",
         "type": "free_text",
         "prompt": "Wie bezeichnet man positiven, motivierenden Stress, der die Leistung steigert?",
         "card_ids": ["eustress-distress"],
@@ -210,6 +226,7 @@
       "title": "Coping-Strategien zuordnen",
       "exercise": {
         "id": "ex-match-coping",
+        "stable_id": "ex-ms942qp00hyl2",
         "type": "matching",
         "prompt": "Ordne jede Coping-Strategie der richtigen Form zu.",
         "card_ids": ["problemorientiertes-coping", "emotionsorientiertes-coping", "coping"],
@@ -229,6 +246,7 @@
       "title": "Phasen des GAS zuordnen",
       "exercise": {
         "id": "ex-match-gas",
+        "stable_id": "ex-ms942qp00hzud",
         "type": "matching",
         "prompt": "Ordne jede Phase des Allgemeinen Anpassungssyndroms ihrer Beschreibung zu.",
         "card_ids": ["allgemeines-anpassungssyndrom", "gas-phasen"],
@@ -247,6 +265,7 @@
       "title": "Kampf-oder-Flucht beschreiben",
       "exercise": {
         "id": "ex-tiles-kampf-flucht",
+        "stable_id": "ex-ms942qp00i0s2",
         "type": "word_tiles",
         "prompt": "Setze die Beschreibung der Kampf-oder-Flucht-Reaktion zusammen.",
         "card_ids": ["kampf-oder-flucht"],

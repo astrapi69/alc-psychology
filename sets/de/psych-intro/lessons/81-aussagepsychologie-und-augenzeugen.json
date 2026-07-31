@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "rechtspsychologie",
+      "stable_id": "card-ms942qq51i8co",
       "front": "Rechtspsychologie",
       "back": "Das Anwendungsfach, das psychologisches Wissen auf Fragen von Recht und Justiz anwendet — z. B. Aussagen, Begutachtung und Kriminalität.",
       "notes": "Die forensische Psychologie ist ihr Teilbereich rund um Gericht und Strafrecht.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "aussagepsychologie",
+      "stable_id": "card-ms942qq51i9l4",
       "front": "Aussagepsychologie",
       "back": "Der Bereich, der die Zuverlässigkeit und Entstehung von Zeugenaussagen wissenschaftlich untersucht.",
       "media_type": "text",
@@ -26,6 +28,7 @@
     },
     {
       "id": "rekonstruktives-gedaechtnis",
+      "stable_id": "card-ms942qq51iacp",
       "front": "Rekonstruktives Gedächtnis",
       "back": "Erinnern ist kein Abspielen einer Aufnahme, sondern ein aktives Zusammensetzen — dabei können Lücken unbemerkt mit Plausiblem gefüllt werden.",
       "notes": "Vertieft aus Lektion 46. Genau das macht Augenzeugen fehleranfällig.",
@@ -35,6 +38,7 @@
     },
     {
       "id": "augenzeugen-unzuverlaessig",
+      "stable_id": "card-ms942qq51ibcc",
       "front": "Unzuverlässigkeit von Augenzeugen",
       "back": "Augenzeugenaussagen wirken überzeugend, sind aber häufig fehlerhaft. Fehlidentifikationen zählen zu den Hauptursachen von Fehlurteilen.",
       "notes": "Forschung u. a. von Elizabeth Loftus und durch Wiederaufnahmeverfahren (z. B. Innocence Project) belegt.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "misinformationseffekt-recap",
+      "stable_id": "card-ms942qq51icyc",
       "front": "Misinformationseffekt",
       "back": "Nachträgliche, irreführende Informationen (z. B. durch die Fragestellung) verändern die Erinnerung an ein Ereignis.",
       "notes": "Loftus' Klassiker: Schon die Wortwahl einer Frage kann Schätzungen und Erinnerungen verschieben (vgl. Lektion 46).",
@@ -54,6 +59,7 @@
     },
     {
       "id": "suggestivfrage",
+      "stable_id": "card-ms942qq51idks",
       "front": "Suggestivfrage",
       "back": "Eine Frage, die eine bestimmte Antwort nahelegt und so die Erinnerung des Zeugen beeinflussen kann.",
       "notes": "Beispiel: 'Wie schnell raste das Auto?' legt hohes Tempo nahe.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "waffenfokus",
+      "stable_id": "card-ms942qq51ie3g",
       "front": "Waffenfokus-Effekt (Weapon Focus)",
       "back": "Ist eine Waffe im Spiel, richtet sich die Aufmerksamkeit stark auf sie — das Gesicht des Täters wird dann schlechter erinnert.",
       "media_type": "text",
@@ -71,6 +78,7 @@
     },
     {
       "id": "confidence-accuracy",
+      "stable_id": "card-ms942qq51if62",
       "front": "Aussagesicherheit ≠ Genauigkeit",
       "back": "Wie sicher sich ein Zeuge fühlt, sagt nur schwach voraus, wie korrekt die Aussage ist — selbstsichere Zeugen können sich irren.",
       "notes": "Ein wichtiger, oft unterschätzter Befund (Confidence-Accuracy-Problem).",
@@ -80,6 +88,7 @@
     },
     {
       "id": "cross-race-effekt",
+      "stable_id": "card-ms942qq51iglr",
       "front": "Cross-Race-Effekt",
       "back": "Gesichter der eigenen Gruppe werden meist besser wiedererkannt als Gesichter fremder Gruppen — eine weitere Fehlerquelle bei Identifikationen.",
       "media_type": "text",
@@ -88,6 +97,7 @@
     },
     {
       "id": "gegenueberstellung",
+      "stable_id": "card-ms942qq51ih7l",
       "front": "Gegenüberstellung (Lineup)",
       "back": "Die Identifikation einer verdächtigen Person aus mehreren Personen. Faire Verfahren mindern Fehler (z. B. sequenziell, neutral instruiert, Versuchsleiter ahnungslos).",
       "media_type": "text",
@@ -96,6 +106,7 @@
     },
     {
       "id": "kognitives-interview",
+      "stable_id": "card-ms942qq51ii17",
       "front": "Kognitives Interview",
       "back": "Eine wissenschaftlich fundierte Befragungstechnik, die ohne Suggestion mehr korrekte Details hervorbringt (z. B. Kontext gedanklich wiederherstellen, frei erzählen lassen).",
       "media_type": "text",
@@ -104,6 +115,7 @@
     },
     {
       "id": "loftus",
+      "stable_id": "card-ms942qq51ijs5",
       "front": "Elizabeth Loftus",
       "back": "Gedächtnisforscherin, die zentrale Studien zum Misinformationseffekt und zu falschen Erinnerungen durchführte.",
       "notes": "Ihre Arbeiten prägen die heutige Aussagepsychologie.",
@@ -138,6 +150,7 @@
       "title": "Wie Erinnerung funktioniert",
       "exercise": {
         "id": "ex-cloze-rekonstruktion",
+        "stable_id": "ex-ms942qq51ikjn",
         "type": "cloze",
         "prompt": "Ergänze, wie das Gedächtnis arbeitet — nicht wie eine Aufnahme, sondern …",
         "card_ids": ["rekonstruktives-gedaechtnis"],
@@ -156,6 +169,7 @@
       "title": "Fehlerquellen zuordnen",
       "exercise": {
         "id": "ex-match-fehlerquellen",
+        "stable_id": "ex-ms942qq51iljz",
         "type": "matching",
         "prompt": "Ordne jeder Fehlerquelle ihre Wirkung zu.",
         "card_ids": ["misinformationseffekt-recap", "suggestivfrage", "waffenfokus", "cross-race-effekt"],
@@ -175,6 +189,7 @@
       "title": "Der gefährliche Trugschluss",
       "exercise": {
         "id": "ex-free-confidence",
+        "stable_id": "ex-ms942qq51imc2",
         "type": "free_text",
         "prompt": "Ergänze: Wie sicher sich ein Zeuge fühlt, sagt nur schwach voraus, wie ___ die Aussage ist.",
         "card_ids": ["confidence-accuracy"],
@@ -191,6 +206,7 @@
       "title": "Der Blick auf die Waffe",
       "exercise": {
         "id": "ex-cloze-waffenfokus",
+        "stable_id": "ex-ms942qq51insa",
         "type": "cloze",
         "prompt": "Ergänze den Namen des Effekts, bei dem eine Waffe die Aufmerksamkeit bindet.",
         "card_ids": ["waffenfokus"],
@@ -209,6 +225,7 @@
       "title": "Die bessere Befragung",
       "exercise": {
         "id": "ex-free-kognitives-interview",
+        "stable_id": "ex-ms942qq51ios5",
         "type": "free_text",
         "prompt": "Wie heißt die wissenschaftlich fundierte Befragungstechnik, die ohne Suggestion mehr korrekte Details gewinnt?",
         "card_ids": ["kognitives-interview"],
@@ -225,6 +242,7 @@
       "title": "Begriffe der Aussagepsychologie",
       "exercise": {
         "id": "ex-match-verfahren",
+        "stable_id": "ex-ms942qq51ipbc",
         "type": "matching",
         "prompt": "Ordne jedem Begriff seine Bedeutung zu.",
         "card_ids": ["aussagepsychologie", "gegenueberstellung", "loftus"],
@@ -243,6 +261,7 @@
       "title": "Die Kernbotschaft",
       "exercise": {
         "id": "ex-tiles-kernbotschaft",
+        "stable_id": "ex-ms942qq51iqwt",
         "type": "word_tiles",
         "prompt": "Setze die Kernbotschaft der Aussagepsychologie zusammen.",
         "card_ids": ["augenzeugen-unzuverlaessig"],

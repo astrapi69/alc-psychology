@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "klinische-psychologie",
+      "stable_id": "card-ms942qon08ffc",
       "front": "Klinische Psychologie (Clinical Psychology)",
       "back": "Teilgebiet der Psychologie, das sich mit der Beschreibung, Erklärung, Diagnostik und Behandlung psychischer Störungen befasst.",
       "notes": "Größtes Anwendungsgebiet der Psychologie; eng verwandt mit, aber verschieden von der Psychiatrie (einem medizinischen Fachgebiet).",
@@ -16,6 +17,7 @@
     },
     {
       "id": "angststoerung",
+      "stable_id": "card-ms942qon08gn2",
       "front": "Angststörung (Anxiety Disorder)",
       "back": "Oberbegriff für psychische Störungen, bei denen anhaltende, übermäßige oder situationsunangemessene Angst im Vordergrund steht.",
       "notes": "Zu den häufigsten psychischen Störungen weltweit. Umfasst u. a. spezifische Phobie, Panikstörung, generalisierte Angststörung und soziale Angststörung.",
@@ -23,6 +25,7 @@
     },
     {
       "id": "spezifische-phobie",
+      "stable_id": "card-ms942qon08h2y",
       "front": "Spezifische Phobie (Specific Phobia)",
       "back": "Ausgeprägte, anhaltende Furcht vor einem bestimmten Objekt oder einer bestimmten Situation (z. B. Spinnen, Höhen, Spritzen).",
       "notes": "Die Furchtreaktion ist auf einen klar abgegrenzten Auslöser beschränkt — im Unterschied zur generalisierten Angststörung.",
@@ -30,6 +33,7 @@
     },
     {
       "id": "panikstörung",
+      "stable_id": "card-ms942qon08i0i",
       "front": "Panikstörung (Panic Disorder)",
       "back": "Wiederholte, unerwartete Panikattacken mit intensiver körperlicher Reaktion, verbunden mit anhaltender Sorge vor weiteren Attacken.",
       "notes": "Panikattacken erreichen ihr Maximum in wenigen Minuten; Betroffene entwickeln häufig Vermeidungsverhalten.",
@@ -37,6 +41,7 @@
     },
     {
       "id": "generalisierte-angststörung",
+      "stable_id": "card-ms942qon08jus",
       "front": "Generalisierte Angststörung (Generalized Anxiety Disorder, GAD)",
       "back": "Anhaltende, unkontrollierbare Sorgen über viele verschiedene Lebensbereiche — nicht auf eine einzelne Situation begrenzt.",
       "notes": "Typisch: chronische Anspannung und Grübeln; Dauer von mindestens sechs Monaten als diagnostisches Merkmal beschrieben.",
@@ -44,6 +49,7 @@
     },
     {
       "id": "soziale-angststörung",
+      "stable_id": "card-ms942qon08kid",
       "front": "Soziale Angststörung (Social Anxiety Disorder)",
       "back": "Ausgeprägte Furcht vor sozialen Situationen, in denen man negativ beurteilt werden könnte — geht oft mit Vermeidungsverhalten einher.",
       "notes": "Früher auch 'soziale Phobie' genannt; nicht gleichzusetzen mit allgemeiner Schüchternheit.",
@@ -51,6 +57,7 @@
     },
     {
       "id": "depression",
+      "stable_id": "card-ms942qon08lmq",
       "front": "Depression (Major Depressive Disorder)",
       "back": "Psychische Störung, die durch anhaltend gedrückte Stimmung, Antriebslosigkeit und Interessenverlust charakterisiert wird.",
       "notes": "Zu unterscheiden von vorübergehend trauriger Stimmung; eine der weltweit häufigsten psychischen Erkrankungen.",
@@ -58,6 +65,7 @@
     },
     {
       "id": "kognitive-triade",
+      "stable_id": "card-ms942qon08ma5",
       "front": "Kognitive Triade (Beck)",
       "back": "Negative Sicht auf sich selbst, die Welt und die Zukunft — ein Kernmuster, das bei Depression beschrieben wird.",
       "notes": "Formuliert von Aaron Beck; zentrales Konzept der kognitiven Verhaltenstherapie. Keine Diagnose, sondern ein beschreibendes Modell.",
@@ -65,6 +73,7 @@
     },
     {
       "id": "verhaltenstherapie",
+      "stable_id": "card-ms942qon08nnn",
       "front": "Verhaltenstherapie (Behavior Therapy)",
       "back": "Therapieform, die auf lerntheoretischen Prinzipien basiert und auf die Veränderung dysfunktionaler Verhaltensweisen abzielt.",
       "notes": "Orientiert sich an Konditionierungsprinzipien; gehört zu den am besten empirisch untersuchten Therapieformen.",
@@ -72,6 +81,7 @@
     },
     {
       "id": "kvt",
+      "stable_id": "card-ms942qon08ota",
       "front": "Kognitive Verhaltenstherapie (KVT / CBT)",
       "back": "Weiterentwicklung der Verhaltenstherapie: bezieht zusätzlich kognitive Muster (Gedanken, Überzeugungen) in die Behandlung ein.",
       "notes": "KVT ist eine der meistuntersuchten Psychotherapieformen; verbindet Verhaltensübungen mit der Arbeit an Denkmustern.",
@@ -79,6 +89,7 @@
     },
     {
       "id": "psychoanalyse",
+      "stable_id": "card-ms942qon08pal",
       "front": "Psychoanalyse (Psychoanalysis)",
       "back": "Therapieform, die von Freud begründet wurde und unbewusste Konflikte sowie frühe Lebenserfahrungen als Ursprung psychischen Leidens betrachtet.",
       "notes": "Nutzt Techniken wie freie Assoziation und Traumdeutung; empirische Evidenz ist verglichen mit KVT geringer.",
@@ -86,6 +97,7 @@
     },
     {
       "id": "systemische-therapie",
+      "stable_id": "card-ms942qon08q5d",
       "front": "Systemische Therapie (Systemic Therapy)",
       "back": "Therapieform, die das soziale System einer Person (Familie, Beziehungen) als zentralen Kontext psychischer Probleme betrachtet.",
       "notes": "Häufig als Familien- oder Paartherapie eingesetzt; fokussiert auf Kommunikations- und Beziehungsmuster.",
@@ -93,6 +105,7 @@
     },
     {
       "id": "antidepressiva",
+      "stable_id": "card-ms942qon08r8q",
       "front": "Antidepressiva (Antidepressants)",
       "back": "Kategorie von Psychopharmaka, die zur Behandlung depressiver Störungen eingesetzt werden; ein bekanntes Beispiel ist die Gruppe der SSRI (Selektive Serotonin-Wiederaufnahmehemmer).",
       "notes": "Rein beschreibende Übersicht — keine Empfehlung oder Dosierungsangabe. Jede medikamentöse Behandlung erfordert ärztliche Begleitung.",
@@ -100,6 +113,7 @@
     },
     {
       "id": "anxiolytika",
+      "stable_id": "card-ms942qon08snb",
       "front": "Anxiolytika (Anxiolytics)",
       "back": "Kategorie von Psychopharmaka, die angstlösend wirken; umfasst u. a. Benzodiazepine.",
       "notes": "Neutral beschreibende Übersicht. Benzodiazepine haben ein bekanntes Abhängigkeitspotenzial — nähere Informationen gehören in ärztliche Hände.",
@@ -107,6 +121,7 @@
     },
     {
       "id": "neuroleptika",
+      "stable_id": "card-ms942qon08tji",
       "front": "Neuroleptika / Antipsychotika (Antipsychotics)",
       "back": "Kategorie von Psychopharmaka, die vor allem bei psychotischen Störungen (z. B. Schizophrenie) beschrieben werden.",
       "notes": "Neutral beschreibende Übersicht. Die Bezeichnung 'Neuroleptika' ist älter; 'Antipsychotika' ist der modernere Begriff.",
@@ -114,6 +129,7 @@
     },
     {
       "id": "psychische-störung",
+      "stable_id": "card-ms942qon08ued",
       "front": "Psychische Störung (Mental Disorder)",
       "back": "Klinisch bedeutsames Muster aus Erleben oder Verhalten, das mit Leidensdruck oder Funktionsbeeinträchtigungen verbunden ist.",
       "notes": "Keine Wertung der Person; beschreibt ein Funktionsmuster. Diagnostische Einordnung obliegt qualifizierten Fachkräften.",
@@ -121,6 +137,7 @@
     },
     {
       "id": "ätiologie",
+      "stable_id": "card-ms942qon08vr9",
       "front": "Ätiologie (Etiology)",
       "back": "Lehre von den Ursachen und Entstehungsbedingungen einer Erkrankung.",
       "notes": "In der klinischen Psychologie werden biologische, psychologische und soziale Faktoren zusammen betrachtet (biopsychosoziales Modell).",
@@ -153,6 +170,7 @@
       "title": "Angststörungen zuordnen",
       "exercise": {
         "id": "ex-match-angststörungen",
+        "stable_id": "ex-ms942qon08w5n",
         "type": "matching",
         "prompt": "Ordne jeder Angststörung ihre treffende Beschreibung zu.",
         "card_ids": ["spezifische-phobie", "panikstörung", "generalisierte-angststörung", "soziale-angststörung"],
@@ -172,6 +190,7 @@
       "title": "Therapieformen zuordnen",
       "exercise": {
         "id": "ex-match-therapieformen",
+        "stable_id": "ex-ms942qon08xq9",
         "type": "matching",
         "prompt": "Ordne jeder Therapieform ihren Schwerpunkt zu.",
         "card_ids": ["verhaltenstherapie", "kvt", "psychoanalyse", "systemische-therapie"],
@@ -191,6 +210,7 @@
       "title": "Pharmakologische Kategorien",
       "exercise": {
         "id": "ex-match-pharma",
+        "stable_id": "ex-ms942qon08yfq",
         "type": "matching",
         "prompt": "Ordne jeder Pharmakakategorie ihre neutrale Beschreibung zu.",
         "card_ids": ["antidepressiva", "anxiolytika", "neuroleptika"],
@@ -209,6 +229,7 @@
       "title": "Konzept benennen",
       "exercise": {
         "id": "ex-free-kognitive-triade",
+        "stable_id": "ex-ms942qon08zgq",
         "type": "free_text",
         "prompt": "Welches Konzept von Aaron Beck beschreibt die negative Sicht auf sich selbst, die Welt und die Zukunft bei Depression?",
         "card_ids": ["kognitive-triade"],
@@ -225,6 +246,7 @@
       "title": "Abkürzung entschlüsseln",
       "exercise": {
         "id": "ex-free-kvt",
+        "stable_id": "ex-ms942qon090x3",
         "type": "free_text",
         "prompt": "Für welche Therapieform steht die Abkürzung KVT?",
         "card_ids": ["kvt"],
@@ -241,6 +263,7 @@
       "title": "Kognitive Triade ergänzen",
       "exercise": {
         "id": "ex-cloze-beck",
+        "stable_id": "ex-ms942qon091ti",
         "type": "cloze",
         "prompt": "Ergänze die fehlenden Elemente der kognitiven Triade nach Beck.",
         "card_ids": ["kognitive-triade"],
@@ -260,6 +283,7 @@
       "title": "Begründer der Psychoanalyse",
       "exercise": {
         "id": "ex-cloze-psychoanalyse",
+        "stable_id": "ex-ms942qon092c4",
         "type": "cloze",
         "prompt": "Ergänze den Namen des Begründers der Psychoanalyse.",
         "card_ids": ["psychoanalyse"],
@@ -278,6 +302,7 @@
       "title": "Welche Angststörung ist das?",
       "exercise": {
         "id": "ex-pick-angststörung",
+        "stable_id": "ex-ms942qon093zd",
         "type": "picture_choice",
         "prompt": "Eine Person grübelt ständig über Gesundheit, Arbeit und Familie — ohne konkreten Auslöser. Welche Kategorie beschreibt dieses Muster?",
         "card_ids": ["generalisierte-angststörung", "spezifische-phobie", "panikstörung", "soziale-angststörung"],
@@ -299,6 +324,7 @@
       "title": "Merkmal der Depression benennen",
       "exercise": {
         "id": "ex-tiles-depression",
+        "stable_id": "ex-ms942qon094mr",
         "type": "word_tiles",
         "prompt": "Setze ein zentrales Merkmal der Depression zusammen.",
         "card_ids": ["depression"],

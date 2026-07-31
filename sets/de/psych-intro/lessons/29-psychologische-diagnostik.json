@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "psychologische-diagnostik",
+      "stable_id": "card-ms942qpa0qi7i",
       "front": "Psychologische Diagnostik (Psychological Assessment)",
       "back": "Das systematische Erfassen und Beschreiben psychischer Merkmale einer Person — mit dem Ziel, fundierte Entscheidungen zu treffen (z. B. Therapieplanung, Eignungsfeststellung).",
       "notes": "In Lektion 23 hast du die Gütekriterien kennengelernt — Diagnostik setzt diese Kriterien ein, um valide Urteile über Personen zu gewinnen.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "psychologischer-test-diagnostik",
+      "stable_id": "card-ms942qpa0qjmi",
       "front": "Psychologischer Test (Psychological Test) — als Messinstrument",
       "back": "Ein standardisiertes Verfahren zur Messung eines oder mehrerer psychischer Merkmale; Standardisierung garantiert, dass alle Personen dieselben Bedingungen haben und Ergebnisse vergleichbar sind.",
       "notes": "Bereits in Lektion 23 eingeführt — hier vertiefen wir, was einen guten Test ausmacht.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "inhaltsvaliditaet",
+      "stable_id": "card-ms942qpa0qkw4",
       "front": "Inhaltsvalidität (Content Validity)",
       "back": "Ein Test ist inhaltsvalide, wenn seine Aufgaben das zu messende Merkmal vollständig und repräsentativ abdecken — z. B. deckt ein Schulleistungstest den gesamten Lehrplan ab.",
       "media_type": "text",
@@ -35,6 +38,7 @@
     },
     {
       "id": "kriteriumsvaliditaet",
+      "stable_id": "card-ms942qpa0qlok",
       "front": "Kriteriumsvalidität (Criterion Validity)",
       "back": "Ein Test ist kriteriumsvalide, wenn seine Ergebnisse mit einem externen Kriterium übereinstimmen — z. B. sagt ein Eignungstest spätere Berufsleistung voraus (prädiktive Validität).",
       "notes": "Unterteilung: gleichzeitige (konkurrente) Validität und vorhersagende (prädiktive) Validität.",
@@ -44,6 +48,7 @@
     },
     {
       "id": "konstruktvaliditaet",
+      "stable_id": "card-ms942qpa0qm0q",
       "front": "Konstruktvalidität (Construct Validity)",
       "back": "Ein Test ist konstruktvalide, wenn er wirklich das theoretische Konstrukt misst, das er zu messen beansprucht — z. B. misst ein Intelligenztest tatsächlich Intelligenz und nicht nur Faktenwissen.",
       "media_type": "text",
@@ -52,6 +57,7 @@
     },
     {
       "id": "soziale-norm",
+      "stable_id": "card-ms942qpa0qn5g",
       "front": "Soziale Norm (Sozialer Vergleich / Norm-referenced Interpretation)",
       "back": "Bezugsnorm, bei der das Ergebnis einer Person mit dem einer Normstichprobe (Vergleichsgruppe) verglichen wird — z. B. Prozentrang oder IQ-Wert.",
       "notes": "Die häufigste Bezugsnorm in standardisierten Tests.",
@@ -61,6 +67,7 @@
     },
     {
       "id": "individuelle-norm",
+      "stable_id": "card-ms942qpa0qoar",
       "front": "Individuelle Norm (Individuelle Bezugsnorm / Intra-individual Reference)",
       "back": "Bezugsnorm, bei der das Ergebnis einer Person mit ihren eigenen früheren Leistungen verglichen wird — z. B. Lernfortschritt von Messzeitpunkt 1 zu Messzeitpunkt 2.",
       "media_type": "text",
@@ -69,6 +76,7 @@
     },
     {
       "id": "kriteriale-norm",
+      "stable_id": "card-ms942qpa0qpk3",
       "front": "Kriteriale Norm (Sachliche Bezugsnorm / Criterion-referenced Interpretation)",
       "back": "Bezugsnorm, bei der das Ergebnis an einem inhaltlichen Kriterium gemessen wird — z. B. 'Hat die Person 80 % der Aufgaben gelöst?' unabhängig von anderen Personen.",
       "media_type": "text",
@@ -77,6 +85,7 @@
     },
     {
       "id": "standardwerte",
+      "stable_id": "card-ms942qpa0qqhy",
       "front": "Standardwerte (Derived Scores) — IQ, T-Wert, Prozentrang",
       "back": "Umgewandelte Testwerte, die den Vergleich mit der Normstichprobe ermöglichen: IQ (Mittelwert 100, SD 15), T-Wert (Mittelwert 50, SD 10), Prozentrang (Anteil der Normstichprobe, den jemand übertrifft).",
       "notes": "In Lektion 24 hast du die Normalverteilung kennengelernt — Standardwerte basieren auf ihr.",
@@ -86,6 +95,7 @@
     },
     {
       "id": "klassische-testtheorie",
+      "stable_id": "card-ms942qpa0qr1u",
       "front": "Klassische Testtheorie (KTT / Classical Test Theory, CTT)",
       "back": "Das mathematische Grundmodell der Testtheorie: Beobachteter Wert (X) = Wahrer Wert (T) + Messfehler (E). Ziel ist es, den Messfehler zu minimieren und so den wahren Wert möglichst genau zu schätzen.",
       "notes": "Das Modell X = T + E ist die Grundformel der KTT.",
@@ -96,6 +106,7 @@
     },
     {
       "id": "itemschwierigkeit",
+      "stable_id": "card-ms942qpa0qsra",
       "front": "Itemschwierigkeit (Item Difficulty / p-Wert)",
       "back": "Der Anteil der Personen, die ein Item (eine Aufgabe) richtig lösen. Ein p-Wert von 0,5 gilt als ideal, weil das Item am stärksten zwischen Personen unterscheidet.",
       "media_type": "text",
@@ -104,6 +115,7 @@
     },
     {
       "id": "trennschaerfe",
+      "stable_id": "card-ms942qpa0qtm8",
       "front": "Trennschärfe (Item Discrimination / Rit)",
       "back": "Die Korrelation eines einzelnen Items mit dem Gesamttestwert. Eine hohe Trennschärfe (> 0,30) zeigt, dass das Item gut zwischen Personen mit hoher und niedriger Merkmalsausprägung unterscheidet.",
       "media_type": "text",
@@ -137,6 +149,7 @@
       "title": "Validitätsarten zuordnen",
       "exercise": {
         "id": "ex-match-validitaet",
+        "stable_id": "ex-ms942qpa0qukd",
         "type": "matching",
         "prompt": "Ordne jede Validitätsart ihrer Kernfrage zu.",
         "card_ids": ["inhaltsvaliditaet", "kriteriumsvaliditaet", "konstruktvaliditaet"],
@@ -155,6 +168,7 @@
       "title": "Bezugsnormen unterscheiden",
       "exercise": {
         "id": "ex-match-bezugsnormen",
+        "stable_id": "ex-ms942qpa0qv1a",
         "type": "matching",
         "prompt": "Ordne jede Bezugsnorm dem passenden Vergleich zu.",
         "card_ids": ["soziale-norm", "individuelle-norm", "kriteriale-norm"],
@@ -173,6 +187,7 @@
       "title": "Die KTT-Grundformel",
       "exercise": {
         "id": "ex-cloze-ktt",
+        "stable_id": "ex-ms942qpa0qwvh",
         "type": "cloze",
         "prompt": "Ergänze die Grundformel der Klassischen Testtheorie.",
         "card_ids": ["klassische-testtheorie"],
@@ -191,6 +206,7 @@
       "title": "Diagnostik definieren",
       "exercise": {
         "id": "ex-free-diagnostik",
+        "stable_id": "ex-ms942qpa0qxzu",
         "type": "free_text",
         "prompt": "Wie heißt das Fachgebiet der Psychologie, das psychische Merkmale systematisch erfasst, um Entscheidungen zu treffen?",
         "card_ids": ["psychologische-diagnostik"],
@@ -207,6 +223,7 @@
       "title": "Ideale Itemschwierigkeit",
       "exercise": {
         "id": "ex-cloze-itemschwierigkeit",
+        "stable_id": "ex-ms942qpa0qyq7",
         "type": "cloze",
         "prompt": "Ergänze den idealen p-Wert einer Aufgabe.",
         "card_ids": ["itemschwierigkeit"],
@@ -225,6 +242,7 @@
       "title": "IQ-Skala als Merksatz",
       "exercise": {
         "id": "ex-tiles-standardwerte",
+        "stable_id": "ex-ms942qpa0qznl",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zu den IQ-Standardwerten zusammen.",
         "card_ids": ["standardwerte"],
@@ -240,6 +258,7 @@
       "title": "Die wichtigste Validitätsart",
       "exercise": {
         "id": "ex-free-konstruktvaliditaet",
+        "stable_id": "ex-ms942qpa0r00i",
         "type": "free_text",
         "prompt": "Welche Validitätsart prüft, ob ein Test wirklich das theoretische Konstrukt misst, das er zu messen beansprucht?",
         "card_ids": ["konstruktvaliditaet"],

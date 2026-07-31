@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "leistungsbeurteilung-def",
+      "stable_id": "card-ms942qos0c56y",
       "front": "Leistungsbeurteilung",
       "back": "Systematische Erfassung und Bewertung von Lern- und Leistungsergebnissen, etwa in Schule oder Hochschule. Sie ist Kern der pädagogischen Diagnostik und mündet meist in Noten oder verbale Rückmeldungen.",
       "notes": "Teil der pädagogischen Diagnostik. Englisch: performance assessment.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "funktionen-beurteilung",
+      "stable_id": "card-ms942qos0c6n5",
       "front": "Funktionen der Leistungsbeurteilung",
       "back": "Beurteilung erfüllt mehrere Aufgaben: Rückmeldung (Feedback an Lernende und Lehrende), Selektion (Auswahl, z. B. für weiterführende Bildungswege), Berechtigung (Zertifizierung, z. B. Abschlüsse) und Anreiz (Motivation zum Lernen).",
       "notes": "Merkhilfe: Rückmeldung, Selektion, Berechtigung, Anreiz. Englisch: functions of assessment.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "bezugsnorm-soziale",
+      "stable_id": "card-ms942qos0c7fv",
       "front": "Soziale Bezugsnorm",
       "back": "Bewertungsmaßstab, bei dem die Leistung einer Person mit der Leistung anderer (etwa der Lerngruppe) verglichen wird. Eine Leistung ist *gut*, wenn sie über dem Durchschnitt der Vergleichsgruppe liegt.",
       "notes": "Vergleich zwischen Personen. Englisch: social reference norm.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "bezugsnorm-individuelle",
+      "stable_id": "card-ms942qos0c87u",
       "front": "Individuelle (intraindividuelle) Bezugsnorm",
       "back": "Bewertungsmaßstab, bei dem die aktuelle Leistung einer Person mit ihren eigenen früheren Leistungen verglichen wird. Im Blick steht der individuelle Lernfortschritt, nicht der Vergleich mit anderen.",
       "notes": "Vergleich der Person mit sich selbst über die Zeit. Englisch: individual/intraindividual reference norm.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "bezugsnorm-kriteriale",
+      "stable_id": "card-ms942qos0c9zw",
       "front": "Kriteriale (sachliche) Bezugsnorm",
       "back": "Bewertungsmaßstab, bei dem die Leistung an einem festgelegten Lernziel oder Kriterium gemessen wird. Maßgeblich ist, ob ein zuvor definierter Standard erreicht wird, unabhängig von anderen Personen oder früheren Leistungen.",
       "notes": "Auch sachliche oder kriteriumsorientierte Bezugsnorm. Englisch: criterion-referenced norm.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "guetekriterien",
+      "stable_id": "card-ms942qos0cage",
       "front": "Gütekriterien der pädagogischen Diagnostik",
       "back": "Maßstäbe für die Qualität einer Beurteilung: Objektivität (Unabhängigkeit vom Beurteilenden), Reliabilität (Zuverlässigkeit/Genauigkeit der Messung) und Validität (Gültigkeit: misst der Test, was er messen soll?).",
       "notes": "Querverweis zu Statistik und Diagnostik. Englisch: objectivity, reliability, validity.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "halo-effekt",
+      "stable_id": "card-ms942qos0cbkf",
       "front": "Halo-Effekt",
       "back": "Beurteilungsfehler, bei dem ein hervorstechendes Merkmal (z. B. allgemeine Sympathie oder ein guter Gesamteindruck) den Eindruck von einzelnen, eigentlich unabhängigen Leistungen überstrahlt und verzerrt.",
       "notes": "Wörtlich *Heiligenschein-Effekt*. Englisch: halo effect.",
@@ -72,6 +79,7 @@
     },
     {
       "id": "milde-strenge-fehler",
+      "stable_id": "card-ms942qos0cck5",
       "front": "Milde- und Strenge-Fehler",
       "back": "Systematische Tendenz, durchgängig zu mild (zu wohlwollend) oder durchgängig zu streng zu bewerten. Die Urteile sind dadurch nach oben oder unten verschoben.",
       "notes": "Auch Milde- bzw. Strengeeffekt. Englisch: leniency / severity error.",
@@ -81,6 +89,7 @@
     },
     {
       "id": "tendenz-zur-mitte",
+      "stable_id": "card-ms942qos0cdaq",
       "front": "Tendenz zur Mitte",
       "back": "Beurteilungsfehler, bei dem extreme Urteile vermieden werden und die Bewertungen sich um den mittleren Bereich der Skala häufen. Unterschiede zwischen Personen werden dadurch eingeebnet.",
       "notes": "Auch zentrale Tendenz. Englisch: central tendency error.",
@@ -90,6 +99,7 @@
     },
     {
       "id": "reihungseffekte",
+      "stable_id": "card-ms942qos0cee7",
       "front": "Reihungseffekte",
       "back": "Verzerrungen, die aus der Reihenfolge der Beurteilung entstehen: Eine Arbeit wird je nach ihrer Position und im Vergleich zur direkt davor bewerteten Arbeit unterschiedlich eingeschätzt (Kontrast- bzw. Sequenzeffekte).",
       "notes": "Auch Sequenz- oder Kontexteffekte. Englisch: order / sequence effects.",
@@ -99,6 +109,7 @@
     },
     {
       "id": "pygmalion-effekt",
+      "stable_id": "card-ms942qos0cfpt",
       "front": "Pygmalion-/Rosenthal-Effekt (Erwartungseffekt)",
       "back": "Die Erwartung des Beurteilenden beeinflusst das tatsächliche Verhalten und die Leistung der beurteilten Person: Positive Erwartungen können Leistungen fördern. Eine sich selbst erfüllende Prophezeiung in der Beurteilungssituation.",
       "notes": "Auch Erwartungseffekt oder sich selbst erfüllende Prophezeiung. Englisch: Pygmalion / Rosenthal effect.",
@@ -108,6 +119,7 @@
     },
     {
       "id": "pruefungsangst",
+      "stable_id": "card-ms942qos0cg20",
       "front": "Prüfungsangst",
       "back": "Eine Form der Leistungsangst, die in Bewertungssituationen auftritt. Sie hat zwei Komponenten: eine Besorgniskomponente (gedankliche Sorgen über mögliches Versagen) und eine Aufgeregtheits- bzw. Emotionalitätskomponente (körperliche Erregung wie Herzklopfen). Mit dem Aktivierungsniveau hängt die Leistung zusammen: Eine mittlere Aktivierung ist oft am günstigsten (Yerkes-Dodson-Gesetz).",
       "notes": "Besorgnis (worry) und Aufgeregtheit/Emotionalität (emotionality). Bei starker, anhaltender Prüfungsangst können Beratungsstellen wie die Studierenden- oder Schulberatung sachlich unterstützen. Englisch: test anxiety.",
@@ -142,6 +154,7 @@
       "title": "Bezugsnormen zuordnen",
       "exercise": {
         "id": "ex-match-bezugsnormen",
+        "stable_id": "ex-ms942qos0chui",
         "type": "matching",
         "prompt": "Ordne jeder Bezugsnorm den passenden Vergleichsmaßstab zu.",
         "card_ids": ["bezugsnorm-soziale", "bezugsnorm-individuelle", "bezugsnorm-kriteriale"],
@@ -160,6 +173,7 @@
       "title": "Beurteilungsfehler erkennen",
       "exercise": {
         "id": "ex-match-fehler",
+        "stable_id": "ex-ms942qos0ciii",
         "type": "matching",
         "prompt": "Ordne jedem Beurteilungsfehler die passende Beschreibung zu.",
         "card_ids": ["halo-effekt", "tendenz-zur-mitte", "pygmalion-effekt", "reihungseffekte"],
@@ -179,6 +193,7 @@
       "title": "Der Erwartungseffekt",
       "exercise": {
         "id": "ex-free-erwartungseffekt",
+        "stable_id": "ex-ms942qos0cj8i",
         "type": "free_text",
         "prompt": "Wie heißt der Effekt, bei dem die Erwartung des Beurteilenden die tatsächliche Leistung der beurteilten Person beeinflusst (eine sich selbst erfüllende Prophezeiung)?",
         "card_ids": ["pygmalion-effekt"],
@@ -195,6 +210,7 @@
       "title": "Vergleich mit sich selbst",
       "exercise": {
         "id": "ex-cloze-individuelle-norm",
+        "stable_id": "ex-ms942qos0ckz6",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff für die Bezugsnorm, die den eigenen Lernfortschritt in den Blick nimmt.",
         "card_ids": ["bezugsnorm-individuelle"],
@@ -211,6 +227,7 @@
       "title": "Komponenten der Prüfungsangst",
       "exercise": {
         "id": "ex-cloze-besorgnis",
+        "stable_id": "ex-ms942qos0clyr",
         "type": "cloze",
         "prompt": "Ergänze die Bezeichnung der gedanklichen Komponente der Prüfungsangst.",
         "card_ids": ["pruefungsangst"],
@@ -227,6 +244,7 @@
       "title": "Unabhängig vom Beurteilenden",
       "exercise": {
         "id": "ex-free-guetekriterium",
+        "stable_id": "ex-ms942qos0cml0",
         "type": "free_text",
         "prompt": "Wie heißt das Gütekriterium, das verlangt, dass das Beurteilungsergebnis unabhängig davon ist, wer beurteilt?",
         "card_ids": ["guetekriterien"],
@@ -243,6 +261,7 @@
       "title": "Aktivierung und Leistung",
       "exercise": {
         "id": "ex-tiles-yerkes-dodson",
+        "stable_id": "ex-ms942qos0cna0",
         "type": "word_tiles",
         "prompt": "Setze die Kernaussage des Yerkes-Dodson-Gesetzes zusammen.",
         "card_ids": ["pruefungsangst"],
@@ -258,6 +277,7 @@
       "title": "Funktionen der Beurteilung",
       "exercise": {
         "id": "ex-match-funktionen",
+        "stable_id": "ex-ms942qos0cob0",
         "type": "matching",
         "prompt": "Ordne jeder Funktion der Leistungsbeurteilung die passende Umschreibung zu.",
         "card_ids": ["funktionen-beurteilung"],

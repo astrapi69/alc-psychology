@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "hinweis-keine-diagnose",
+      "stable_id": "card-ms942qq21fim9",
       "front": "Wichtiger Hinweis",
       "back": "Diese Lektion vermittelt Wissen und Verständnis. Sie ersetzt keine professionelle Diagnose oder Behandlung. Bei Belastung hilft eine Ärztin, eine Psychotherapeutin oder eine Beratungsstelle.",
       "notes": "Anlaufstellen findest du am Ende der Lektion.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "trauma",
+      "stable_id": "card-ms942qq21fju1",
       "front": "Psychisches Trauma",
       "back": "Eine seelische Verletzung infolge eines überwältigenden Ereignisses, das die eigenen Bewältigungsmöglichkeiten übersteigt.",
       "notes": "Wichtig: Nicht jedes belastende Ereignis führt zu einem Trauma, und nicht jedes Trauma führt zu einer Störung.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "typ1-typ2-trauma",
+      "stable_id": "card-ms942qq21fkmy",
       "front": "Typ-I- vs. Typ-II-Trauma",
       "back": "Typ I: ein einmaliges Ereignis (z. B. ein Unfall). Typ II: wiederholte oder lang andauernde Belastung über einen längeren Zeitraum.",
       "media_type": "text",
@@ -35,6 +38,7 @@
     },
     {
       "id": "ptbs",
+      "stable_id": "card-ms942qq21fljy",
       "front": "Posttraumatische Belastungsstörung (PTBS)",
       "back": "Eine mögliche Reaktion auf ein traumatisches Erlebnis, die über längere Zeit anhält und den Alltag deutlich beeinträchtigt.",
       "notes": "Englisch: PTSD. Sie betrifft nur einen Teil der Betroffenen — viele erholen sich auch ohne Therapie.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "wiedererleben",
+      "stable_id": "card-ms942qq21fmm6",
       "front": "Wiedererleben (Intrusionen)",
       "back": "Ungewollte, belastende Erinnerungen, Albträume oder Flashbacks, in denen das Ereignis erneut präsent wird.",
       "media_type": "text",
@@ -53,6 +58,7 @@
     },
     {
       "id": "vermeidung",
+      "stable_id": "card-ms942qq21fndw",
       "front": "Vermeidung",
       "back": "Das Meiden von Orten, Menschen, Gedanken oder Gesprächen, die an das Ereignis erinnern.",
       "media_type": "text",
@@ -61,6 +67,7 @@
     },
     {
       "id": "uebererregung",
+      "stable_id": "card-ms942qq21fo6j",
       "front": "Übererregung (Hyperarousal)",
       "back": "Ein anhaltend erhöhter Alarmzustand: Schreckhaftigkeit, Reizbarkeit, Schlaf- und Konzentrationsprobleme.",
       "notes": "Knüpft an die Stressreaktion aus Lektion 12 an.",
@@ -70,6 +77,7 @@
     },
     {
       "id": "negative-kognitionen",
+      "stable_id": "card-ms942qq21fp38",
       "front": "Negative Veränderungen von Denken und Stimmung",
       "back": "Anhaltend negative Gedanken über sich oder die Welt, Schuld- oder Schamgefühle, Interessenverlust und emotionale Taubheit.",
       "media_type": "text",
@@ -78,6 +86,7 @@
     },
     {
       "id": "akute-belastungsreaktion",
+      "stable_id": "card-ms942qq21fqzr",
       "front": "Akute Belastungsreaktion",
       "back": "Eine starke, aber vorübergehende Reaktion in den ersten Tagen nach einem Ereignis. Solche Reaktionen sind zunächst normal und klingen oft von selbst ab.",
       "notes": "Erst wenn die Beschwerden lange anhalten und stark belasten, spricht man von einer PTBS.",
@@ -87,6 +96,7 @@
     },
     {
       "id": "traumafokussierte-therapie",
+      "stable_id": "card-ms942qq21fr4x",
       "front": "Traumafokussierte Therapie",
       "back": "Wirksame Behandlungen sind u. a. die traumafokussierte kognitive Verhaltenstherapie und EMDR. Sie helfen, das Erlebte zu verarbeiten und einzuordnen.",
       "notes": "EMDR = Eye Movement Desensitization and Reprocessing. Baut auf den Verfahren aus Lektion 18 auf.",
@@ -96,6 +106,7 @@
     },
     {
       "id": "posttraumatisches-wachstum",
+      "stable_id": "card-ms942qq21fsj4",
       "front": "Resilienz und posttraumatisches Wachstum",
       "back": "Viele Menschen sind widerstandsfähig (resilient) und erholen sich; manche erleben langfristig sogar positive Veränderungen (posttraumatisches Wachstum).",
       "notes": "Knüpft an Resilienz aus Lektion 59 an. Trauma führt nicht zwangsläufig zu dauerhafter Schädigung.",
@@ -105,6 +116,7 @@
     },
     {
       "id": "hilfe-anlaufstellen",
+      "stable_id": "card-ms942qq21ftlj",
       "front": "Hilfe und Anlaufstellen (Deutschland)",
       "back": "Telefonseelsorge: 0800 111 0 111 oder 0800 111 0 222 sowie 116 123 (kostenlos, anonym, rund um die Uhr). In akuter Gefahr: Notruf 112. Ärztlicher Bereitschaftsdienst: 116 117.",
       "notes": "Auch Hausärzt:innen, psychotherapeutische Praxen und Beratungsstellen helfen weiter.",
@@ -139,6 +151,7 @@
       "title": "Den Grundbegriff benennen",
       "exercise": {
         "id": "ex-cloze-trauma",
+        "stable_id": "ex-ms942qq21fusa",
         "type": "cloze",
         "prompt": "Ergänze den Begriff für eine seelische Verletzung durch ein überwältigendes Ereignis.",
         "card_ids": ["trauma"],
@@ -157,6 +170,7 @@
       "title": "Die vier Bereiche verstehen",
       "exercise": {
         "id": "ex-match-symptombereiche",
+        "stable_id": "ex-ms942qq21fvgc",
         "type": "matching",
         "prompt": "Ordne jedem Bereich der PTBS seine Beschreibung zu (zum Verständnis).",
         "card_ids": ["wiedererleben", "vermeidung", "uebererregung", "negative-kognitionen"],
@@ -176,6 +190,7 @@
       "title": "Einmalig oder wiederholt?",
       "exercise": {
         "id": "ex-free-typ2",
+        "stable_id": "ex-ms942qq21fwyt",
         "type": "free_text",
         "prompt": "Wie nennt man ein wiederholtes oder lang andauerndes Trauma (im Gegensatz zum einmaligen Typ-I-Trauma)?",
         "card_ids": ["typ1-typ2-trauma"],
@@ -192,6 +207,7 @@
       "title": "Die ersten Tage einordnen",
       "exercise": {
         "id": "ex-cloze-akut",
+        "stable_id": "ex-ms942qq21fxwi",
         "type": "cloze",
         "prompt": "Ergänze das fehlende Wort zur zeitlichen Einordnung.",
         "card_ids": ["akute-belastungsreaktion", "ptbs"],
@@ -210,6 +226,7 @@
       "title": "Wirksame Behandlung",
       "exercise": {
         "id": "ex-free-emdr",
+        "stable_id": "ex-ms942qq21fy10",
         "type": "free_text",
         "prompt": "Wie heißt das traumafokussierte Verfahren mit der Abkürzung EMDR (Augenbewegungen zur Verarbeitung)?",
         "card_ids": ["traumafokussierte-therapie"],
@@ -226,6 +243,7 @@
       "title": "Hilfsangebote kennen",
       "exercise": {
         "id": "ex-match-hilfe",
+        "stable_id": "ex-ms942qq21fzyy",
         "type": "matching",
         "prompt": "Ordne jedem Angebot in Deutschland seinen Zweck zu.",
         "card_ids": ["hilfe-anlaufstellen", "posttraumatisches-wachstum"],
@@ -244,6 +262,7 @@
       "title": "Eine wichtige Botschaft",
       "exercise": {
         "id": "ex-tiles-resilienz",
+        "stable_id": "ex-ms942qq21g0g9",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zusammen.",
         "card_ids": ["posttraumatisches-wachstum"],

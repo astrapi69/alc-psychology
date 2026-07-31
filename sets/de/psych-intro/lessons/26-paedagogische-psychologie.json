@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "paedagogische-psychologie",
+      "stable_id": "card-ms942qp70ow7k",
       "front": "Pädagogische Psychologie (Educational Psychology)",
       "back": "Das Anwendungsfach, das Lernen, Lehren und Entwicklung in Bildungskontexten (Schule, Ausbildung, Hochschule) wissenschaftlich untersucht.",
       "notes": "Ein Anwendungsfach der Psychologie — wie die klinische (Lektion 9) oder die Arbeitspsychologie.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "intrinsische-motivation",
+      "stable_id": "card-ms942qp70oxv6",
       "front": "Intrinsische Motivation",
       "back": "Antrieb, der aus der Tätigkeit selbst kommt — man lernt aus Interesse und Freude an der Sache.",
       "notes": "In Lektion 5 (Motivation und Emotion) eingeführt. Im Lernen besonders stabil und tiefenwirksam.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "extrinsische-motivation",
+      "stable_id": "card-ms942qp70oy67",
       "front": "Extrinsische Motivation",
       "back": "Antrieb durch äußere Folgen — Noten, Lob, Belohnung oder das Vermeiden von Strafe.",
       "notes": "Wirkt oft kurzfristig; kann intrinsische Motivation sogar untergraben (Korrumpierungseffekt).",
@@ -36,6 +39,7 @@
     },
     {
       "id": "selbstwirksamkeit",
+      "stable_id": "card-ms942qp70ozzl",
       "front": "Selbstwirksamkeit (Self-Efficacy)",
       "back": "Die Überzeugung, eine Aufgabe aus eigener Kraft bewältigen zu können. Sie sagt Anstrengung und Ausdauer beim Lernen stark voraus.",
       "notes": "Konzept von Albert Bandura. 'Ich schaffe das.'",
@@ -46,6 +50,7 @@
     },
     {
       "id": "selbstbestimmungstheorie",
+      "stable_id": "card-ms942qp70p0hr",
       "front": "Selbstbestimmungstheorie (Self-Determination Theory)",
       "back": "Theorie von Deci und Ryan: Motivation gedeiht, wenn drei Grundbedürfnisse erfüllt sind — Autonomie, Kompetenz und soziale Eingebundenheit.",
       "media_type": "text",
@@ -54,6 +59,7 @@
     },
     {
       "id": "autonomie-kompetenz-eingebundenheit",
+      "stable_id": "card-ms942qp70p1yr",
       "front": "Autonomie, Kompetenz, Eingebundenheit",
       "back": "Die drei psychologischen Grundbedürfnisse der Selbstbestimmungstheorie: selbst entscheiden dürfen, sich fähig fühlen und dazugehören.",
       "media_type": "text",
@@ -62,6 +68,7 @@
     },
     {
       "id": "feedback",
+      "stable_id": "card-ms942qp70p2cb",
       "front": "Feedback (Rückmeldung)",
       "back": "Information über den aktuellen Lernstand im Vergleich zum Ziel. Wirksames Feedback beantwortet: Wo stehe ich? Wohin will ich? Wie komme ich dahin?",
       "notes": "Gilt als einer der stärksten Einflussfaktoren auf den Lernerfolg (Hattie).",
@@ -71,6 +78,7 @@
     },
     {
       "id": "scaffolding",
+      "stable_id": "card-ms942qp70p3uh",
       "front": "Scaffolding (Lerngerüst)",
       "back": "Vorübergehende Unterstützung, die der Lehrende anbietet und schrittweise abbaut, sobald der Lernende selbstständiger wird.",
       "notes": "Bild: ein Baugerüst, das man nach Fertigstellung wieder entfernt.",
@@ -80,6 +88,7 @@
     },
     {
       "id": "zone-naechster-entwicklung",
+      "stable_id": "card-ms942qp70p47d",
       "front": "Zone der nächsten Entwicklung (ZPD)",
       "back": "Der Bereich zwischen dem, was ein Lernender allein kann, und dem, was er mit Unterstützung schafft. Hier ist Lernen am wirksamsten.",
       "notes": "Konzept von Lew Wygotski (Vygotskij). Eng mit Scaffolding verbunden.",
@@ -89,6 +98,7 @@
     },
     {
       "id": "lernstrategien",
+      "stable_id": "card-ms942qp70p5zm",
       "front": "Lernstrategien",
       "back": "Bewusste Vorgehensweisen beim Lernen — z. B. Wiederholen, Elaborieren (Verknüpfen mit Vorwissen), Organisieren und metakognitives Planen.",
       "media_type": "text",
@@ -97,6 +107,7 @@
     },
     {
       "id": "metakognition",
+      "stable_id": "card-ms942qp70p6pp",
       "front": "Metakognition",
       "back": "Das Wissen über das eigene Denken und Lernen sowie dessen Steuerung — Planen, Überwachen und Bewerten des eigenen Lernens.",
       "notes": "'Über das eigene Denken nachdenken.'",
@@ -106,6 +117,7 @@
     },
     {
       "id": "pygmalion-effekt",
+      "stable_id": "card-ms942qp70p7ht",
       "front": "Pygmalion-Effekt (Erwartungseffekt)",
       "back": "Hohe Erwartungen von Lehrkräften an Lernende können deren Leistung tatsächlich verbessern — eine sich selbst erfüllende Prophezeiung.",
       "notes": "Klassische Studie von Rosenthal und Jacobson. Knüpft an die selbsterfüllende Prophezeiung aus der Sozialpsychologie (Lektion 7) an.",
@@ -140,6 +152,7 @@
       "title": "Das Anwendungsfach benennen",
       "exercise": {
         "id": "ex-cloze-fach",
+        "stable_id": "ex-ms942qp70p8gs",
         "type": "cloze",
         "prompt": "Ergänze den Namen des Fachs, das Lernen und Lehren untersucht.",
         "card_ids": ["paedagogische-psychologie"],
@@ -158,6 +171,7 @@
       "title": "Motivationsbegriffe zuordnen",
       "exercise": {
         "id": "ex-match-motivation",
+        "stable_id": "ex-ms942qp70p9wt",
         "type": "matching",
         "prompt": "Ordne jedem Begriff seine Bedeutung zu.",
         "card_ids": ["intrinsische-motivation", "extrinsische-motivation", "selbstwirksamkeit"],
@@ -176,6 +190,7 @@
       "title": "Banduras Konzept",
       "exercise": {
         "id": "ex-free-selbstwirksamkeit",
+        "stable_id": "ex-ms942qp70pazb",
         "type": "free_text",
         "prompt": "Wie heißt die Überzeugung, eine Aufgabe aus eigener Kraft bewältigen zu können (nach Bandura)?",
         "card_ids": ["selbstwirksamkeit"],
@@ -192,6 +207,7 @@
       "title": "Die drei Grundbedürfnisse",
       "exercise": {
         "id": "ex-match-grundbeduerfnisse",
+        "stable_id": "ex-ms942qp70pb8z",
         "type": "matching",
         "prompt": "Ordne jedes Grundbedürfnis der Selbstbestimmungstheorie seiner Bedeutung zu.",
         "card_ids": ["selbstbestimmungstheorie", "autonomie-kompetenz-eingebundenheit"],
@@ -210,6 +226,7 @@
       "title": "Das Lerngerüst",
       "exercise": {
         "id": "ex-cloze-scaffolding",
+        "stable_id": "ex-ms942qp70pcbx",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff für die schrittweise abgebaute Lernunterstützung.",
         "card_ids": ["scaffolding", "zone-naechster-entwicklung"],
@@ -228,6 +245,7 @@
       "title": "Erwartungen wirken",
       "exercise": {
         "id": "ex-free-pygmalion",
+        "stable_id": "ex-ms942qp70pdmh",
         "type": "free_text",
         "prompt": "Wie heißt der Effekt, bei dem hohe Erwartungen der Lehrkraft die Leistung der Lernenden tatsächlich verbessern?",
         "card_ids": ["pygmalion-effekt"],
@@ -244,6 +262,7 @@
       "title": "Wozu Feedback dient",
       "exercise": {
         "id": "ex-tiles-feedback",
+        "stable_id": "ex-ms942qp70pecc",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zum Feedback zusammen.",
         "card_ids": ["feedback"],

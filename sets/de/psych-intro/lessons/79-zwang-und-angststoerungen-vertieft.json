@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "hinweis-keine-diagnose",
+      "stable_id": "card-ms942qq41h46e",
       "front": "Wichtiger Hinweis",
       "back": "Diese Lektion ersetzt keine professionelle Diagnose oder Behandlung. Sie dient dem Verständnis und der Aufklärung. Bei persönlicher Belastung hilft eine Ärztin, ein Psychotherapeut oder eine Beratungsstelle.",
       "notes": "Anlaufstellen findest du in der Karte 'hilfe-anlaufstellen'.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "angststoerungen-ueberblick",
+      "stable_id": "card-ms942qq41h5vz",
       "front": "Angststörungen (Anxiety Disorders) — Überblick",
       "back": "Eine Gruppe von Störungen, bei denen intensive Angst oder Furcht den Alltag erheblich beeinträchtigt. Fachleute unterscheiden verschiedene Formen je nach Auslöser und Verlauf.",
       "media_type": "text",
@@ -26,6 +28,7 @@
     },
     {
       "id": "panikstörung",
+      "stable_id": "card-ms942qq41h6gm",
       "front": "Panikstörung (Panic Disorder)",
       "back": "Wiederkehrende, unerwartete Panikattacken mit starken körperlichen Symptomen (z. B. Herzrasen, Atemnot) sowie anhaltende Sorge vor weiteren Attacken.",
       "media_type": "text",
@@ -34,6 +37,7 @@
     },
     {
       "id": "soziale-angststörung",
+      "stable_id": "card-ms942qq41h7ha",
       "front": "Soziale Angststörung (Social Anxiety Disorder)",
       "back": "Ausgeprägte Furcht vor sozialen Situationen, in denen man beobachtet oder bewertet werden könnte, verbunden mit der Angst, sich zu blamieren.",
       "media_type": "text",
@@ -42,6 +46,7 @@
     },
     {
       "id": "gas",
+      "stable_id": "card-ms942qq41h8iw",
       "front": "Generalisierte Angststörung — GAS (Generalized Anxiety Disorder — GAD)",
       "back": "Anhaltende, schwer kontrollierbare Sorgen über viele Lebensbereiche (Gesundheit, Arbeit, Familie), oft verbunden mit Anspannung und Schlafproblemen.",
       "media_type": "text",
@@ -50,6 +55,7 @@
     },
     {
       "id": "teufelskreis-angst",
+      "stable_id": "card-ms942qq41h9z7",
       "front": "Teufelskreis der Angst (Vicious Cycle of Anxiety)",
       "back": "Körperliche Symptome werden katastrophisierend bewertet → die Bewertung steigert die Angst → mehr Symptome → Kreislauf verstärkt sich. Dieser Mechanismus erklärt, wie sich Panik aufschaukeln kann (vgl. Lektion 18).",
       "media_type": "text",
@@ -58,6 +64,7 @@
     },
     {
       "id": "vermeidung-angst",
+      "stable_id": "card-ms942qq41ha6u",
       "front": "Vermeidung und negative Verstärkung (Avoidance & Negative Reinforcement)",
       "back": "Vermeidung angstbesetzter Situationen senkt die Angst kurzfristig (negative Verstärkung), verhindert aber die Habituation und erhält die Störung langfristig aufrecht (vgl. Lektion 4 — Konditionierung).",
       "media_type": "text",
@@ -66,6 +73,7 @@
     },
     {
       "id": "obsessionen",
+      "stable_id": "card-ms942qq41hb9n",
       "front": "Zwangsgedanken — Obsessionen (Obsessions)",
       "back": "Wiederkehrende, aufdringliche und unerwünschte Gedanken, Impulse oder Bilder, die intensive Angst oder Anspannung auslösen. Betroffene erleben sie als ich-fremd.",
       "media_type": "text",
@@ -74,6 +82,7 @@
     },
     {
       "id": "kompulsionen",
+      "stable_id": "card-ms942qq41hcjg",
       "front": "Zwangshandlungen — Kompulsionen (Compulsions)",
       "back": "Wiederholte Verhaltensweisen oder mentale Handlungen (z. B. Kontrollieren, Zählen), die als Reaktion auf Obsessionen ausgeführt werden, um Anspannung kurzzeitig zu lindern.",
       "media_type": "text",
@@ -82,6 +91,7 @@
     },
     {
       "id": "teufelskreis-zwang",
+      "stable_id": "card-ms942qq41hdkz",
       "front": "Teufelskreis des Zwangs (OCD Cycle)",
       "back": "Aufdringlicher Gedanke → Angst/Anspannung → Zwangshandlung → kurzfristige Erleichterung → Verstärkung der Kompulsion. Langfristig wird der Zwang so aufrechterhalten.",
       "media_type": "text",
@@ -90,6 +100,7 @@
     },
     {
       "id": "exposition-reaktionsverhinderung",
+      "stable_id": "card-ms942qq41heos",
       "front": "Exposition mit Reaktionsverhinderung (Exposure and Response Prevention — ERP)",
       "back": "Wirksames Verfahren bei Zwangsstörungen und Angststörungen: Die angstauslösende Situation wird bewusst aufgesucht, ohne die Vermeidungs- oder Zwangshandlung auszuführen. Die Angst klingt dadurch von selbst ab (Habituation).",
       "notes": "Kernbestandteil der KVT (vgl. Lektion 18). Gute Wirksamkeitsnachweise.",
@@ -99,6 +110,7 @@
     },
     {
       "id": "behandelbarkeit",
+      "stable_id": "card-ms942qq41hfow",
       "front": "Behandelbarkeit von Angst- und Zwangsstörungen",
       "back": "Angststörungen und die Zwangsstörung sind gut behandelbar. KVT mit Exposition gilt als Methode der Wahl; ergänzend können Medikamente (z. B. SSRIs) eingesetzt werden. Mit Hilfe ist Besserung möglich.",
       "media_type": "text",
@@ -107,6 +119,7 @@
     },
     {
       "id": "hilfe-anlaufstellen",
+      "stable_id": "card-ms942qq41hglw",
       "front": "Hilfe und Anlaufstellen (Deutschland)",
       "back": "Telefonseelsorge: 116 123 (kostenlos, anonym, rund um die Uhr). Ärztlicher Bereitschaftsdienst: 116 117. Hausärzt:in oder psychotherapeutische Praxis: erste Anlaufstelle für eine Überweisung oder Therapieempfehlung.",
       "notes": "Kassenärztliche Vereinigung hilft bei der Suche nach einem Therapieplatz: 116 117.",
@@ -141,6 +154,7 @@
       "title": "Angststörungen zuordnen",
       "exercise": {
         "id": "ex-match-angststoerungen",
+        "stable_id": "ex-ms942qq41hhco",
         "type": "matching",
         "prompt": "Ordne jede Angststörung ihrer Kerncharakteristik zu.",
         "card_ids": ["panikstörung", "soziale-angststörung", "gas"],
@@ -159,6 +173,7 @@
       "title": "Teufelskreis der Angst",
       "exercise": {
         "id": "ex-cloze-teufelskreis",
+        "stable_id": "ex-ms942qq41hiys",
         "type": "cloze",
         "prompt": "Ergänze das fehlende Wort im Teufelskreis der Angst.",
         "card_ids": ["teufelskreis-angst"],
@@ -177,6 +192,7 @@
       "title": "Obsessionen und Kompulsionen unterscheiden",
       "exercise": {
         "id": "ex-match-obs-komp",
+        "stable_id": "ex-ms942qq41hjkg",
         "type": "matching",
         "prompt": "Ordne die Beispiele dem richtigen Begriff zu: Zwangsgedanke (Obsession) oder Zwangshandlung (Kompulsion)?",
         "card_ids": ["obsessionen", "kompulsionen", "teufelskreis-zwang"],
@@ -195,6 +211,7 @@
       "title": "Wirksames Verfahren benennen",
       "exercise": {
         "id": "ex-free-erp",
+        "stable_id": "ex-ms942qq41hkrf",
         "type": "free_text",
         "prompt": "Wie heißt das Behandlungsverfahren, bei dem die angstauslösende Situation aufgesucht wird, ohne die Zwangs- oder Vermeidungshandlung auszuführen?",
         "card_ids": ["exposition-reaktionsverhinderung"],
@@ -216,6 +233,7 @@
       "title": "Vermeidung und Verstärkung",
       "exercise": {
         "id": "ex-cloze-vermeidung",
+        "stable_id": "ex-ms942qq41hlrt",
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff: Vermeidung senkt Angst kurzfristig und wirkt dadurch als ___ Verstärkung.",
         "card_ids": ["vermeidung-angst"],
@@ -234,6 +252,7 @@
       "title": "Hoffnungsvolle Botschaft",
       "exercise": {
         "id": "ex-free-behandelbarkeit",
+        "stable_id": "ex-ms942qq41hm4b",
         "type": "free_text",
         "prompt": "Welches psychologische Verfahren gilt bei Angst- und Zwangsstörungen als Methode der Wahl und hat besonders gute Wirksamkeitsnachweise?",
         "card_ids": ["behandelbarkeit", "exposition-reaktionsverhinderung"],
@@ -256,6 +275,7 @@
       "title": "Anlaufstellen kennen",
       "exercise": {
         "id": "ex-tiles-hilfe",
+        "stable_id": "ex-ms942qq41hnz4",
         "type": "word_tiles",
         "prompt": "Setze die Telefonnummer der Telefonseelsorge zusammen.",
         "card_ids": ["hilfe-anlaufstellen"],

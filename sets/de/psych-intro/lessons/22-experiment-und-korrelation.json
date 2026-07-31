@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "experiment",
+      "stable_id": "card-ms942qp50msct",
       "front": "Experiment (Experiment)",
       "back": "Eine Forschungsmethode, bei der die Forscherin eine Variable gezielt manipuliert und alle anderen kontrolliert — die einzige Methode, die echte Ursache-Wirkung-Aussagen erlaubt.",
       "notes": "In Lektion 1 hast du das Experiment als 'Königsweg zur Kausalität' kennengelernt. In Lektion 21 kamen UV und AV als Fachbegriffe dazu.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "experimentalgruppe",
+      "stable_id": "card-ms942qp50mt3d",
       "front": "Experimentalgruppe (Experimental Group)",
       "back": "Die Versuchsgruppe, die die experimentelle Behandlung (Manipulation der UV) erhält — ihr Verhalten wird mit der Kontrollgruppe verglichen.",
       "media_type": "text",
@@ -26,6 +28,7 @@
     },
     {
       "id": "kontrollgruppe",
+      "stable_id": "card-ms942qp50muew",
       "front": "Kontrollgruppe (Control Group)",
       "back": "Die Vergleichsgruppe, die keine Behandlung (oder nur ein Placebo) erhält — sie dient als Maßstab, um den Effekt der UV zu beurteilen.",
       "media_type": "text",
@@ -34,6 +37,7 @@
     },
     {
       "id": "randomisierung",
+      "stable_id": "card-ms942qp50mvc9",
       "front": "Randomisierung (Randomization)",
       "back": "Die zufällige Zuteilung von Versuchspersonen auf Experimental- und Kontrollgruppe — sie sorgt dafür, dass sich beide Gruppen nur durch die UV unterscheiden.",
       "notes": "Ohne Randomisierung könnten sich die Gruppen schon vorher in wichtigen Merkmalen unterscheiden (z. B. Alter, Vorwissen).",
@@ -44,6 +48,7 @@
     },
     {
       "id": "stoervariable",
+      "stable_id": "card-ms942qp50mwic",
       "front": "Störvariable und Konfundierung (Confound)",
       "back": "Eine Störvariable ist eine unerwünschte Variable, die die AV beeinflusst. Konfundierung liegt vor, wenn Störvariable und UV gemeinsam variieren — dann ist unklar, was den Effekt verursacht.",
       "notes": "Beispiel: Wenn Schülerinnen, die länger schlafen, auch jünger sind, ist Alter eine Störvariable für den Schlaf-Leistungs-Vergleich.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "doppelblindstudie",
+      "stable_id": "card-ms942qp50mx51",
       "front": "Doppelblindstudie (Double-Blind Study)",
       "back": "Ein Versuchsdesign, bei dem weder die Versuchspersonen noch die Versuchsleitung wissen, wer zur Experimental- und wer zur Kontrollgruppe gehört — schützt vor Erwartungseffekten.",
       "notes": "Der einfache Blind-Versuch schützt nur die Versuchsperson vor dem Wissen, ob sie ein Placebo erhält.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "placebo",
+      "stable_id": "card-ms942qp50mylh",
       "front": "Placebo und Placebo-Effekt (Placebo Effect)",
       "back": "Ein Placebo ist eine wirkungslose Scheinbehandlung. Der Placebo-Effekt bezeichnet die messbare Verbesserung allein durch die Erwartung, eine wirksame Behandlung zu erhalten.",
       "notes": "Der Placebo-Effekt ist gut belegt und macht Doppelblindstudien notwendig.",
@@ -72,6 +79,7 @@
     },
     {
       "id": "korrelationsstudie",
+      "stable_id": "card-ms942qp50mzwj",
       "front": "Korrelationsstudie (Correlational Study)",
       "back": "Eine Studie, die den statistischen Zusammenhang zwischen zwei oder mehr Variablen misst, ohne eine davon zu manipulieren — erlaubt keine Kausalaussagen.",
       "notes": "In Lektion 1 wurde bereits der Merksatz eingeführt: 'Korrelation ist nicht Kausalität.'",
@@ -81,6 +89,7 @@
     },
     {
       "id": "korrelationskoeffizient",
+      "stable_id": "card-ms942qp50n0xo",
       "front": "Korrelationskoeffizient r",
       "back": "Ein Maß für Stärke und Richtung eines linearen Zusammenhangs, das Werte von −1 bis +1 annimmt: +1 = perfekter positiver, −1 = perfekter negativer, 0 = kein linearer Zusammenhang.",
       "notes": "In der Psychologie gilt |r| ≥ 0,50 oft als stark; r nahe 0 bedeutet: die Variablen hängen (linear) nicht zusammen.",
@@ -91,6 +100,7 @@
     },
     {
       "id": "positive-negative-korrelation",
+      "stable_id": "card-ms942qp50n14p",
       "front": "Positive vs. negative Korrelation",
       "back": "Positiv: beide Variablen steigen oder fallen gemeinsam (r > 0). Negativ: steigt eine Variable, fällt die andere (r < 0).",
       "notes": "Beispiele: Lerndauer und Note = positiv; Stress und Schlafqualität = negativ.",
@@ -100,6 +110,7 @@
     },
     {
       "id": "korrelation-kausalitaet",
+      "stable_id": "card-ms942qp50n277",
       "front": "\"Korrelation ist nicht Kausalität\"",
       "back": "Auch wenn zwei Variablen statistisch zusammenhängen, folgt daraus nicht, dass die eine die andere verursacht — es könnte eine Drittvariable beide beeinflussen (Scheinkorrelation).",
       "notes": "Klassisches Beispiel aus Lektion 1: Eiskonsum und Sonnenbrände korrelieren — die Ursache ist aber die Hitze (Drittvariable).",
@@ -109,6 +120,7 @@
     },
     {
       "id": "scheinkorrelation-drittvariable",
+      "stable_id": "card-ms942qp50n38a",
       "front": "Scheinkorrelation und Drittvariablenproblem (Spurious Correlation / Third-Variable Problem)",
       "back": "Eine Scheinkorrelation liegt vor, wenn zwei Variablen nur deshalb korrelieren, weil eine dritte Variable (Drittvariable) beide beeinflusst — der beobachtete Zusammenhang ist kein direkter Kausalzusammenhang.",
       "notes": "Drittvariablenproblem ist der Hauptgrund, warum Korrelationsstudien keine Kausalität belegen können.",
@@ -144,6 +156,7 @@
       "title": "Experimentdesign: Grundbegriffe zuordnen",
       "exercise": {
         "id": "ex-matching-experiment",
+        "stable_id": "ex-ms942qp50n427",
         "type": "matching",
         "prompt": "Ordne jedem Begriff seine Bedeutung zu.",
         "card_ids": ["experimentalgruppe", "kontrollgruppe", "randomisierung", "stoervariable"],
@@ -163,6 +176,7 @@
       "title": "Das Experiment als Königsweg",
       "exercise": {
         "id": "ex-cloze-koenig",
+        "stable_id": "ex-ms942qp50n59k",
         "type": "cloze",
         "prompt": "Ergänze den fehlenden Begriff: Welche Methode erlaubt als einzige echte Kausalaussagen?",
         "card_ids": ["experiment"],
@@ -181,6 +195,7 @@
       "title": "Der zentrale Merksatz",
       "exercise": {
         "id": "ex-free-korrelation-kausalitaet",
+        "stable_id": "ex-ms942qp50n681",
         "type": "free_text",
         "prompt": "Zwei Variablen hängen statistisch zusammen. Darf man daraus schließen, dass die eine die andere verursacht?",
         "card_ids": ["korrelation-kausalitaet", "scheinkorrelation-drittvariable"],
@@ -207,6 +222,7 @@
       "title": "Korrelationskoeffizient r verstehen",
       "exercise": {
         "id": "ex-matching-korrelation",
+        "stable_id": "ex-ms942qp50n7rw",
         "type": "matching",
         "prompt": "Ordne jeden r-Wert bzw. Begriff seiner Bedeutung zu.",
         "card_ids": ["korrelationskoeffizient", "positive-negative-korrelation", "scheinkorrelation-drittvariable"],
@@ -226,6 +242,7 @@
       "title": "Doppelblind und Placebo",
       "exercise": {
         "id": "ex-cloze-doppelblind",
+        "stable_id": "ex-ms942qp50n8zn",
         "type": "cloze",
         "prompt": "Ergänze den Begriff für das Versuchsdesign, bei dem weder Versuchspersonen noch Versuchsleitung wissen, wer welche Behandlung erhält.",
         "card_ids": ["doppelblindstudie", "placebo"],
@@ -244,6 +261,7 @@
       "title": "Den Merksatz zusammensetzen",
       "exercise": {
         "id": "ex-tiles-merksatz",
+        "stable_id": "ex-ms942qp50n9z9",
         "type": "word_tiles",
         "prompt": "Setze den zentralen Merksatz dieser Lektion zusammen.",
         "card_ids": ["korrelation-kausalitaet"],
@@ -259,6 +277,7 @@
       "title": "Wozu dient die Randomisierung?",
       "exercise": {
         "id": "ex-free-randomisierung",
+        "stable_id": "ex-ms942qp50nayu",
         "type": "free_text",
         "prompt": "Warum ist die zufällige Zuteilung der Versuchspersonen auf die Gruppen so wichtig?",
         "card_ids": ["randomisierung", "stoervariable"],

@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "card-s-priming",
+      "stable_id": "card-ms942qog027dm",
       "front": "Priming (Kurzform)",
       "back": "Vorgeschalteter Reiz aktiviert unbewusst Assoziationen; robust nur als semantisches/perzeptuelles Priming",
       "notes": "Behaviorales Priming ist umstritten (Replikationskrise).",
@@ -18,6 +19,7 @@
     },
     {
       "id": "card-s-framing",
+      "stable_id": "card-ms942qog028ae",
       "front": "Framing (Kurzform)",
       "back": "Gleiche Information, andere Verpackung führt zu anderer Bewertung — ein Einfluss, keine Determinante",
       "notes": "Tversky & Kahneman (1981).",
@@ -27,6 +29,7 @@
     },
     {
       "id": "card-s-anker",
+      "stable_id": "card-ms942qog029zz",
       "front": "Ankereffekt (Kurzform)",
       "back": "Eine zuerst genannte Zahl prägt als Bezugspunkt die Folgeurteile",
       "notes": "Tversky & Kahneman (1974).",
@@ -36,6 +39,7 @@
     },
     {
       "id": "card-s-dissonanz",
+      "stable_id": "card-ms942qog02ar6",
       "front": "Kognitive Dissonanz (Kurzform)",
       "back": "Spannung zwischen Haltung und Handlung erzeugt Druck, beides wieder in Einklang zu bringen",
       "notes": "Festinger (1957); Festinger & Carlsmith (1959).",
@@ -45,6 +49,7 @@
     },
     {
       "id": "card-s-reziprozitaet",
+      "stable_id": "card-ms942qog02bhh",
       "front": "Reziprozität (Kurzform)",
       "back": "Wer etwas erhält, fühlt sich verpflichtet, sich zu revanchieren",
       "notes": "Cialdini; Norm der Reziprozität (Gouldner, 1960).",
@@ -54,6 +59,7 @@
     },
     {
       "id": "card-s-bewaehrtheit",
+      "stable_id": "card-ms942qog02cio",
       "front": "Soziale Bewährtheit (Kurzform)",
       "back": "Das Verhalten anderer dient als Orientierung, besonders bei Unsicherheit",
       "notes": "Cialdini; informationaler sozialer Einfluss.",
@@ -63,6 +69,7 @@
     },
     {
       "id": "card-s-fitd",
+      "stable_id": "card-ms942qog02d4d",
       "front": "Foot-in-the-door (Kurzform)",
       "back": "Eine kleine Zusage erhöht die Bereitschaft, später auch einer großen Bitte zuzustimmen",
       "notes": "Freedman & Fraser (1966).",
@@ -72,6 +79,7 @@
     },
     {
       "id": "card-s-augenmass",
+      "stable_id": "card-ms942qog02e04",
       "front": "Gemeinsames Augenmaß",
       "back": "Alle diese Effekte sind belegte Tendenzen, keine garantierten Hebel — Effektstärken nicht aufblasen, Studien korrekt zuordnen",
       "notes": "Der rote Faden des gesamten Sets.",
@@ -94,6 +102,7 @@
       "title": "Effekt und Kernaussage",
       "exercise": {
         "id": "ex-match-effekt-kern",
+        "stable_id": "ex-ms942qog02f9e",
         "type": "matching",
         "prompt": "Ordne jedem Effekt seine Kernaussage zu.",
         "card_ids": ["card-s-priming", "card-s-framing", "card-s-anker", "card-s-dissonanz", "card-s-reziprozitaet"],
@@ -114,6 +123,7 @@
       "title": "Effekt und Alltagsbeispiel",
       "exercise": {
         "id": "ex-match-effekt-beispiel",
+        "stable_id": "ex-ms942qog02gi4",
         "type": "matching",
         "prompt": "Ordne jedem Alltagsbeispiel den passenden Effekt zu.",
         "card_ids": ["card-s-framing", "card-s-anker", "card-s-reziprozitaet", "card-s-bewaehrtheit", "card-s-fitd"],
@@ -134,6 +144,7 @@
       "title": "Welche Aussage über Priming stimmt?",
       "exercise": {
         "id": "ex-select-priming-robust",
+        "stable_id": "ex-ms942qog02hv6",
         "type": "cloze",
         "prompt": "Wähle die fachlich korrekte Aussage über Priming.",
         "card_ids": ["card-s-priming"],
@@ -153,6 +164,7 @@
       "title": "Der rote Faden",
       "exercise": {
         "id": "ex-cloze-augenmass",
+        "stable_id": "ex-ms942qog02iy8",
         "type": "cloze",
         "prompt": "Ergänze den zusammenfassenden Merksatz.",
         "card_ids": ["card-s-augenmass"],
@@ -172,6 +184,7 @@
       "title": "Beispiel einordnen",
       "exercise": {
         "id": "ex-free-anwenden",
+        "stable_id": "ex-ms942qog02jwc",
         "type": "free_text",
         "prompt": "Ein Café stellt ein Glas mit Trinkgeld-Münzen sichtbar auf den Tresen, damit Gäste eher Trinkgeld geben. Welcher Effekt wird hier vor allem genutzt?",
         "card_ids": ["card-s-bewaehrtheit"],
@@ -197,6 +210,7 @@
       "title": "Setze den Schlusssatz zusammen",
       "exercise": {
         "id": "ex-tiles-synthese",
+        "stable_id": "ex-ms942qog02k98",
         "type": "word_tiles",
         "prompt": "Setze den Schlusssatz des Sets zusammen.",
         "card_ids": ["card-s-augenmass"],

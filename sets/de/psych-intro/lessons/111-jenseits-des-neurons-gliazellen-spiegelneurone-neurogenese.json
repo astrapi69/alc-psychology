@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "gliazellen",
+      "stable_id": "card-ms942qoz0gg82",
       "front": "Gliazellen (Glial Cells)",
       "back": "Nicht-neuronale Zellen des Nervensystems, die Neurone stützen, ernähren, isolieren, schützen und an der Signalübertragung mitwirken. Sie machen einen großen Teil der Hirnzellen aus.",
       "notes": "Lange als bloßer 'Klebstoff' (griech. glia = Leim) unterschätzt; heute als aktive Mitspieler erkannt.",
@@ -19,6 +20,7 @@
     },
     {
       "id": "astrozyten",
+      "stable_id": "card-ms942qoz0gh9r",
       "front": "Astrozyten (Astrocytes)",
       "back": "Sternförmige Gliazellen, die Neurone mit Nährstoffen versorgen, den Ionen- und Botenstoffhaushalt im Zwischenraum regulieren und an der Blut-Hirn-Schranke beteiligt sind.",
       "notes": "Beeinflussen auch die synaptische Übertragung; man spricht daher von der 'tripartiten Synapse'.",
@@ -28,6 +30,7 @@
     },
     {
       "id": "oligodendrozyten",
+      "stable_id": "card-ms942qoz0giqq",
       "front": "Oligodendrozyten (Oligodendrocytes)",
       "back": "Gliazellen des zentralen Nervensystems, die die Myelinscheide um Axone bilden und so die schnelle, saltatorische Erregungsleitung ermöglichen.",
       "notes": "Im peripheren Nervensystem übernehmen das die Schwann-Zellen. Bei Multipler Sklerose ist das Myelin geschädigt.",
@@ -38,6 +41,7 @@
     },
     {
       "id": "mikroglia",
+      "stable_id": "card-ms942qoz0gj2k",
       "front": "Mikroglia (Microglia)",
       "back": "Die Immunzellen des zentralen Nervensystems: Sie erkennen und beseitigen Krankheitserreger, Zelltrümmer und beschädigte Zellen und beteiligen sich am Umbau von Synapsen.",
       "notes": "Eine Art 'Müllabfuhr und Immunabwehr' des Gehirns.",
@@ -47,6 +51,7 @@
     },
     {
       "id": "myelinscheide",
+      "stable_id": "card-ms942qoz0gk1a",
       "front": "Myelinscheide (Myelin Sheath)",
       "back": "Eine fetthaltige Isolierschicht um das Axon, die von Gliazellen gebildet wird und die Geschwindigkeit der Erregungsleitung deutlich erhöht.",
       "notes": "Die Erregung 'springt' von Schnürring zu Schnürring (saltatorische Leitung).",
@@ -56,6 +61,7 @@
     },
     {
       "id": "spiegelneurone",
+      "stable_id": "card-ms942qoz0glzi",
       "front": "Spiegelneurone (Mirror Neurons)",
       "back": "Nervenzellen, die sowohl feuern, wenn man eine Handlung selbst ausführt, als auch, wenn man dieselbe Handlung bei jemand anderem beobachtet.",
       "notes": "Erstmals im prämotorischen Cortex von Makaken durch Rizzolattis Gruppe (1990er) beschrieben.",
@@ -66,6 +72,7 @@
     },
     {
       "id": "rizzolatti",
+      "stable_id": "card-ms942qoz0gm5g",
       "front": "Giacomo Rizzolatti",
       "back": "Italienischer Neurophysiologe, dessen Arbeitsgruppe in Parma die Spiegelneurone bei Makaken entdeckte.",
       "notes": "Die Entdeckung gelang beiläufig, als ein Neuron auch feuerte, während der Affe nur den Experimentator greifen sah.",
@@ -75,6 +82,7 @@
     },
     {
       "id": "spiegelneurone-funktion",
+      "stable_id": "card-ms942qoz0gntq",
       "front": "Vermutete Funktion der Spiegelneurone",
       "back": "Sie werden mit Imitation, Handlungsverständnis und der Grundlage von Empathie in Verbindung gebracht — dem unmittelbaren 'Nachvollziehen' fremder Handlungen und Zustände.",
       "notes": "Die Reichweite dieser Funktionen ist wissenschaftlich umstritten; manche Deutungen gelten als überzogen.",
@@ -84,6 +92,7 @@
     },
     {
       "id": "neurogenese",
+      "stable_id": "card-ms942qoz0go70",
       "front": "Neurogenese (Neurogenesis)",
       "back": "Die Bildung neuer Nervenzellen aus neuralen Stammzellen. Im erwachsenen Gehirn ist sie auf wenige Regionen beschränkt.",
       "notes": "Lange galt das Dogma, das erwachsene Gehirn bilde keine neuen Neurone mehr.",
@@ -93,6 +102,7 @@
     },
     {
       "id": "adulte-neurogenese-hippocampus",
+      "stable_id": "card-ms942qoz0gprh",
       "front": "Adulte Neurogenese im Hippocampus",
       "back": "Auch im erwachsenen Gehirn entstehen im Gyrus dentatus des Hippocampus neue Neurone. Dieser Prozess wird mit Lernen und der Stimmungsregulation in Verbindung gebracht.",
       "notes": "Der genaue Umfang beim Menschen ist Gegenstand fortlaufender Forschung und Debatte.",
@@ -103,6 +113,7 @@
     },
     {
       "id": "neurogenese-einflussfaktoren",
+      "stable_id": "card-ms942qoz0gq4t",
       "front": "Einflüsse auf die Neurogenese",
       "back": "Körperliche Bewegung und eine anregende Umgebung fördern die adulte Neurogenese, während chronischer Stress sie hemmt.",
       "notes": "Antidepressiva werden mit einer Steigerung der hippocampalen Neurogenese in Verbindung gebracht.",
@@ -112,6 +123,7 @@
     },
     {
       "id": "tripartite-synapse",
+      "stable_id": "card-ms942qoz0grwu",
       "front": "Tripartite Synapse (Tripartite Synapse)",
       "back": "Modell der Synapse als Dreieinheit aus präsynaptischem Neuron, postsynaptischem Neuron und einem beteiligten Astrozyten, der die Übertragung aktiv mitreguliert.",
       "notes": "Unterstreicht, dass Gliazellen nicht nur passiv stützen, sondern an der Informationsverarbeitung teilnehmen.",
@@ -140,6 +152,7 @@
       "title": "Gliazellen und ihre Aufgaben",
       "exercise": {
         "id": "ex-match-gliazellen",
+        "stable_id": "ex-ms942qoz0gs1i",
         "type": "matching",
         "prompt": "Ordne jeder Gliazelle ihre Hauptfunktion zu.",
         "card_ids": ["astrozyten", "oligodendrozyten", "mikroglia"],
@@ -158,6 +171,7 @@
       "title": "Zellen, die mitfühlen?",
       "exercise": {
         "id": "ex-free-spiegelneurone",
+        "stable_id": "ex-ms942qoz0gtpx",
         "type": "free_text",
         "prompt": "Wie heißen die Neurone, die sowohl beim eigenen Ausführen als auch beim Beobachten derselben Handlung feuern?",
         "card_ids": ["spiegelneurone"],
@@ -174,6 +188,7 @@
       "title": "Ort der adulten Neurogenese",
       "exercise": {
         "id": "ex-cloze-neurogenese",
+        "stable_id": "ex-ms942qoz0guuh",
         "type": "cloze",
         "prompt": "Ergänze die Hirnstruktur, in der adulte Neurogenese stattfindet.",
         "card_ids": ["adulte-neurogenese-hippocampus"],
@@ -192,6 +207,7 @@
       "title": "Die unterschätzten Zellen",
       "exercise": {
         "id": "ex-free-gliazellen",
+        "stable_id": "ex-ms942qoz0gvzz",
         "type": "free_text",
         "prompt": "Wie heißen die nicht-neuronalen Zellen, die Neurone stützen, ernähren, isolieren und schützen?",
         "card_ids": ["gliazellen"],
@@ -208,6 +224,7 @@
       "title": "Was hemmt die Neurogenese?",
       "exercise": {
         "id": "ex-tiles-neurogenese-einfluss",
+        "stable_id": "ex-ms942qoz0gwby",
         "type": "word_tiles",
         "prompt": "Setze die Aussage über einen hemmenden Einfluss auf die Neurogenese zusammen.",
         "card_ids": ["neurogenese-einflussfaktoren"],
@@ -223,6 +240,7 @@
       "title": "Begriffe zuordnen",
       "exercise": {
         "id": "ex-match-konzepte-jenseits",
+        "stable_id": "ex-ms942qoz0gxfr",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Aussage zu.",
         "card_ids": ["rizzolatti", "spiegelneurone-funktion", "neurogenese", "tripartite-synapse"],
@@ -242,6 +260,7 @@
       "title": "Wer bildet das Myelin?",
       "exercise": {
         "id": "ex-pick-oligodendrozyt",
+        "stable_id": "ex-ms942qoz0gymj",
         "type": "picture_choice",
         "prompt": "Welche Gliazelle bildet im zentralen Nervensystem die Myelinscheide?",
         "card_ids": ["oligodendrozyten", "myelinscheide"],
