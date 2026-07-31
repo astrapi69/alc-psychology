@@ -7,8 +7,9 @@ The [Adaptive Learner](https://github.com/astrapi69/adaptive-learner)
 content repository for **Psychologie** (psychology): a Git repository of
 plain lesson files that the app loads directly and no vendor can lock away.
 
-It ships two German-language knowledge sets (domain `psychology`) that build on each other: a university-level
-introductory course and a follow-up set on the psychology of influence.
+It ships three German-language knowledge sets (domain `psychology`) that build on each other: a university-level
+introductory course, a follow-up set on the psychology of influence, and a
+starter set on the psychology of rhetoric.
 This repository was created from
 [adaptive-learner-content-template](https://github.com/astrapi69/adaptive-learner-content-template),
 which provides the schema mirror, validator, CI and authoring tooling
@@ -23,7 +24,7 @@ described below.
 
 ## Die Sets
 
-Zwei Sets, 120 Lektionen, Quell- und Zielsprache Deutsch. Empfohlene
+Drei Sets, 124 Lektionen, Quell- und Zielsprache Deutsch. Empfohlene
 Reihenfolge:
 
 ### Teil 1: `sets/de/psych-intro` (A1, 112 Lektionen)
@@ -57,13 +58,32 @@ Begleitbuch: *Die Psychologie des Überzeugens* (Cialdini), siehe
 [`books.yaml`](books.yaml). Faktencheck des Sets:
 [`docs/review/psych-beeinflussung-faktencheck.md`](docs/review/psych-beeinflussung-faktencheck.md).
 
+### Teil 3: `sets/de/psych-rhetorik` (B1, 4 Lektionen)
+
+| # | Lesson | Titel |
+|---|--------|-------|
+| 01 | `01-ethos-pathos-logos.json` | Ethos, Pathos, Logos — die drei Überzeugungsmittel |
+| 02 | `02-ethos-glaubwuerdigkeit.json` | Ethos — Glaubwürdigkeit und Autorität |
+| 03 | `03-pathos-emotion.json` | Pathos — Emotion und Furchtappelle |
+| 04 | `04-logos-elaboration.json` | Logos — die zwei Routen der Überzeugung |
+
+Starter-Set zur *Psychologie der Rhetorik* im Anschluss an
+`psych-beeinflussung`: die drei aristotelischen Überzeugungsmittel,
+gedeutet mit der modernen Überzeugungspsychologie (Quellenglaubwürdigkeit
+nach Hovland & Weiss und dem Sleeper-Effekt, Furchtappelle nach dem
+Extended Parallel Process Model von Witte, die zentrale und periphere
+Route des Elaboration-Likelihood-Modells von Petty & Cacioppo). Effekte
+werden als empirisch untersuchte Wirkungstendenzen dargestellt, nicht als
+garantierte Überredungs-Hebel; die genannten Studien sind real und
+korrekt zugeordnet. Begleitbuch: *Rhetorik* (Aristoteles).
+
 Ergänzendes freies Material (Videos, Artikel) pro Domain steht in
 [`media.yaml`](media.yaml).
 
 ## What's inside
 
 - `manifest.yaml`: the root manifest listing the sets.
-- `sets/de/psych-intro/`, `sets/de/psych-beeinflussung/`: the lesson sets.
+- `sets/de/psych-intro/`, `sets/de/psych-beeinflussung/`, `sets/de/psych-rhetorik/`: the lesson sets.
 - `books.yaml` / `media.yaml`: recommended reading and free media per domain.
 - `schema/`: the pinned [`learn-content-engine`](https://github.com/astrapi69/learn-content-engine)
   schema mirror; [`engine-version.txt`](schema/engine-version.txt) holds the

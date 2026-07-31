@@ -1,0 +1,188 @@
+{
+  "id": "01-ethos-pathos-logos",
+  "title": "Ethos, Pathos, Logos — die drei Überzeugungsmittel",
+  "description": "Aristoteles unterscheidet in seiner Rhetorik drei Mittel der Überzeugung: Ethos (Glaubwürdigkeit des Redners), Pathos (Emotion des Publikums) und Logos (das Argument selbst). Dieses Modell ist bis heute der Ausgangspunkt der Überzeugungspsychologie.",
+  "target_language": "de",
+  "source_language": "de",
+  "domain": "psychology",
+  "estimated_minutes": 12,
+  "cards": [
+    {
+      "id": "card-rhetorik",
+      "front": "Rhetorik",
+      "back": "Die Lehre und Kunst der wirkungsvollen, überzeugenden Rede",
+      "notes": "Aristoteles definiert Rhetorik als die Fähigkeit, an jedem Gegenstand das möglicherweise Überzeugende zu erkennen.",
+      "media_type": "text",
+      "difficulty": 1,
+      "tags": ["rhetorik", "hauptbegriff"]
+    },
+    {
+      "id": "card-pisteis",
+      "front": "Die drei Überzeugungsmittel (pisteis)",
+      "back": "Aristoteles unterscheidet Ethos, Pathos und Logos als die drei Mittel, mit denen eine Rede überzeugt",
+      "notes": "Griechisch *pisteis* = Überzeugungsmittel. Beschrieben in der *Rhetorik* (4. Jh. v. Chr.).",
+      "media_type": "text",
+      "difficulty": 2,
+      "tags": ["rhetorik", "modell"]
+    },
+    {
+      "id": "card-ethos",
+      "front": "Ethos",
+      "back": "Überzeugung durch die Glaubwürdigkeit und den Charakter des Redners",
+      "notes": "Wirkt über wahrgenommene Kompetenz und Vertrauenswürdigkeit — nicht über den Inhalt allein.",
+      "media_type": "text",
+      "difficulty": 2,
+      "tags": ["ethos", "begriff"]
+    },
+    {
+      "id": "card-pathos",
+      "front": "Pathos",
+      "back": "Überzeugung durch die emotionale Verfassung, in die das Publikum versetzt wird",
+      "notes": "Emotionen färben das Urteil, ersetzen aber kein Argument.",
+      "media_type": "text",
+      "difficulty": 2,
+      "tags": ["pathos", "begriff"]
+    },
+    {
+      "id": "card-logos",
+      "front": "Logos",
+      "back": "Überzeugung durch das Argument selbst — Sachgründe, Belege und logische Schlüsse",
+      "notes": "Griechisch *logos* = Wort, Rede, Vernunftgrund.",
+      "media_type": "text",
+      "difficulty": 2,
+      "tags": ["logos", "begriff"]
+    },
+    {
+      "id": "card-zusammenspiel",
+      "front": "Zusammenspiel der drei Mittel",
+      "back": "Wirksame Überzeugung nutzt meist alle drei zugleich; keines ersetzt für sich die beiden anderen",
+      "notes": "Ein starkes Argument (Logos) wirkt stärker aus glaubwürdigem Mund (Ethos) und mit passender Emotion (Pathos).",
+      "media_type": "text",
+      "difficulty": 3,
+      "tags": ["rhetorik", "einordnung"]
+    }
+  ],
+  "steps": [
+    {
+      "id": "intro",
+      "type": "theory",
+      "title": "Die drei Überzeugungsmittel",
+      "body": "# Ethos, Pathos, Logos\n\nSchon **Aristoteles** (4. Jh. v. Chr.) fragte in seiner *Rhetorik*, wodurch eine Rede eigentlich überzeugt. Seine Antwort — die drei **Überzeugungsmittel** (griechisch *pisteis*) — ist bis heute der Ausgangspunkt der Überzeugungspsychologie.\n\n## Die drei Mittel\n\n- **Ethos** — Überzeugung durch die **Glaubwürdigkeit** des Redners. Wem wir Kompetenz und ehrliche Absicht zuschreiben, dem glauben wir eher.\n- **Pathos** — Überzeugung durch die **Emotion** des Publikums. In welche Stimmung eine Rede uns versetzt, färbt unser Urteil.\n- **Logos** — Überzeugung durch das **Argument** selbst: Sachgründe, Belege, logische Schlüsse.\n\n## Sie wirken zusammen\n\nDie drei Mittel sind keine Alternativen, zwischen denen man wählt. Eine überzeugende Rede nutzt sie meist **gemeinsam**: Ein starkes Argument (Logos) wirkt stärker aus glaubwürdigem Mund (Ethos) und mit der passenden Emotion (Pathos).\n\n## Augenmaß\n\nDie moderne Psychologie hat für jedes der drei Mittel messbare Effekte gefunden — aber es sind **Wirkungstendenzen, keine Garantien**. Rhetorik erhöht die Wahrscheinlichkeit der Zustimmung; sie erzwingt sie nicht."
+    },
+    {
+      "id": "ex-free-rhetorik",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Was ist Rhetorik?",
+      "exercise": {
+        "id": "ex-free-rhetorik",
+        "type": "free_text",
+        "prompt": "Was untersucht die Rhetorik?",
+        "card_ids": ["card-rhetorik"],
+        "accept": [
+          "Die Lehre und Kunst der überzeugenden Rede",
+          "Wie eine Rede wirkungsvoll überzeugt",
+          "Die Kunst der wirkungsvollen, überzeugenden Rede"
+        ],
+        "hint": "Es geht um das Überzeugen durch Sprache.",
+        "distractors": [
+          "Die Lehre von den Regeln der Grammatik",
+          "Die statistische Auswertung von Umfragen",
+          "Die Kunst, Texte fehlerfrei auszusprechen"
+        ],
+        "direction": "source_to_target"
+      }
+    },
+    {
+      "id": "ex-cloze-pisteis",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Die drei Mittel benennen",
+      "exercise": {
+        "id": "ex-cloze-pisteis",
+        "type": "cloze",
+        "prompt": "Ergänze die drei Überzeugungsmittel des Aristoteles.",
+        "card_ids": ["card-pisteis", "card-ethos", "card-pathos", "card-logos"],
+        "sentence": "Aristoteles unterscheidet ___ (Glaubwürdigkeit), ___ (Emotion) und ___ (Argument).",
+        "blanks": [
+          {"accept": ["Ethos", "ethos"]},
+          {"accept": ["Pathos", "pathos"]},
+          {"accept": ["Logos", "logos"]}
+        ],
+        "cloze_mode": "type",
+        "hint": "Alle drei Begriffe stammen aus dem Griechischen."
+      }
+    },
+    {
+      "id": "ex-select-ethos",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Welches Mittel meint Glaubwürdigkeit?",
+      "exercise": {
+        "id": "ex-select-ethos",
+        "type": "cloze",
+        "prompt": "Wähle das Überzeugungsmittel, das über die Glaubwürdigkeit des Redners wirkt.",
+        "card_ids": ["card-ethos"],
+        "sentence": "Die Überzeugung durch die Glaubwürdigkeit des Redners heißt ___.",
+        "blanks": [
+          {"accept": ["Ethos"]}
+        ],
+        "cloze_mode": "select",
+        "distractors": ["Pathos", "Logos", "Rhetorik"],
+        "hint": "Das Wort steckt auch in *Ethik* — es geht um Charakter."
+      }
+    },
+    {
+      "id": "ex-match-mittel",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Mittel und Wirkung zuordnen",
+      "exercise": {
+        "id": "ex-match-mittel",
+        "type": "matching",
+        "prompt": "Ordne jedem Überzeugungsmittel seine Wirkungsweise zu.",
+        "card_ids": ["card-ethos", "card-pathos", "card-logos"],
+        "from_cards": true,
+        "direction": "target_to_source"
+      }
+    },
+    {
+      "id": "ex-tiles-zusammenspiel",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Setze den Merksatz zusammen",
+      "exercise": {
+        "id": "ex-tiles-zusammenspiel",
+        "type": "word_tiles",
+        "prompt": "Setze den Merksatz zum Zusammenspiel der drei Mittel zusammen.",
+        "card_ids": ["card-zusammenspiel"],
+        "tiles": ["Ethos", "Pathos", "und", "Logos", "wirken", "am", "besten", "zusammen"],
+        "hint": "Beginnt mit den drei Begriffen in ihrer üblichen Reihenfolge."
+      }
+    },
+    {
+      "id": "ex-free-pathos-logos",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Pathos oder Logos?",
+      "exercise": {
+        "id": "ex-free-pathos-logos",
+        "type": "free_text",
+        "prompt": "Worin unterscheiden sich Pathos und Logos?",
+        "card_ids": ["card-pathos", "card-logos"],
+        "accept": [
+          "Pathos wirkt über die Emotion des Publikums, Logos über das Argument selbst",
+          "Pathos setzt bei Gefühlen an, Logos bei Sachgründen und Belegen",
+          "Pathos ist die emotionale Wirkung, Logos die sachliche Begründung"
+        ],
+        "hint": "Das eine sind Gefühle, das andere sind Gründe.",
+        "distractors": [
+          "Es gibt keinen Unterschied, beide meinen die Glaubwürdigkeit",
+          "Pathos ist die Redegeschwindigkeit, Logos die Lautstärke",
+          "Pathos wirkt nur schriftlich, Logos nur mündlich"
+        ],
+        "direction": "source_to_target"
+      }
+    }
+  ]
+}

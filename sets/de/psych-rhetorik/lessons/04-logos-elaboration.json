@@ -1,0 +1,191 @@
+{
+  "id": "04-logos-elaboration",
+  "title": "Logos — Argument und die zwei Routen der Überzeugung",
+  "description": "Logos überzeugt durch das Argument selbst. Das Elaboration-Likelihood-Modell (Petty & Cacioppo, 1986) erklärt, wann Argumentqualität zählt: auf der zentralen Route bei Motivation und Fähigkeit, sonst wirken auf der peripheren Route Randmerkmale. Über die zentrale Route gewonnene Einstellungen sind stabiler.",
+  "target_language": "de",
+  "source_language": "de",
+  "domain": "psychology",
+  "estimated_minutes": 14,
+  "cards": [
+    {
+      "id": "card-logos-argument",
+      "front": "Logos als Argument",
+      "back": "Logos überzeugt durch die Sache selbst: Gründe, Belege und nachvollziehbare Schlüsse",
+      "notes": "Ob ein Argument tatsächlich wirkt, hängt aber davon ab, ob das Publikum es überhaupt verarbeitet.",
+      "media_type": "text",
+      "difficulty": 2,
+      "tags": ["logos", "hauptbegriff"]
+    },
+    {
+      "id": "card-elm",
+      "front": "Elaboration-Likelihood-Modell (Petty & Cacioppo, 1986)",
+      "back": "Eine Botschaft wird auf einer von zwei Routen verarbeitet, je nachdem wie gründlich (elaboriert) das Publikum nachdenkt",
+      "notes": "*Elaboration* = die Tiefe der gedanklichen Auseinandersetzung mit den Argumenten.",
+      "media_type": "text",
+      "difficulty": 3,
+      "tags": ["logos", "modell"]
+    },
+    {
+      "id": "card-zentrale-route",
+      "front": "Zentrale Route",
+      "back": "Bei Motivation und Fähigkeit wägt das Publikum die Argumente gründlich ab — dann entscheidet die Argumentqualität",
+      "notes": "Starke Argumente überzeugen, schwache fallen auf; genau hier zahlt sich guter Logos aus.",
+      "media_type": "text",
+      "difficulty": 3,
+      "tags": ["logos", "route"]
+    },
+    {
+      "id": "card-periphere-route",
+      "front": "Periphere Route",
+      "back": "Fehlt Motivation oder Fähigkeit, entscheiden Randmerkmale statt der Argumente — etwa Attraktivität der Quelle oder die bloße Anzahl der Argumente",
+      "notes": "Hier greifen dieselben Heuristiken wie in der Beeinflussungspsychologie (z. B. Autorität, soziale Bewährtheit).",
+      "media_type": "text",
+      "difficulty": 3,
+      "tags": ["logos", "route"]
+    },
+    {
+      "id": "card-stabilitaet",
+      "front": "Warum die Route zählt",
+      "back": "Über die zentrale Route gewonnene Einstellungen sind stabiler, änderungsresistenter und sagen das Verhalten besser vorher",
+      "notes": "Peripher gewonnene Zustimmung hält kürzer und kippt leichter zurück.",
+      "media_type": "text",
+      "difficulty": 4,
+      "tags": ["logos", "folge"]
+    },
+    {
+      "id": "card-logos-einordnung",
+      "front": "Logos, Ethos und Pathos zusammen",
+      "back": "Argumentqualität wirkt vor allem, wenn das Publikum nachdenkt; sonst tragen Ethos und periphere Reize — die drei Mittel greifen ineinander",
+      "notes": "Schließt den Bogen: Ethos und Pathos sind oft die peripheren Reize, über die Logos erst Gehör findet.",
+      "media_type": "text",
+      "difficulty": 3,
+      "tags": ["logos", "einordnung"]
+    }
+  ],
+  "steps": [
+    {
+      "id": "intro",
+      "type": "theory",
+      "title": "Wann das Argument zählt",
+      "body": "# Logos: das Argument und die zwei Routen\n\n**Logos** überzeugt durch die **Sache selbst** — Gründe, Belege, nachvollziehbare Schlüsse. Aber ein starkes Argument wirkt nur, wenn das Publikum es auch **verarbeitet**. Wann das geschieht, erklärt das wichtigste Modell der Überzeugungspsychologie.\n\n## Das Elaboration-Likelihood-Modell\n\nNach dem **Elaboration-Likelihood-Modell** (**Petty & Cacioppo, 1986**) wird eine Botschaft auf einer von **zwei Routen** verarbeitet — je nachdem, wie gründlich (*elaboriert*) das Publikum nachdenkt:\n\n- **Zentrale Route** — bei **Motivation** (das Thema ist wichtig) **und Fähigkeit** (genug Zeit, Wissen, Ruhe) wägt man die Argumente sorgfältig ab. Jetzt entscheidet die **Argumentqualität**: Starke Argumente überzeugen, schwache fallen auf.\n- **Periphere Route** — fehlt Motivation oder Fähigkeit, entscheiden **Randmerkmale** statt der Argumente: die Attraktivität der Quelle, ihre Autorität, die bloße **Anzahl** der Argumente, ein sympathischer Eindruck.\n\n## Warum die Route zählt\n\nDer Unterschied ist folgenreich: Über die **zentrale Route** gewonnene Einstellungen sind **stabiler**, widerstehen Gegenargumenten besser und sagen das spätere Verhalten zuverlässiger vorher. Peripher gewonnene Zustimmung hält kürzer und kippt leichter zurück.\n\n## Der Bogen zu Ethos und Pathos\n\nDamit schließt sich der Kreis dieses Sets: **Ethos** (Glaubwürdigkeit) und **Pathos** (Emotion) sind oft genau die **peripheren Reize**, über die ein Argument erst Gehör findet. Wer nachdenkt, prüft den **Logos**; wer nicht, folgt Ethos und Pathos. Die drei Mittel des Aristoteles greifen ineinander.\n\n## Augenmaß\n\nGuter Logos ist kein Selbstläufer: Ohne Motivation und Fähigkeit beim Publikum bleibt selbst das beste Argument ungehört. Überzeugung heißt darum auch, die **Bedingungen** zu schaffen, unter denen Argumente überhaupt wirken."
+    },
+    {
+      "id": "ex-free-logos",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Wodurch überzeugt Logos?",
+      "exercise": {
+        "id": "ex-free-logos",
+        "type": "free_text",
+        "prompt": "Wodurch überzeugt Logos?",
+        "card_ids": ["card-logos-argument"],
+        "accept": [
+          "Durch das Argument selbst: Gründe, Belege und Schlüsse",
+          "Durch die Sache selbst mit Gründen und Belegen",
+          "Durch nachvollziehbare Argumente und Belege"
+        ],
+        "hint": "Es geht um die Sache, nicht um Quelle oder Gefühl.",
+        "distractors": [
+          "Durch die Glaubwürdigkeit des Redners",
+          "Durch die emotionale Stimmung des Publikums",
+          "Durch die Attraktivität der Quelle"
+        ],
+        "direction": "source_to_target"
+      }
+    },
+    {
+      "id": "ex-cloze-routen",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Die zwei Routen",
+      "exercise": {
+        "id": "ex-cloze-routen",
+        "type": "cloze",
+        "prompt": "Ergänze die zwei Routen der Überzeugung.",
+        "card_ids": ["card-zentrale-route", "card-periphere-route"],
+        "sentence": "Auf der ___ Route entscheidet die Argumentqualität, auf der ___ Route entscheiden Randmerkmale.",
+        "blanks": [
+          {"accept": ["zentralen", "zentrale"]},
+          {"accept": ["peripheren", "periphere"]}
+        ],
+        "cloze_mode": "type",
+        "hint": "Die eine führt durch die Mitte (das Argument), die andere am Rand vorbei."
+      }
+    },
+    {
+      "id": "ex-select-elm",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Woher stammt das Modell?",
+      "exercise": {
+        "id": "ex-select-elm",
+        "type": "cloze",
+        "prompt": "Wähle die korrekte Zuordnung des Elaboration-Likelihood-Modells.",
+        "card_ids": ["card-elm"],
+        "sentence": "Das Elaboration-Likelihood-Modell stammt von ___ (1986).",
+        "blanks": [
+          {"accept": ["Petty & Cacioppo"]}
+        ],
+        "cloze_mode": "select",
+        "distractors": ["Hovland & Weiss", "Tversky & Kahneman", "Festinger & Carlsmith"],
+        "hint": "Zwei Namen, verbunden mit *und* — Vornamen Richard und John."
+      }
+    },
+    {
+      "id": "ex-match-logos",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Route und Merkmal zuordnen",
+      "exercise": {
+        "id": "ex-match-logos",
+        "type": "matching",
+        "prompt": "Ordne jeder Aussage die passende Route oder Folge zu.",
+        "card_ids": ["card-zentrale-route", "card-periphere-route", "card-stabilitaet"],
+        "pairs": [
+          {"left": "Motivation und Fähigkeit vorhanden", "right": "zentrale Route: die Argumentqualität entscheidet"},
+          {"left": "Attraktivität oder bloße Anzahl der Argumente", "right": "periphere Route: Randmerkmale entscheiden"},
+          {"left": "Stabiler und verhaltensnäher", "right": "so wirken über die zentrale Route gewonnene Einstellungen"}
+        ],
+        "direction": "target_to_source"
+      }
+    },
+    {
+      "id": "ex-tiles-stabil",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Setze den Merksatz zusammen",
+      "exercise": {
+        "id": "ex-tiles-stabil",
+        "type": "word_tiles",
+        "prompt": "Setze den Merksatz zur zentralen Route zusammen.",
+        "card_ids": ["card-stabilitaet"],
+        "tiles": ["Die", "zentrale", "Route", "schafft", "stabilere", "Einstellungen"],
+        "hint": "Beginnt mit *Die zentrale Route …*."
+      }
+    },
+    {
+      "id": "ex-free-bogen",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Wie greifen die drei Mittel ineinander?",
+      "exercise": {
+        "id": "ex-free-bogen",
+        "type": "free_text",
+        "prompt": "Wie hängen Logos, Ethos und Pathos nach dem Zwei-Routen-Modell zusammen?",
+        "card_ids": ["card-logos-einordnung", "card-periphere-route"],
+        "accept": [
+          "Logos zählt beim Nachdenken, sonst tragen Ethos und Pathos als periphere Reize",
+          "Wer nachdenkt, prüft das Argument; wer nicht, folgt Glaubwürdigkeit und Emotion",
+          "Ethos und Pathos sind oft die peripheren Reize, über die Logos Gehör findet"
+        ],
+        "hint": "Was zählt bei viel Nachdenken, was bei wenig?",
+        "distractors": [
+          "Die drei Mittel schließen sich gegenseitig aus",
+          "Nur Logos hat je eine messbare Wirkung",
+          "Ethos und Pathos ersetzen jede Argumentqualität vollständig"
+        ],
+        "direction": "source_to_target"
+      }
+    }
+  ]
+}

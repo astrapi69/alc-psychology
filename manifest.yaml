@@ -1,10 +1,11 @@
 # Wurzel-Manifest von alc-psychology — die Psychologie-Reihe.
 #
-# Adaptive-Learner-Content-Repo für Psychologie. Zwei deutschsprachige
+# Adaptive-Learner-Content-Repo für Psychologie. Drei deutschsprachige
 # Sets (domain: psychology) bilden eine aufeinander aufbauende Reihe:
 #
 #   psych-intro          Psychologie — Grundlagen        (A1, 112 Lektionen)
 #   psych-beeinflussung  Psychologie der Beeinflussung   (A2, 8 Lektionen)
+#   psych-rhetorik       Psychologie der Rhetorik        (B1, 4 Lektionen)
 #
 # Vormals in astrapi69/adaptive-learner-content; in dieses eigenständige
 # Content-Repo ausgelagert (siehe adaptive-learner-content#144). Die
@@ -90,3 +91,35 @@ sets:
       author: "Robert B. Cialdini"
       isbn: "978-3456860350"
       url: "https://www.hogrefe.com/de/shop/die-psychologie-des-ueberzeugens-91960.html"
+  - id: psych-rhetorik-from-de
+    title: Psychologie der Rhetorik
+    title_native: Psychologie der Rhetorik
+    target_language: de
+    source_language: de
+    domain: psychology
+    level: B1
+    path: sets/de/psych-rhetorik
+    version: '0.1.0'
+    lesson_count: 4
+    description: >-
+      Starter-Set zur Psychologie der Rhetorik (4 Lektionen), auf
+      Deutsch erklärt, im thematischen Anschluss an das Set zur
+      Beeinflussung: die drei aristotelischen Überzeugungsmittel Ethos,
+      Pathos und Logos im Überblick sowie je eine Vertiefung mit der
+      modernen Überzeugungspsychologie — Ethos (Quellenglaubwürdigkeit
+      nach Hovland & Weiss, Sleeper-Effekt), Pathos (Furchtappelle und
+      das Extended Parallel Process Model von Witte) und Logos (die zwei
+      Routen des Elaboration-Likelihood-Modells von Petty & Cacioppo).
+      Rhetorische Mittel werden als empirisch untersuchte
+      Wirkungstendenzen dargestellt; die genannten Studien sind real und
+      korrekt zugeordnet. Nutzt die Aufgabentypen free_text, cloze (type
+      und select), matching und word_tiles.
+    tags:
+      - intermediate
+      - psychology
+      - rhetoric
+      - persuasion
+      - science
+    book:
+      title: "Rhetorik"
+      author: "Aristoteles"
