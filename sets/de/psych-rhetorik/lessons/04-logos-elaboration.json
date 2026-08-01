@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "card-logos-argument",
+      "stable_id": "card-msa1vhyq011gd",
       "front": "Logos als Argument",
       "back": "Logos überzeugt durch die Sache selbst: Gründe, Belege und nachvollziehbare Schlüsse",
       "notes": "Ob ein Argument tatsächlich wirkt, hängt aber davon ab, ob das Publikum es überhaupt verarbeitet.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "card-elm",
+      "stable_id": "card-msa1vhyq012mb",
       "front": "Elaboration-Likelihood-Modell (Petty & Cacioppo, 1986)",
       "back": "Eine Botschaft wird auf einer von zwei Routen verarbeitet, je nachdem wie gründlich (elaboriert) das Publikum nachdenkt",
       "notes": "*Elaboration* = die Tiefe der gedanklichen Auseinandersetzung mit den Argumenten.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "card-zentrale-route",
+      "stable_id": "card-msa1vhyq013hi",
       "front": "Zentrale Route",
       "back": "Bei Motivation und Fähigkeit wägt das Publikum die Argumente gründlich ab — dann entscheidet die Argumentqualität",
       "notes": "Starke Argumente überzeugen, schwache fallen auf; genau hier zahlt sich guter Logos aus.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "card-periphere-route",
+      "stable_id": "card-msa1vhyq014pa",
       "front": "Periphere Route",
       "back": "Fehlt Motivation oder Fähigkeit, entscheiden Randmerkmale statt der Argumente — etwa Attraktivität der Quelle oder die bloße Anzahl der Argumente",
       "notes": "Hier greifen dieselben Heuristiken wie in der Beeinflussungspsychologie (z. B. Autorität, soziale Bewährtheit).",
@@ -45,6 +49,7 @@
     },
     {
       "id": "card-stabilitaet",
+      "stable_id": "card-msa1vhyq015qp",
       "front": "Warum die Route zählt",
       "back": "Über die zentrale Route gewonnene Einstellungen sind stabiler, änderungsresistenter und sagen das Verhalten besser vorher",
       "notes": "Peripher gewonnene Zustimmung hält kürzer und kippt leichter zurück.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "card-logos-einordnung",
+      "stable_id": "card-msa1vhyq016gu",
       "front": "Logos, Ethos und Pathos zusammen",
       "back": "Argumentqualität wirkt vor allem, wenn das Publikum nachdenkt; sonst tragen Ethos und periphere Reize — die drei Mittel greifen ineinander",
       "notes": "Schließt den Bogen: Ethos und Pathos sind oft die peripheren Reize, über die Logos erst Gehör findet.",
@@ -76,6 +82,7 @@
       "title": "Wodurch überzeugt Logos?",
       "exercise": {
         "id": "ex-free-logos",
+        "stable_id": "ex-msa1vhyq017rf",
         "type": "free_text",
         "prompt": "Wodurch überzeugt Logos?",
         "card_ids": ["card-logos-argument"],
@@ -100,6 +107,7 @@
       "title": "Die zwei Routen",
       "exercise": {
         "id": "ex-cloze-routen",
+        "stable_id": "ex-msa1vhyq0181n",
         "type": "cloze",
         "prompt": "Ergänze die zwei Routen der Überzeugung.",
         "card_ids": ["card-zentrale-route", "card-periphere-route"],
@@ -119,6 +127,7 @@
       "title": "Woher stammt das Modell?",
       "exercise": {
         "id": "ex-select-elm",
+        "stable_id": "ex-msa1vhyq019wd",
         "type": "cloze",
         "prompt": "Wähle die korrekte Zuordnung des Elaboration-Likelihood-Modells.",
         "card_ids": ["card-elm"],
@@ -138,6 +147,7 @@
       "title": "Route und Merkmal zuordnen",
       "exercise": {
         "id": "ex-match-logos",
+        "stable_id": "ex-msa1vhyq01ay1",
         "type": "matching",
         "prompt": "Ordne jeder Aussage die passende Route oder Folge zu.",
         "card_ids": ["card-zentrale-route", "card-periphere-route", "card-stabilitaet"],
@@ -156,6 +166,7 @@
       "title": "Setze den Merksatz zusammen",
       "exercise": {
         "id": "ex-tiles-stabil",
+        "stable_id": "ex-msa1vhyq01bo6",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zur zentralen Route zusammen.",
         "card_ids": ["card-stabilitaet"],
@@ -170,6 +181,7 @@
       "title": "Wie greifen die drei Mittel ineinander?",
       "exercise": {
         "id": "ex-free-bogen",
+        "stable_id": "ex-msa1vhyq01cxn",
         "type": "free_text",
         "prompt": "Wie hängen Logos, Ethos und Pathos nach dem Zwei-Routen-Modell zusammen?",
         "card_ids": ["card-logos-einordnung", "card-periphere-route"],

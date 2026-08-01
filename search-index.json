@@ -1,6 +1,6 @@
 {
   "repo": "astrapi69/alc-psychology",
-  "generated": "2026-07-31T19:02:32Z",
+  "generated": "2026-08-01T07:31:31Z",
   "schema_version": "1.0",
   "sets": [
     {
@@ -86,7 +86,7 @@
         "author": "Aristoteles",
         "url": null
       },
-      "updated_at": null
+      "updated_at": "2026-07-31T19:04:04Z"
     }
   ],
   "total_lessons": 124,

@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "card-rhetorik",
+      "stable_id": "card-msa1vhyo001hv",
       "front": "Rhetorik",
       "back": "Die Lehre und Kunst der wirkungsvollen, überzeugenden Rede",
       "notes": "Aristoteles definiert Rhetorik als die Fähigkeit, an jedem Gegenstand das möglicherweise Überzeugende zu erkennen.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "card-pisteis",
+      "stable_id": "card-msa1vhyo002mu",
       "front": "Die drei Überzeugungsmittel (pisteis)",
       "back": "Aristoteles unterscheidet Ethos, Pathos und Logos als die drei Mittel, mit denen eine Rede überzeugt",
       "notes": "Griechisch *pisteis* = Überzeugungsmittel. Beschrieben in der *Rhetorik* (4. Jh. v. Chr.).",
@@ -27,6 +29,7 @@
     },
     {
       "id": "card-ethos",
+      "stable_id": "card-msa1vhyo003j1",
       "front": "Ethos",
       "back": "Überzeugung durch die Glaubwürdigkeit und den Charakter des Redners",
       "notes": "Wirkt über wahrgenommene Kompetenz und Vertrauenswürdigkeit — nicht über den Inhalt allein.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "card-pathos",
+      "stable_id": "card-msa1vhyo004ki",
       "front": "Pathos",
       "back": "Überzeugung durch die emotionale Verfassung, in die das Publikum versetzt wird",
       "notes": "Emotionen färben das Urteil, ersetzen aber kein Argument.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "card-logos",
+      "stable_id": "card-msa1vhyo005rf",
       "front": "Logos",
       "back": "Überzeugung durch das Argument selbst — Sachgründe, Belege und logische Schlüsse",
       "notes": "Griechisch *logos* = Wort, Rede, Vernunftgrund.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "card-zusammenspiel",
+      "stable_id": "card-msa1vhyo0068c",
       "front": "Zusammenspiel der drei Mittel",
       "back": "Wirksame Überzeugung nutzt meist alle drei zugleich; keines ersetzt für sich die beiden anderen",
       "notes": "Ein starkes Argument (Logos) wirkt stärker aus glaubwürdigem Mund (Ethos) und mit passender Emotion (Pathos).",
@@ -76,6 +82,7 @@
       "title": "Was ist Rhetorik?",
       "exercise": {
         "id": "ex-free-rhetorik",
+        "stable_id": "ex-msa1vhyo007ao",
         "type": "free_text",
         "prompt": "Was untersucht die Rhetorik?",
         "card_ids": ["card-rhetorik"],
@@ -100,6 +107,7 @@
       "title": "Die drei Mittel benennen",
       "exercise": {
         "id": "ex-cloze-pisteis",
+        "stable_id": "ex-msa1vhyo008j4",
         "type": "cloze",
         "prompt": "Ergänze die drei Überzeugungsmittel des Aristoteles.",
         "card_ids": ["card-pisteis", "card-ethos", "card-pathos", "card-logos"],
@@ -120,6 +128,7 @@
       "title": "Welches Mittel meint Glaubwürdigkeit?",
       "exercise": {
         "id": "ex-select-ethos",
+        "stable_id": "ex-msa1vhyo009i5",
         "type": "cloze",
         "prompt": "Wähle das Überzeugungsmittel, das über die Glaubwürdigkeit des Redners wirkt.",
         "card_ids": ["card-ethos"],
@@ -139,6 +148,7 @@
       "title": "Mittel und Wirkung zuordnen",
       "exercise": {
         "id": "ex-match-mittel",
+        "stable_id": "ex-msa1vhyo00ak5",
         "type": "matching",
         "prompt": "Ordne jedem Überzeugungsmittel seine Wirkungsweise zu.",
         "card_ids": ["card-ethos", "card-pathos", "card-logos"],
@@ -153,6 +163,7 @@
       "title": "Setze den Merksatz zusammen",
       "exercise": {
         "id": "ex-tiles-zusammenspiel",
+        "stable_id": "ex-msa1vhyo00bu4",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zum Zusammenspiel der drei Mittel zusammen.",
         "card_ids": ["card-zusammenspiel"],
@@ -167,6 +178,7 @@
       "title": "Pathos oder Logos?",
       "exercise": {
         "id": "ex-free-pathos-logos",
+        "stable_id": "ex-msa1vhyo00cbi",
         "type": "free_text",
         "prompt": "Worin unterscheiden sich Pathos und Logos?",
         "card_ids": ["card-pathos", "card-logos"],

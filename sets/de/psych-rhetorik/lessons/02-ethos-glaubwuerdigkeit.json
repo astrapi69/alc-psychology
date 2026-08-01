@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "card-ethos-quelle",
+      "stable_id": "card-msa1vhyp00d84",
       "front": "Ethos als Quellenglaubwürdigkeit",
       "back": "In der Psychologie entspricht Ethos der wahrgenommenen Glaubwürdigkeit der Quelle einer Botschaft",
       "notes": "Modern untersucht als *source credibility* in der Hovland-Forschung ab den 1950er-Jahren.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "card-kompetenz-vertrauen",
+      "stable_id": "card-msa1vhyp00epx",
       "front": "Kompetenz und Vertrauenswürdigkeit",
       "back": "Glaubwürdigkeit ruht auf zwei Säulen: Weiß die Quelle Bescheid (Kompetenz) und meint sie es ehrlich (Vertrauenswürdigkeit)",
       "notes": "Beide werden getrennt wahrgenommen — eine kompetente Quelle kann als eigennützig gelten und dadurch Wirkung verlieren.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "card-hovland-weiss",
+      "stable_id": "card-msa1vhyp00fqg",
       "front": "Hovland & Weiss (1951)",
       "back": "Dieselbe Botschaft überzeugte mehr, wenn sie einer hoch glaubwürdigen Quelle zugeschrieben wurde, als bei einer wenig glaubwürdigen",
       "notes": "Klassisches Experiment der Yale-Kommunikationsforschung: nur die genannte Quelle unterschied sich, der Text war identisch.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "card-sleeper",
+      "stable_id": "card-msa1vhyp00grf",
       "front": "Sleeper-Effekt",
       "back": "Mit der Zeit verblasst die Erinnerung an die Quelle, während die Botschaft haften bleibt — der Glaubwürdigkeitsvorsprung schwindet",
       "notes": "Von Hovland beschrieben, später u. a. von Kelman & Hovland (1953) untersucht. Zeigt: Der Quellen-Effekt ist nicht dauerhaft.",
@@ -45,6 +49,7 @@
     },
     {
       "id": "card-autoritaet",
+      "stable_id": "card-msa1vhyp00h8d",
       "front": "Bezug zur Autorität (Cialdini)",
       "back": "Ethos überschneidet sich mit dem Autoritätsprinzip: Titel, Symbole und Expertenstatus erhöhen die Zustimmung",
       "notes": "Verbindet die Rhetorik mit dem Set zur Beeinflussung; Autorität ist eine spezielle Quelle von Ethos.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "card-ethos-grenze",
+      "stable_id": "card-msa1vhyp00inc",
       "front": "Wie weit trägt Ethos?",
       "back": "Glaubwürdigkeit ist ein realer Einfluss, aber keine Determinante: schwache Argumente, offener Eigennutz oder Zeit (Sleeper-Effekt) schwächen sie ab",
       "notes": "Ethos verschafft Gehör, ersetzt aber keinen Logos.",
@@ -76,6 +82,7 @@
       "title": "Ethos in der Psychologie",
       "exercise": {
         "id": "ex-free-ethos",
+        "stable_id": "ex-msa1vhyp00jqo",
         "type": "free_text",
         "prompt": "Was entspricht dem Ethos in der modernen Psychologie?",
         "card_ids": ["card-ethos-quelle"],
@@ -100,6 +107,7 @@
       "title": "Die zwei Säulen",
       "exercise": {
         "id": "ex-cloze-saeulen",
+        "stable_id": "ex-msa1vhyp00ksa",
         "type": "cloze",
         "prompt": "Ergänze die zwei Säulen der Glaubwürdigkeit.",
         "card_ids": ["card-kompetenz-vertrauen"],
@@ -119,6 +127,7 @@
       "title": "Wer zeigte den Quellen-Effekt?",
       "exercise": {
         "id": "ex-select-hovland",
+        "stable_id": "ex-msa1vhyp00lqv",
         "type": "cloze",
         "prompt": "Wähle die korrekte Zuordnung der klassischen Glaubwürdigkeitsstudie.",
         "card_ids": ["card-hovland-weiss"],
@@ -138,6 +147,7 @@
       "title": "Begriffe zuordnen",
       "exercise": {
         "id": "ex-match-ethos",
+        "stable_id": "ex-msa1vhyp00mx3",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Beschreibung zu.",
         "card_ids": ["card-kompetenz-vertrauen", "card-sleeper", "card-autoritaet"],
@@ -156,6 +166,7 @@
       "title": "Setze den Merksatz zusammen",
       "exercise": {
         "id": "ex-tiles-sleeper",
+        "stable_id": "ex-msa1vhyp00nh6",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zum Sleeper-Effekt zusammen.",
         "card_ids": ["card-sleeper"],
@@ -170,6 +181,7 @@
       "title": "Grenzen des Ethos",
       "exercise": {
         "id": "ex-free-grenze",
+        "stable_id": "ex-msa1vhyp00o4x",
         "type": "free_text",
         "prompt": "Warum ist Glaubwürdigkeit allein keine Garantie für Überzeugung?",
         "card_ids": ["card-ethos-grenze", "card-sleeper"],

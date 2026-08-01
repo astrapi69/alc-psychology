@@ -9,6 +9,7 @@
   "cards": [
     {
       "id": "card-pathos-emotion",
+      "stable_id": "card-msa1vhyq00psh",
       "front": "Pathos als emotionale Überzeugung",
       "back": "Pathos wirkt, indem es das Publikum in eine bestimmte Gefühlslage versetzt, die das Urteil färbt",
       "notes": "Emotionen lenken Aufmerksamkeit und Bewertung — sie sind ein Verstärker, kein Ersatz für Gründe.",
@@ -18,6 +19,7 @@
     },
     {
       "id": "card-affekt-information",
+      "stable_id": "card-msa1vhyq00qk4",
       "front": "Gefühl als Information",
       "back": "Menschen nutzen ihre momentane Stimmung als Hinweis für ihr Urteil (*Wie fühle ich mich dabei?*)",
       "notes": "Affect-as-information (Schwarz & Clore, 1983): Die Stimmung wird fälschlich dem Urteilsgegenstand zugeschrieben.",
@@ -27,6 +29,7 @@
     },
     {
       "id": "card-furchtappell",
+      "stable_id": "card-msa1vhyq00roh",
       "front": "Furchtappell",
       "back": "Eine Botschaft, die durch das Aufzeigen einer Bedrohung zum Handeln bewegen soll (z. B. in der Gesundheitswerbung)",
       "notes": "Das am besten untersuchte Pathos-Werkzeug — mit klaren Bedingungen für seine Wirkung.",
@@ -36,6 +39,7 @@
     },
     {
       "id": "card-eppm",
+      "stable_id": "card-msa1vhyq00s7t",
       "front": "Extended Parallel Process Model (Witte, 1992)",
       "back": "Ein Furchtappell überzeugt nur, wenn zur wahrgenommenen Bedrohung auch die Überzeugung kommt, ihr wirksam begegnen zu können (Wirksamkeit)",
       "notes": "Bedrohung ohne Ausweg löst statt Handeln oft Abwehr aus (Verdrängen, Kleinreden).",
@@ -45,6 +49,7 @@
     },
     {
       "id": "card-abwehr",
+      "stable_id": "card-msa1vhyq00t6u",
       "front": "Furchtkontrolle statt Gefahrenkontrolle",
       "back": "Ist die Angst hoch, aber der Ausweg fehlt, bekämpft man das Gefühl statt der Gefahr — durch Verdrängen, Verleugnen oder Kleinreden",
       "notes": "Erklärt, warum reine Schockbotschaften oft nach hinten losgehen.",
@@ -54,6 +59,7 @@
     },
     {
       "id": "card-pathos-grenze",
+      "stable_id": "card-msa1vhyq00u4y",
       "front": "Wie weit trägt Pathos?",
       "back": "Emotion verstärkt eine Botschaft, ersetzt aber kein Argument: Ohne gangbaren Weg oder tragfähigen Grund verpufft oder kippt die Wirkung",
       "notes": "Pathos und Logos ergänzen sich; Pathos allein überzeugt selten dauerhaft.",
@@ -76,6 +82,7 @@
       "title": "Wie Pathos wirkt",
       "exercise": {
         "id": "ex-free-pathos",
+        "stable_id": "ex-msa1vhyq00vwb",
         "type": "free_text",
         "prompt": "Auf welchem Weg überzeugt Pathos?",
         "card_ids": ["card-pathos-emotion"],
@@ -100,6 +107,7 @@
       "title": "Die zwei Bedingungen",
       "exercise": {
         "id": "ex-cloze-eppm",
+        "stable_id": "ex-msa1vhyq00w20",
         "type": "cloze",
         "prompt": "Ergänze die zwei Bedingungen für einen wirksamen Furchtappell.",
         "card_ids": ["card-furchtappell", "card-eppm"],
@@ -119,6 +127,7 @@
       "title": "Woher stammt das Modell?",
       "exercise": {
         "id": "ex-select-witte",
+        "stable_id": "ex-msa1vhyq00xbn",
         "type": "cloze",
         "prompt": "Wähle die korrekte Zuordnung des Furchtappell-Modells.",
         "card_ids": ["card-eppm"],
@@ -138,6 +147,7 @@
       "title": "Begriffe zuordnen",
       "exercise": {
         "id": "ex-match-pathos",
+        "stable_id": "ex-msa1vhyq00yng",
         "type": "matching",
         "prompt": "Ordne jedem Begriff die passende Beschreibung zu.",
         "card_ids": ["card-affekt-information", "card-eppm", "card-abwehr"],
@@ -156,6 +166,7 @@
       "title": "Setze den Merksatz zusammen",
       "exercise": {
         "id": "ex-tiles-pathos",
+        "stable_id": "ex-msa1vhyq00z3k",
         "type": "word_tiles",
         "prompt": "Setze den Merksatz zur Wirkung von Emotion zusammen.",
         "card_ids": ["card-pathos-grenze"],
@@ -170,6 +181,7 @@
       "title": "Warum Schock nach hinten losgeht",
       "exercise": {
         "id": "ex-free-abwehr",
+        "stable_id": "ex-msa1vhyq010sa",
         "type": "free_text",
         "prompt": "Warum gehen reine Schockbotschaften ohne Ausweg oft nach hinten los?",
         "card_ids": ["card-abwehr"],
