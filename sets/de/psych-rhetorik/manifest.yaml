@@ -1,0 +1,71 @@
+# Psychologie der Rhetorik (für Deutschsprachige) — Set-Manifest.
+#
+# Aufbauendes Nicht-Sprachen-Set (``domain: psychology``) im
+# thematischen Anschluss an das Set psych-beeinflussung. Material und
+# Erklärung sind beide auf Deutsch (source_language == target_language);
+# der Set-Ordner trägt einen Themennamen (``psych-rhetorik``) statt
+# eines ``{target}-{level}``-Namens. Der Content-Loader liest
+# ``metadata.lessons`` für die Dateiliste.
+#
+# v0.1.0 (schema v1.4): Starter-Set mit vier Lektionen zur
+# psychologischen Grundlage der Rhetorik — die drei aristotelischen
+# Überzeugungsmittel Ethos, Pathos und Logos, jeweils vertieft durch
+# die moderne Überzeugungspsychologie (Quellenglaubwürdigkeit nach
+# Hovland, Furchtappelle nach Witte, das Elaboration-Likelihood-Modell
+# von Petty & Cacioppo). Rhetorische Mittel werden als empirisch
+# untersuchte Wirkungstendenzen dargestellt, nicht als garantierte
+# Überredungs-Hebel; die genannten Studien sind real und korrekt
+# zugeordnet. Genutzte Aufgabentypen: free_text, cloze (type und
+# select), matching und word_tiles, mit einem Theorie-Schritt pro
+# Lektion. picture_choice wird bewusst weggelassen, da das Thema
+# abstrakt ist und keine sinnvollen, real vorhandenen Bilder bietet.
+schema_version: '1.4'
+name: Psychologie der Rhetorik
+description: >-
+  Ein deutsches Aufbau-Set zur Psychologie der Rhetorik im Anschluss an
+  das Set zur Beeinflussung: die drei aristotelischen Überzeugungsmittel
+  Ethos, Pathos und Logos, gedeutet mit der modernen
+  Überzeugungspsychologie. Fachlich mit Augenmaß erklärt — rhetorische
+  Mittel als empirisch untersuchte Wirkungstendenzen, nicht als
+  garantierte Überredungs-Hebel; genannte Studien sind real und korrekt
+  zugeordnet.
+sets:
+  - id: psych-rhetorik-from-de
+    title: Psychologie der Rhetorik
+    title_native: Psychologie der Rhetorik
+    target_language: de
+    source_language: de
+    domain: psychology
+    level: B1
+    path: sets/de/psych-rhetorik
+    version: '0.1.0'
+    lesson_count: 4
+    description: >-
+      Starter-Set zur Psychologie der Rhetorik (4 Lektionen), auf
+      Deutsch erklärt: die drei Überzeugungsmittel des Aristoteles im
+      Überblick sowie je eine Vertiefung zu Ethos (Glaubwürdigkeit und
+      Autorität, mit Hovland & Weiss und dem Sleeper-Effekt), Pathos
+      (Emotion und Furchtappelle, mit dem Extended Parallel Process
+      Model von Witte) und Logos (Argumentqualität und die zwei Routen
+      des Elaboration-Likelihood-Modells von Petty & Cacioppo).
+      Rhetorische Mittel werden als empirisch untersuchte
+      Wirkungstendenzen dargestellt; die genannten Studien sind real und
+      korrekt zugeordnet.
+    tags:
+      - intermediate
+      - psychology
+      - rhetoric
+      - persuasion
+      - science
+    book:
+      title: "Rhetorik"
+      author: "Aristoteles"
+      url: null
+metadata:
+  author: Asterios Raptis
+  license: CC-BY-SA-4.0
+  lessons:
+    - 01-ethos-pathos-logos.json
+    - 02-ethos-glaubwuerdigkeit.json
+    - 03-pathos-emotion.json
+    - 04-logos-elaboration.json
