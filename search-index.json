@@ -1,6 +1,6 @@
 {
   "repo": "astrapi69/alc-psychology",
-  "generated": "2026-08-01T07:42:42Z",
+  "generated": "2026-08-03T07:34:11Z",
   "schema_version": "1.0",
   "sets": [
     {
@@ -63,13 +63,13 @@
     {
       "id": "psych-rhetorik-from-de",
       "name": "Psychologie der Rhetorik",
-      "description": "Starter-Set zur Psychologie der Rhetorik (4 Lektionen), auf Deutsch erklärt: die drei Überzeugungsmittel des Aristoteles im Überblick sowie je eine Vertiefung zu Ethos (Glaubwürdigkeit und Autorität, mit Hovland & Weiss und dem Sleeper-Effekt), Pathos (Emotion und Furchtappelle, mit dem Extended Parallel Process Model von Witte) und Logos (Argumentqualität und die zwei Routen des Elaboration-Likelihood-Modells von Petty & Cacioppo). Rhetorische Mittel werden als empirisch untersuchte Wirkungstendenzen dargestellt; die genannten Studien sind real und korrekt zugeordnet.",
+      "description": "Starter-Set zur Psychologie der Rhetorik (5 Lektionen), auf Deutsch erklärt: die drei Überzeugungsmittel des Aristoteles im Überblick sowie je eine Vertiefung zu Ethos (Glaubwürdigkeit und Autorität, mit Hovland & Weiss und dem Sleeper-Effekt), Pathos (Emotion und Furchtappelle, mit dem Extended Parallel Process Model von Witte) und Logos (Argumentqualität und die zwei Routen des Elaboration-Likelihood-Modells von Petty & Cacioppo), mit abschließender Wiederholung und Synthese. Rhetorische Mittel werden als empirisch untersuchte Wirkungstendenzen dargestellt; die genannten Studien sind real und korrekt zugeordnet.",
       "source_language": "de",
       "target_language": "de",
       "level": "b1",
       "domain": "psychology",
-      "lesson_count": 4,
-      "card_count": 24,
+      "lesson_count": 5,
+      "card_count": 30,
       "tags": [
         "intermediate",
         "psychology",
@@ -89,6 +89,6 @@
       "updated_at": "2026-08-01T09:42:25+02:00"
     }
   ],
-  "total_lessons": 124,
-  "total_cards": 1481
+  "total_lessons": 125,
+  "total_cards": 1487
 }

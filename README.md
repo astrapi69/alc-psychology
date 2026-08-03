@@ -24,7 +24,7 @@ described below.
 
 ## Die Sets
 
-Drei Sets, 124 Lektionen, Quell- und Zielsprache Deutsch. Empfohlene
+Drei Sets, 125 Lektionen, Quell- und Zielsprache Deutsch. Empfohlene
 Reihenfolge:
 
 ### Teil 1: `sets/de/psych-intro` (A1, 112 Lektionen)
@@ -58,7 +58,7 @@ Begleitbuch: *Die Psychologie des Überzeugens* (Cialdini), siehe
 [`books.yaml`](books.yaml). Faktencheck des Sets:
 [`docs/review/psych-beeinflussung-faktencheck.md`](docs/review/psych-beeinflussung-faktencheck.md).
 
-### Teil 3: `sets/de/psych-rhetorik` (B1, 4 Lektionen)
+### Teil 3: `sets/de/psych-rhetorik` (B1, 5 Lektionen)
 
 | # | Lesson | Titel |
 |---|--------|-------|
@@ -66,6 +66,7 @@ Begleitbuch: *Die Psychologie des Überzeugens* (Cialdini), siehe
 | 02 | `02-ethos-glaubwuerdigkeit.json` | Ethos — Glaubwürdigkeit und Autorität |
 | 03 | `03-pathos-emotion.json` | Pathos — Emotion und Furchtappelle |
 | 04 | `04-logos-elaboration.json` | Logos — die zwei Routen der Überzeugung |
+| 05 | `05-wiederholung-rhetorik.json` | Wiederholung & Synthese — Ethos, Pathos, Logos |
 
 Starter-Set zur *Psychologie der Rhetorik* im Anschluss an
 `psych-beeinflussung`: die drei aristotelischen Überzeugungsmittel,
