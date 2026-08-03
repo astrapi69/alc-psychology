@@ -20,3 +20,8 @@ domains:
         language: "de"
         description: "Der Klassiker zu den Prinzipien der Beeinflussung — Begleitbuch zum Set „Psychologie der Beeinflussung“."
         tags: ["psychologie", "beeinflussung", "sozialpsychologie"]
+      - title: "Rhetorik"
+        author: "Aristoteles"
+        language: "de"
+        description: "Der Grundlagentext der abendländischen Rhetorik (4. Jh. v. Chr.) — Begleitbuch zum Set „Psychologie der Rhetorik“. Hier werden die drei Überzeugungsmittel Ethos, Pathos und Logos zuerst beschrieben, die bis heute den Rahmen der Überzeugungspsychologie bilden."
+        tags: ["psychologie", "rhetorik", "überzeugung", "klassiker"]
