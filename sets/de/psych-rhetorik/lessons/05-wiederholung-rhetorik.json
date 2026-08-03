@@ -1,0 +1,264 @@
+{
+  "id": "05-wiederholung-rhetorik",
+  "title": "Wiederholung & Synthese — Ethos, Pathos, Logos",
+  "description": "Abschließende Wiederholung der drei Überzeugungsmittel und ihres Zusammenspiels: Ethos (Glaubwürdigkeit), Pathos (Emotion) und Logos (Argument), mit den zugehörigen Studien und den zwei Routen der Überzeugung. Mit Querverbindungen und einem zusammenfassenden Augenmaß-Schritt.",
+  "target_language": "de",
+  "source_language": "de",
+  "domain": "psychology",
+  "estimated_minutes": 14,
+  "cards": [
+    {
+      "id": "card-s-ethos",
+      "stable_id": "card-mscwy0h9001l1",
+      "front": "Ethos (Kurzform)",
+      "back": "Überzeugung durch Glaubwürdigkeit — Kompetenz und Vertrauenswürdigkeit der Quelle",
+      "notes": "Hovland & Weiss (1951); der Quellen-Vorsprung verblasst mit der Zeit (Sleeper-Effekt).",
+      "media_type": "text",
+      "difficulty": 2,
+      "tags": [
+        "synthese",
+        "ethos"
+      ]
+    },
+    {
+      "id": "card-s-pathos",
+      "stable_id": "card-mscwy0h90028c",
+      "front": "Pathos (Kurzform)",
+      "back": "Überzeugung durch Emotion; Furchtappelle wirken nur, wenn zur Bedrohung auch Wirksamkeit kommt",
+      "notes": "Extended Parallel Process Model (Witte, 1992).",
+      "media_type": "text",
+      "difficulty": 2,
+      "tags": [
+        "synthese",
+        "pathos"
+      ]
+    },
+    {
+      "id": "card-s-logos",
+      "stable_id": "card-mscwy0h900357",
+      "front": "Logos (Kurzform)",
+      "back": "Überzeugung durch das Argument; die Argumentqualität zählt vor allem auf der zentralen Route",
+      "notes": "Elaboration-Likelihood-Modell (Petty & Cacioppo, 1986).",
+      "media_type": "text",
+      "difficulty": 2,
+      "tags": [
+        "synthese",
+        "logos"
+      ]
+    },
+    {
+      "id": "card-s-routen",
+      "stable_id": "card-mscwy0h9004nm",
+      "front": "Die zwei Routen (Kurzform)",
+      "back": "Zentrale Route: bei Nachdenken entscheidet das Argument. Periphere Route: sonst entscheiden Randmerkmale wie Glaubwürdigkeit oder Emotion",
+      "notes": "Aus dem Elaboration-Likelihood-Modell; verbindet Logos mit Ethos und Pathos.",
+      "media_type": "text",
+      "difficulty": 3,
+      "tags": [
+        "synthese",
+        "routen"
+      ]
+    },
+    {
+      "id": "card-s-zusammenspiel",
+      "stable_id": "card-mscwy0h9005ii",
+      "front": "Zusammenspiel (Kurzform)",
+      "back": "Wer nachdenkt, prüft den Logos; wer nicht, folgt Ethos und Pathos — die drei Mittel greifen ineinander",
+      "notes": "Ethos und Pathos sind oft die peripheren Reize, über die ein Argument erst Gehör findet.",
+      "media_type": "text",
+      "difficulty": 3,
+      "tags": [
+        "synthese",
+        "einordnung"
+      ]
+    },
+    {
+      "id": "card-s-augenmass",
+      "stable_id": "card-mscwy0h9006in",
+      "front": "Augenmaß (Kurzform)",
+      "back": "Rhetorische Mittel erhöhen die Wahrscheinlichkeit der Zustimmung; sie erzwingen sie nicht",
+      "notes": "Alle drei Mittel wirken als empirisch belegte Tendenzen, nicht als Determinanten.",
+      "media_type": "text",
+      "difficulty": 2,
+      "tags": [
+        "synthese",
+        "augenmass"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "id": "intro",
+      "type": "theory",
+      "title": "Die drei Mittel im Überblick",
+      "body": "# Wiederholung: Ethos, Pathos, Logos\n\nDieses Set ist von einem gemeinsamen Gedanken durchzogen: **Aristoteles' drei Überzeugungsmittel** sind bis heute der Rahmen, in dem die Überzeugungspsychologie forscht.\n\n## Die drei Mittel in Kurzform\n\n- **Ethos** — Überzeugung durch **Glaubwürdigkeit** (Kompetenz + Vertrauenswürdigkeit). *Hovland & Weiss (1951)*; der Vorsprung verblasst mit der Zeit (**Sleeper-Effekt**).\n- **Pathos** — Überzeugung durch **Emotion**. Furchtappelle wirken nur mit **Bedrohung UND Wirksamkeit** (*Extended Parallel Process Model*, Witte, 1992).\n- **Logos** — Überzeugung durch das **Argument**. Die Argumentqualität zählt vor allem auf der **zentralen Route** (*Elaboration-Likelihood-Modell*, Petty & Cacioppo, 1986).\n\n## Der verbindende Faden: die zwei Routen\n\nDas **Elaboration-Likelihood-Modell** erklärt, wie die drei Mittel zusammenspielen:\n\n- **Zentrale Route** — wer **nachdenkt** (Motivation und Fähigkeit), wird vom **Logos** überzeugt; solche Einstellungen sind stabiler.\n- **Periphere Route** — wer **nicht** nachdenkt, folgt **Ethos** und **Pathos** als Randmerkmalen.\n\nSo greifen die drei Mittel ineinander: Ethos und Pathos verschaffen dem Logos oft erst Gehör.\n\n## Augenmaß zum Schluss\n\nDurch das ganze Set zieht sich eine Haltung: Rhetorische Mittel sind **Wirkungstendenzen**, keine Garantien. Sie erhöhen die Wahrscheinlichkeit der Zustimmung — sie erzwingen sie nicht. Die genannten Studien sind real und korrekt zugeordnet."
+    },
+    {
+      "id": "ex-match-mittel",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Mittel und Wirkung zuordnen",
+      "exercise": {
+        "id": "ex-match-mittel",
+        "stable_id": "ex-mscwy0ha007h4",
+        "type": "matching",
+        "prompt": "Ordne jedem Überzeugungsmittel seine Kurzbeschreibung zu.",
+        "card_ids": [
+          "card-s-ethos",
+          "card-s-pathos",
+          "card-s-logos"
+        ],
+        "from_cards": true,
+        "direction": "target_to_source"
+      }
+    },
+    {
+      "id": "ex-match-studien",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Studie und Mittel zuordnen",
+      "exercise": {
+        "id": "ex-match-studien",
+        "stable_id": "ex-mscwy0ha008oc",
+        "type": "matching",
+        "prompt": "Ordne jede Studie dem Überzeugungsmittel zu, das sie beleuchtet.",
+        "card_ids": [
+          "card-s-ethos",
+          "card-s-pathos",
+          "card-s-logos"
+        ],
+        "pairs": [
+          {
+            "left": "Hovland & Weiss (1951)",
+            "right": "Ethos — Quellenglaubwürdigkeit"
+          },
+          {
+            "left": "Witte (1992), Extended Parallel Process Model",
+            "right": "Pathos — Furchtappelle"
+          },
+          {
+            "left": "Petty & Cacioppo (1986), Elaboration-Likelihood-Modell",
+            "right": "Logos — Argumentqualität und die zwei Routen"
+          }
+        ],
+        "direction": "target_to_source"
+      }
+    },
+    {
+      "id": "ex-cloze-routen",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Die zwei Routen",
+      "exercise": {
+        "id": "ex-cloze-routen",
+        "stable_id": "ex-mscwy0ha009bf",
+        "type": "cloze",
+        "prompt": "Ergänze, was auf welcher Route entscheidet.",
+        "card_ids": [
+          "card-s-routen"
+        ],
+        "sentence": "Auf der ___ Route entscheidet das Argument, auf der ___ Route entscheiden Randmerkmale wie Glaubwürdigkeit und Emotion.",
+        "blanks": [
+          {
+            "accept": [
+              "zentralen",
+              "zentrale"
+            ]
+          },
+          {
+            "accept": [
+              "peripheren",
+              "periphere"
+            ]
+          }
+        ],
+        "cloze_mode": "type",
+        "hint": "Die eine führt durch die Mitte (das Argument), die andere am Rand vorbei."
+      }
+    },
+    {
+      "id": "ex-select-nachdenken",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Was zählt beim Nachdenken?",
+      "exercise": {
+        "id": "ex-select-nachdenken",
+        "stable_id": "ex-mscwy0ha00a4r",
+        "type": "cloze",
+        "prompt": "Wähle das Mittel, das bei gründlichem Nachdenken den Ausschlag gibt.",
+        "card_ids": [
+          "card-s-zusammenspiel",
+          "card-s-routen"
+        ],
+        "sentence": "Wer gründlich nachdenkt, wird vor allem durch ___ überzeugt.",
+        "blanks": [
+          {
+            "accept": [
+              "Logos"
+            ]
+          }
+        ],
+        "cloze_mode": "select",
+        "distractors": [
+          "Ethos",
+          "Pathos",
+          "Rhetorik"
+        ],
+        "hint": "Auf der zentralen Route zählt das Argument selbst."
+      }
+    },
+    {
+      "id": "ex-tiles-augenmass",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Setze den Merksatz zusammen",
+      "exercise": {
+        "id": "ex-tiles-augenmass",
+        "stable_id": "ex-mscwy0ha00bkn",
+        "type": "word_tiles",
+        "prompt": "Setze den abschließenden Augenmaß-Satz zusammen.",
+        "card_ids": [
+          "card-s-augenmass"
+        ],
+        "tiles": [
+          "Rhetorik",
+          "erhöht",
+          "die",
+          "Zustimmung",
+          "erzwingt",
+          "sie",
+          "aber",
+          "nicht"
+        ],
+        "hint": "Beginnt mit *Rhetorik erhöht …*."
+      }
+    },
+    {
+      "id": "ex-free-zusammenspiel",
+      "type": "exercise",
+      "theory_ref": "intro",
+      "title": "Wie greifen die drei Mittel ineinander?",
+      "exercise": {
+        "id": "ex-free-zusammenspiel",
+        "stable_id": "ex-mscwy0ha00cui",
+        "type": "free_text",
+        "prompt": "Fasse zusammen, wie Ethos, Pathos und Logos nach dem Zwei-Routen-Modell zusammenspielen.",
+        "card_ids": [
+          "card-s-zusammenspiel"
+        ],
+        "accept": [
+          "Wer nachdenkt, prüft den Logos; wer nicht, folgt Ethos und Pathos",
+          "Beim Nachdenken zählt das Argument, sonst tragen Glaubwürdigkeit und Emotion",
+          "Ethos und Pathos sind oft die peripheren Reize, über die der Logos Gehör findet"
+        ],
+        "hint": "Was zählt bei viel, was bei wenig Nachdenken?",
+        "distractors": [
+          "Die drei Mittel schließen sich gegenseitig aus",
+          "Nur der Logos hat je eine messbare Wirkung",
+          "Ethos und Pathos ersetzen jede Argumentqualität vollständig"
+        ],
+        "direction": "source_to_target"
+      }
+    }
+  ]
+}
