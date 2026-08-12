@@ -226,20 +226,35 @@
       }
     },
     {
-      "id": "ex-free-split-brain",
+      "id": "ex-l42-mc-splitbrain",
       "type": "exercise",
       "theory_ref": "step-sprache-lateralisierung",
-      "title": "Sperry und das Split-Brain",
+      "title": "Was Split-Brain zeigt",
       "exercise": {
-        "id": "ex-free-split-brain",
-        "stable_id": "ex-ms942qph0xyhq",
-        "type": "free_text",
-        "prompt": "Welcher Forscher führte die berühmten Split-Brain-Studien durch, die zeigten, dass beide Hemisphären eigenständig wahrnehmen und handeln können?",
-        "card_ids": ["split-brain", "hemisphaerenlaterlisierung"],
-        "accept": ["Roger Sperry", "Sperry", "R. Sperry", "Roger W. Sperry"],
-        "hint": "Er erhielt 1981 den Nobelpreis für Medizin/Physiologie.",
-        "distractors": ["Paul Broca", "Carl Wernicke", "Phineas Gage", "Michael Gazzaniga"],
-        "direction": "target_to_source"
+        "id": "ex-l42-mc-splitbrain",
+        "stable_id": "ex-msqhjmhn03son",
+        "type": "multiple_choice",
+        "prompt": "Was zeigten die Split-Brain-Befunde über die beiden Hirnhälften?",
+        "card_ids": [
+          "split-brain",
+          "hemisphaerenlaterlisierung"
+        ],
+        "options": [
+          {
+            "text": "Die Hemisphären können unabhängig voneinander wahrnehmen und handeln.",
+            "correct": true
+          },
+          {
+            "text": "Beide Hemisphären tun immer genau dasselbe."
+          },
+          {
+            "text": "Nur eine Hemisphäre ist überhaupt aktiv."
+          },
+          {
+            "text": "Die Hemisphären haben keine eigenen Funktionen."
+          }
+        ],
+        "hint": "Getrennte Verbindung, eigenständiges Verarbeiten."
       }
     },
     {

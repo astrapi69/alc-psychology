@@ -6,6 +6,9 @@
   "source_language": "de",
   "domain": "psychology",
   "estimated_minutes": 14,
+  "requires_extensions": [
+    "ext:al-categorization@1"
+  ],
   "cards": [
     {
       "id": "klassische-konditionierung",
@@ -204,20 +207,37 @@
       }
     },
     {
-      "id": "ex-free-pawlow-name",
+      "id": "ex-l04-cat-lernen",
       "type": "exercise",
       "theory_ref": "theory-klassisch",
-      "title": "Wer entdeckte die klassische Konditionierung?",
+      "title": "Welcher Lernmechanismus",
       "exercise": {
-        "id": "ex-free-pawlow-name",
-        "stable_id": "ex-ms942qoj05bt8",
-        "type": "free_text",
-        "prompt": "Wie heißt der Forscher, der die klassische Konditionierung anhand von Hunden und Glockenton entdeckte?",
-        "card_ids": ["pawlow"],
-        "accept": ["Pawlow", "Pavlov", "Iwan Pawlow", "Ivan Pavlov", "I. P. Pawlow"],
-        "hint": "Russischer Physiologe, Nobelpreisträger 1904.",
-        "distractors": ["Skinner", "Bandura", "Watson"],
-        "direction": "target_to_source"
+        "id": "ex-l04-cat-lernen",
+        "stable_id": "ex-msqhjmh00186e",
+        "type": "ext:al-categorization",
+        "prompt": "Ordne jedes Beispiel dem passenden Lernmechanismus zu.",
+        "card_ids": [
+          "klassische-konditionierung",
+          "operante-konditionierung"
+        ],
+        "ext_payload": {
+          "categories": [
+            {
+              "name": "Klassische Konditionierung",
+              "items": [
+                "Ein Hund sabbert schon beim Klang der Futterdose.",
+                "Beim Geruch eines Gerichts wird einem übel, nach einer früheren Vergiftung."
+              ]
+            },
+            {
+              "name": "Operante Konditionierung",
+              "items": [
+                "Ein Kind räumt öfter auf, seit es dafür gelobt wird.",
+                "Ein Verhalten wird seltener, weil danach etwas Unangenehmes folgt."
+              ]
+            }
+          ]
+        }
       }
     },
     {

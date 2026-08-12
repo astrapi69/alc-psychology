@@ -209,6 +209,29 @@ sets:
 metadata:
   author: Asterios Raptis
   license: CC-BY-SA-4.0
+  # Ausgemusterte Aufgaben (engine#131, Schema 1.12): reine Faktenfragen
+  # (Jahreszahl/Eigenname), ersetzt durch Verständnisaufgaben. Die
+  # Kennungen bleiben hier deklariert, damit das Stabilitäts-Tor die
+  # Entfernung als beabsichtigt erkennt. Der Lernfortschritt zu diesen
+  # Aufgaben verwaist bewusst (die Aufgabe gibt es nicht mehr). Siehe
+  # Issue #21.
+  retired_ids:
+    - ex-ms942qog035et
+    - ex-ms942qog03640
+    - ex-ms942qoi04n16
+    - ex-ms942qoj05bt8
+    - ex-ms942qok0630t
+    - ex-ms942qon092c4
+    - ex-ms942qoo09nw1
+    - ex-ms942qp10jgvr
+    - ex-ms942qpf0vpk8
+    - ex-ms942qph0xyhq
+    - ex-ms942qpk10l6f
+    - ex-ms942qpx1b6vw
+    - ex-ms942qpy1bmso
+    - ex-ms942qpy1brcy
+    - ex-ms942qqb1om70
+    - ex-ms942qox0f9xb
   lessons:
     - 01-was-ist-psychologie.json
     - 02-wahrnehmung.json

@@ -243,20 +243,35 @@
       }
     },
     {
-      "id": "ex-free-basisemotionen",
+      "id": "ex-l05-mc-basisemotion",
       "type": "exercise",
       "theory_ref": "theo-emotionstheorien",
-      "title": "Wer identifizierte die Basisemotionen?",
+      "title": "Woran man Basisemotionen erkennt",
       "exercise": {
-        "id": "ex-free-basisemotionen",
-        "stable_id": "ex-ms942qok0630t",
-        "type": "free_text",
-        "prompt": "Welcher Psychologe identifizierte sechs kulturübergreifende Basisemotionen?",
-        "card_ids": ["ekman"],
-        "accept": ["Paul Ekman", "Ekman", "paul ekman", "P. Ekman"],
-        "hint": "Sein Nachname beginnt mit E.",
-        "distractors": ["Abraham Maslow", "William James", "Walter Cannon"],
-        "direction": "target_to_source"
+        "id": "ex-l05-mc-basisemotion",
+        "stable_id": "ex-msqhjmh501ll4",
+        "type": "multiple_choice",
+        "prompt": "Was spricht dafür, dass einige Emotionen kulturübergreifend sind?",
+        "card_ids": [
+          "basisemotionen",
+          "ekman"
+        ],
+        "options": [
+          {
+            "text": "Menschen sehr verschiedener Kulturen deuten denselben Gesichtsausdruck gleich.",
+            "correct": true
+          },
+          {
+            "text": "Emotionen werden in jeder Kultur völlig neu erfunden."
+          },
+          {
+            "text": "Gesichtsausdrücke tragen keine Bedeutung."
+          },
+          {
+            "text": "Nur eine einzige Kultur kennt Emotionen."
+          }
+        ],
+        "hint": "Gleiche Deutung trotz verschiedener Herkunft."
       }
     },
     {

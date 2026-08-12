@@ -168,22 +168,34 @@
       }
     },
     {
-      "id": "ex-cloze-bobo",
+      "id": "ex-l68-mc-modelllernen",
       "type": "exercise",
       "theory_ref": "theorie-aggression",
-      "title": "Das Bobo-Doll-Experiment",
+      "title": "Welcher Prozess erklärt es",
       "exercise": {
-        "id": "ex-cloze-bobo",
-        "stable_id": "ex-ms942qpy1bmso",
-        "type": "cloze",
-        "prompt": "Ergänze den Forscher, der das Bobo-Doll-Experiment durchführte.",
-        "card_ids": ["modelllernen-aggression"],
-        "sentence": "Das Bobo-Doll-Experiment wurde von ___ durchgeführt und belegt, dass Kinder Aggression durch Beobachtung erlernen können.",
-        "blanks": [
-          { "accept": ["Bandura", "Albert Bandura"] }
+        "id": "ex-l68-mc-modelllernen",
+        "stable_id": "ex-msqhjmhx04m5n",
+        "type": "multiple_choice",
+        "prompt": "Ein Kind ahmt aggressives Verhalten nach, das es bei einem Erwachsenen gesehen hat. Welcher Prozess erklärt das am besten?",
+        "card_ids": [
+          "modelllernen-aggression"
         ],
-        "cloze_mode": "type",
-        "hint": "Vorname: Albert; Begründer des sozialen Lernens."
+        "options": [
+          {
+            "text": "Modelllernen (Lernen am Vorbild).",
+            "correct": true
+          },
+          {
+            "text": "Klassische Konditionierung."
+          },
+          {
+            "text": "Negative Verstärkung."
+          },
+          {
+            "text": "Extinktion."
+          }
+        ],
+        "hint": "Zusehen und nachmachen, ohne eigene Belohnung."
       }
     },
     {
@@ -256,22 +268,34 @@
       }
     },
     {
-      "id": "ex-cloze-dollard",
+      "id": "ex-l68-mc-frustration",
       "type": "exercise",
       "theory_ref": "theorie-aggression",
-      "title": "Frustration und Aggression",
+      "title": "Die korrigierte Hypothese",
       "exercise": {
-        "id": "ex-cloze-dollard",
-        "stable_id": "ex-ms942qpy1brcy",
-        "type": "cloze",
-        "prompt": "Ergänze den Autor der ursprünglichen Frustrations-Aggressions-Hypothese.",
-        "card_ids": ["frustrations-aggressions-hypothese"],
-        "sentence": "Die Frustrations-Aggressions-Hypothese wurde 1939 von ___ et al. aufgestellt.",
-        "blanks": [
-          { "accept": ["Dollard", "John Dollard"] }
+        "id": "ex-l68-mc-frustration",
+        "stable_id": "ex-msqhjmhx04uj0",
+        "type": "multiple_choice",
+        "prompt": "Wie wurde die ursprüngliche Frustrations-Aggressions-Hypothese später korrigiert?",
+        "card_ids": [
+          "frustrations-aggressions-hypothese"
         ],
-        "cloze_mode": "type",
-        "hint": "Amerikanischer Psychologe; Name klingt wie 'Dollar' mit -d am Ende."
+        "options": [
+          {
+            "text": "Frustration erhöht die Wahrscheinlichkeit von Aggression, erzwingt sie aber nicht.",
+            "correct": true
+          },
+          {
+            "text": "Frustration führt ausnahmslos immer zu Aggression."
+          },
+          {
+            "text": "Frustration und Aggression hängen gar nicht zusammen."
+          },
+          {
+            "text": "Aggression entsteht nur ohne jede Frustration."
+          }
+        ],
+        "hint": "Aus 'immer' wurde 'wahrscheinlicher'."
       }
     }
   ]

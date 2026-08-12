@@ -231,20 +231,35 @@
       }
     },
     {
-      "id": "ex-free-ebbinghaus",
+      "id": "ex-l03-mc-vergessen",
       "type": "exercise",
       "theory_ref": "theory-vergessen-und-strategien",
-      "title": "Wer entdeckte die Vergessenskurve?",
+      "title": "Was die Vergessenskurve bedeutet",
       "exercise": {
-        "id": "ex-free-ebbinghaus",
-        "stable_id": "ex-ms942qoi04n16",
-        "type": "free_text",
-        "prompt": "Wer entdeckte durch Selbstversuche mit sinnlosen Silben die Vergessenskurve?",
-        "card_ids": ["ebbinghaus", "vergessenskurve"],
-        "accept": ["Ebbinghaus", "Hermann Ebbinghaus", "hermann ebbinghaus", "H. Ebbinghaus"],
-        "hint": "Ein deutscher Psychologe des 19. Jahrhunderts.",
-        "distractors": ["Baddeley", "Atkinson", "Miller"],
-        "direction": "target_to_source"
+        "id": "ex-l03-mc-vergessen",
+        "stable_id": "ex-msqhjmgy00to5",
+        "type": "multiple_choice",
+        "prompt": "Die Vergessenskurve zeigt, dass Neues zuerst rasch vergessen wird. Was folgt daraus fürs Lernen?",
+        "card_ids": [
+          "vergessenskurve",
+          "spacing-effekt"
+        ],
+        "options": [
+          {
+            "text": "Über die Zeit verteilt wiederholen, statt alles auf einmal.",
+            "correct": true
+          },
+          {
+            "text": "Einmal gründlich lesen reicht dauerhaft."
+          },
+          {
+            "text": "Wiederholung schadet dem Behalten."
+          },
+          {
+            "text": "Vergessen lässt sich gar nicht beeinflussen."
+          }
+        ],
+        "hint": "Denke an verteiltes Wiederholen."
       }
     },
     {

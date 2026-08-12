@@ -6,6 +6,9 @@
   "source_language": "de",
   "domain": "psychology",
   "estimated_minutes": 12,
+  "requires_extensions": [
+    "ext:al-reading-comprehension@1"
+  ],
   "cards": [
     {
       "id": "psychologie",
@@ -221,39 +224,97 @@
       }
     },
     {
-      "id": "ex-free-wundt",
+      "id": "ex-l01-rc-empirie",
       "type": "exercise",
       "theory_ref": "step-geschichte",
-      "title": "Wer war es?",
+      "title": "Warum eine Wissenschaft",
       "exercise": {
-        "id": "ex-free-wundt",
-        "stable_id": "ex-ms942qog035et",
-        "type": "free_text",
-        "prompt": "Wer gründete 1879 in Leipzig das erste psychologische Labor?",
-        "card_ids": ["wundt"],
-        "accept": ["Wilhelm Wundt", "Wundt", "wilhelm wundt", "W. Wundt"],
-        "hint": "Sein Nachname beginnt mit W.",
-        "distractors": ["Sigmund Freud", "B. F. Skinner", "Carl Rogers"],
-        "direction": "target_to_source"
+        "id": "ex-l01-rc-empirie",
+        "stable_id": "ex-msqhjmgt009tl",
+        "type": "ext:al-reading-comprehension",
+        "prompt": "Lies den Abschnitt und beantworte die Fragen.",
+        "card_ids": [
+          "wundt",
+          "experiment"
+        ],
+        "ext_payload": {
+          "passage": "Vor der Einrichtung des ersten Labors stützte sich das Nachdenken über die Seele vor allem auf Alltagsbeobachtung und Vermutung. Der entscheidende Schritt zur Wissenschaft war, Erleben unter kontrollierten Bedingungen systematisch und wiederholbar zu messen. Nicht die Jahreszahl macht diesen Moment wichtig, sondern der Wechsel von der Spekulation zur prüfbaren Beobachtung.",
+          "questions": [
+            {
+              "prompt": "Was war das wissenschaftlich Entscheidende an diesem Schritt?",
+              "type": "multiple_choice",
+              "options": [
+                {
+                  "text": "Erleben wurde erstmals kontrolliert und wiederholbar gemessen.",
+                  "correct": true
+                },
+                {
+                  "text": "Die Philosophie wurde damit endgültig widerlegt."
+                },
+                {
+                  "text": "Ab da brauchte die Psychologie keine Theorie mehr."
+                }
+              ]
+            },
+            {
+              "prompt": "Warum ist die Jahreszahl selbst zweitrangig?",
+              "type": "multiple_choice",
+              "options": [
+                {
+                  "text": "Weil der Wechsel von Spekulation zu prüfbarer Beobachtung zählt, nicht das Datum.",
+                  "correct": true
+                },
+                {
+                  "text": "Weil das Jahr unbekannt ist."
+                },
+                {
+                  "text": "Weil Jahreszahlen in der Wissenschaft verboten sind."
+                }
+              ]
+            },
+            {
+              "prompt": "Worauf stützte sich das Nachdenken über die Seele davor vor allem?",
+              "type": "free_text",
+              "accept": [
+                "Alltagsbeobachtung und Vermutung",
+                "Vermutung",
+                "Alltagsbeobachtung",
+                "auf Spekulation"
+              ]
+            }
+          ]
+        }
       }
     },
     {
-      "id": "ex-cloze-1879",
+      "id": "ex-l01-mc-labor",
       "type": "exercise",
       "theory_ref": "step-geschichte",
-      "title": "Die Geburtsstunde",
+      "title": "Der Kern der Laborgründung",
       "exercise": {
-        "id": "ex-cloze-1879",
-        "stable_id": "ex-ms942qog03640",
-        "type": "cloze",
-        "prompt": "Ergänze das Gründungsjahr des ersten Labors.",
-        "card_ids": ["wundt"],
-        "sentence": "Wilhelm Wundt gründete das erste psychologische Labor im Jahr ___ .",
-        "blanks": [
-          { "accept": ["1879"] }
+        "id": "ex-l01-mc-labor",
+        "stable_id": "ex-msqhjmgt00ad6",
+        "type": "multiple_choice",
+        "prompt": "Was war der wissenschaftliche Kern der Gründung des ersten psychologischen Labors?",
+        "card_ids": [
+          "experiment"
         ],
-        "cloze_mode": "type",
-        "hint": "Ende des 19. Jahrhunderts, in Leipzig."
+        "options": [
+          {
+            "text": "Erleben ließ sich dort systematisch und wiederholbar untersuchen.",
+            "correct": true
+          },
+          {
+            "text": "Es wurde bewiesen, dass die Seele körperlos ist."
+          },
+          {
+            "text": "Die Psychologie löste sich von jeder Empirie."
+          },
+          {
+            "text": "Ab da war jede Alltagsmeinung wissenschaftlich."
+          }
+        ],
+        "hint": "Es geht um die Methode, nicht um das Jahr."
       }
     },
     {

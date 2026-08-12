@@ -6,6 +6,9 @@
   "source_language": "de",
   "domain": "psychology",
   "estimated_minutes": 16,
+  "requires_extensions": [
+    "ext:al-graded-quiz@1"
+  ],
   "cards": [
     {
       "id": "r-wundt-1879",
@@ -170,22 +173,68 @@
       }
     },
     {
-      "id": "ex-cloze-wundt",
+      "id": "ex-l15-quiz",
       "type": "exercise",
       "theory_ref": "theory-kursuebersicht",
-      "title": "Gründungsjahr der Psychologie",
+      "title": "Kurzer benoteter Test",
       "exercise": {
-        "id": "ex-cloze-wundt",
-        "stable_id": "ex-ms942qp10jgvr",
-        "type": "cloze",
-        "prompt": "Ergänze das Gründungsjahr des ersten psychologischen Labors.",
-        "card_ids": ["r-wundt-1879"],
-        "sentence": "Wilhelm Wundt gründete ___ in Leipzig das erste psychologische Labor.",
-        "blanks": [
-          { "accept": ["1879"] }
+        "id": "ex-l15-quiz",
+        "stable_id": "ex-msqhjmhi03424",
+        "type": "ext:al-graded-quiz",
+        "prompt": "Kurzer benoteter Test zur Wiederholung. Bestanden ab 60 Prozent.",
+        "card_ids": [
+          "r-korrelation-kausalitaet",
+          "r-konditionierung"
         ],
-        "cloze_mode": "type",
-        "hint": "Ende des 19. Jahrhunderts."
+        "ext_payload": {
+          "pass_threshold": 60,
+          "questions": [
+            {
+              "prompt": "Eine Studie findet einen Zusammenhang zwischen zwei Größen. Was folgt zulässig?",
+              "type": "multiple_choice",
+              "points": 2,
+              "options": [
+                {
+                  "text": "Ein Zusammenhang; die Ursache bleibt offen.",
+                  "correct": true
+                },
+                {
+                  "text": "Die eine Größe verursacht sicher die andere."
+                },
+                {
+                  "text": "Beide Größen sind identisch."
+                }
+              ]
+            },
+            {
+              "prompt": "Ein Verhalten wird häufiger, weil danach etwas Angenehmes hinzukommt. Wie heißt das?",
+              "type": "multiple_choice",
+              "points": 2,
+              "options": [
+                {
+                  "text": "positive Verstärkung",
+                  "correct": true
+                },
+                {
+                  "text": "negative Bestrafung"
+                },
+                {
+                  "text": "klassische Konditionierung"
+                }
+              ]
+            },
+            {
+              "prompt": "Welche Methode erlaubt als einzige eine Aussage über Ursache und Wirkung?",
+              "type": "free_text",
+              "points": 2,
+              "accept": [
+                "das Experiment",
+                "Experiment",
+                "kontrolliertes Experiment"
+              ]
+            }
+          ]
+        }
       }
     },
     {
