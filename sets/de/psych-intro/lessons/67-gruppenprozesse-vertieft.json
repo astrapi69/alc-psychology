@@ -6,6 +6,9 @@
   "source_language": "de",
   "domain": "psychology",
   "estimated_minutes": 15,
+  "requires_extensions": [
+    "ext:al-categorization@1"
+  ],
   "cards": [
     {
       "id": "soziale-erleichterung",
@@ -219,20 +222,37 @@
       }
     },
     {
-      "id": "ex-free-groupthink-janis",
+      "id": "ex-l67-cat-groupthink",
       "type": "exercise",
       "theory_ref": "groupthink-und-fuehrung",
-      "title": "Wer beschrieb Groupthink?",
+      "title": "Symptom oder Gegenmaßnahme",
       "exercise": {
-        "id": "ex-free-groupthink-janis",
-        "stable_id": "ex-ms942qpx1b6vw",
-        "type": "free_text",
-        "prompt": "Welcher Psychologe analysierte Groupthink anhand historischer Fehlentscheidungen wie der Schweinebucht-Invasion?",
-        "card_ids": ["groupthink"],
-        "accept": ["Irving Janis", "Janis", "I. Janis"],
-        "hint": "Vorname Irving, Nachname beginnt mit J.",
-        "distractors": ["Zimbardo", "Zajonc", "Latané"],
-        "direction": "target_to_source"
+        "id": "ex-l67-cat-groupthink",
+        "stable_id": "ex-msqhjmhv04h4e",
+        "type": "ext:al-categorization",
+        "prompt": "Ordne jede Aussage zu: Symptom von Gruppendenken oder Gegenmaßnahme?",
+        "card_ids": [
+          "groupthink-symptome",
+          "groupthink-vermeidung"
+        ],
+        "ext_payload": {
+          "categories": [
+            {
+              "name": "Symptom von Groupthink",
+              "items": [
+                "Abweichende Meinungen werden unterdrückt.",
+                "Die Gruppe überschätzt ihre eigene Unfehlbarkeit."
+              ]
+            },
+            {
+              "name": "Gegenmaßnahme",
+              "items": [
+                "Jemand übernimmt bewusst die Rolle des Kritikers.",
+                "Außenstehende werden um eine unabhängige Einschätzung gebeten."
+              ]
+            }
+          ]
+        }
       }
     },
     {

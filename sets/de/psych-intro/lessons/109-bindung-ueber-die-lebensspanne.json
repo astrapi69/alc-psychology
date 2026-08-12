@@ -6,6 +6,9 @@
   "source_language": "de",
   "domain": "psychology",
   "estimated_minutes": 15,
+  "requires_extensions": [
+    "ext:al-categorization@1"
+  ],
   "cards": [
     {
       "id": "inneres-arbeitsmodell",
@@ -200,20 +203,45 @@
       }
     },
     {
-      "id": "ex-free-hazan-shaver",
+      "id": "ex-l109-cat-bindung",
       "type": "exercise",
       "theory_ref": "theory-erwachsenenbindung",
-      "title": "Bindung in der Liebe",
+      "title": "Bindungsstile zuordnen",
       "exercise": {
-        "id": "ex-free-hazan-shaver",
-        "stable_id": "ex-ms942qox0f9xb",
-        "type": "free_text",
-        "prompt": "Welches Forscherpaar übertrug 1987 die Bindungstheorie erstmals auf romantische Partnerschaften?",
-        "card_ids": ["hazan-shaver"],
-        "accept": ["Hazan und Shaver", "Hazan & Shaver", "Hazan, Shaver", "Hazan/Shaver", "Cindy Hazan und Phillip Shaver"],
-        "hint": "Zwei Namen, verbunden mit 'und'. Cindy H. und Phillip S.",
-        "distractors": ["Bowlby und Ainsworth", "Harlow und Lorenz", "George, Kaplan und Main"],
-        "direction": "target_to_source"
+        "id": "ex-l109-cat-bindung",
+        "stable_id": "ex-msqhjmi005jvw",
+        "type": "ext:al-categorization",
+        "prompt": "Ordne jedes Verhalten in Partnerschaften dem passenden Bindungsstil zu.",
+        "card_ids": [
+          "sicher-erwachsen",
+          "aengstlich-erwachsen",
+          "vermeidend-erwachsen"
+        ],
+        "ext_payload": {
+          "categories": [
+            {
+              "name": "Sicher",
+              "items": [
+                "Vertraut der Nähe und spricht Bedürfnisse offen an.",
+                "Bleibt auch bei Streit zuversichtlich, dass die Beziehung trägt."
+              ]
+            },
+            {
+              "name": "Ängstlich",
+              "items": [
+                "Sorgt sich stark, verlassen zu werden, und sucht viel Bestätigung.",
+                "Deutet kurze Distanz schnell als Zeichen von Ablehnung."
+              ]
+            },
+            {
+              "name": "Vermeidend",
+              "items": [
+                "Hält emotionale Nähe lieber auf Abstand.",
+                "Zieht sich bei zu viel Nähe eher zurück."
+              ]
+            }
+          ]
+        }
       }
     },
     {

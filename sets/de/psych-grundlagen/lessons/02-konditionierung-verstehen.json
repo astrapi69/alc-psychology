@@ -1,0 +1,179 @@
+{
+  "id": "02-konditionierung-verstehen",
+  "title": "Konditionierung verstehen",
+  "description": "Klassische und operante Konditionierung sowie Modelllernen als Mechanismen: erkennen, anwenden und voneinander unterscheiden. Auf Deutsch erklärt.",
+  "target_language": "de",
+  "source_language": "de",
+  "domain": "psychology",
+  "estimated_minutes": 15,
+  "requires_extensions": [
+    "ext:al-categorization@1",
+    "ext:al-error-correction@1"
+  ],
+  "cards": [
+    {
+      "id": "klassisch",
+      "stable_id": "card-msqgsska00cuq",
+      "front": "Klassische Konditionierung",
+      "back": "Ein ursprünglich neutraler Reiz löst nach wiederholter Kopplung mit einem bedeutsamen Reiz selbst eine Reaktion aus.",
+      "notes": "Gelernt wird eine Reiz-Reaktion-Verbindung, nicht eine Folge des eigenen Verhaltens.",
+      "tags": ["lernen"]
+    },
+    {
+      "id": "operant",
+      "stable_id": "card-msqgsska00dk5",
+      "front": "Operante Konditionierung",
+      "back": "Verhalten wird durch seine Konsequenzen geformt: Verstärkung macht es häufiger, Bestrafung seltener.",
+      "tags": ["lernen"]
+    },
+    {
+      "id": "verstaerkung",
+      "stable_id": "card-msqgsska00erp",
+      "front": "Verstärkung",
+      "back": "Eine Konsequenz, die das vorangehende Verhalten künftig häufiger macht.",
+      "tags": ["lernen"]
+    },
+    {
+      "id": "bestrafung",
+      "stable_id": "card-msqgsska00ftt",
+      "front": "Bestrafung",
+      "back": "Eine Konsequenz, die das vorangehende Verhalten künftig seltener macht.",
+      "tags": ["lernen"]
+    },
+    {
+      "id": "positiv-negativ",
+      "stable_id": "card-msqgsska00gz3",
+      "front": "Positiv und negativ (Lerntheorie)",
+      "back": "Positiv heißt: ein Reiz wird hinzugefügt. Negativ heißt: ein Reiz wird entfernt. Das sagt nichts darüber, ob etwas angenehm ist.",
+      "notes": "Deshalb gibt es negative Verstärkung: etwas Unangenehmes fällt weg, das Verhalten wird häufiger.",
+      "tags": ["lernen"]
+    },
+    {
+      "id": "modelllernen",
+      "stable_id": "card-msqgsska00h66",
+      "front": "Modelllernen",
+      "back": "Verhalten wird durch Beobachtung und Nachahmung eines Modells erworben, auch ohne eigene Belohnung.",
+      "tags": ["lernen"]
+    }
+  ],
+  "steps": [
+    {
+      "id": "t-lernen",
+      "type": "theory",
+      "title": "Drei Wege, wie gelernt wird",
+      "body": "# Konditionierung verstehen\n\nLernen heißt in der Psychologie: Erfahrung verändert Verhalten dauerhaft. Drei Mechanismen erklären einen großen Teil davon.\n\n## Klassische Konditionierung\nEin **neutraler Reiz** wird wiederholt mit einem **bedeutsamen Reiz** gekoppelt und löst danach selbst eine Reaktion aus. Gelernt wird eine *Reiz-Reaktion-Verbindung*: Der Klang der Futterdose lässt den Hund sabbern.\n\n## Operante Konditionierung\nHier zählt die **Konsequenz** eines Verhaltens.\n\n- **Verstärkung** macht das Verhalten häufiger, **Bestrafung** seltener.\n- **Positiv** heißt, ein Reiz wird *hinzugefügt*; **negativ** heißt, ein Reiz wird *entfernt*. Angenehm oder unangenehm ist eine andere Frage.\n\nDeshalb ist *negative Verstärkung* kein Widerspruch: Etwas Unangenehmes fällt weg, und gerade dadurch wird das Verhalten häufiger.\n\n## Modelllernen\nVerhalten kann auch allein durch **Beobachtung** eines Modells entstehen, ohne dass man selbst belohnt wurde. Nicht wer die Studien machte ist hier das Lernziel, sondern der Mechanismus: zusehen, nachmachen."
+    },
+    {
+      "id": "ex-cat-lernformen",
+      "type": "exercise",
+      "theory_ref": "t-lernen",
+      "title": "Welcher Mechanismus",
+      "exercise": {
+        "id": "ex-cat-lernformen",
+        "stable_id": "ex-msqgsska00i14",
+        "type": "ext:al-categorization",
+        "prompt": "Ordne jedes Beispiel dem Lernmechanismus zu, der es erklärt.",
+        "card_ids": ["klassisch", "operant", "modelllernen"],
+        "ext_payload": {
+          "categories": [
+            {
+              "name": "Klassische Konditionierung",
+              "items": [
+                "Ein Hund sabbert schon beim Klang der Futterdose.",
+                "Nach einer Lebensmittelvergiftung wird einem beim Geruch des Gerichts übel."
+              ]
+            },
+            {
+              "name": "Operante Konditionierung",
+              "items": [
+                "Ein Kind räumt öfter auf, seit es dafür gelobt wird.",
+                "Ein Schüler meldet sich seltener, nachdem er einmal ausgelacht wurde."
+              ]
+            },
+            {
+              "name": "Modelllernen",
+              "items": [
+                "Ein Kind macht nach, wie ein Erwachsener einen Werkzeugkasten benutzt.",
+                "Jemand kocht ein Rezept nach, das er in einem Video gesehen hat."
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "ex-ec-verstaerkung",
+      "type": "exercise",
+      "theory_ref": "t-lernen",
+      "title": "Ein Wort ist falsch",
+      "exercise": {
+        "id": "ex-ec-verstaerkung",
+        "stable_id": "ex-msqgsska00jiz",
+        "type": "ext:al-error-correction",
+        "prompt": "Ein Wort macht den Satz fachlich falsch. Markiere es und schreibe die richtige Fassung.",
+        "card_ids": ["verstaerkung", "bestrafung"],
+        "ext_payload": {
+          "tokens": ["Wird", "ein", "unangenehmer", "Reiz", "entfernt", "und", "das", "Verhalten", "dadurch", "häufiger,", "ist", "das", "negative", "Bestrafung", "im", "Sinne", "der", "Lerntheorie."],
+          "error_index": 13,
+          "accept": ["Verstärkung"]
+        }
+      }
+    },
+    {
+      "id": "ex-cloze-konsequenz",
+      "type": "exercise",
+      "theory_ref": "t-lernen",
+      "title": "Positiv oder negativ",
+      "exercise": {
+        "id": "ex-cloze-konsequenz",
+        "stable_id": "ex-msqgsska00kf0",
+        "type": "cloze",
+        "prompt": "Ergänze den passenden Begriff.",
+        "card_ids": ["verstaerkung", "positiv-negativ"],
+        "sentence": "Bekommt ein Verhalten eine angenehme Folge hinzugefügt und tritt danach häufiger auf, ist das ___ Verstärkung.",
+        "blanks": [
+          { "accept": ["positive"] }
+        ],
+        "cloze_mode": "type",
+        "hint": "Positiv heißt: ein Reiz wird hinzugefügt."
+      }
+    },
+    {
+      "id": "ex-mc-vorhersage",
+      "type": "exercise",
+      "theory_ref": "t-lernen",
+      "title": "Was sagt die Theorie voraus",
+      "exercise": {
+        "id": "ex-mc-vorhersage",
+        "stable_id": "ex-msqgsska00lq8",
+        "type": "multiple_choice",
+        "prompt": "Ein Kind bekommt jedes Mal Aufmerksamkeit, wenn es im Supermarkt schreit. Was sagt die operante Konditionierung über das Schreien voraus?",
+        "card_ids": ["operant", "verstaerkung"],
+        "options": [
+          { "text": "Es tritt künftig häufiger auf, weil die Aufmerksamkeit es verstärkt.", "correct": true },
+          { "text": "Es verschwindet von selbst, weil Schreien anstrengend ist." },
+          { "text": "Es bleibt gleich häufig, denn Konsequenzen wirken auf Verhalten nicht." },
+          { "text": "Es wird dadurch zu klassischer Konditionierung." }
+        ],
+        "hint": "Aufmerksamkeit ist hier die Konsequenz des Verhaltens."
+      }
+    },
+    {
+      "id": "ex-free-modelllernen",
+      "type": "exercise",
+      "theory_ref": "t-lernen",
+      "title": "Welche Lernform",
+      "exercise": {
+        "id": "ex-free-modelllernen",
+        "stable_id": "ex-msqgsska00mxy",
+        "type": "free_text",
+        "prompt": "Ein Kind schlägt eine Puppe, nachdem es zugesehen hat, wie ein Erwachsener genau das tut, ganz ohne eigene Belohnung. Welche Lernform zeigt sich?",
+        "card_ids": ["modelllernen"],
+        "accept": ["Modelllernen", "Beobachtungslernen", "Lernen am Modell", "Modell-Lernen"],
+        "hint": "Zusehen und nachmachen, ohne selbst verstärkt zu werden.",
+        "distractors": ["Klassische Konditionierung", "Operante Konditionierung", "Verstärkung"],
+        "direction": "target_to_source"
+      }
+    }
+  ]
+}

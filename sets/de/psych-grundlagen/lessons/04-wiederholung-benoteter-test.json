@@ -1,0 +1,208 @@
+{
+  "id": "04-wiederholung-benoteter-test",
+  "title": "Wiederholung mit benotetem Test",
+  "description": "Wiederholung der Grundlagen und ein benoteter Test, der Verständnis statt Jahreszahlen prüft. Auf Deutsch erklärt.",
+  "target_language": "de",
+  "source_language": "de",
+  "domain": "psychology",
+  "estimated_minutes": 16,
+  "requires_extensions": [
+    "ext:al-graded-quiz@1",
+    "ext:al-categorization@1"
+  ],
+  "cards": [
+    {
+      "id": "r-empirie",
+      "stable_id": "card-msqgsskd00yr5",
+      "front": "Korrelation und Kausalität",
+      "back": "Ein Zusammenhang zeigt nicht, was Ursache ist; nur das kontrollierte Experiment belegt Ursache und Wirkung.",
+      "tags": ["wiederholung"]
+    },
+    {
+      "id": "r-verstaerkung",
+      "stable_id": "card-msqgsskd00z3j",
+      "front": "Verstärkung und Bestrafung",
+      "back": "Verstärkung macht Verhalten häufiger, Bestrafung seltener; positiv heißt hinzufügen, negativ entfernen.",
+      "tags": ["wiederholung"]
+    },
+    {
+      "id": "r-modelllernen",
+      "stable_id": "card-msqgsskd010jn",
+      "front": "Modelllernen",
+      "back": "Verhalten wird durch Beobachtung eines Modells erworben, auch ohne eigene Belohnung.",
+      "tags": ["wiederholung"]
+    },
+    {
+      "id": "r-abruf",
+      "stable_id": "card-msqgsskd011wm",
+      "front": "Aktives Abrufen",
+      "back": "Sich selbst abzufragen festigt das Gedächtnis stärker als erneutes Lesen.",
+      "tags": ["wiederholung"]
+    },
+    {
+      "id": "r-basisemotion",
+      "stable_id": "card-msqgsskd0124y",
+      "front": "Basisemotionen",
+      "back": "Kulturübergreifend am Gesicht erkennbare Emotionen wie Freude, Angst und Ekel.",
+      "tags": ["wiederholung"]
+    }
+  ],
+  "steps": [
+    {
+      "id": "t-wiederholung",
+      "type": "theory",
+      "title": "Worauf es ankam",
+      "body": "# Wiederholung\n\nDie vier Kernideen dieses Sets prüfen Verständnis, nicht Jahreszahlen:\n\n- **Korrelation ist nicht Kausalität.** Nur das kontrollierte Experiment belegt eine Ursache.\n- **Konsequenzen formen Verhalten.** Verstärkung macht es häufiger, Bestrafung seltener; positiv und negativ meinen hinzufügen oder entfernen.\n- **Modelllernen** geschieht durch Beobachtung, auch ohne eigene Belohnung.\n- **Aktives Abrufen** und **verteiltes Üben** behalten besser als mehrfaches Lesen.\n\nDer folgende **benotete Test** bündelt diese Ideen. Er zählt Punkte pro Frage; ab 60 Prozent gilt er als bestanden."
+    },
+    {
+      "id": "ex-quiz",
+      "type": "exercise",
+      "theory_ref": "t-wiederholung",
+      "title": "Benoteter Test",
+      "exercise": {
+        "id": "ex-quiz",
+        "stable_id": "ex-msqgsskd013s5",
+        "type": "ext:al-graded-quiz",
+        "prompt": "Beantworte alle Fragen. Bestanden ab 60 Prozent.",
+        "card_ids": ["r-empirie", "r-verstaerkung", "r-abruf", "r-basisemotion", "r-modelllernen"],
+        "ext_payload": {
+          "pass_threshold": 60,
+          "questions": [
+            {
+              "prompt": "Eine Studie findet: Wer mehr schläft, hat im Schnitt bessere Laune. Was folgt daraus zulässig?",
+              "type": "multiple_choice",
+              "options": [
+                { "text": "Ein Zusammenhang; die Ursache ist damit offen.", "correct": true },
+                { "text": "Mehr Schlaf verursacht sicher bessere Laune." },
+                { "text": "Gute Laune verursacht sicher mehr Schlaf." }
+              ],
+              "points": 2
+            },
+            {
+              "prompt": "Ein Verhalten wird häufiger, weil danach etwas Unangenehmes wegfällt. Wie heißt das?",
+              "type": "multiple_choice",
+              "options": [
+                { "text": "negative Verstärkung", "correct": true },
+                { "text": "positive Bestrafung" },
+                { "text": "klassische Konditionierung" }
+              ],
+              "points": 2
+            },
+            {
+              "prompt": "Welche Lernweise behält mehr: denselben Text nochmals lesen oder sich selbst abfragen?",
+              "type": "free_text",
+              "accept": ["sich selbst abfragen", "abfragen", "aktives Abrufen", "abrufen"],
+              "points": 2
+            },
+            {
+              "prompt": "Welche Aussage über Basisemotionen trifft zu?",
+              "type": "multiple_choice",
+              "options": [
+                { "text": "Sie werden kulturübergreifend am Gesicht erkannt.", "correct": true },
+                { "text": "Sie sind vollständig anerzogen." },
+                { "text": "Sie kommen nur in einer Kultur vor." }
+              ],
+              "points": 2
+            },
+            {
+              "prompt": "Nenne die Lernform: zusehen und nachmachen, ganz ohne eigene Belohnung.",
+              "type": "free_text",
+              "accept": ["Modelllernen", "Beobachtungslernen", "Lernen am Modell"],
+              "points": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "ex-match-review",
+      "type": "exercise",
+      "theory_ref": "t-wiederholung",
+      "title": "Begriff und Kernidee",
+      "exercise": {
+        "id": "ex-match-review",
+        "stable_id": "ex-msqgsskd014a5",
+        "type": "matching",
+        "prompt": "Ordne jedem Begriff seine Kernidee zu.",
+        "card_ids": ["r-empirie", "r-verstaerkung", "r-modelllernen"],
+        "pairs": [
+          { "left": "Experiment", "right": "belegt Ursache und Wirkung" },
+          { "left": "Korrelation", "right": "zeigt einen Zusammenhang, keine Ursache" },
+          { "left": "Verstärkung", "right": "macht Verhalten häufiger" },
+          { "left": "Modelllernen", "right": "lernen durch Beobachtung" }
+        ],
+        "direction": "target_to_source"
+      }
+    },
+    {
+      "id": "ex-cat-review",
+      "type": "exercise",
+      "theory_ref": "t-wiederholung",
+      "title": "Ursache oder nur Zusammenhang",
+      "exercise": {
+        "id": "ex-cat-review",
+        "stable_id": "ex-msqgsskd015iz",
+        "type": "ext:al-categorization",
+        "prompt": "Sortiere jede Studie danach, ob sie eine Ursache belegen kann.",
+        "card_ids": ["r-empirie", "r-basisemotion"],
+        "ext_payload": {
+          "categories": [
+            {
+              "name": "Ursache belegbar (Experiment)",
+              "items": [
+                "Eine Gruppe erhält zufällig ein Schlafmittel, die andere ein Placebo, dann vergleicht man.",
+                "Man verändert gezielt die Raumtemperatur und misst danach die Konzentration."
+              ]
+            },
+            {
+              "name": "Nur Zusammenhang (Korrelation)",
+              "items": [
+                "Wer mehr Bücher besitzt, hat oft bessere Noten.",
+                "In Monaten mit mehr Eisverkauf gibt es mehr Sonnenbrände."
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "ex-cloze-review",
+      "type": "exercise",
+      "theory_ref": "t-wiederholung",
+      "title": "Der stärkere Weg",
+      "exercise": {
+        "id": "ex-cloze-review",
+        "stable_id": "ex-msqgsskd016we",
+        "type": "cloze",
+        "prompt": "Ergänze den passenden Begriff.",
+        "card_ids": ["r-abruf"],
+        "sentence": "Aktives ___ festigt das Gedächtnis stärker als erneutes Lesen.",
+        "blanks": [
+          { "accept": ["Abrufen", "Abruf"] }
+        ],
+        "cloze_mode": "type",
+        "hint": "Sich den Stoff aus dem Kopf holen, statt ihn wieder zu lesen."
+      }
+    },
+    {
+      "id": "ex-mc-review",
+      "type": "exercise",
+      "theory_ref": "t-wiederholung",
+      "title": "Positiv und negativ",
+      "exercise": {
+        "id": "ex-mc-review",
+        "stable_id": "ex-msqgsskd017ly",
+        "type": "multiple_choice",
+        "prompt": "Was bezeichnen positiv und negativ in der Lerntheorie?",
+        "card_ids": ["r-verstaerkung"],
+        "options": [
+          { "text": "Ob ein Reiz hinzugefügt oder entfernt wird.", "correct": true },
+          { "text": "Ob die Folge angenehm oder unangenehm ist." },
+          { "text": "Ob das Verhalten gut oder schlecht ist." },
+          { "text": "Ob gelobt oder getadelt wird." }
+        ],
+        "hint": "Es geht um hinzufügen oder wegnehmen, nicht um das Gefühl."
+      }
+    }
+  ]
+}

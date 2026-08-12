@@ -185,20 +185,35 @@
       }
     },
     {
-      "id": "ex-free-seligman",
+      "id": "ex-l10-mc-perma",
       "type": "exercise",
       "theory_ref": "theorie-einfuehrung",
-      "title": "Begründer benennen",
+      "title": "PERMA anwenden",
       "exercise": {
-        "id": "ex-free-seligman",
-        "stable_id": "ex-ms942qoo09nw1",
-        "type": "free_text",
-        "prompt": "Wer gilt als Begründer der Positiven Psychologie und entwickelte das PERMA-Modell?",
-        "card_ids": ["seligman", "perma-modell"],
-        "accept": ["Martin Seligman", "Seligman", "martin seligman", "M. Seligman"],
-        "hint": "US-amerikanischer Psychologe, tätig an der Universität Pennsylvania.",
-        "distractors": ["Mihály Csikszentmihalyi", "Carol Dweck", "Albert Bandura"],
-        "direction": "target_to_source"
+        "id": "ex-l10-mc-perma",
+        "stable_id": "ex-msqhjmhc02iey",
+        "type": "multiple_choice",
+        "prompt": "Jemand erlebt seine Arbeit als zutiefst bedeutsam und einem größeren Ganzen dienend. Welche PERMA-Dimension beschreibt das?",
+        "card_ids": [
+          "perma-modell",
+          "sinn-perma"
+        ],
+        "options": [
+          {
+            "text": "Sinn (Meaning).",
+            "correct": true
+          },
+          {
+            "text": "Positive Emotionen."
+          },
+          {
+            "text": "Engagement."
+          },
+          {
+            "text": "Leistung."
+          }
+        ],
+        "hint": "Es geht um Bedeutung und einen größeren Zusammenhang."
       }
     },
     {

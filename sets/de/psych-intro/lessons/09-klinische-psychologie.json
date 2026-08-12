@@ -6,6 +6,9 @@
   "source_language": "de",
   "domain": "psychology",
   "estimated_minutes": 13,
+  "requires_extensions": [
+    "ext:al-error-correction@1"
+  ],
   "cards": [
     {
       "id": "klinische-psychologie",
@@ -277,22 +280,38 @@
       }
     },
     {
-      "id": "ex-cloze-psychoanalyse",
+      "id": "ex-l09-ec-psychoanalyse",
       "type": "exercise",
       "theory_ref": "theorie-therapie-pharma",
-      "title": "Begründer der Psychoanalyse",
+      "title": "Ein Wort ist falsch",
       "exercise": {
-        "id": "ex-cloze-psychoanalyse",
-        "stable_id": "ex-ms942qon092c4",
-        "type": "cloze",
-        "prompt": "Ergänze den Namen des Begründers der Psychoanalyse.",
-        "card_ids": ["psychoanalyse"],
-        "sentence": "Die Psychoanalyse wurde von ___ begründet, der das Unbewusste in den Mittelpunkt stellte.",
-        "blanks": [
-          { "accept": ["Freud", "Sigmund Freud"] }
+        "id": "ex-l09-ec-psychoanalyse",
+        "stable_id": "ex-msqhjmh702cal",
+        "type": "ext:al-error-correction",
+        "prompt": "Ein Wort macht den Satz fachlich falsch. Markiere es und schreibe die richtige Fassung.",
+        "card_ids": [
+          "psychoanalyse"
         ],
-        "cloze_mode": "type",
-        "hint": "Sein Vorname ist Sigmund."
+        "ext_payload": {
+          "tokens": [
+            "Die",
+            "Psychoanalyse",
+            "betont",
+            "vor",
+            "allem",
+            "den",
+            "Einfluss",
+            "bewusster",
+            "Wünsche",
+            "und",
+            "früher",
+            "Kindheitserfahrungen."
+          ],
+          "error_index": 7,
+          "accept": [
+            "unbewusster"
+          ]
+        }
       }
     },
     {

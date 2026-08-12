@@ -6,6 +6,9 @@
   "source_language": "de",
   "domain": "psychology",
   "estimated_minutes": 15,
+  "requires_extensions": [
+    "ext:al-categorization@1"
+  ],
   "cards": [
     {
       "id": "psycholinguistik",
@@ -225,20 +228,37 @@
       }
     },
     {
-      "id": "ex-free-spracherwerb-debatte",
+      "id": "ex-l47-cat-spracherwerb",
       "type": "exercise",
       "theory_ref": "theorie-nature-nurture",
-      "title": "Wer sagt was?",
+      "title": "Angeboren oder gelernt",
       "exercise": {
-        "id": "ex-free-spracherwerb-debatte",
-        "stable_id": "ex-ms942qpk10l6f",
-        "type": "free_text",
-        "prompt": "Wer vertritt die Ansicht, Kinder seien mit einer angeborenen Universalgrammatik ausgestattet?",
-        "card_ids": ["chomsky-lad"],
-        "accept": ["Chomsky", "Noam Chomsky", "Noam Chomsky (Nativismus)", "Nativismus / Chomsky"],
-        "hint": "Er schrieb eine berühmte Kritik von Skinners 'Verbal Behavior' (1959).",
-        "distractors": ["Skinner", "Pavlov", "Ebbinghaus"],
-        "direction": "target_to_source"
+        "id": "ex-l47-cat-spracherwerb",
+        "stable_id": "ex-msqhjmhs048au",
+        "type": "ext:al-categorization",
+        "prompt": "Ordne jede Aussage der Sicht zu, zu der sie gehört.",
+        "card_ids": [
+          "chomsky-lad",
+          "skinner-spracherwerb"
+        ],
+        "ext_payload": {
+          "categories": [
+            {
+              "name": "Angeborene Ausstattung (nativistisch)",
+              "items": [
+                "Kinder verfügen über eine angeborene Grundausstattung für Grammatik.",
+                "Der Spracherwerb verläuft schneller, als reines Nachahmen erklären könnte."
+              ]
+            },
+            {
+              "name": "Lernen durch Erfahrung (lerntheoretisch)",
+              "items": [
+                "Sprache entsteht vor allem durch Nachahmung und Verstärkung.",
+                "Richtige Äußerungen werden vom Umfeld belohnt und dadurch häufiger."
+              ]
+            }
+          ]
+        }
       }
     },
     {

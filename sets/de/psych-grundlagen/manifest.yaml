@@ -1,0 +1,73 @@
+# Psychologie: Verständnis-Grundlagen (für Deutschsprachige), Set-Manifest.
+#
+# Neues, verständnisorientiertes Grundlagen-Set (domain: psychology).
+# Material und Erklärung sind beide auf Deutsch (source_language ==
+# target_language); der Set-Ordner trägt einen Themennamen
+# (psych-grundlagen) statt eines {target}-{level}-Namens. Der
+# Content-Loader liest metadata.lessons für die Dateiliste.
+#
+# Hintergrund (siehe Issue #21): Das grosse Set psych-intro prüft an
+# einigen Stellen reine Fakten (Jahreszahl, Eigenname). Solche Aufgaben
+# in einem veröffentlichten Set zu ersetzen ist mit der gepinnten Engine
+# nicht tor-konform möglich, weil das Ausmustern veröffentlichter
+# Kennungen gesperrt ist (E-RETIRED-IDS-LOCKED). Statt das alte Set
+# umzubauen, entsteht hier ein neues Set, das denselben Grundstoff von
+# Anfang an über Verständnis prüft und die neu verfügbaren Aufgabentypen
+# nutzt.
+#
+# v0.1.0 (schema v1.4): Starter-Set mit vier Lektionen. Genutzte
+# Aufgabentypen: die Erweiterungstypen ext:al-reading-comprehension,
+# ext:al-categorization, ext:al-error-correction und ext:al-graded-quiz
+# sowie die Kern-Typen multiple_choice, matching, cloze (type) und
+# free_text, mit einem Theorie-Schritt pro Lektion. picture_choice wird
+# bewusst weggelassen, da keine sinnvollen, real vorhandenen Bilder
+# vorliegen. review_status: generated, denn der Inhalt ist
+# maschinell entworfen und wartet auf eine fachliche Durchsicht.
+schema_version: '1.4'
+name: 'Psychologie: Verständnis-Grundlagen'
+description: >-
+  Ein neues deutschsprachiges Grundlagen-Set, das den psychologischen
+  Grundstoff von Anfang an über Verständnis prüft statt über Jahreszahlen
+  und Namen: Psychologie als empirische Wissenschaft, Konditionierung und
+  Modelllernen, Gedächtnis und Emotion sowie eine Wiederholung mit
+  benotetem Test. Nutzt die neu verfügbaren Aufgabentypen Leseverständnis,
+  Kategorisierung, Fehlerkorrektur und benotetes Quiz.
+sets:
+  - id: psych-grundlagen-from-de
+    title: 'Psychologie: Verständnis-Grundlagen'
+    title_native: 'Psychologie: Verständnis-Grundlagen'
+    target_language: de
+    source_language: de
+    domain: psychology
+    level: A1
+    path: sets/de/psych-grundlagen
+    version: '0.1.0'
+    lesson_count: 4
+    review_status: generated
+    description: >-
+      Starter-Set (4 Lektionen), auf Deutsch erklärt: Psychologie als
+      empirische Wissenschaft (Methoden, Korrelation gegen Kausalität),
+      Konditionierung verstehen (klassisch, operant, Modelllernen),
+      Gedächtnis und Emotion verstehen (Gedächtnisprozess, wirksames
+      Lernen, Basisemotionen) sowie eine Wiederholung mit benotetem Test.
+      Die Aufgaben prüfen, ob ein Zusammenhang verstanden, auf einen Fall
+      angewendet oder von Ähnlichem unterschieden werden kann, nicht ob
+      eine Jahreszahl oder ein Name erinnert wird.
+    tags:
+      - beginner
+      - psychology
+      - science
+      - understanding
+    book:
+      title: "Psychologie"
+      author: "Philip Zimbardo, Robert Johnson, Vivian McCann"
+      isbn: "978-3868943238"
+      url: "https://www.amazon.de/dp/3868943234/"
+metadata:
+  author: Asterios Raptis
+  license: CC-BY-SA-4.0
+  lessons:
+    - 01-psychologie-als-empirische-wissenschaft.json
+    - 02-konditionierung-verstehen.json
+    - 03-gedaechtnis-und-emotion-verstehen.json
+    - 04-wiederholung-benoteter-test.json

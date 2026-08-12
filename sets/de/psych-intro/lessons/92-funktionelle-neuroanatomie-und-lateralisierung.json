@@ -272,20 +272,35 @@
       }
     },
     {
-      "id": "ex-cloze-splitbrain",
+      "id": "ex-l92-mc-callosum",
       "type": "exercise",
       "theory_ref": "hemisphaeren-mythos",
-      "title": "Split-Brain einordnen",
+      "title": "Folgen der Durchtrennung",
       "exercise": {
-        "id": "ex-cloze-splitbrain",
-        "stable_id": "ex-ms942qqb1om70",
-        "type": "cloze",
-        "prompt": "Ergänze den Forscher, der für die Split-Brain-Untersuchungen 1981 den Nobelpreis erhielt.",
-        "card_ids": ["split-brain"],
-        "sentence": "Für die Split-Brain-Forschung an Patienten mit durchtrenntem Balken erhielt Roger ___ 1981 den Nobelpreis.",
-        "blanks": [{"accept": ["Sperry", "Sperry.", "Roger Sperry"]}],
-        "cloze_mode": "type",
-        "hint": "Zusammen mit Gazzaniga bekannt geworden."
+        "id": "ex-l92-mc-callosum",
+        "stable_id": "ex-msqhjmhy0596p",
+        "type": "multiple_choice",
+        "prompt": "Wozu führt eine Durchtrennung des Corpus callosum (Split-Brain)?",
+        "card_ids": [
+          "corpus-callosum",
+          "split-brain"
+        ],
+        "options": [
+          {
+            "text": "Die beiden Hemisphären tauschen keine Information mehr direkt aus.",
+            "correct": true
+          },
+          {
+            "text": "Beide Hemisphären verschmelzen zu einer."
+          },
+          {
+            "text": "Das Gehirn stellt seine Tätigkeit ganz ein."
+          },
+          {
+            "text": "Die Hemisphären arbeiten danach exakt gleich."
+          }
+        ],
+        "hint": "Das Corpus callosum ist die Verbindung zwischen den Hälften."
       }
     }
   ]

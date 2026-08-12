@@ -169,22 +169,35 @@
       }
     },
     {
-      "id": "ex-cloze-wundt-jahr",
+      "id": "ex-l38-mc-labor",
       "type": "exercise",
       "theory_ref": "step-theory-anfaenge",
-      "title": "Das Gründungsjahr der Psychologie",
+      "title": "Beginn der wissenschaftlichen Psychologie",
       "exercise": {
-        "id": "ex-cloze-wundt-jahr",
-        "stable_id": "ex-ms942qpf0vpk8",
-        "type": "cloze",
-        "prompt": "Ergänze das Gründungsjahr des ersten psychologischen Labors.",
-        "card_ids": ["wundt-erstes-labor"],
-        "sentence": "Wilhelm Wundt gründete ___ in Leipzig das erste psychologische Labor.",
-        "blanks": [
-          { "accept": ["1879"] }
+        "id": "ex-l38-mc-labor",
+        "stable_id": "ex-msqhjmhl03bcx",
+        "type": "multiple_choice",
+        "prompt": "Warum gilt die Gründung des ersten Labors als Beginn der wissenschaftlichen Psychologie?",
+        "card_ids": [
+          "wundt-erstes-labor",
+          "introspektion"
         ],
-        "cloze_mode": "type",
-        "hint": "Ein Jahr im späten 19. Jahrhundert — merke dir '18-79'."
+        "options": [
+          {
+            "text": "Weil Erleben dort erstmals experimentell und wiederholbar untersucht wurde.",
+            "correct": true
+          },
+          {
+            "text": "Weil damit alle älteren Fragen als gelöst galten."
+          },
+          {
+            "text": "Weil die Psychologie danach ohne Beobachtung auskam."
+          },
+          {
+            "text": "Weil das Jahr eine runde Zahl ist."
+          }
+        ],
+        "hint": "Entscheidend ist die experimentelle Methode."
       }
     },
     {
