@@ -1,0 +1,202 @@
+{
+  "id": "01-psychologie-als-empirische-wissenschaft",
+  "title": "Psychologie als empirische Wissenschaft",
+  "description": "Warum Psychologie ihre Aussagen an Daten prüft, was Methoden zeigen können und warum Zusammenhang nicht Ursache ist. Auf Deutsch erklärt.",
+  "target_language": "de",
+  "source_language": "de",
+  "domain": "psychology",
+  "estimated_minutes": 14,
+  "requires_extensions": [
+    "ext:al-reading-comprehension@1",
+    "ext:al-categorization@1",
+    "ext:al-error-correction@1"
+  ],
+  "cards": [
+    {
+      "id": "empirie",
+      "stable_id": "card-msqgssk9001yv",
+      "front": "Empirische Wissenschaft",
+      "back": "Wissenschaft, die ihre Aussagen an systematisch erhobenen Daten prüft statt an Alltagsmeinungen.",
+      "notes": "Das unterscheidet Psychologie von Küchenpsychologie: nicht was plausibel klingt zählt, sondern was sich prüfen lässt.",
+      "tags": ["grundlagen"]
+    },
+    {
+      "id": "experiment",
+      "stable_id": "card-msqgssk90026z",
+      "front": "Experiment",
+      "back": "Gezielte Veränderung einer Variable unter kontrollierten Bedingungen; erlaubt als einzige Methode eine Ursache-Wirkung-Aussage.",
+      "notes": "Kontrolle über Störvariablen ist der Grund, warum nur das Experiment kausal schließen lässt.",
+      "tags": ["methode"]
+    },
+    {
+      "id": "korrelation",
+      "stable_id": "card-msqgssk9003j3",
+      "front": "Korrelationsstudie",
+      "back": "Misst, wie stark zwei Variablen zusammenhängen, zeigt aber keine Ursache.",
+      "notes": "Merksatz: Korrelation ist nicht Kausalität.",
+      "tags": ["methode"]
+    },
+    {
+      "id": "kausalitaet",
+      "stable_id": "card-msqgssk900461",
+      "front": "Kausalität",
+      "back": "Eine Ursache-Wirkung-Beziehung; belegbar nur durch kontrollierte Veränderung einer Variable.",
+      "tags": ["grundlagen"]
+    },
+    {
+      "id": "beobachtung",
+      "stable_id": "card-msqgssk9005qv",
+      "front": "Beobachtung",
+      "back": "Systematisches Erfassen von Verhalten, ohne einzugreifen; hoher Realitätsbezug, aber keine Kontrolle über Störvariablen.",
+      "tags": ["methode"]
+    },
+    {
+      "id": "drittvariable",
+      "stable_id": "card-msqgssk9006q0",
+      "front": "Drittvariable",
+      "back": "Eine unbeachtete Variable, die zwei zusammenhängende Größen gemeinsam verursacht, zum Beispiel die Hitze bei Eiskonsum und Sonnenbränden.",
+      "notes": "Der häufigste Grund, warum ein Zusammenhang noch keine Ursache belegt.",
+      "tags": ["grundlagen"]
+    }
+  ],
+  "steps": [
+    {
+      "id": "t-empirie",
+      "type": "theory",
+      "title": "Daten statt Meinung",
+      "body": "# Psychologie als empirische Wissenschaft\n\n**Psychologie** erklärt Erleben und Verhalten nicht aus dem Lehnstuhl, sondern aus *systematisch erhobenen Daten*. Eine Aussage zählt hier nicht, weil sie plausibel klingt, sondern weil sie sich **prüfen** lässt.\n\nDeshalb war es ein Wendepunkt, als Erleben zum ersten Mal in einem Labor **unter kontrollierten Bedingungen gemessen** wurde: nicht die Jahreszahl ist das Entscheidende, sondern der Schritt von der Spekulation zur prüfbaren Beobachtung.\n\n## Vier Methoden, unterschiedliche Aussagekraft\n\n| Methode | Was sie zeigt |\n|---|---|\n| **Experiment** | Ursache und Wirkung, weil eine Variable gezielt verändert wird |\n| **Beobachtung** | Verhalten im Alltag, ohne Eingriff |\n| **Befragung** | inneres Erleben, anfällig für verzerrte Selbstauskunft |\n| **Korrelationsstudie** | wie stark zwei Größen zusammenhängen |\n\n**Merksatz: Korrelation ist nicht Kausalität.** Dass zwei Dinge gemeinsam auftreten, etwa Eiskonsum und Sonnenbrände, heißt nicht, dass das eine das andere verursacht. Oft steckt eine **Drittvariable** dahinter, hier die Hitze."
+    },
+    {
+      "id": "ex-rc-empirie",
+      "type": "exercise",
+      "theory_ref": "t-empirie",
+      "title": "Warum eine Wissenschaft",
+      "exercise": {
+        "id": "ex-rc-empirie",
+        "stable_id": "ex-msqgssk9007c0",
+        "type": "ext:al-reading-comprehension",
+        "prompt": "Lies den Abschnitt und beantworte die Fragen.",
+        "card_ids": ["empirie", "experiment"],
+        "ext_payload": {
+          "passage": "Lange stützte sich das Reden über die Seele auf Alltagsbeobachtung und kluge Vermutung. Zur Wissenschaft wurde die Psychologie erst, als sie anfing, ihre Aussagen an systematisch erhobenen Daten zu prüfen. Der entscheidende Schritt war, Erleben unter kontrollierten Bedingungen messbar zu machen: Was sich messen und wiederholen lässt, lässt sich prüfen, und was geprüfte Vorhersagen überlebt, darf als Wissen gelten.",
+          "questions": [
+            {
+              "prompt": "Was macht die Psychologie laut Text zu einer Wissenschaft?",
+              "type": "multiple_choice",
+              "options": [
+                { "text": "Dass sie ihre Aussagen an systematisch erhobenen Daten prüft.", "correct": true },
+                { "text": "Dass sie besonders kluge Vermutungen über die Seele anstellt." },
+                { "text": "Dass sie auf Alltagsbeobachtung verzichtet und nur nachdenkt." }
+              ]
+            },
+            {
+              "prompt": "Warum war das Messen unter kontrollierten Bedingungen ein Wendepunkt?",
+              "type": "multiple_choice",
+              "options": [
+                { "text": "Weil sich messbare Beobachtungen prüfen und wiederholen lassen.", "correct": true },
+                { "text": "Weil damit bewiesen war, dass Vermutungen immer falsch sind." },
+                { "text": "Weil die Psychologie seither ohne Theorie auskommt." }
+              ]
+            },
+            {
+              "prompt": "Womit begründet die Psychologie ihre Aussagen, statt sich auf Alltagsmeinungen zu verlassen?",
+              "type": "free_text",
+              "accept": ["mit systematisch erhobenen Daten", "mit Daten", "mit empirischen Daten", "systematisch erhobene Daten"]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "ex-cat-pruefbar",
+      "type": "exercise",
+      "theory_ref": "t-empirie",
+      "title": "Prüfbar oder nicht",
+      "exercise": {
+        "id": "ex-cat-pruefbar",
+        "stable_id": "ex-msqgssk9008fz",
+        "type": "ext:al-categorization",
+        "prompt": "Sortiere jede Aussage danach, ob sie sich empirisch prüfen lässt.",
+        "card_ids": ["empirie"],
+        "ext_payload": {
+          "categories": [
+            {
+              "name": "Empirisch prüfbar",
+              "items": [
+                "Wer regelmäßig Sport treibt, schläft im Schnitt messbar besser.",
+                "Ein Medikament senkt die Rückfallquote stärker als ein Placebo.",
+                "Kinder lösen mit sieben Jahren im Schnitt mehr Aufgaben als mit vier."
+              ]
+            },
+            {
+              "name": "Nicht wissenschaftlich prüfbar",
+              "items": [
+                "Die Seele ist unsterblich.",
+                "Träume sind Botschaften des Schicksals.",
+                "Jeder Mensch hat ein vorbestimmtes Lebensziel."
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "ex-ec-korrelation",
+      "type": "exercise",
+      "theory_ref": "t-empirie",
+      "title": "Ein Wort ist falsch",
+      "exercise": {
+        "id": "ex-ec-korrelation",
+        "stable_id": "ex-msqgssk9009v8",
+        "type": "ext:al-error-correction",
+        "prompt": "Ein Wort macht den Satz fachlich falsch. Markiere es und schreibe die richtige Fassung.",
+        "card_ids": ["korrelation", "kausalitaet"],
+        "ext_payload": {
+          "tokens": ["Eine", "Korrelation", "zeigt", "einen", "Zusammenhang,", "aber", "eine", "Ursache."],
+          "error_index": 6,
+          "accept": ["keine"]
+        }
+      }
+    },
+    {
+      "id": "ex-mc-methode",
+      "type": "exercise",
+      "theory_ref": "t-empirie",
+      "title": "Was folgt zulässig",
+      "exercise": {
+        "id": "ex-mc-methode",
+        "stable_id": "ex-msqgssk900a3y",
+        "type": "multiple_choice",
+        "prompt": "Eine Studie stellt fest: Menschen, die mehr Kaffee trinken, schlafen schlechter. Was folgt daraus zulässigerweise?",
+        "card_ids": ["korrelation", "experiment", "drittvariable"],
+        "options": [
+          { "text": "Es besteht ein Zusammenhang; die Ursache ist damit noch nicht geklärt.", "correct": true },
+          { "text": "Kaffee verursacht schlechten Schlaf." },
+          { "text": "Schlechter Schlaf verursacht den Kaffeekonsum." },
+          { "text": "Kaffee ist für den Schlaf völlig unbedenklich." }
+        ],
+        "hint": "Es ist eine Beobachtung ohne gezielte Veränderung einer Variable."
+      }
+    },
+    {
+      "id": "ex-match-methoden",
+      "type": "exercise",
+      "theory_ref": "t-empirie",
+      "title": "Methode und Aussagekraft",
+      "exercise": {
+        "id": "ex-match-methoden",
+        "stable_id": "ex-msqgssk900bwv",
+        "type": "matching",
+        "prompt": "Ordne jeder Methode zu, was sie leisten kann.",
+        "card_ids": ["experiment", "beobachtung", "korrelation"],
+        "pairs": [
+          { "left": "Experiment", "right": "kann Ursache und Wirkung belegen" },
+          { "left": "Beobachtung", "right": "erfasst Verhalten im Alltag ohne Eingriff" },
+          { "left": "Korrelationsstudie", "right": "zeigt einen Zusammenhang, aber keine Ursache" },
+          { "left": "Befragung", "right": "erschließt inneres Erleben, anfällig für Verzerrung" }
+        ],
+        "direction": "target_to_source"
+      }
+    }
+  ]
+}

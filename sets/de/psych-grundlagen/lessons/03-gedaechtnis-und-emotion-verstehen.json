@@ -1,0 +1,200 @@
+{
+  "id": "03-gedaechtnis-und-emotion-verstehen",
+  "title": "Gedächtnis und Emotion verstehen",
+  "description": "Gedächtnis als Prozess, wirksames Lernen und was Basisemotionen ausmacht: anwenden statt Namen abrufen. Auf Deutsch erklärt.",
+  "target_language": "de",
+  "source_language": "de",
+  "domain": "psychology",
+  "estimated_minutes": 15,
+  "requires_extensions": [
+    "ext:al-reading-comprehension@1",
+    "ext:al-categorization@1",
+    "ext:al-error-correction@1"
+  ],
+  "cards": [
+    {
+      "id": "enkodierung",
+      "stable_id": "card-msqgsskc00nxw",
+      "front": "Enkodierung",
+      "back": "Das Aufnehmen und Umwandeln von Information in eine speicherbare Form.",
+      "tags": ["gedaechtnis"]
+    },
+    {
+      "id": "speicherung",
+      "stable_id": "card-msqgsskc00ozj",
+      "front": "Speicherung",
+      "back": "Das Behalten enkodierter Information über die Zeit.",
+      "tags": ["gedaechtnis"]
+    },
+    {
+      "id": "abruf",
+      "stable_id": "card-msqgsskc00psp",
+      "front": "Abruf",
+      "back": "Das Wiederfinden gespeicherter Information. Aktives Abrufen festigt das Gedächtnis stärker als erneutes Lesen.",
+      "notes": "Sich selbst abzufragen ist wirksames Lernen, nicht bloß eine Prüfung des Wissens.",
+      "tags": ["gedaechtnis"]
+    },
+    {
+      "id": "vergessenskurve",
+      "stable_id": "card-msqgsskc00q0k",
+      "front": "Vergessenskurve",
+      "back": "Neu Gelerntes wird zunächst rasch vergessen; Wiederholung in Abständen bremst den Verlust.",
+      "tags": ["gedaechtnis"]
+    },
+    {
+      "id": "verteiltes-lernen",
+      "stable_id": "card-msqgsskc00rf4",
+      "front": "Verteiltes Lernen",
+      "back": "Über mehrere Sitzungen verteiltes Üben behält besser als dieselbe Zeit am Stück.",
+      "tags": ["gedaechtnis"]
+    },
+    {
+      "id": "basisemotion",
+      "stable_id": "card-msqgsskc00sff",
+      "front": "Basisemotion",
+      "back": "Eine Emotion, die kulturübergreifend am Gesichtsausdruck erkannt wird, etwa Freude, Angst, Ekel, Wut, Trauer und Überraschung.",
+      "notes": "Davon zu unterscheiden sind komplexe, stark sozial geprägte Gefühle wie Scham oder Stolz.",
+      "tags": ["emotion"]
+    }
+  ],
+  "steps": [
+    {
+      "id": "t-gedaechtnis",
+      "type": "theory",
+      "title": "Behalten und Fühlen",
+      "body": "# Gedächtnis und Emotion verstehen\n\n## Gedächtnis ist ein Prozess\nDrei Schritte: **Enkodierung** (aufnehmen), **Speicherung** (behalten), **Abruf** (wiederfinden). Neu Gelerntes wird zuerst rasch vergessen. Wiederholung in *Abständen* bremst diesen Verlust.\n\nWichtig fürs Lernen: **Aktives Abrufen** festigt stärker als erneutes Lesen. Mehrfaches Lesen fühlt sich vertraut an, aber Vertrautheit ist nicht dasselbe wie Können. Wer sich selbst abfragt und den Stoff über mehrere Tage verteilt, behält deutlich mehr.\n\n## Basisemotionen\nEinige Emotionen werden **kulturübergreifend** am Gesichtsausdruck erkannt: Freude, Angst, Ekel, Wut, Trauer, Überraschung. Dass Menschen sehr verschiedener Herkunft denselben Ausdruck gleich deuten, spricht dafür, dass diese Gefühle eine gemeinsame biologische Grundlage haben. Davon unterscheiden sich **komplexe** Gefühle wie Scham oder Stolz, die stärker sozial geprägt sind."
+    },
+    {
+      "id": "ex-rc-lernen",
+      "type": "exercise",
+      "theory_ref": "t-gedaechtnis",
+      "title": "Was wirklich behält",
+      "exercise": {
+        "id": "ex-rc-lernen",
+        "stable_id": "ex-msqgsskc00tje",
+        "type": "ext:al-reading-comprehension",
+        "prompt": "Lies den Abschnitt und beantworte die Fragen.",
+        "card_ids": ["abruf", "verteiltes-lernen"],
+        "ext_payload": {
+          "passage": "Vor einer Prüfung liest Mara denselben Abschnitt fünfmal hintereinander. Der Text wird ihr immer vertrauter, und sie fühlt sich sicher. In der Prüfung fällt ihr vieles doch nicht ein. Ihr Bruder lernt anders: Er verteilt den Stoff über mehrere Abende und schließt jedes Mal das Buch, um die Kernideen aus dem Kopf aufzuschreiben. Das fühlt sich anstrengender und weniger sicher an, doch abrufen kann er am Ende mehr.",
+          "questions": [
+            {
+              "prompt": "Welche Lernweise behält den Stoff laut Text besser?",
+              "type": "multiple_choice",
+              "options": [
+                { "text": "Über mehrere Abende verteilen und sich selbst abfragen.", "correct": true },
+                { "text": "Denselben Abschnitt mehrmals hintereinander lesen." },
+                { "text": "Den Text möglichst oft bunt markieren." }
+              ]
+            },
+            {
+              "prompt": "Warum täuscht mehrfaches Lesen ein sicheres Gefühl vor?",
+              "type": "multiple_choice",
+              "options": [
+                { "text": "Der Text wird vertraut, ohne dass der Abruf geübt wird.", "correct": true },
+                { "text": "Lesen verbraucht das Wissen und macht es unsichtbar." },
+                { "text": "Vertrautheit ist immer dasselbe wie sicheres Können." }
+              ]
+            },
+            {
+              "prompt": "Was sollte man tun, statt denselben Text nur wieder zu lesen?",
+              "type": "free_text",
+              "accept": ["sich selbst abfragen", "aktiv abrufen", "den Stoff verteilt üben", "abrufen und verteilen"]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "ex-cat-lernstrategien",
+      "type": "exercise",
+      "theory_ref": "t-gedaechtnis",
+      "title": "Wirksam oder nicht",
+      "exercise": {
+        "id": "ex-cat-lernstrategien",
+        "stable_id": "ex-msqgsskc00u88",
+        "type": "ext:al-categorization",
+        "prompt": "Sortiere jede Lernstrategie nach ihrer Wirksamkeit.",
+        "card_ids": ["vergessenskurve", "verteiltes-lernen", "abruf"],
+        "ext_payload": {
+          "categories": [
+            {
+              "name": "Wirksam",
+              "items": [
+                "Sich selbst abfragen, ohne ins Heft zu schauen.",
+                "Den Stoff über mehrere Tage verteilen.",
+                "Nach dem Lesen die Kernidee aus dem Kopf aufschreiben."
+              ]
+            },
+            {
+              "name": "Weniger wirksam",
+              "items": [
+                "Denselben Abschnitt fünfmal hintereinander lesen.",
+                "Textstellen bunt markieren, ohne sie zu prüfen.",
+                "Alles in einer langen Nachtsitzung durchgehen."
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "ex-match-gedaechtnis",
+      "type": "exercise",
+      "theory_ref": "t-gedaechtnis",
+      "title": "Schritt und Beschreibung",
+      "exercise": {
+        "id": "ex-match-gedaechtnis",
+        "stable_id": "ex-msqgsskc00vqn",
+        "type": "matching",
+        "prompt": "Ordne jedem Begriff seine Beschreibung zu.",
+        "card_ids": ["enkodierung", "speicherung", "abruf", "verteiltes-lernen"],
+        "pairs": [
+          { "left": "Enkodierung", "right": "Information in eine speicherbare Form bringen" },
+          { "left": "Speicherung", "right": "Behalten über die Zeit" },
+          { "left": "Abruf", "right": "Gespeichertes wiederfinden" },
+          { "left": "Verteiltes Lernen", "right": "über mehrere Sitzungen üben statt am Stück" }
+        ],
+        "direction": "target_to_source"
+      }
+    },
+    {
+      "id": "ex-mc-emotion",
+      "type": "exercise",
+      "theory_ref": "t-gedaechtnis",
+      "title": "Was spricht das für",
+      "exercise": {
+        "id": "ex-mc-emotion",
+        "stable_id": "ex-msqgsskc00wqt",
+        "type": "multiple_choice",
+        "prompt": "Menschen sehr verschiedener Kulturen deuten denselben Gesichtsausdruck als Angst. Wofür spricht dieser Befund?",
+        "card_ids": ["basisemotion"],
+        "options": [
+          { "text": "Dass einige Emotionen kulturübergreifend erkennbar sind.", "correct": true },
+          { "text": "Dass alle Emotionen rein anerzogen sind." },
+          { "text": "Dass Angst keine echte Emotion ist." },
+          { "text": "Dass Gesichtsausdrücke keine Bedeutung tragen." }
+        ],
+        "hint": "Gleiche Deutung trotz sehr verschiedener Herkunft."
+      }
+    },
+    {
+      "id": "ex-ec-emotion",
+      "type": "exercise",
+      "theory_ref": "t-gedaechtnis",
+      "title": "Ein Wort ist falsch",
+      "exercise": {
+        "id": "ex-ec-emotion",
+        "stable_id": "ex-msqgsskc00xy4",
+        "type": "ext:al-error-correction",
+        "prompt": "Ein Wort macht den Satz fachlich falsch. Markiere es und schreibe die richtige Fassung.",
+        "card_ids": ["basisemotion"],
+        "ext_payload": {
+          "tokens": ["Basisemotionen", "werden", "kulturübergreifend", "am", "Gesicht", "schwer", "erkannt."],
+          "error_index": 5,
+          "accept": ["zuverlässig", "gut", "leicht"]
+        }
+      }
+    }
+  ]
+}
