@@ -6,6 +6,7 @@
 #   psych-intro          Psychologie — Grundlagen        (A1, 112 Lektionen)
 #   psych-beeinflussung  Psychologie der Beeinflussung   (A2, 8 Lektionen)
 #   psych-rhetorik       Psychologie der Rhetorik        (B1, 5 Lektionen)
+#   psych-grundlagen     Psychologie: Verständnis-Grundlagen (A1, 4 Lektionen)
 #
 # Vormals in astrapi69/adaptive-learner-content; in dieses eigenständige
 # Content-Repo ausgelagert (siehe adaptive-learner-content#144). Die
@@ -124,3 +125,33 @@ sets:
     book:
       title: "Rhetorik"
       author: "Aristoteles"
+  - id: psych-grundlagen-from-de
+    title: 'Psychologie: Verständnis-Grundlagen'
+    title_native: 'Psychologie: Verständnis-Grundlagen'
+    target_language: de
+    source_language: de
+    domain: psychology
+    level: A1
+    path: sets/de/psych-grundlagen
+    version: '0.1.0'
+    lesson_count: 4
+    review_status: generated
+    description: >-
+      Neues verständnisorientiertes Grundlagen-Set (4 Lektionen), auf
+      Deutsch erklärt: Psychologie als empirische Wissenschaft,
+      Konditionierung und Modelllernen, Gedächtnis und Emotion sowie eine
+      Wiederholung mit benotetem Test. Es prüft den Grundstoff von Anfang
+      an über Verständnis statt über Jahreszahlen und Namen und nutzt die
+      neu verfügbaren Aufgabentypen Leseverständnis, Kategorisierung,
+      Fehlerkorrektur und benotetes Quiz. Hintergrund und Messung: Issue
+      #21.
+    tags:
+      - beginner
+      - psychology
+      - science
+      - understanding
+    book:
+      title: "Psychologie"
+      author: "Philip Zimbardo, Robert Johnson, Vivian McCann"
+      isbn: "978-3868943238"
+      url: "https://www.amazon.de/dp/3868943234/"
