@@ -1,6 +1,6 @@
 {
   "repo": "astrapi69/alc-psychology",
-  "generated": "2026-08-03T07:56:29Z",
+  "generated": "2026-08-12T19:13:24Z",
   "schema_version": "1.0",
   "sets": [
     {
@@ -87,8 +87,36 @@
         "url": null
       },
       "updated_at": "2026-08-03T09:56:07+02:00"
+    },
+    {
+      "id": "psych-grundlagen-from-de",
+      "name": "Psychologie: Verständnis-Grundlagen",
+      "description": "Starter-Set (4 Lektionen), auf Deutsch erklärt: Psychologie als empirische Wissenschaft (Methoden, Korrelation gegen Kausalität), Konditionierung verstehen (klassisch, operant, Modelllernen), Gedächtnis und Emotion verstehen (Gedächtnisprozess, wirksames Lernen, Basisemotionen) sowie eine Wiederholung mit benotetem Test. Die Aufgaben prüfen, ob ein Zusammenhang verstanden, auf einen Fall angewendet oder von Ähnlichem unterschieden werden kann, nicht ob eine Jahreszahl oder ein Name erinnert wird.",
+      "source_language": "de",
+      "target_language": "de",
+      "level": "a1",
+      "domain": "psychology",
+      "lesson_count": 4,
+      "card_count": 23,
+      "tags": [
+        "beginner",
+        "psychology",
+        "science",
+        "understanding"
+      ],
+      "visibility": "visible",
+      "review_status": "generated",
+      "ai_validated": false,
+      "trust_level": 1,
+      "book": {
+        "title": "Psychologie",
+        "author": "Philip Zimbardo, Robert Johnson, Vivian McCann",
+        "isbn": "978-3868943238",
+        "url": "https://www.amazon.de/dp/3868943234/"
+      },
+      "updated_at": "2026-08-12T19:13:11+00:00"
     }
   ],
-  "total_lessons": 125,
-  "total_cards": 1487
+  "total_lessons": 129,
+  "total_cards": 1510
 }
