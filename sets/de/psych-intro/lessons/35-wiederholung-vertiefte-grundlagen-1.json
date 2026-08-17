@@ -167,7 +167,7 @@
       "id": "ex-cloze-cocktailparty",
       "type": "exercise",
       "theory_ref": "intro-wiederholung",
-      "title": "Cocktailparty-Effekt",
+      "title": "Effekt im Stimmengewirr benennen",
       "exercise": {
         "id": "ex-cloze-cocktailparty",
         "stable_id": "ex-ms942qpd0u2bf",
@@ -238,7 +238,7 @@
       "id": "ex-free-bystander-piaget",
       "type": "exercise",
       "theory_ref": "intro-wiederholung",
-      "title": "Bystander-Effekt und Piaget",
+      "title": "Verhalten in Notfällen benennen",
       "exercise": {
         "id": "ex-free-bystander-piaget",
         "stable_id": "ex-ms942qpd0u6m2",
@@ -255,7 +255,7 @@
       "id": "ex-cloze-funktionale-gebundenheit",
       "type": "exercise",
       "theory_ref": "theorie-emotionen-kognition",
-      "title": "Funktionale Gebundenheit",
+      "title": "Fixierung auf gewohnte Nutzung",
       "exercise": {
         "id": "ex-cloze-funktionale-gebundenheit",
         "stable_id": "ex-ms942qpd0u7cq",

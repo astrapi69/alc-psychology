@@ -186,7 +186,7 @@
       "id": "ex-cloze-dopamin",
       "type": "exercise",
       "theory_ref": "intro-abhaengigkeit",
-      "title": "Dopamin im Belohnungssystem",
+      "title": "Botenstoff benennen",
       "exercise": {
         "id": "ex-cloze-dopamin",
         "stable_id": "ex-ms942qpv19kti",
@@ -205,7 +205,7 @@
       "id": "ex-cloze-konditionierung",
       "type": "exercise",
       "theory_ref": "step-konditionierung-modelle",
-      "title": "Auslösereize und Konditionierung",
+      "title": "Lernmechanismus benennen",
       "exercise": {
         "id": "ex-cloze-konditionierung",
         "stable_id": "ex-ms942qpv19lsi",
@@ -224,7 +224,7 @@
       "id": "ex-free-abhaengigkeit",
       "type": "exercise",
       "theory_ref": "intro-abhaengigkeit",
-      "title": "Abhängigkeit definieren",
+      "title": "Begriff definieren",
       "exercise": {
         "id": "ex-free-abhaengigkeit",
         "stable_id": "ex-ms942qpv19mn0",

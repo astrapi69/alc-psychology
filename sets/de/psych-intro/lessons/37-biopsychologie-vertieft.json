@@ -254,7 +254,7 @@
       "id": "ex-free-heritabilitaet",
       "type": "exercise",
       "theory_ref": "theory-anlage-umwelt",
-      "title": "Das Erblichkeitsmaß",
+      "title": "Statistisches Maß der Vererbung",
       "exercise": {
         "id": "ex-free-heritabilitaet",
         "stable_id": "ex-ms942qpe0va4c",
@@ -271,7 +271,7 @@
       "id": "ex-cloze-epigenetik",
       "type": "exercise",
       "theory_ref": "theory-anlage-umwelt",
-      "title": "Epigenetik — die Brücke",
+      "title": "Genaktivität ohne Mutation",
       "exercise": {
         "id": "ex-cloze-epigenetik",
         "stable_id": "ex-ms942qpe0vblv",

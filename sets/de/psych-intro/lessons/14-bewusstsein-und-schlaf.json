@@ -143,7 +143,7 @@
       "id": "ex-cloze-melatonin",
       "type": "exercise",
       "theory_ref": "intro-bewusstsein-schlaf",
-      "title": "Melatonin und Dunkelheit",
+      "title": "Hormon ergänzen",
       "exercise": {
         "id": "ex-cloze-melatonin",
         "stable_id": "ex-ms942qp10ivhd",
@@ -181,7 +181,7 @@
       "id": "ex-free-rem",
       "type": "exercise",
       "theory_ref": "step-schlafphasen",
-      "title": "REM-Schlaf benennen",
+      "title": "Schlafphase benennen",
       "exercise": {
         "id": "ex-free-rem",
         "stable_id": "ex-ms942qp10ixim",
@@ -198,7 +198,7 @@
       "id": "ex-free-insomnie",
       "type": "exercise",
       "theory_ref": "intro-bewusstsein-schlaf",
-      "title": "Schlafstörung benennen",
+      "title": "Störungsbild benennen",
       "exercise": {
         "id": "ex-free-insomnie",
         "stable_id": "ex-ms942qp10iylb",

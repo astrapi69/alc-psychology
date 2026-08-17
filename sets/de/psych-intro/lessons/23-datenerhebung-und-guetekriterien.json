@@ -191,7 +191,7 @@
       "id": "ex-cloze-reliabilitaet",
       "type": "exercise",
       "theory_ref": "step-guetekriterien",
-      "title": "Zuverlässigkeit der Messung",
+      "title": "Messgenauigkeit ergänzen",
       "exercise": {
         "id": "ex-cloze-reliabilitaet",
         "stable_id": "ex-ms942qp60np8w",
@@ -210,7 +210,7 @@
       "id": "ex-free-validitaet",
       "type": "exercise",
       "theory_ref": "step-guetekriterien",
-      "title": "Gültigkeit der Messung",
+      "title": "Gütekriterium erkennen",
       "exercise": {
         "id": "ex-free-validitaet",
         "stable_id": "ex-ms942qp60nqvt",

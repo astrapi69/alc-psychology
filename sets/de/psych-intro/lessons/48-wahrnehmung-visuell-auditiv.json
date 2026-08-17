@@ -210,7 +210,7 @@
       "id": "ex-cloze-schall",
       "type": "exercise",
       "theory_ref": "theorie-auditives-system",
-      "title": "Frequenz und Tonhöhe",
+      "title": "Akustische Eigenschaft benennen",
       "exercise": {
         "id": "ex-cloze-schall",
         "stable_id": "ex-ms942qpk1133d",
@@ -229,7 +229,7 @@
       "id": "ex-free-blinder-fleck",
       "type": "exercise",
       "theory_ref": "theorie-visuelles-system",
-      "title": "Der blinde Fleck",
+      "title": "Stelle ohne Rezeptoren benennen",
       "exercise": {
         "id": "ex-free-blinder-fleck",
         "stable_id": "ex-ms942qpk114gy",
