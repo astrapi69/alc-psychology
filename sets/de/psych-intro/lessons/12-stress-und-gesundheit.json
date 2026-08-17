@@ -189,7 +189,7 @@
       "id": "ex-free-stressor",
       "type": "exercise",
       "theory_ref": "step-gas",
-      "title": "Stressor definieren",
+      "title": "Reiz benennen",
       "exercise": {
         "id": "ex-free-stressor",
         "stable_id": "ex-ms942qp00hw4d",
@@ -206,7 +206,7 @@
       "id": "ex-free-eustress",
       "type": "exercise",
       "theory_ref": "step-stress-grundlagen",
-      "title": "Positiver Stress",
+      "title": "Leistungsfördernden Stress benennen",
       "exercise": {
         "id": "ex-free-eustress",
         "stable_id": "ex-ms942qp00hxdo",

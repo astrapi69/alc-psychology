@@ -178,7 +178,7 @@
       "id": "ex-cloze-konservierung",
       "type": "exercise",
       "theory_ref": "step-kognition-kindheit",
-      "title": "Konservierung und Piagets Phasen",
+      "title": "Piagets Entwicklungsstufen",
       "exercise": {
         "id": "ex-cloze-konservierung",
         "stable_id": "ex-ms942qq01dri9",
@@ -197,7 +197,7 @@
       "id": "ex-free-theory-of-mind",
       "type": "exercise",
       "theory_ref": "step-kognition-kindheit",
-      "title": "Theory of Mind",
+      "title": "Fähigkeit benennen",
       "exercise": {
         "id": "ex-free-theory-of-mind",
         "stable_id": "ex-ms942qq01dshe",
