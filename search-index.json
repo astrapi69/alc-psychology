@@ -1,6 +1,6 @@
 {
   "repo": "astrapi69/alc-psychology",
-  "generated": "2026-08-12T21:55:07Z",
+  "generated": "2026-08-17T08:51:45Z",
   "schema_version": "1.0",
   "sets": [
     {
@@ -29,7 +29,7 @@
         "url": "https://www.amazon.de/dp/3868943234/",
         "cover_image": null
       },
-      "updated_at": "2026-08-12T23:54:50+02:00"
+      "updated_at": "2026-08-17T10:51:34+02:00"
     },
     {
       "id": "psych-beeinflussung-from-de",
