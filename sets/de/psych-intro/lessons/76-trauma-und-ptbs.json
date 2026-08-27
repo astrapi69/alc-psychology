@@ -228,7 +228,7 @@
         "id": "ex-free-emdr",
         "stable_id": "ex-ms942qq21fy10",
         "type": "free_text",
-        "prompt": "Wie heißt das traumafokussierte Verfahren mit der Abkürzung EMDR (Augenbewegungen zur Verarbeitung)?",
+        "prompt": "Wie heißt das traumafokussierte Verfahren, das belastende Erinnerungen mithilfe gezielter Augenbewegungen verarbeitet (Abkürzung genügt)?",
         "card_ids": ["traumafokussierte-therapie"],
         "accept": ["EMDR", "Eye Movement Desensitization and Reprocessing", "EMDR-Therapie"],
         "hint": "Die Abkürzung von Eye Movement Desensitization and Reprocessing.",

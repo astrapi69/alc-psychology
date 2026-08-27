@@ -183,7 +183,7 @@
         "id": "ex-cloze-konservierung",
         "stable_id": "ex-ms942qq01dri9",
         "type": "cloze",
-        "prompt": "Ergänze, in welcher Phase nach Piaget Kinder die Konservierung meistern.",
+        "prompt": "Ergänze den fehlenden Fachbegriff aus Piagets Theorie der Denkentwicklung.",
         "card_ids": ["konservierung", "konkret-operationale-phase"],
         "sentence": "Das Verständnis, dass Menge konstant bleibt, auch wenn sich die Form ändert, wird als ___ bezeichnet und in der konkret-operationalen Phase erworben.",
         "blanks": [

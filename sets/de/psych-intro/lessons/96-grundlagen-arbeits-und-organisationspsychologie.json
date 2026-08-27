@@ -177,7 +177,7 @@
         "type": "cloze",
         "prompt": "Ergänze den Fachbegriff für die objektiven, von außen einwirkenden Einflüsse.",
         "card_ids": ["belastung-beanspruchung"],
-        "sentence": "Im Belastungs-Beanspruchungs-Modell heißen die objektiven, von außen einwirkenden Einflüsse (z. B. Lärm, Zeitdruck) ___ .",
+        "sentence": "Die objektiven, von außen einwirkenden Einflüsse (z. B. Lärm, Zeitdruck) heißen in diesem Modell ___ .",
         "blanks": [{"accept": ["Belastung", "die Belastung", "Belastungen"]}],
         "cloze_mode": "type",
         "hint": "Das Objektive von außen — nicht die individuelle Auswirkung (das wäre die Beanspruchung)."
