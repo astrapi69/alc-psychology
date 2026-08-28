@@ -285,7 +285,7 @@
         "type": "cloze",
         "prompt": "Ergänze den fehlenden Begriff im Satz zum Asch-Experiment.",
         "card_ids": ["asch-experiment", "konformitaet"],
-        "sentence": "Im Asch-Experiment passten Versuchspersonen ihre Urteile an die ___ an, obwohl die Antwort der Gruppe falsch war.",
+        "sentence": "Im Asch-Experiment passten Versuchspersonen ihre Urteile an die ___ an, obwohl deren Antwort offensichtlich falsch war.",
         "blanks": [
           { "accept": ["Gruppe", "Mehrheit", "Gruppenmeinung", "Gruppenmehrheit"] }
         ],

@@ -216,7 +216,7 @@
         "id": "ex-free-basisemotionen",
         "stable_id": "ex-ms942qpb0s0of",
         "type": "free_text",
-        "prompt": "Wie heißt das Konzept der sechs kulturübergreifend erkennbaren Grundemotionen, das Paul Ekman beschrieb?",
+        "prompt": "Wie heißt das Konzept der sechs kulturübergreifend erkennbaren Emotionen, das Paul Ekman beschrieb?",
         "card_ids": ["basisemotionen-ekman"],
         "accept": ["Basisemotionen", "Basisemotionen nach Ekman", "Grundemotionen", "Basic Emotions"],
         "hint": "Sechs universelle Gefühle — Freude, Trauer, Wut, Angst, Überraschung, Ekel.",

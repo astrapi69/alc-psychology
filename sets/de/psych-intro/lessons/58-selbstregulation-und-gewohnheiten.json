@@ -253,7 +253,7 @@
         "type": "free_text",
         "prompt": "Wie heißt der Fachbegriff für Gollwitzers 'Wenn-dann-Pläne'?",
         "card_ids": ["implementierungsintentionen"],
-        "accept": ["Implementierungsintentionen", "Implementierungsintention", "Implementation Intentions", "Wenn-dann-Pläne", "Wenn-dann-Plan"],
+        "accept": ["Implementierungsintentionen", "Implementierungsintention", "Implementation Intentions"],
         "hint": "Der Begriff stammt vom englischen 'implementation intentions'.",
         "distractors": ["Zielsetzungstheorie", "Ego-Depletion", "Belohnungsaufschub"],
         "direction": "target_to_source"

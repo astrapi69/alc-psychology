@@ -183,7 +183,7 @@
         "card_ids": ["abc-modell"],
         "sentence": "Im ABC-Modell steht ___ für die Bewertung (Belief), die zwischen dem Auslöser und der emotionalen Reaktion steht.",
         "blanks": [
-          { "accept": ["B", "B (Bewertung)", "Bewertung"] }
+          { "accept": ["B", "B (Bewertung)"] }
         ],
         "cloze_mode": "type",
         "hint": "A = Auslöser, ___ = Bewertung, C = Konsequenz."

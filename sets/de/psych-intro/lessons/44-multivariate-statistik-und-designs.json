@@ -266,16 +266,16 @@
       "id": "ex-cloze-faktorenanalyse",
       "type": "exercise",
       "theory_ref": "intro-regression-korrelation",
-      "title": "Wozu dient die Faktorenanalyse?",
+      "title": "Verfahren zur Datenreduktion",
       "exercise": {
         "id": "ex-cloze-faktorenanalyse",
         "stable_id": "ex-ms942qpi0z25m",
         "type": "cloze",
-        "prompt": "Ergänze, was die Faktorenanalyse mit vielen korrelierten Variablen macht.",
+        "prompt": "Ergänze, welches statistische Verfahren gemeint ist.",
         "card_ids": ["faktorenanalyse"],
-        "sentence": "Die Faktorenanalyse reduziert viele korrelierte Variablen auf wenige zugrundeliegende ___.",
+        "sentence": "Die ___ reduziert viele korrelierte Variablen auf wenige zugrundeliegende Dimensionen.",
         "blanks": [
-          { "accept": ["Faktoren", "latente Faktoren", "Dimensionen"] }
+          { "accept": ["Faktorenanalyse", "die Faktorenanalyse", "Faktoranalyse"] }
         ],
         "cloze_mode": "type",
         "hint": "Die Big Five sind ein bekanntes Ergebnis dieses Verfahrens."

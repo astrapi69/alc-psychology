@@ -218,7 +218,7 @@
         "type": "free_text",
         "prompt": "Wie heißt der von Chomsky postulierte angeborene Spracherwerbsmechanismus (Abkürzung oder Vollform)?",
         "card_ids": ["chomsky-lad"],
-        "accept": ["LAD", "Language Acquisition Device", "Spracherwerbsmechanismus", "angeborene Sprachfähigkeit"],
+        "accept": ["LAD", "Language Acquisition Device", "angeborene Sprachfähigkeit"],
         "hint": "Englische Abkürzung — das D steht für 'Device'.",
         "distractors": ["UG", "TGG", "Universalgrammatik", "Sprachmodul"],
         "direction": "target_to_source"
@@ -233,7 +233,7 @@
         "id": "ex-free-problemloesen-hindernisse",
         "stable_id": "ex-ms942qpb0skr3",
         "type": "free_text",
-        "prompt": "Wie heißt die Tendenz, ein Objekt nur für seine übliche Funktion zu sehen (englisch: functional fixedness)?",
+        "prompt": "Wie heißt die Tendenz, ein Objekt nur für seine übliche Funktion zu sehen?",
         "card_ids": ["funktionale-gebundenheit"],
         "accept": ["Funktionale Gebundenheit", "funktionale Gebundenheit", "Functional Fixedness", "functional fixedness"],
         "hint": "Man sieht eine Schachtel nur als Schachtel, nicht als Halterung.",

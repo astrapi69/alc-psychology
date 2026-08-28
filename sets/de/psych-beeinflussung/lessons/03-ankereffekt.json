@@ -121,7 +121,7 @@
         "type": "cloze",
         "prompt": "Ergänze die Erklärung des Mechanismus.",
         "card_ids": ["card-anpassung"],
-        "sentence": "Menschen passen ihr Urteil vom Anker aus an, hören dabei aber meist zu ___ auf, sodass das Ergebnis nahe am ___ bleibt.",
+        "sentence": "Menschen passen ihr Urteil vom Ausgangswert aus an, hören dabei aber meist zu ___ auf, sodass das Ergebnis nahe am ___ bleibt.",
         "blanks": [
           {"accept": ["früh", "zeitig"]},
           {"accept": ["Anker", "Ankerwert", "Bezugspunkt"]}

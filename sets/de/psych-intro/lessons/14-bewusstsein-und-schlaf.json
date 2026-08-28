@@ -205,7 +205,7 @@
         "type": "free_text",
         "prompt": "Wie nennt man die Schlafstörung, bei der eine Person anhaltende Schwierigkeiten beim Ein- oder Durchschlafen hat?",
         "card_ids": ["insomnie"],
-        "accept": ["Insomnie", "insomnie", "Schlaflosigkeit", "Schlafstörung"],
+        "accept": ["Insomnie", "insomnie", "Schlaflosigkeit"],
         "hint": "Der Fachbegriff kommt aus dem Lateinischen für 'kein Schlaf'.",
         "distractors": ["Hypersomnie", "Narkolepsie", "Parasomnie", "Somnambulismus"],
         "direction": "target_to_source"

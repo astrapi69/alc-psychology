@@ -228,9 +228,9 @@
         "id": "ex-cloze-sachverstaendiger",
         "stable_id": "ex-ms942qq61jq9p",
         "type": "cloze",
-        "prompt": "Ergänze, wer im Gerichtsverfahren über Schuld und Strafe entscheidet.",
+        "prompt": "Ergänze, wer im Strafprozess über Schuld und Strafe entscheidet.",
         "card_ids": ["sachverstaendiger"],
-        "sentence": "Der Sachverständige berät das Gericht fachlich — die Entscheidung über Schuld und Strafe trifft jedoch allein das ___.",
+        "sentence": "Der Sachverständige berät in fachlichen Fragen — die Entscheidung über Schuld und Strafe trifft jedoch allein das ___.",
         "blanks": [
           { "accept": ["Gericht", "gericht"] }
         ],

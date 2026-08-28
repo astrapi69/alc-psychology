@@ -193,7 +193,7 @@
         "type": "free_text",
         "prompt": "Welche Art der Risikobeurteilung ist der unstrukturierten klinischen Einschätzung im Durchschnitt überlegen?",
         "card_ids": ["aktuarisch-vs-klinisch", "aktuarisch"],
-        "accept": ["aktuarisch", "aktuarische", "das aktuarische Verfahren", "strukturierte Verfahren", "strukturiert", "aktuarisches Verfahren"],
+        "accept": ["aktuarisch", "aktuarische", "das aktuarische Verfahren", "aktuarisches Verfahren"],
         "hint": "Denke an statistische Instrumente mit Checklisten und Punktwerten.",
         "distractors": ["klinische Einschätzung", "intuitives Urteil", "unstrukturierte Einschätzung"],
         "direction": "target_to_source"
