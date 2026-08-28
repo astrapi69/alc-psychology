@@ -1,6 +1,6 @@
 {
   "repo": "astrapi69/alc-psychology",
-  "generated": "2026-08-17T08:51:45Z",
+  "generated": "2026-08-28T07:19:01Z",
   "schema_version": "1.0",
   "sets": [
     {
@@ -29,7 +29,7 @@
         "url": "https://www.amazon.de/dp/3868943234/",
         "cover_image": null
       },
-      "updated_at": "2026-08-17T10:51:34+02:00"
+      "updated_at": "2026-08-28T09:18:49+02:00"
     },
     {
       "id": "psych-beeinflussung-from-de",
@@ -58,7 +58,7 @@
         "url": "https://www.hogrefe.com/de/shop/die-psychologie-des-ueberzeugens-91960.html",
         "cover_image": null
       },
-      "updated_at": "2026-07-31T17:49:40+02:00"
+      "updated_at": "2026-08-28T09:18:49+02:00"
     },
     {
       "id": "psych-rhetorik-from-de",
