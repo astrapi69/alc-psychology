@@ -146,6 +146,11 @@
 # zweite, spätere Wiederholungsrunde ist; die Anzeige-Reihenfolge
 # (lexikografisch nach lesson.id) stellt sie ans Ende, hinter
 # Lektion 112.
+#
+# v1.21.0 (schema v1.3): zweite Vertiefungslektion. Baut auf 91–94
+# (Neuropsychologie: Grundlagen, funktionelle Neuroanatomie,
+# Störungsbilder, Gedächtnis-/Exekutivstörungen) auf, ohne diese
+# Lektionen zu ändern: neue Fallbeschreibungen statt Begriffsabfrage.
 schema_version: '1.3'
 name: Psychologie — Grundlagen
 description: >-
@@ -172,8 +177,8 @@ sets:
     domain: psychology
     level: A1
     path: sets/de/psych-intro
-    version: '1.20.0'
-    lesson_count: 113
+    version: '1.21.0'
+    lesson_count: 114
     description: >-
       Vollständiger Einführungskurs Psychologie auf
       Universitätsniveau (90 Lektionen), auf Deutsch erklärt — von
@@ -198,11 +203,12 @@ sets:
       forensischen und Rechtspsychologie (Aussagepsychologie,
       Glaubhaftigkeitsbegutachtung, Schuldfähigkeit, Täterprofile
       und Kriminalprognose — sachlich und ohne Sensationalismus),
-      einer ersten Vertiefungslektion dazu (Fallanwendung und
+      einer Vertiefungslektion dazu (Fallanwendung und
       Unterscheidung statt Begriffsabfrage), sowie der
       Neuropsychologie (Grundlagen und Methoden,
       funktionelle Neuroanatomie, Störungsbilder, Gedächtnis- und
-      Exekutivstörungen), der Arbeits- und Organisationspsychologie
+      Exekutivstörungen) mit einer eigenen Vertiefungslektion,
+      der Arbeits- und Organisationspsychologie
       (Motivation und Zufriedenheit, Führung und Teams,
       Arbeitsstress und Burnout — mit Hinweis auf professionelle
       Hilfe) und der Pädagogischen Psychologie (Lernmotivation,
@@ -357,3 +363,4 @@ metadata:
     - 111-jenseits-des-neurons-gliazellen-spiegelneurone-neurogenese.json
     - 112-abrufbasiertes-lernen-und-wuenschenswerte-erschwernisse.json
     - vertiefung-forensische-psychologie-fallanwendung.json
+    - vertiefung-neuropsychologie-fallanwendung.json
