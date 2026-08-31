@@ -1,17 +1,17 @@
 {
   "repo": "astrapi69/alc-psychology",
-  "generated": "2026-08-31T16:06:05Z",
+  "generated": "2026-08-31T16:12:03Z",
   "schema_version": "1.0",
   "sets": [
     {
       "id": "psych-intro-from-de",
       "name": "Psychologie — Grundlagen",
-      "description": "Vollständiger Einführungskurs Psychologie auf Universitätsniveau (90 Lektionen), auf Deutsch erklärt — von den Grundlagen- und Anwendungsfächern über Psychotherapie, Forschungsmethoden und Statistik bis zu vertieften Grundlagenfächern, Geschichte, Wissenschaftstheorie, einem Spezialgebiete-Block (Psychophysik, Neuropsychologie, klinische Vertiefung, weiterführende Statistik), einem Block zu Gedächtnis, Sprache, Sinnessystemen, Evolution und Kultur, der Entscheidungspsychologie (Heuristiken, Dual-Process, Prospect Theory, Verhaltensökonomie), einem Block zu Motivation, Emotion und Wohlbefinden sowie einem Block zu Bewusstsein, Substanzen und Gehirn (Schlaf, veränderte Zustände, Psychopharmakologie, Sucht) sowie der vertieften Sozialpsychologie (Persuasion, Gruppenprozesse, Aggression und Prosozialität, Vorurteile und Intergruppenbeziehungen) sowie der Entwicklung über die Lebensspanne (von der pränatalen Phase bis ins hohe Alter) und einer Vertiefung der klinischen Psychologie (Trauma, Essstörungen, Suizidprävention, Zwangs- und Angststörungen — mit Hinweis auf professionelle Hilfe und Anlaufstellen) sowie der forensischen und Rechtspsychologie (Aussagepsychologie, Glaubhaftigkeitsbegutachtung, Schuldfähigkeit, Täterprofile und Kriminalprognose — sachlich und ohne Sensationalismus), einer Vertiefungslektion dazu (Fallanwendung und Unterscheidung statt Begriffsabfrage), sowie der Neuropsychologie (Grundlagen und Methoden, funktionelle Neuroanatomie, Störungsbilder, Gedächtnis- und Exekutivstörungen) mit einer eigenen Vertiefungslektion, der Arbeits- und Organisationspsychologie (Motivation und Zufriedenheit, Führung und Teams, Arbeitsstress und Burnout — mit Hinweis auf professionelle Hilfe) und der Pädagogischen Psychologie (Lernmotivation, Unterrichtsqualität, Leistungsbeurteilung und Prüfungsangst).",
+      "description": "Vollständiger Einführungskurs Psychologie auf Universitätsniveau (90 Lektionen), auf Deutsch erklärt — von den Grundlagen- und Anwendungsfächern über Psychotherapie, Forschungsmethoden und Statistik bis zu vertieften Grundlagenfächern, Geschichte, Wissenschaftstheorie, einem Spezialgebiete-Block (Psychophysik, Neuropsychologie, klinische Vertiefung, weiterführende Statistik), einem Block zu Gedächtnis, Sprache, Sinnessystemen, Evolution und Kultur, der Entscheidungspsychologie (Heuristiken, Dual-Process, Prospect Theory, Verhaltensökonomie), einem Block zu Motivation, Emotion und Wohlbefinden sowie einem Block zu Bewusstsein, Substanzen und Gehirn (Schlaf, veränderte Zustände, Psychopharmakologie, Sucht) sowie der vertieften Sozialpsychologie (Persuasion, Gruppenprozesse, Aggression und Prosozialität, Vorurteile und Intergruppenbeziehungen) sowie der Entwicklung über die Lebensspanne (von der pränatalen Phase bis ins hohe Alter) und einer Vertiefung der klinischen Psychologie (Trauma, Essstörungen, Suizidprävention, Zwangs- und Angststörungen — mit Hinweis auf professionelle Hilfe und Anlaufstellen) sowie der forensischen und Rechtspsychologie (Aussagepsychologie, Glaubhaftigkeitsbegutachtung, Schuldfähigkeit, Täterprofile und Kriminalprognose — sachlich und ohne Sensationalismus), einer Vertiefungslektion dazu (Fallanwendung und Unterscheidung statt Begriffsabfrage), sowie der Neuropsychologie (Grundlagen und Methoden, funktionelle Neuroanatomie, Störungsbilder, Gedächtnis- und Exekutivstörungen) mit einer eigenen Vertiefungslektion, der Arbeits- und Organisationspsychologie (Motivation und Zufriedenheit, Führung und Teams, Arbeitsstress und Burnout — mit Hinweis auf professionelle Hilfe) mit einer eigenen Vertiefungslektion, und der Pädagogischen Psychologie (Lernmotivation, Unterrichtsqualität, Leistungsbeurteilung und Prüfungsangst).",
       "source_language": "de",
       "target_language": "de",
       "level": "a1",
       "domain": "psychology",
-      "lesson_count": 114,
+      "lesson_count": 115,
       "card_count": 1408,
       "tags": [
         "beginner",
@@ -29,7 +29,7 @@
         "url": "https://www.amazon.de/dp/3868943234/",
         "cover_image": null
       },
-      "updated_at": "2026-08-31T18:05:49+02:00"
+      "updated_at": "2026-08-31T18:11:49+02:00"
     },
     {
       "id": "psych-beeinflussung-from-de",
@@ -117,6 +117,6 @@
       "updated_at": "2026-08-12T23:54:50+02:00"
     }
   ],
-  "total_lessons": 131,
+  "total_lessons": 132,
   "total_cards": 1510
 }
