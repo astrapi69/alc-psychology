@@ -1,0 +1,146 @@
+{
+  "id": "vertiefung-forensische-psychologie-fallanwendung",
+  "title": "Forensische Psychologie: Fallanwendung und Unterscheidung",
+  "description": "Vertiefungslektion zu den Lektionen 81-85 (Aussagepsychologie, Glaubhaftigkeitsbegutachtung, Schuldfähigkeit, Täterprofile). Statt Begriffe abzufragen, prüft diese Lektion, ob du sie auf neue Fälle anwenden und ähnliche Begriffe voneinander unterscheiden kannst.",
+  "target_language": "de",
+  "source_language": "de",
+  "domain": "psychology",
+  "estimated_minutes": 15,
+  "steps": [
+    {
+      "id": "intro-vertiefung",
+      "type": "theory",
+      "title": "Verstehen statt Abrufen",
+      "body": "# Verstehen statt Abrufen\n\nDu kennst die Begriffe aus den Lektionen 81-85 bereits - diese Lektion fragt sie nicht noch einmal ab. Stattdessen bekommst du neue, kurze Fälle und musst entscheiden, welcher Begriff zutrifft, oder zwei ähnliche Begriffe klar voneinander abgrenzen.\n\nWenn eine Aufgabe schwerfällt: das ist kein Zeichen, dass du Lektion 81-85 nicht verstanden hast, sondern genau der Punkt dieser Übung - Anwenden ist schwerer als Wiedererkennen."
+    },
+    {
+      "id": "ex-mc-waffenfokus",
+      "type": "exercise",
+      "theory_ref": "intro-vertiefung",
+      "title": "Fall: Der Blick auf die Waffe",
+      "exercise": {
+        "id": "ex-mc-waffenfokus",
+        "stable_id": "ex-mthejasq001w1",
+        "type": "multiple_choice",
+        "prompt": "Bei einem Überfall starrt der Zeuge die ganze Zeit auf die Pistole des Täters. Später kann er sich kaum an dessen Gesicht erinnern. Welcher Effekt erklärt das am besten?",
+        "options": [
+          { "text": "Waffenfokus-Effekt - die Aufmerksamkeit auf die Waffe verschlechtert die Kodierung des Gesichts.", "correct": true, "stable_id": "opt-mthejasq002sv" },
+          { "text": "Misinformationseffekt - eine spätere Frage hat die Erinnerung verändert.", "stable_id": "opt-mthejasq003tp" },
+          { "text": "Confidence-Accuracy-Problem - der Zeuge war sich zu sicher.", "stable_id": "opt-mthejasq0043v" },
+          { "text": "Nullhypothese-Verzerrung - der Zeuge ging von einer Lüge aus.", "stable_id": "opt-mthejasq005y6" }
+        ],
+        "hint": "Es geht um das, worauf die Aufmerksamkeit gerichtet war - nicht um eine spätere Frage oder um Sicherheit."
+      }
+    },
+    {
+      "id": "ex-mc-sicherheit",
+      "type": "exercise",
+      "theory_ref": "intro-vertiefung",
+      "title": "Fall: Der selbstsichere Zeuge",
+      "exercise": {
+        "id": "ex-mc-sicherheit",
+        "stable_id": "ex-mthejasq0066e",
+        "type": "multiple_choice",
+        "prompt": "Ein Zeuge sagt sehr überzeugt und ohne zu zögern aus. Was folgt daraus für die Richtigkeit seiner Aussage?",
+        "options": [
+          { "text": "Kaum etwas - Sicherheit sagt die Genauigkeit nur schwach voraus.", "correct": true, "stable_id": "opt-mthejasq0078u" },
+          { "text": "Sie ist dann so gut wie sicher richtig.", "stable_id": "opt-mthejasq008f4" },
+          { "text": "Sie ist eher falsch, denn echte Erinnerungen wirken zögernd.", "stable_id": "opt-mthejasq009y0" },
+          { "text": "Sicherheit und Genauigkeit hängen überhaupt nicht zusammen.", "stable_id": "opt-mthejasq00age" }
+        ],
+        "hint": "Nicht 'gar nichts' und nicht 'fast sicher richtig' - dazwischen liegt die richtige Antwort."
+      }
+    },
+    {
+      "id": "ex-mc-paragraph-unterscheidung",
+      "type": "exercise",
+      "theory_ref": "intro-vertiefung",
+      "title": "Unterscheidung: § 20 und § 21 StGB",
+      "exercise": {
+        "id": "ex-mc-paragraph-unterscheidung",
+        "stable_id": "ex-mthejasq00b2i",
+        "type": "multiple_choice",
+        "prompt": "Worin unterscheiden sich § 20 und § 21 StGB voneinander?",
+        "options": [
+          { "text": "§ 20 beschreibt aufgehobene, § 21 nur erheblich verminderte Schuldfähigkeit.", "correct": true, "stable_id": "opt-mthejasq00cog" },
+          { "text": "§ 20 gilt für Ersttäter, § 21 für Wiederholungstäter.", "stable_id": "opt-mthejasq00dby" },
+          { "text": "§ 20 betrifft Erwachsene, § 21 nur Jugendliche.", "stable_id": "opt-mthejasq00e0i" },
+          { "text": "§ 20 regelt die Strafe, § 21 die Maßregel.", "stable_id": "opt-mthejasq00fpi" }
+        ],
+        "hint": "Beide betreffen dieselbe Frage - nur den Grad der Beeinträchtigung."
+      }
+    },
+    {
+      "id": "ex-mc-cbca-fall",
+      "type": "exercise",
+      "theory_ref": "intro-vertiefung",
+      "title": "Fall: Das Gutachten",
+      "exercise": {
+        "id": "ex-mc-cbca-fall",
+        "stable_id": "ex-mthejasq00g2k",
+        "type": "multiple_choice",
+        "prompt": "In einer Aussage finden sich viele konkrete Details, unerwartete Verwicklungen und spontan geschilderte eigene Gefühle. Wofür sprechen solche Merkmale nach der CBCA?",
+        "options": [
+          { "text": "Für ein eher erlebnisbasiertes Erinnern (Realkennzeichen).", "correct": true, "stable_id": "opt-mthejasq00hyc" },
+          { "text": "Für eine besonders gut einstudierte Lüge.", "stable_id": "opt-mthejasq00inu" },
+          { "text": "Für absichtlich vages Aussageverhalten.", "stable_id": "opt-mthejasq00jsj" },
+          { "text": "Sie sind für die Beurteilung bedeutungslos.", "stable_id": "opt-mthejasq00ke4" }
+        ],
+        "hint": "Realkennzeichen sprechen FÜR etwas - nicht dagegen."
+      }
+    },
+    {
+      "id": "ex-mc-prognose-unterscheidung",
+      "type": "exercise",
+      "theory_ref": "intro-vertiefung",
+      "title": "Unterscheidung: Aktuarisch und klinisch",
+      "exercise": {
+        "id": "ex-mc-prognose-unterscheidung",
+        "stable_id": "ex-mthejasq00lwu",
+        "type": "multiple_choice",
+        "prompt": "Worin unterscheidet sich die aktuarische von der klinischen Kriminalprognose?",
+        "options": [
+          { "text": "Die aktuarische stützt sich auf statistische Risikofaktoren, die klinische auf individuelle Fallbeurteilung.", "correct": true, "stable_id": "opt-mthejasq00me6" },
+          { "text": "Beide beruhen ausschließlich auf Statistik.", "stable_id": "opt-mthejasq00nzu" },
+          { "text": "Die klinische ist immer die genauere Methode.", "stable_id": "opt-mthejasq00o85" },
+          { "text": "Die aktuarische wird nur bei Ersttätern angewendet.", "stable_id": "opt-mthejasq00pkl" }
+        ],
+        "hint": "Eine der beiden Methoden nutzt feste statistische Faktoren, die andere die Einschätzung einer Fachperson."
+      }
+    },
+    {
+      "id": "ex-mc-profiling-fall",
+      "type": "exercise",
+      "theory_ref": "intro-vertiefung",
+      "title": "Fall: Das exakte Täterbild",
+      "exercise": {
+        "id": "ex-mc-profiling-fall",
+        "stable_id": "ex-mthejasq00qb4",
+        "type": "multiple_choice",
+        "prompt": "Ein Profiler behauptet, allein aus dem Tatort ein exaktes Täterbild erstellen zu können, das direkt zur Festnahme führt. Wie ist diese Behauptung wissenschaftlich einzuordnen?",
+        "options": [
+          { "text": "Kritisch zu sehen - die empirische Trefferquote von Profiling ist umstritten.", "correct": true, "stable_id": "opt-mthejasq00r7m" },
+          { "text": "Unproblematisch, da Profiling ein etabliertes Standardverfahren ist.", "stable_id": "opt-mthejasq00s40" },
+          { "text": "Nur bei Serientätern zutreffend, sonst nicht.", "stable_id": "opt-mthejasq00teq" },
+          { "text": "Profiling ersetzt die klassische Ermittlungsarbeit vollständig.", "stable_id": "opt-mthejasq00u7r" }
+        ],
+        "hint": "Was hat Lektion 84 über die empirische Basis von Profiling gesagt?"
+      }
+    },
+    {
+      "id": "ex-free-massregel-fall",
+      "type": "exercise",
+      "theory_ref": "intro-vertiefung",
+      "title": "Fall: Die Einweisung",
+      "exercise": {
+        "id": "ex-free-massregel-fall",
+        "stable_id": "ex-mthejasq00vqc",
+        "type": "free_text",
+        "prompt": "Eine schuldunfähige Person wird nach einer Tat nicht bestraft, sondern in eine Einrichtung eingewiesen, um eine künftige Gefahr zu verringern. Wie nennt man diese Rechtsfolge (nicht: Strafe)?",
+        "accept": ["Maßregel", "Massregel", "Maßregel der Besserung und Sicherung", "eine Maßregel"],
+        "hint": "Die Rechtsfolge, die neben der Strafe steht und der Sicherung dient.",
+        "distractors": ["Freiheitsstrafe", "Geldstrafe", "Bewährungsstrafe"]
+      }
+    }
+  ]
+}

@@ -137,6 +137,15 @@
 # Erschwernisse nach Bjork). Inhaltlich abgegrenzt gegen die
 # bestehenden Lektionen 6/34/71/73 (Bindung), 13/37 (Biologie)
 # und 3/46 (Gedächtnis).
+#
+# v1.20.0 (schema v1.3): erste Vertiefungslektion (Pilot). Baut auf
+# 81–85 (forensische Psychologie) auf, ohne diese Lektionen zu
+# ändern: neue Fälle statt Begriffsabfrage, prüft Anwendung und
+# Unterscheidung statt Wiedererkennen. Kein NN-Präfix, da die
+# Lektion keine Lücke im Zahlenblock 81–90 füllt, sondern eine
+# zweite, spätere Wiederholungsrunde ist; die Anzeige-Reihenfolge
+# (lexikografisch nach lesson.id) stellt sie ans Ende, hinter
+# Lektion 112.
 schema_version: '1.3'
 name: Psychologie — Grundlagen
 description: >-
@@ -163,8 +172,8 @@ sets:
     domain: psychology
     level: A1
     path: sets/de/psych-intro
-    version: '1.19.0'
-    lesson_count: 112
+    version: '1.20.0'
+    lesson_count: 113
     description: >-
       Vollständiger Einführungskurs Psychologie auf
       Universitätsniveau (90 Lektionen), auf Deutsch erklärt — von
@@ -188,8 +197,10 @@ sets:
       auf professionelle Hilfe und Anlaufstellen) sowie der
       forensischen und Rechtspsychologie (Aussagepsychologie,
       Glaubhaftigkeitsbegutachtung, Schuldfähigkeit, Täterprofile
-      und Kriminalprognose — sachlich und ohne Sensationalismus)
-      sowie der Neuropsychologie (Grundlagen und Methoden,
+      und Kriminalprognose — sachlich und ohne Sensationalismus),
+      einer ersten Vertiefungslektion dazu (Fallanwendung und
+      Unterscheidung statt Begriffsabfrage), sowie der
+      Neuropsychologie (Grundlagen und Methoden,
       funktionelle Neuroanatomie, Störungsbilder, Gedächtnis- und
       Exekutivstörungen), der Arbeits- und Organisationspsychologie
       (Motivation und Zufriedenheit, Führung und Teams,
@@ -345,3 +356,4 @@ metadata:
     - 110-synaptische-plastizitaet-und-langzeitpotenzierung.json
     - 111-jenseits-des-neurons-gliazellen-spiegelneurone-neurogenese.json
     - 112-abrufbasiertes-lernen-und-wuenschenswerte-erschwernisse.json
+    - vertiefung-forensische-psychologie-fallanwendung.json
