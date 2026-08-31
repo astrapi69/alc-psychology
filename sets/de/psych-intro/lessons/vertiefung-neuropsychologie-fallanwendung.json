@@ -1,0 +1,201 @@
+{
+  "id": "vertiefung-neuropsychologie-fallanwendung",
+  "title": "Neuropsychologie: Fallanwendung und Unterscheidung",
+  "description": "Vertiefungslektion zu den Lektionen 91-94 (Grundlagen, funktionelle Neuroanatomie, Störungsbilder, Gedächtnis-/Exekutivstörungen). Statt Begriffe abzufragen, prüft diese Lektion, ob du sie an neuen Fallbeschreibungen erkennen und ähnliche Störungsbilder voneinander unterscheiden kannst.",
+  "target_language": "de",
+  "source_language": "de",
+  "domain": "psychology",
+  "estimated_minutes": 15,
+  "steps": [
+    {
+      "id": "intro-vertiefung",
+      "type": "theory",
+      "title": "Verstehen statt Abrufen",
+      "body": "# Verstehen statt Abrufen\n\nDu kennst die Störungsbilder aus den Lektionen 91-94 bereits - diese Lektion fragt sie nicht noch einmal ab. Stattdessen bekommst du kurze Fallbeschreibungen und musst entscheiden, welches Störungsbild zutrifft, oder zwei ähnliche Bilder klar voneinander abgrenzen.\n\nWenn eine Aufgabe schwerfällt: das ist kein Zeichen, dass du Lektion 91-94 nicht verstanden hast, sondern genau der Punkt dieser Übung - ein Fallbild wiederzuerkennen ist schwerer als eine Definition abzurufen."
+    },
+    {
+      "id": "ex-mc-broca",
+      "type": "exercise",
+      "theory_ref": "intro-vertiefung",
+      "title": "Fall: Mühevolles Sprechen",
+      "exercise": {
+        "id": "ex-mc-broca",
+        "type": "multiple_choice",
+        "prompt": "Nach einem Schlaganfall spricht ein Patient nur noch abgehackt und im Telegrammstil (\"Brot... kaufen... gehen\"), jedes Wort kostet ihn sichtlich Mühe. Anweisungen versteht er dabei gut. Welches Störungsbild passt am besten?",
+        "options": [
+          {
+            "text": "Broca-Aphasie - nicht-flüssige Sprachproduktion bei besser erhaltenem Verständnis.",
+            "correct": true
+          },
+          {
+            "text": "Wernicke-Aphasie - flüssiges, aber inhaltlich unverständliches Sprechen."
+          },
+          {
+            "text": "Apraxie - Störung der Handlungsplanung, nicht der Sprache."
+          },
+          {
+            "text": "Agrafie - Störung des Schreibens, nicht des Sprechens."
+          }
+        ],
+        "hint": "Entscheidend ist, WAS schwerfällt: das Produzieren oder das Verstehen von Sprache."
+      }
+    },
+    {
+      "id": "ex-mc-wernicke",
+      "type": "exercise",
+      "theory_ref": "intro-vertiefung",
+      "title": "Fall: Flüssig, aber unverständlich",
+      "exercise": {
+        "id": "ex-mc-wernicke",
+        "type": "multiple_choice",
+        "prompt": "Eine Patientin spricht nach einer Hirnschädigung weiterhin flüssig und ohne Mühe, doch ihre Sätze ergeben inhaltlich kaum Sinn, und sie versteht Fragen an sie kaum. Welches Störungsbild passt am besten?",
+        "options": [
+          {
+            "text": "Wernicke-Aphasie - flüssige Sprachproduktion bei deutlich gestörtem Verständnis.",
+            "correct": true
+          },
+          {
+            "text": "Broca-Aphasie - mühevolle, abgehackte Sprachproduktion."
+          },
+          {
+            "text": "Alexie - Störung des Lesens, nicht des Sprechens."
+          },
+          {
+            "text": "Dysexekutives Syndrom - Störung von Planung und Impulskontrolle."
+          }
+        ],
+        "hint": "Hier ist es umgekehrt zum vorigen Fall: das Sprechen selbst fällt leicht, das Verstehen nicht."
+      }
+    },
+    {
+      "id": "ex-mc-visuelle-agnosie",
+      "type": "exercise",
+      "theory_ref": "intro-vertiefung",
+      "title": "Fall: Der unerkannte Kamm",
+      "exercise": {
+        "id": "ex-mc-visuelle-agnosie",
+        "type": "multiple_choice",
+        "prompt": "Ein Patient beschreibt einen Kamm korrekt als \"länglich, mit vielen dünnen Zacken\", kann aber nicht sagen, was es ist oder wofür man es benutzt - bis er ihn in die Hand nimmt und ertastet. Welches Störungsbild passt am besten?",
+        "options": [
+          {
+            "text": "Visuelle Agnosie - das Sehen ist erhalten, das Erkennen über das Sehen nicht.",
+            "correct": true
+          },
+          {
+            "text": "Prosopagnosie - das betrifft nur das Erkennen von Gesichtern."
+          },
+          {
+            "text": "Neglect - das betrifft die Wahrnehmung einer Raumhälfte."
+          },
+          {
+            "text": "Retrograde Amnesie - das betrifft Erinnerungen, nicht das Erkennen von Gegenständen."
+          }
+        ],
+        "hint": "Der Gegenstand wird gesehen und sogar beschrieben - nur die Bedeutung fehlt. Über einen anderen Sinn gelingt die Erkennung."
+      }
+    },
+    {
+      "id": "ex-mc-prosopagnosie",
+      "type": "exercise",
+      "theory_ref": "intro-vertiefung",
+      "title": "Fall: Das fremde Gesicht der Ehefrau",
+      "exercise": {
+        "id": "ex-mc-prosopagnosie",
+        "type": "multiple_choice",
+        "prompt": "Ein Patient erkennt seine eigene Ehefrau nicht mehr am Gesicht, sobald sie aber spricht, weiß er sofort, wer vor ihm steht. Alltagsgegenstände erkennt er problemlos. Welches Störungsbild passt am besten?",
+        "options": [
+          {
+            "text": "Prosopagnosie - eine auf Gesichter spezialisierte Erkennungsstörung.",
+            "correct": true
+          },
+          {
+            "text": "Visuelle Agnosie allgemein - dann wären auch Gegenstände betroffen."
+          },
+          {
+            "text": "Wernicke-Aphasie - das betrifft das Sprachverständnis, nicht das Erkennen."
+          },
+          {
+            "text": "Anterograde Amnesie - das betrifft neue Erinnerungen, nicht das Erkennen vertrauter Gesichter."
+          }
+        ],
+        "hint": "Alltagsgegenstände erkennt er - nur bei Gesichtern versagt es. Das grenzt die Störung ein."
+      }
+    },
+    {
+      "id": "ex-mc-neglect",
+      "type": "exercise",
+      "theory_ref": "intro-vertiefung",
+      "title": "Fall: Der halbe Teller",
+      "exercise": {
+        "id": "ex-mc-neglect",
+        "type": "multiple_choice",
+        "prompt": "Eine Patientin isst nach einem Schlaganfall nur die rechte Hälfte ihres Tellers auf, stößt beim Gehen links an Türrahmen und bestreitet, ein Problem zu haben. Die Augen selbst sind intakt. Welches Störungsbild passt am besten?",
+        "options": [
+          {
+            "text": "Neglect - eine Raumhälfte (und oft die eigene Körperhälfte) wird nicht beachtet.",
+            "correct": true
+          },
+          {
+            "text": "Agrafie - eine Störung des Schreibens."
+          },
+          {
+            "text": "Retrograde Amnesie - der Verlust länger zurückliegender Erinnerungen."
+          },
+          {
+            "text": "Apraxie - eine Störung der Handlungsplanung bei erhaltener Wahrnehmung."
+          }
+        ],
+        "hint": "Die Sinnesorgane funktionieren - was fehlt, ist die Beachtung einer ganzen Seite."
+      }
+    },
+    {
+      "id": "ex-mc-anterograd",
+      "type": "exercise",
+      "theory_ref": "intro-vertiefung",
+      "title": "Fall: Jedes Gespräch zum ersten Mal",
+      "exercise": {
+        "id": "ex-mc-anterograd",
+        "type": "multiple_choice",
+        "prompt": "Seit einer beidseitigen Hippocampus-Schädigung kann ein Patient sich an kein Gespräch der letzten Stunde erinnern, obwohl er im Moment aufmerksam mitredet. An seine Kindheit und seinen eigenen Namen erinnert er sich dagegen einwandfrei. Welches Störungsbild passt am besten?",
+        "options": [
+          {
+            "text": "Anterograde Amnesie - keine neuen Inhalte werden mehr dauerhaft gespeichert.",
+            "correct": true
+          },
+          {
+            "text": "Retrograde Amnesie - dann wären gerade die alten Erinnerungen betroffen."
+          },
+          {
+            "text": "Dysexekutives Syndrom - das betrifft Planung und Impulskontrolle, nicht das Speichern von Erinnerungen."
+          },
+          {
+            "text": "Aphasie - das betrifft die Sprache, nicht das Gedächtnis."
+          }
+        ],
+        "hint": "Alte Erinnerungen sind da, neue bleiben nicht hängen - das zeigt die Richtung des Ausfalls."
+      }
+    },
+    {
+      "id": "ex-free-dysexekutiv",
+      "type": "exercise",
+      "theory_ref": "intro-vertiefung",
+      "title": "Fall: Wenn der erste Plan nicht klappt",
+      "exercise": {
+        "id": "ex-free-dysexekutiv",
+        "type": "free_text",
+        "prompt": "Nach einer Frontalhirnschädigung hält ein Patient starr an seinem ersten Lösungsversuch fest, kann nicht auf eine neue Strategie umstellen, handelt impulsiv und verliert bei Aufgaben mit mehreren Schritten leicht den Überblick. Sein Gedächtnis für Fakten ist dabei unauffällig. Wie nennt man dieses Störungsbild?",
+        "accept": [
+          "dysexekutives Syndrom",
+          "Dysexekutives Syndrom",
+          "das dysexekutive Syndrom"
+        ],
+        "hint": "Der Name beschreibt eine gestörte Steuerungsfunktion, nicht das Gedächtnis selbst.",
+        "distractors": [
+          "Amnesie",
+          "Aphasie",
+          "Agnosie"
+        ]
+      }
+    }
+  ]
+}
