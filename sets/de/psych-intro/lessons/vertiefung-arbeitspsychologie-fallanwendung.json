@@ -20,13 +20,14 @@
       "title": "Fall: Die Gehaltserhöhung",
       "exercise": {
         "id": "ex-mc-hygienefaktor",
+        "stable_id": "ex-mthfnhvl001jz",
         "type": "multiple_choice",
         "prompt": "Ein Unternehmen erhöht die Gehälter deutlich, doch die Mitarbeitenden bleiben mit ihrer Arbeit unzufrieden - sie vermissen Anerkennung und interessante Aufgaben. Welches Modell erklärt am besten, warum die Gehaltserhöhung allein die Zufriedenheit nicht steigert?",
         "options": [
-          { "text": "Zwei-Faktoren-Theorie (Herzberg) - Gehalt ist ein Hygienefaktor, kein Motivator.", "correct": true },
-          { "text": "Bedürfnishierarchie (Maslow) - Gehalt befriedigt bereits die höchste Stufe." },
-          { "text": "Zielsetzungstheorie (Locke & Latham) - es fehlt an einem konkreten Ziel." },
-          { "text": "Gerechtigkeitstheorie (Adams) - die Mitarbeitenden vergleichen sich mit anderen." }
+          { "text": "Zwei-Faktoren-Theorie (Herzberg) - Gehalt ist ein Hygienefaktor, kein Motivator.", "correct": true, "stable_id": "opt-mthfnhvl002j4" },
+          { "text": "Bedürfnishierarchie (Maslow) - Gehalt befriedigt bereits die höchste Stufe.", "stable_id": "opt-mthfnhvl003an" },
+          { "text": "Zielsetzungstheorie (Locke & Latham) - es fehlt an einem konkreten Ziel.", "stable_id": "opt-mthfnhvl004ij" },
+          { "text": "Gerechtigkeitstheorie (Adams) - die Mitarbeitenden vergleichen sich mit anderen.", "stable_id": "opt-mthfnhvl0050a" }
         ],
         "hint": "Herzberg unterscheidet zwei UNABHÄNGIGE Gruppen von Einflussgrößen - eine davon verhindert nur Unzufriedenheit, erzeugt aber keine Zufriedenheit."
       }
@@ -38,13 +39,14 @@
       "title": "Fall: Der unsichtbare Beitrag",
       "exercise": {
         "id": "ex-mc-jcm",
+        "stable_id": "ex-mthfnhvl006go",
         "type": "multiple_choice",
         "prompt": "Ein Mitarbeiter bearbeitet nur einen kleinen, sich wiederholenden Ausschnitt eines Produkts und erfährt nie, wofür sein Beitrag am Ende gebraucht wird. Welchem Modell zufolge fehlen hier zentrale Tätigkeitsmerkmale für Motivation?",
         "options": [
-          { "text": "Job Characteristics Model (Hackman & Oldham) - es fehlen Ganzheitlichkeit und Bedeutsamkeit.", "correct": true },
-          { "text": "Kontingenzmodell (Fiedler) - die Führungssituation ist ungünstig." },
-          { "text": "Transaktionale Führung (Bass) - es fehlt an klaren Zielen und Kontrolle." },
-          { "text": "Soziales Faulenzen - der Mitarbeiter strengt sich in der Gruppe weniger an." }
+          { "text": "Job Characteristics Model (Hackman & Oldham) - es fehlen Ganzheitlichkeit und Bedeutsamkeit.", "correct": true, "stable_id": "opt-mthfnhvl007qs" },
+          { "text": "Kontingenzmodell (Fiedler) - die Führungssituation ist ungünstig.", "stable_id": "opt-mthfnhvl00821" },
+          { "text": "Transaktionale Führung (Bass) - es fehlt an klaren Zielen und Kontrolle.", "stable_id": "opt-mthfnhvl0097s" },
+          { "text": "Soziales Faulenzen - der Mitarbeiter strengt sich in der Gruppe weniger an.", "stable_id": "opt-mthfnhvl00alb" }
         ],
         "hint": "Es geht um die Gestaltung der TÄTIGKEIT selbst, nicht um Führung oder Gruppenverhalten."
       }
@@ -56,13 +58,14 @@
       "title": "Fall: Ziele, Kontrolle, sonst nichts",
       "exercise": {
         "id": "ex-mc-fuehrungsstil",
+        "stable_id": "ex-mthfnhvl00bn4",
         "type": "multiple_choice",
         "prompt": "Eine Führungskraft vereinbart klare Ziele, kontrolliert die Ergebnisse genau und greift bei Abweichungen sofort ein - motiviert ihr Team aber kaum über das vereinbarte Maß hinaus. Welcher Führungsstil beschreibt das?",
         "options": [
-          { "text": "Transaktionale Führung - Leistung gegen Belohnung, hält den Betrieb am Laufen.", "correct": true },
-          { "text": "Transformationale Führung - inspiriert über den Eigennutz hinaus für gemeinsame Ziele." },
-          { "text": "Situatives Führen - der Stil richtet sich nach dem Reifegrad der Geführten." },
-          { "text": "Eigenschaftsansatz - Führungserfolg beruht auf stabilen Persönlichkeitsmerkmalen." }
+          { "text": "Transaktionale Führung - Leistung gegen Belohnung, hält den Betrieb am Laufen.", "correct": true, "stable_id": "opt-mthfnhvl00c0b" },
+          { "text": "Transformationale Führung - inspiriert über den Eigennutz hinaus für gemeinsame Ziele.", "stable_id": "opt-mthfnhvl00dmt" },
+          { "text": "Situatives Führen - der Stil richtet sich nach dem Reifegrad der Geführten.", "stable_id": "opt-mthfnhvl00eo5" },
+          { "text": "Eigenschaftsansatz - Führungserfolg beruht auf stabilen Persönlichkeitsmerkmalen.", "stable_id": "opt-mthfnhvl00fc9" }
         ],
         "hint": "Der Fall beschreibt einen reinen Austausch: Leistung gegen Belohnung, ohne darüber hinausgehende Inspiration."
       }
@@ -74,13 +77,14 @@
       "title": "Fall: Niemand widerspricht",
       "exercise": {
         "id": "ex-mc-gruppendenken",
+        "stable_id": "ex-mthfnhvl00gg7",
         "type": "multiple_choice",
         "prompt": "In einem sehr harmonischen Team stellt niemand kritische Fragen zu einem riskanten Plan, aus Angst, den Zusammenhalt zu stören - am Ende wird eine schlechte Entscheidung getroffen. Welches Phänomen beschreibt das?",
         "options": [
-          { "text": "Gruppendenken - das Streben nach Einigkeit unterdrückt kritisches Denken.", "correct": true },
-          { "text": "Soziales Faulenzen - Einzelne strengen sich in der Gruppe weniger an." },
-          { "text": "Psychologische Sicherheit - die Überzeugung, ohne Angst Fragen stellen zu dürfen." },
-          { "text": "Gratifikationskrise - ein Ungleichgewicht zwischen Einsatz und Belohnung." }
+          { "text": "Gruppendenken - das Streben nach Einigkeit unterdrückt kritisches Denken.", "correct": true, "stable_id": "opt-mthfnhvl00h6k" },
+          { "text": "Soziales Faulenzen - Einzelne strengen sich in der Gruppe weniger an.", "stable_id": "opt-mthfnhvl00ifi" },
+          { "text": "Psychologische Sicherheit - die Überzeugung, ohne Angst Fragen stellen zu dürfen.", "stable_id": "opt-mthfnhvl00j8j" },
+          { "text": "Gratifikationskrise - ein Ungleichgewicht zwischen Einsatz und Belohnung.", "stable_id": "opt-mthfnhvl00kb6" }
         ],
         "hint": "Hier fehlt genau das, was psychologische Sicherheit beschreiben würde - das Team hat das Gegenteil davon."
       }
@@ -92,13 +96,14 @@
       "title": "Fall: Viel verlangt, nichts mitzubestimmen",
       "exercise": {
         "id": "ex-mc-high-strain",
+        "stable_id": "ex-mthfnhvl00lu3",
         "type": "multiple_choice",
         "prompt": "Ein Mitarbeiter hat sehr hohe Anforderungen zu bewältigen, kann aber kaum mitbestimmen, wie, wann oder in welcher Reihenfolge er seine Aufgaben erledigt. Welches Modell beschreibt genau diese Kombination als besonders ungünstig?",
         "options": [
-          { "text": "Job-Demand-Control-Modell (Karasek) - hohe Anforderungen bei geringem Entscheidungsspielraum (High-Strain-Job).", "correct": true },
-          { "text": "Effort-Reward-Imbalance (Siegrist) - Ungleichgewicht zwischen Verausgabung und Belohnung." },
-          { "text": "Transaktionales Stressmodell (Lazarus) - Stress als Ergebnis einer Bewertung." },
-          { "text": "Zwei-Faktoren-Theorie (Herzberg) - Unterscheidung von Motivatoren und Hygienefaktoren." }
+          { "text": "Job-Demand-Control-Modell (Karasek) - hohe Anforderungen bei geringem Entscheidungsspielraum (High-Strain-Job).", "correct": true, "stable_id": "opt-mthfnhvl00mqb" },
+          { "text": "Effort-Reward-Imbalance (Siegrist) - Ungleichgewicht zwischen Verausgabung und Belohnung.", "stable_id": "opt-mthfnhvl00n9i" },
+          { "text": "Transaktionales Stressmodell (Lazarus) - Stress als Ergebnis einer Bewertung.", "stable_id": "opt-mthfnhvl00oc2" },
+          { "text": "Zwei-Faktoren-Theorie (Herzberg) - Unterscheidung von Motivatoren und Hygienefaktoren.", "stable_id": "opt-mthfnhvl00p15" }
         ],
         "hint": "Zwei Größen spielen eine Rolle: wie viel verlangt wird, und wie viel Kontrolle die Person darüber hat."
       }
@@ -110,13 +115,14 @@
       "title": "Fall: Viel geben, wenig zurückbekommen",
       "exercise": {
         "id": "ex-mc-gratifikationskrise",
+        "stable_id": "ex-mthfnhvl00q09",
         "type": "multiple_choice",
         "prompt": "Eine Angestellte arbeitet seit Jahren weit über das erwartete Maß hinaus, wird dafür aber weder befördert noch anerkannt noch besser bezahlt. Wie nennt man diesen dauerhaften Zustand?",
         "options": [
-          { "text": "Gratifikationskrise - dauerhaftes Ungleichgewicht zwischen Verausgabung und Belohnung.", "correct": true },
-          { "text": "High-Strain-Job - hohe Anforderungen bei geringem Entscheidungsspielraum." },
-          { "text": "Soziales Faulenzen - geringerer Einsatz in der Gruppe." },
-          { "text": "Resignative Zufriedenheit - Ansprüche werden nach unten angepasst." }
+          { "text": "Gratifikationskrise - dauerhaftes Ungleichgewicht zwischen Verausgabung und Belohnung.", "correct": true, "stable_id": "opt-mthfnhvl00rom" },
+          { "text": "High-Strain-Job - hohe Anforderungen bei geringem Entscheidungsspielraum.", "stable_id": "opt-mthfnhvl00sko" },
+          { "text": "Soziales Faulenzen - geringerer Einsatz in der Gruppe.", "stable_id": "opt-mthfnhvl00t0q" },
+          { "text": "Resignative Zufriedenheit - Ansprüche werden nach unten angepasst.", "stable_id": "opt-mthfnhvl00usy" }
         ],
         "hint": "Es geht um das Verhältnis von Einsatz zu Belohnung über lange Zeit - nicht um Kontrolle oder Gruppenverhalten."
       }
@@ -128,6 +134,7 @@
       "title": "Fall: Erschöpft, zynisch, ausgebrannt",
       "exercise": {
         "id": "ex-free-burnout",
+        "stable_id": "ex-mthfnhvl00v37",
         "type": "free_text",
         "prompt": "Ein Kollege berichtet von andauernder emotionaler Erschöpfung, wachsendem Zynismus gegenüber Kolleginnen und Klienten sowie dem Gefühl, nichts mehr zu schaffen. Wie nennt man diesen im ICD-11 mit dem Arbeitskontext verknüpften Zustand (dort ausdrücklich keine eigenständige Krankheitsdiagnose)?",
         "accept": ["Burnout", "ein Burnout", "Burnout-Syndrom"],
