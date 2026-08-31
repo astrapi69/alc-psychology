@@ -20,13 +20,14 @@
       "title": "Fall: Der Blick auf die Waffe",
       "exercise": {
         "id": "ex-mc-waffenfokus",
+        "stable_id": "ex-mthejasq001w1",
         "type": "multiple_choice",
         "prompt": "Bei einem Ueberfall starrt der Zeuge die ganze Zeit auf die Pistole des Taeters. Spaeter kann er sich kaum an dessen Gesicht erinnern. Welcher Effekt erklaert das am besten?",
         "options": [
-          { "text": "Waffenfokus-Effekt - die Aufmerksamkeit auf die Waffe verschlechtert die Kodierung des Gesichts.", "correct": true },
-          { "text": "Misinformationseffekt - eine spaetere Frage hat die Erinnerung veraendert." },
-          { "text": "Confidence-Accuracy-Problem - der Zeuge war sich zu sicher." },
-          { "text": "Nullhypothese-Verzerrung - der Zeuge ging von einer Luege aus." }
+          { "text": "Waffenfokus-Effekt - die Aufmerksamkeit auf die Waffe verschlechtert die Kodierung des Gesichts.", "correct": true, "stable_id": "opt-mthejasq002sv" },
+          { "text": "Misinformationseffekt - eine spaetere Frage hat die Erinnerung veraendert.", "stable_id": "opt-mthejasq003tp" },
+          { "text": "Confidence-Accuracy-Problem - der Zeuge war sich zu sicher.", "stable_id": "opt-mthejasq0043v" },
+          { "text": "Nullhypothese-Verzerrung - der Zeuge ging von einer Luege aus.", "stable_id": "opt-mthejasq005y6" }
         ],
         "hint": "Es geht um das, worauf die Aufmerksamkeit gerichtet war - nicht um eine spaetere Frage oder um Sicherheit."
       }
@@ -38,13 +39,14 @@
       "title": "Fall: Der selbstsichere Zeuge",
       "exercise": {
         "id": "ex-mc-sicherheit",
+        "stable_id": "ex-mthejasq0066e",
         "type": "multiple_choice",
         "prompt": "Ein Zeuge sagt sehr ueberzeugt und ohne zu zoegern aus. Was folgt daraus fuer die Richtigkeit seiner Aussage?",
         "options": [
-          { "text": "Kaum etwas - Sicherheit sagt die Genauigkeit nur schwach voraus.", "correct": true },
-          { "text": "Sie ist dann so gut wie sicher richtig." },
-          { "text": "Sie ist eher falsch, denn echte Erinnerungen wirken zoegernd." },
-          { "text": "Sicherheit und Genauigkeit haengen ueberhaupt nicht zusammen." }
+          { "text": "Kaum etwas - Sicherheit sagt die Genauigkeit nur schwach voraus.", "correct": true, "stable_id": "opt-mthejasq0078u" },
+          { "text": "Sie ist dann so gut wie sicher richtig.", "stable_id": "opt-mthejasq008f4" },
+          { "text": "Sie ist eher falsch, denn echte Erinnerungen wirken zoegernd.", "stable_id": "opt-mthejasq009y0" },
+          { "text": "Sicherheit und Genauigkeit haengen ueberhaupt nicht zusammen.", "stable_id": "opt-mthejasq00age" }
         ],
         "hint": "Nicht 'gar nichts' und nicht 'fast sicher richtig' - dazwischen liegt die richtige Antwort."
       }
@@ -56,13 +58,14 @@
       "title": "Unterscheidung: § 20 und § 21 StGB",
       "exercise": {
         "id": "ex-mc-paragraph-unterscheidung",
+        "stable_id": "ex-mthejasq00b2i",
         "type": "multiple_choice",
         "prompt": "Worin unterscheiden sich § 20 und § 21 StGB voneinander?",
         "options": [
-          { "text": "§ 20 beschreibt aufgehobene, § 21 nur erheblich verminderte Schuldfaehigkeit.", "correct": true },
-          { "text": "§ 20 gilt fuer Ersttaeter, § 21 fuer Wiederholungstaeter." },
-          { "text": "§ 20 betrifft Erwachsene, § 21 nur Jugendliche." },
-          { "text": "§ 20 regelt die Strafe, § 21 die Maßregel." }
+          { "text": "§ 20 beschreibt aufgehobene, § 21 nur erheblich verminderte Schuldfaehigkeit.", "correct": true, "stable_id": "opt-mthejasq00cog" },
+          { "text": "§ 20 gilt fuer Ersttaeter, § 21 fuer Wiederholungstaeter.", "stable_id": "opt-mthejasq00dby" },
+          { "text": "§ 20 betrifft Erwachsene, § 21 nur Jugendliche.", "stable_id": "opt-mthejasq00e0i" },
+          { "text": "§ 20 regelt die Strafe, § 21 die Maßregel.", "stable_id": "opt-mthejasq00fpi" }
         ],
         "hint": "Beide betreffen dieselbe Frage - nur den Grad der Beeintraechtigung."
       }
@@ -74,13 +77,14 @@
       "title": "Fall: Das Gutachten",
       "exercise": {
         "id": "ex-mc-cbca-fall",
+        "stable_id": "ex-mthejasq00g2k",
         "type": "multiple_choice",
         "prompt": "In einer Aussage finden sich viele konkrete Details, unerwartete Verwicklungen und spontan geschilderte eigene Gefuehle. Wofuer sprechen solche Merkmale nach der CBCA?",
         "options": [
-          { "text": "Fuer ein eher erlebnisbasiertes Erinnern (Realkennzeichen).", "correct": true },
-          { "text": "Fuer eine besonders gut einstudierte Luege." },
-          { "text": "Fuer absichtlich vages Aussageverhalten." },
-          { "text": "Sie sind fuer die Beurteilung bedeutungslos." }
+          { "text": "Fuer ein eher erlebnisbasiertes Erinnern (Realkennzeichen).", "correct": true, "stable_id": "opt-mthejasq00hyc" },
+          { "text": "Fuer eine besonders gut einstudierte Luege.", "stable_id": "opt-mthejasq00inu" },
+          { "text": "Fuer absichtlich vages Aussageverhalten.", "stable_id": "opt-mthejasq00jsj" },
+          { "text": "Sie sind fuer die Beurteilung bedeutungslos.", "stable_id": "opt-mthejasq00ke4" }
         ],
         "hint": "Realkennzeichen sprechen FUER etwas - nicht dagegen."
       }
@@ -92,13 +96,14 @@
       "title": "Unterscheidung: Aktuarisch und klinisch",
       "exercise": {
         "id": "ex-mc-prognose-unterscheidung",
+        "stable_id": "ex-mthejasq00lwu",
         "type": "multiple_choice",
         "prompt": "Worin unterscheidet sich die aktuarische von der klinischen Kriminalprognose?",
         "options": [
-          { "text": "Die aktuarische stuetzt sich auf statistische Risikofaktoren, die klinische auf individuelle Fallbeurteilung.", "correct": true },
-          { "text": "Beide beruhen ausschließlich auf Statistik." },
-          { "text": "Die klinische ist immer die genauere Methode." },
-          { "text": "Die aktuarische wird nur bei Ersttaetern angewendet." }
+          { "text": "Die aktuarische stuetzt sich auf statistische Risikofaktoren, die klinische auf individuelle Fallbeurteilung.", "correct": true, "stable_id": "opt-mthejasq00me6" },
+          { "text": "Beide beruhen ausschließlich auf Statistik.", "stable_id": "opt-mthejasq00nzu" },
+          { "text": "Die klinische ist immer die genauere Methode.", "stable_id": "opt-mthejasq00o85" },
+          { "text": "Die aktuarische wird nur bei Ersttaetern angewendet.", "stable_id": "opt-mthejasq00pkl" }
         ],
         "hint": "Eine der beiden Methoden nutzt feste statistische Faktoren, die andere die Einschaetzung einer Fachperson."
       }
@@ -110,13 +115,14 @@
       "title": "Fall: Das exakte Taeterbild",
       "exercise": {
         "id": "ex-mc-profiling-fall",
+        "stable_id": "ex-mthejasq00qb4",
         "type": "multiple_choice",
         "prompt": "Ein Profiler behauptet, allein aus dem Tatort ein exaktes Taeterbild erstellen zu koennen, das direkt zur Festnahme fuehrt. Wie ist diese Behauptung wissenschaftlich einzuordnen?",
         "options": [
-          { "text": "Kritisch zu sehen - die empirische Trefferquote von Profiling ist umstritten.", "correct": true },
-          { "text": "Unproblematisch, da Profiling ein etabliertes Standardverfahren ist." },
-          { "text": "Nur bei Serientaetern zutreffend, sonst nicht." },
-          { "text": "Profiling ersetzt die klassische Ermittlungsarbeit vollstaendig." }
+          { "text": "Kritisch zu sehen - die empirische Trefferquote von Profiling ist umstritten.", "correct": true, "stable_id": "opt-mthejasq00r7m" },
+          { "text": "Unproblematisch, da Profiling ein etabliertes Standardverfahren ist.", "stable_id": "opt-mthejasq00s40" },
+          { "text": "Nur bei Serientaetern zutreffend, sonst nicht.", "stable_id": "opt-mthejasq00teq" },
+          { "text": "Profiling ersetzt die klassische Ermittlungsarbeit vollstaendig.", "stable_id": "opt-mthejasq00u7r" }
         ],
         "hint": "Was hat Lektion 84 ueber die empirische Basis von Profiling gesagt?"
       }
@@ -128,6 +134,7 @@
       "title": "Fall: Die Einweisung",
       "exercise": {
         "id": "ex-free-massregel-fall",
+        "stable_id": "ex-mthejasq00vqc",
         "type": "free_text",
         "prompt": "Eine schuldunfaehige Person wird nach einer Tat nicht bestraft, sondern in eine Einrichtung eingewiesen, um eine kuenftige Gefahr zu verringern. Wie nennt man diese Rechtsfolge (nicht: Strafe)?",
         "accept": ["Maßregel", "Massregel", "Maßregel der Besserung und Sicherung", "eine Maßregel"],
