@@ -255,7 +255,7 @@
         "card_ids": ["normalverteilung"],
         "sentence": "Bei einer Normalverteilung liegen ca. ___ % aller Werte innerhalb von ±1 Standardabweichung vom Mittelwert.",
         "blanks": [
-          { "accept": ["68", "68 %", "68%"] }
+          { "accept": ["68"] }
         ],
         "cloze_mode": "type",
         "hint": "Die 68-95-99,7-Regel — welcher Wert gilt für ±1 SD?"
