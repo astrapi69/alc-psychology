@@ -181,8 +181,8 @@
         "type": "word_tiles",
         "prompt": "Setze den korrekten Satz über das Bargh-Doyen-Beispiel zusammen.",
         "card_ids": ["card-bargh-doyen"],
-        "tiles": ["Der", "klassische", "Priming-Effekt", "ließ", "sich", "später", "nicht", "replizieren"],
-        "hint": "Beginnt mit *Der klassische Priming-Effekt …*."
+        "tiles": ["Der", "behaviorale", "Priming-Effekt", "ließ", "sich", "später", "nicht", "replizieren"],
+        "hint": "Beginnt mit *Der behaviorale Priming-Effekt …*."
       }
     },
     {
