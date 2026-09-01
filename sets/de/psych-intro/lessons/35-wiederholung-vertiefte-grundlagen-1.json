@@ -176,7 +176,7 @@
         "card_ids": ["cocktailparty-effekt"],
         "sentence": "Dass man im Stimmengewirr seinen eigenen Namen herausfiltern kann, nennt man den ___-Effekt.",
         "blanks": [
-          { "accept": ["Cocktailparty", "Cocktail-Party", "Cocktailparty-"] }
+          { "accept": ["Cocktailparty", "Cocktail-Party"] }
         ],
         "cloze_mode": "type",
         "hint": "Englisch für eine gesellige Party mit Getränken."
