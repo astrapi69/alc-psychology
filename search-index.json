@@ -1,6 +1,6 @@
 {
   "repo": "astrapi69/alc-psychology",
-  "generated": "2026-09-01T09:48:36Z",
+  "generated": "2026-09-01T09:51:37Z",
   "schema_version": "1.0",
   "sets": [
     {
@@ -97,7 +97,7 @@
       "level": "a1",
       "domain": "psychology",
       "lesson_count": 4,
-      "card_count": 23,
+      "card_count": 24,
       "tags": [
         "beginner",
         "psychology",
@@ -114,9 +114,9 @@
         "isbn": "978-3868943238",
         "url": "https://www.amazon.de/dp/3868943234/"
       },
-      "updated_at": "2026-08-12T23:54:50+02:00"
+      "updated_at": "2026-09-01T11:51:26+02:00"
     }
   ],
   "total_lessons": 132,
-  "total_cards": 1510
+  "total_cards": 1511
 }
