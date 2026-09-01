@@ -120,6 +120,14 @@
       "tags": ["humanismus", "rogers"]
     },
     {
+      "id": "kongruenz",
+      "stable_id": "card-mtihy8xq0014k",
+      "front": "Kongruenz (Congruence)",
+      "back": "Rogers' Konzept: die Übereinstimmung zwischen Selbstbild und tatsächlicher Erfahrung — je größer die Kluft, desto größer die psychische Belastung.",
+      "notes": "Bereits in der Karte 'Selbstkonzept' erwähnt, bislang aber ohne eigene Karte.",
+      "tags": ["humanismus", "rogers"]
+    },
+    {
       "id": "neo-ffi",
       "stable_id": "card-ms942qom084uc",
       "front": "NEO-FFI (Big-Five-Fragebogen)",
@@ -167,11 +175,11 @@
         "prompt": "Ordne jede Big-Five-Dimension ihrer Beschreibung zu.",
         "card_ids": ["offenheit", "gewissenhaftigkeit", "extraversion", "vertraeglichkeit", "neurotizismus"],
         "pairs": [
-          { "left": "Offenheit", "right": "Neugier, Kreativität, Interesse an neuen Ideen" },
-          { "left": "Gewissenhaftigkeit", "right": "Ordnung, Disziplin, Verlässlichkeit" },
-          { "left": "Extraversion", "right": "Geselligkeit, Optimismus, soziale Stimulation" },
-          { "left": "Verträglichkeit", "right": "Empathie, Kooperation, Hilfsbereitschaft" },
-          { "left": "Neurotizismus", "right": "Angst, Traurigkeit, emotionale Instabilität" }
+          { "left": "Offenheit", "right": "Neugier, Kreativität, Interesse an neuen Ideen", "stable_id": "pair-mtihy8xq0027b" },
+          { "left": "Gewissenhaftigkeit", "right": "Ordnung, Disziplin, Verlässlichkeit", "stable_id": "pair-mtihy8xq0031f" },
+          { "left": "Extraversion", "right": "Geselligkeit, Optimismus, soziale Stimulation", "stable_id": "pair-mtihy8xq0047y" },
+          { "left": "Verträglichkeit", "right": "Empathie, Kooperation, Hilfsbereitschaft", "stable_id": "pair-mtihy8xq005zv" },
+          { "left": "Neurotizismus", "right": "Angst, Traurigkeit, emotionale Instabilität", "stable_id": "pair-mtihy8xq006p3" }
         ],
         "direction": "target_to_source"
       }
@@ -188,9 +196,9 @@
         "prompt": "Ordne jeder Instanz ihren Inhalt zu.",
         "card_ids": ["es", "ich", "ueber-ich"],
         "pairs": [
-          { "left": "Es (Id)", "right": "Triebe, Lustprinzip, unbewusst" },
-          { "left": "Ich (Ego)", "right": "Realitätsprinzip, vermittelt zwischen Es und Über-Ich" },
-          { "left": "Über-Ich (Superego)", "right": "Moral, Gewissen, verinnerlichte Normen" }
+          { "left": "Es (Id)", "right": "Triebe, Lustprinzip, unbewusst", "stable_id": "pair-mtihy8xq0071y" },
+          { "left": "Ich (Ego)", "right": "Realitätsprinzip, vermittelt zwischen Es und Über-Ich", "stable_id": "pair-mtihy8xq008mv" },
+          { "left": "Über-Ich (Superego)", "right": "Moral, Gewissen, verinnerlichte Normen", "stable_id": "pair-mtihy8xq009li" }
         ],
         "direction": "target_to_source"
       }
@@ -242,8 +250,8 @@
         "card_ids": ["fuenf-faktoren-modell", "extraversion", "neurotizismus"],
         "sentence": "Das OCEAN-Akronym steht für Offenheit, Gewissenhaftigkeit, ___, Verträglichkeit und ___.",
         "blanks": [
-          { "accept": ["Extraversion"] },
-          { "accept": ["Neurotizismus"] }
+          { "accept": ["Extraversion"], "stable_id": "blank-mtihy8xq00a8e" },
+          { "accept": ["Neurotizismus"], "stable_id": "blank-mtihy8xq00bym" }
         ],
         "cloze_mode": "type",
         "hint": "E und N — Geselligkeit und emotionale Instabilität."
@@ -262,7 +270,7 @@
         "card_ids": ["instanzenmodell", "ich"],
         "sentence": "Das ___ folgt dem Realitätsprinzip und vermittelt zwischen Es und Über-Ich.",
         "blanks": [
-          { "accept": ["Ich", "Ego"] }
+          { "accept": ["Ich", "Ego"], "stable_id": "blank-mtihy8xq00cyb" }
         ],
         "cloze_mode": "type",
         "hint": "Die Instanz, die 'Ich' heißt — das bewusste Selbst."
@@ -316,11 +324,11 @@
         "stable_id": "ex-ms942qom08ecu",
         "type": "matching",
         "prompt": "Ordne jedem Rogers-Konzept seine Erklärung zu.",
-        "card_ids": ["selbstkonzept", "bedingungslose-wertschaetzung"],
+        "card_ids": ["selbstkonzept", "bedingungslose-wertschaetzung", "kongruenz"],
         "pairs": [
-          { "left": "Selbstkonzept", "right": "Bild, das eine Person von sich selbst hat" },
-          { "left": "Bedingungslose positive Wertschätzung", "right": "Akzeptanz ohne Bedingungen oder Leistungsanforderungen" },
-          { "left": "Kongruenz", "right": "Übereinstimmung zwischen Selbstbild und tatsächlicher Erfahrung" }
+          { "left": "Selbstkonzept", "right": "Bild, das eine Person von sich selbst hat", "stable_id": "pair-mtihy8xq00d69" },
+          { "left": "Bedingungslose positive Wertschätzung", "right": "Akzeptanz ohne Bedingungen oder Leistungsanforderungen", "stable_id": "pair-mtihy8xq00e2z" },
+          { "left": "Kongruenz", "right": "Übereinstimmung zwischen Selbstbild und tatsächlicher Erfahrung", "stable_id": "pair-mtihy8xq00f36" }
         ],
         "direction": "target_to_source"
       }
