@@ -144,7 +144,7 @@
         "stable_id": "ex-msqgsskd015iz",
         "type": "ext:al-categorization",
         "prompt": "Sortiere jede Studie danach, ob sie eine Ursache belegen kann.",
-        "card_ids": ["r-empirie", "r-basisemotion"],
+        "card_ids": ["r-empirie"],
         "ext_payload": {
           "categories": [
             {

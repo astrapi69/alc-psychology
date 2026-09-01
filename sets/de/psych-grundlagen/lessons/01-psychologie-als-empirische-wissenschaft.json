@@ -51,6 +51,14 @@
       "tags": ["methode"]
     },
     {
+      "id": "befragung",
+      "stable_id": "card-mtihjicy001wr",
+      "front": "Befragung",
+      "back": "Erschließt inneres Erleben über Fragebogen oder Interview; anfällig für verzerrte Selbstauskunft.",
+      "notes": "Vierte Standardmethode neben Experiment, Beobachtung und Korrelationsstudie - bereits im Theorie-Schritt als Tabellenzeile genannt, bislang aber ohne eigene Karte.",
+      "tags": ["methode"]
+    },
+    {
       "id": "drittvariable",
       "stable_id": "card-msqgssk9006q0",
       "front": "Drittvariable",
@@ -170,10 +178,10 @@
         "prompt": "Eine Studie stellt fest: Menschen, die mehr Kaffee trinken, schlafen schlechter. Was folgt daraus zulässigerweise?",
         "card_ids": ["korrelation", "experiment", "drittvariable"],
         "options": [
-          { "text": "Es besteht ein Zusammenhang; die Ursache ist damit noch nicht geklärt.", "correct": true },
-          { "text": "Kaffee verursacht schlechten Schlaf." },
-          { "text": "Schlechter Schlaf verursacht den Kaffeekonsum." },
-          { "text": "Kaffee ist für den Schlaf völlig unbedenklich." }
+          { "text": "Es besteht ein Zusammenhang; die Ursache ist damit noch nicht geklärt.", "correct": true, "stable_id": "opt-mtihjicy002ig" },
+          { "text": "Kaffee verursacht schlechten Schlaf.", "stable_id": "opt-mtihjicy00343" },
+          { "text": "Schlechter Schlaf verursacht den Kaffeekonsum.", "stable_id": "opt-mtihjicy004ua" },
+          { "text": "Kaffee ist für den Schlaf völlig unbedenklich.", "stable_id": "opt-mtihjicy005x1" }
         ],
         "hint": "Es ist eine Beobachtung ohne gezielte Veränderung einer Variable."
       }
@@ -188,12 +196,12 @@
         "stable_id": "ex-msqgssk900bwv",
         "type": "matching",
         "prompt": "Ordne jeder Methode zu, was sie leisten kann.",
-        "card_ids": ["experiment", "beobachtung", "korrelation"],
+        "card_ids": ["experiment", "beobachtung", "korrelation", "befragung"],
         "pairs": [
-          { "left": "Experiment", "right": "kann Ursache und Wirkung belegen" },
-          { "left": "Beobachtung", "right": "erfasst Verhalten im Alltag ohne Eingriff" },
-          { "left": "Korrelationsstudie", "right": "zeigt einen Zusammenhang, aber keine Ursache" },
-          { "left": "Befragung", "right": "erschließt inneres Erleben, anfällig für Verzerrung" }
+          { "left": "Experiment", "right": "kann Ursache und Wirkung belegen", "stable_id": "pair-mtihjicy0068r" },
+          { "left": "Beobachtung", "right": "erfasst Verhalten im Alltag ohne Eingriff", "stable_id": "pair-mtihjicy007k3" },
+          { "left": "Korrelationsstudie", "right": "zeigt einen Zusammenhang, aber keine Ursache", "stable_id": "pair-mtihjicy008s0" },
+          { "left": "Befragung", "right": "erschließt inneres Erleben, anfällig für Verzerrung", "stable_id": "pair-mtihjicy009pn" }
         ],
         "direction": "target_to_source"
       }
