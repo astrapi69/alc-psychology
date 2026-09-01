@@ -1,7 +1,7 @@
 {
   "id": "81-aussagepsychologie-und-augenzeugen",
   "title": "Aussagepsychologie und Augenzeugen",
-  "description": "Warum Augenzeugenaussagen oft unzuverlässig sind: rekonstruktives Gedächtnis, Misinformationseffekt, Suggestivfragen und Waffenfokus — sowie bessere Befragungsmethoden, wissenschaftlich erklärt.",
+  "description": "Warum Augenzeugenaussagen oft unzuverlässig sind: rekonstruktives Gedächtnis, Misinformationseffekt, Suggestivfragen und Waffenfokus, sowie bessere Befragungsmethoden, wissenschaftlich erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -11,7 +11,7 @@
       "id": "rechtspsychologie",
       "stable_id": "card-ms942qq51i8co",
       "front": "Rechtspsychologie",
-      "back": "Das Anwendungsfach, das psychologisches Wissen auf Fragen von Recht und Justiz anwendet — z. B. Aussagen, Begutachtung und Kriminalität.",
+      "back": "Das Anwendungsfach, das psychologisches Wissen auf Fragen von Recht und Justiz anwendet, z. B. Aussagen, Begutachtung und Kriminalität.",
       "notes": "Die forensische Psychologie ist ihr Teilbereich rund um Gericht und Strafrecht.",
       "media_type": "text",
       "difficulty": 2,
@@ -30,7 +30,7 @@
       "id": "rekonstruktives-gedaechtnis",
       "stable_id": "card-ms942qq51iacp",
       "front": "Rekonstruktives Gedächtnis",
-      "back": "Erinnern ist kein Abspielen einer Aufnahme, sondern ein aktives Zusammensetzen — dabei können Lücken unbemerkt mit Plausiblem gefüllt werden.",
+      "back": "Erinnern ist kein Abspielen einer Aufnahme, sondern ein aktives Zusammensetzen, dabei können Lücken unbemerkt mit Plausiblem gefüllt werden.",
       "notes": "Vertieft aus Lektion 46. Genau das macht Augenzeugen fehleranfällig.",
       "media_type": "text",
       "difficulty": 3,
@@ -71,7 +71,7 @@
       "id": "waffenfokus",
       "stable_id": "card-ms942qq51ie3g",
       "front": "Waffenfokus-Effekt (Weapon Focus)",
-      "back": "Ist eine Waffe im Spiel, richtet sich die Aufmerksamkeit stark auf sie — das Gesicht des Täters wird dann schlechter erinnert.",
+      "back": "Ist eine Waffe im Spiel, richtet sich die Aufmerksamkeit stark auf sie, das Gesicht des Täters wird dann schlechter erinnert.",
       "media_type": "text",
       "difficulty": 4,
       "tags": ["forensik", "aufmerksamkeit"]
@@ -80,7 +80,7 @@
       "id": "confidence-accuracy",
       "stable_id": "card-ms942qq51if62",
       "front": "Aussagesicherheit ≠ Genauigkeit",
-      "back": "Wie sicher sich ein Zeuge fühlt, sagt nur schwach voraus, wie korrekt die Aussage ist — selbstsichere Zeugen können sich irren.",
+      "back": "Wie sicher sich ein Zeuge fühlt, sagt nur schwach voraus, wie korrekt die Aussage ist, selbstsichere Zeugen können sich irren.",
       "notes": "Ein wichtiger, oft unterschätzter Befund (Confidence-Accuracy-Problem).",
       "media_type": "text",
       "difficulty": 4,
@@ -90,7 +90,7 @@
       "id": "cross-race-effekt",
       "stable_id": "card-ms942qq51iglr",
       "front": "Cross-Race-Effekt",
-      "back": "Gesichter der eigenen Gruppe werden meist besser wiedererkannt als Gesichter fremder Gruppen — eine weitere Fehlerquelle bei Identifikationen.",
+      "back": "Gesichter der eigenen Gruppe werden meist besser wiedererkannt als Gesichter fremder Gruppen, eine weitere Fehlerquelle bei Identifikationen.",
       "media_type": "text",
       "difficulty": 4,
       "tags": ["forensik", "wahrnehmung"]
@@ -129,19 +129,19 @@
       "id": "intro",
       "type": "theory",
       "title": "Warum Augenzeugen täuschen können",
-      "body": "# Aussagepsychologie und Augenzeugen\n\nDie **Rechtspsychologie** wendet psychologisches Wissen auf Recht und Justiz an. Ein zentrales Feld ist die **Aussagepsychologie**: Wie zuverlässig sind Zeugenaussagen wirklich?\n\n## Erinnern ist Rekonstruktion\n\nWie in **Lektion 46** gezeigt, ist Gedächtnis **keine Videoaufnahme**. Es wird bei jedem Abruf **neu zusammengesetzt** — Lücken werden unbemerkt mit Plausiblem gefüllt.\n\nDeshalb gilt ein für viele überraschender Befund:\n\n> **Augenzeugenaussagen wirken überzeugend, sind aber häufig fehlerhaft.** Fehlidentifikationen gehören zu den **Hauptursachen von Fehlurteilen** (belegt u. a. durch Wiederaufnahmeverfahren).\n\nDas ist keine Frage von Lüge oder schlechtem Willen — ehrliche, gutmeinende Zeugen können sich schlicht **irren**."
+      "body": "# Aussagepsychologie und Augenzeugen\n\nDie **Rechtspsychologie** wendet psychologisches Wissen auf Recht und Justiz an. Ein zentrales Feld ist die **Aussagepsychologie**: Wie zuverlässig sind Zeugenaussagen wirklich?\n\n## Erinnern ist Rekonstruktion\n\nWie in **Lektion 46** gezeigt, ist Gedächtnis **keine Videoaufnahme**. Es wird bei jedem Abruf **neu zusammengesetzt**, Lücken werden unbemerkt mit Plausiblem gefüllt.\n\nDeshalb gilt ein für viele überraschender Befund:\n\n> **Augenzeugenaussagen wirken überzeugend, sind aber häufig fehlerhaft.** Fehlidentifikationen gehören zu den **Hauptursachen von Fehlurteilen** (belegt u. a. durch Wiederaufnahmeverfahren).\n\nDas ist keine Frage von Lüge oder schlechtem Willen, ehrliche, gutmeinende Zeugen können sich schlicht **irren**."
     },
     {
       "id": "step-verzerrung",
       "type": "theory",
       "title": "Was Aussagen verzerrt",
-      "body": "## Typische Fehlerquellen\n\n| Faktor | Wirkung |\n|---|---|\n| **Misinformationseffekt** | nachträgliche Hinweise verändern die Erinnerung |\n| **Suggestivfrage** | die Frage legt eine Antwort nahe |\n| **Waffenfokus** | Blick auf die Waffe → Tätergesicht schlechter erinnert |\n| **Cross-Race-Effekt** | fremde Gesichter werden schlechter wiedererkannt |\n\nElizabeth **Loftus** zeigte: Schon die **Wortwahl** einer Frage verschiebt Erinnerungen ('raste' vs. 'fuhr').\n\n## Der gefährlichste Trugschluss\n\n**Aussagesicherheit ≠ Genauigkeit.** Wie **sicher** sich ein Zeuge fühlt, sagt nur **schwach** voraus, wie **korrekt** die Aussage ist. Ein sehr selbstsicherer Zeuge kann sich genauso irren — Gerichte (und wir alle) überschätzen Sicherheit jedoch leicht."
+      "body": "## Typische Fehlerquellen\n\n| Faktor | Wirkung |\n|---|---|\n| **Misinformationseffekt** | nachträgliche Hinweise verändern die Erinnerung |\n| **Suggestivfrage** | die Frage legt eine Antwort nahe |\n| **Waffenfokus** | Blick auf die Waffe → Tätergesicht schlechter erinnert |\n| **Cross-Race-Effekt** | fremde Gesichter werden schlechter wiedererkannt |\n\nElizabeth **Loftus** zeigte: Schon die **Wortwahl** einer Frage verschiebt Erinnerungen ('raste' vs. 'fuhr').\n\n## Der gefährlichste Trugschluss\n\n**Aussagesicherheit ≠ Genauigkeit.** Wie **sicher** sich ein Zeuge fühlt, sagt nur **schwach** voraus, wie **korrekt** die Aussage ist. Ein sehr selbstsicherer Zeuge kann sich genauso irren, Gerichte (und wir alle) überschätzen Sicherheit jedoch leicht."
     },
     {
       "id": "step-bessere-methoden",
       "type": "theory",
       "title": "Bessere Methoden",
-      "body": "## Fehler lassen sich verringern\n\nDie Forschung liefert konkrete Verbesserungen:\n\n- **Kognitives Interview** — eine strukturierte Technik, die **ohne Suggestion** mehr korrekte Details gewinnt: den Kontext gedanklich wiederherstellen, frei und ungestört erzählen lassen, offene statt geschlossener Fragen.\n- **Faire Gegenüberstellung (Lineup)** — fehlerärmer, wenn sie z. B. **sequenziell** abläuft, **neutral instruiert** wird ('die Person muss nicht dabei sein') und die durchführende Person **nicht weiß**, wer verdächtig ist (doppelblind, vgl. Lektion 22).\n- **Suggestivfragen vermeiden**, besonders bei der Befragung von Kindern.\n\n> Die Botschaft der Aussagepsychologie ist nicht 'Zeugen lügen', sondern: **Aussagen müssen sorgfältig und fehlerbewusst erhoben werden** — das ist angewandte Gedächtnisforschung."
+      "body": "## Fehler lassen sich verringern\n\nDie Forschung liefert konkrete Verbesserungen:\n\n- **Kognitives Interview**, eine strukturierte Technik, die **ohne Suggestion** mehr korrekte Details gewinnt: den Kontext gedanklich wiederherstellen, frei und ungestört erzählen lassen, offene statt geschlossener Fragen.\n- **Faire Gegenüberstellung (Lineup)**, fehlerärmer, wenn sie z. B. **sequenziell** abläuft, **neutral instruiert** wird ('die Person muss nicht dabei sein') und die durchführende Person **nicht weiß**, wer verdächtig ist (doppelblind, vgl. Lektion 22).\n- **Suggestivfragen vermeiden**, besonders bei der Befragung von Kindern.\n\n> Die Botschaft der Aussagepsychologie ist nicht 'Zeugen lügen', sondern: **Aussagen müssen sorgfältig und fehlerbewusst erhoben werden**, das ist angewandte Gedächtnisforschung."
     },
     {
       "id": "ex-cloze-rekonstruktion",
@@ -152,14 +152,14 @@
         "id": "ex-cloze-rekonstruktion",
         "stable_id": "ex-ms942qq51ikjn",
         "type": "cloze",
-        "prompt": "Ergänze, wie das Gedächtnis arbeitet — nicht wie eine Aufnahme, sondern …",
+        "prompt": "Ergänze, wie das Gedächtnis arbeitet, nicht wie eine Aufnahme, sondern …",
         "card_ids": ["rekonstruktives-gedaechtnis"],
         "sentence": "Erinnern ist ein ___ Prozess: Das Gedächtnis setzt Erlebtes aktiv neu zusammen.",
         "blanks": [
           { "accept": ["rekonstruktiver", "rekonstruktive"] }
         ],
         "cloze_mode": "type",
-        "hint": "Von 'Rekonstruktion' — etwas wieder zusammensetzen."
+        "hint": "Von 'Rekonstruktion', etwas wieder zusammensetzen."
       }
     },
     {

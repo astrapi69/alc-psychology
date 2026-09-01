@@ -1,7 +1,7 @@
 {
   "id": "12-stress-und-gesundheit",
   "title": "Stress und Gesundheit",
-  "description": "Was Stress ist, wie er im Körper wirkt, das Allgemeine Anpassungssyndrom nach Selye, Bewältigungsstrategien (Coping) und die Folgen von chronischem Stress — auf Deutsch erklärt.",
+  "description": "Was Stress ist, wie er im Körper wirkt, das Allgemeine Anpassungssyndrom nach Selye, Bewältigungsstrategien (Coping) und die Folgen von chronischem Stress, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -11,7 +11,7 @@
       "id": "stressor",
       "stable_id": "card-ms942qp00hiak",
       "front": "Stressor",
-      "back": "Ein Reiz oder eine Situation, die eine Stressreaktion auslöst — z. B. Zeitdruck, Lärm, Konflikte oder Verluste.",
+      "back": "Ein Reiz oder eine Situation, die eine Stressreaktion auslöst, z. B. Zeitdruck, Lärm, Konflikte oder Verluste.",
       "notes": "Stressoren können physischer, sozialer oder psychologischer Natur sein.",
       "media_type": "text",
       "difficulty": 1,
@@ -32,7 +32,7 @@
       "id": "kampf-oder-flucht",
       "stable_id": "card-ms942qp00hkrf",
       "front": "Kampf-oder-Flucht-Reaktion (Fight-or-Flight Response)",
-      "back": "Die angeborene körperliche Stressreaktion: Herzschlag und Atemfrequenz steigen, Adrenalin wird ausgeschüttet — der Körper bereitet sich auf Kämpfen oder Fliehen vor.",
+      "back": "Die angeborene körperliche Stressreaktion: Herzschlag und Atemfrequenz steigen, Adrenalin wird ausgeschüttet, der Körper bereitet sich auf Kämpfen oder Fliehen vor.",
       "notes": "Beschrieben von Walter Cannon. Bei modernen Alltagsstressoren oft nicht mehr hilfreich.",
       "media_type": "text",
       "difficulty": 2,
@@ -112,7 +112,7 @@
       "id": "burnout",
       "stable_id": "card-ms942qp00hshx",
       "front": "Burnout",
-      "back": "Ein Zustand tiefer emotionaler, mentaler und körperlicher Erschöpfung infolge anhaltenden Stresses — oft durch berufliche Überlastung. Merkmale: Erschöpfung, Zynismus, verringerte Leistungsfähigkeit.",
+      "back": "Ein Zustand tiefer emotionaler, mentaler und körperlicher Erschöpfung infolge anhaltenden Stresses, oft durch berufliche Überlastung. Merkmale: Erschöpfung, Zynismus, verringerte Leistungsfähigkeit.",
       "notes": "Beschrieben von Herbert Freudenberger (1974). Kein offizieller ICD-Diagnosecode, aber klinisch anerkannt.",
       "media_type": "text",
       "difficulty": 3,
@@ -133,19 +133,19 @@
       "id": "step-stress-grundlagen",
       "type": "theory",
       "title": "Was ist Stress?",
-      "body": "# Stress und Stressoren\n\n**Stress** entsteht, wenn wir eine Situation als belastend oder bedrohlich bewerten und glauben, sie kaum bewältigen zu können. Auslöser heißen **Stressoren** — sie können physischer, sozialer oder psychologischer Natur sein.\n\n## Eustress und Distress\n\nNicht jeder Stress ist gleich:\n\n- **Eustress** (positiver Stress) motiviert und steigert die Leistung — z. B. das Kribbeln vor einer Prüfung oder einem sportlichen Wettkampf.\n- **Distress** (negativer Stress) überlastet den Körper dauerhaft und kann krank machen.\n\n## Die Kampf-oder-Flucht-Reaktion\n\nBei wahrgenommener Gefahr schaltet das Nervensystem in den **Kampf-oder-Flucht-Modus** (Walter Cannon):\n\n1. **Adrenalin** wird ausgeschüttet.\n2. Herzschlag und Atemfrequenz steigen.\n3. Blut wird in die Muskeln umgeleitet.\n\nDiese Reaktion war in der Evolution lebensrettend — bei modernen Alltagsstressoren (Stau, E-Mails) ist sie jedoch oft kontraproduktiv.\n\n## Cortisol — das Stresshormon\n\n**Cortisol** wird in der Nebennierenrinde produziert und kurzfristig zur Energiemobilisierung benötigt. Bleibt der Spiegel chronisch erhöht, schädigt Cortisol Immunsystem, Gedächtnis und Herz-Kreislauf-System."
+      "body": "# Stress und Stressoren\n\n**Stress** entsteht, wenn wir eine Situation als belastend oder bedrohlich bewerten und glauben, sie kaum bewältigen zu können. Auslöser heißen **Stressoren**, sie können physischer, sozialer oder psychologischer Natur sein.\n\n## Eustress und Distress\n\nNicht jeder Stress ist gleich:\n\n- **Eustress** (positiver Stress) motiviert und steigert die Leistung, z. B. das Kribbeln vor einer Prüfung oder einem sportlichen Wettkampf.\n- **Distress** (negativer Stress) überlastet den Körper dauerhaft und kann krank machen.\n\n## Die Kampf-oder-Flucht-Reaktion\n\nBei wahrgenommener Gefahr schaltet das Nervensystem in den **Kampf-oder-Flucht-Modus** (Walter Cannon):\n\n1. **Adrenalin** wird ausgeschüttet.\n2. Herzschlag und Atemfrequenz steigen.\n3. Blut wird in die Muskeln umgeleitet.\n\nDiese Reaktion war in der Evolution lebensrettend, bei modernen Alltagsstressoren (Stau, E-Mails) ist sie jedoch oft kontraproduktiv.\n\n## Cortisol - das Stresshormon\n\n**Cortisol** wird in der Nebennierenrinde produziert und kurzfristig zur Energiemobilisierung benötigt. Bleibt der Spiegel chronisch erhöht, schädigt Cortisol Immunsystem, Gedächtnis und Herz-Kreislauf-System."
     },
     {
       "id": "step-gas",
       "type": "theory",
       "title": "Das Allgemeine Anpassungssyndrom nach Selye",
-      "body": "## Hans Selyes Modell (1936)\n\nDer österreichisch-kanadische Forscher **Hans Selye** beobachtete, dass der Körper auf andauernden Stress stets in drei Phasen reagiert — er nannte dies das **Allgemeine Anpassungssyndrom (GAS)**:\n\n| Phase | Name | Kennzeichen |\n|---|---|---|\n| 1 | **Alarmreaktion** | Sofortige Mobilisierung; Adrenalin- und Cortisolausstoß |\n| 2 | **Widerstandsphase** | Körper passt sich an; Ressourcen werden verbraucht |\n| 3 | **Erschöpfungsphase** | Ressourcen aufgebraucht; Erkrankungsrisiko stark erhöht |\n\nBleibt der Stressor dauerhaft bestehen, drohen in Phase 3 Infektionskrankheiten, Herzprobleme oder psychische Störungen.\n\n> **Merksatz:** Alarm → Widerstand → Erschöpfung."
+      "body": "## Hans Selyes Modell (1936)\n\nDer österreichisch-kanadische Forscher **Hans Selye** beobachtete, dass der Körper auf andauernden Stress stets in drei Phasen reagiert, er nannte dies das **Allgemeine Anpassungssyndrom (GAS)**:\n\n| Phase | Name | Kennzeichen |\n|---|---|---|\n| 1 | **Alarmreaktion** | Sofortige Mobilisierung; Adrenalin- und Cortisolausstoß |\n| 2 | **Widerstandsphase** | Körper passt sich an; Ressourcen werden verbraucht |\n| 3 | **Erschöpfungsphase** | Ressourcen aufgebraucht; Erkrankungsrisiko stark erhöht |\n\nBleibt der Stressor dauerhaft bestehen, drohen in Phase 3 Infektionskrankheiten, Herzprobleme oder psychische Störungen.\n\n> **Merksatz:** Alarm → Widerstand → Erschöpfung."
     },
     {
       "id": "step-coping-gesundheit",
       "type": "theory",
       "title": "Coping, Schutzfaktoren und Gesundheitspsychologie",
-      "body": "## Coping — mit Stress umgehen\n\nNach **Lazarus & Folkman (1984)** beschreibt **Coping** alle Bemühungen, mit Stressoren umzugehen:\n\n| Coping-Form | Strategie | Beispiel |\n|---|---|---|\n| **Problemorientiert** | Stressor direkt verändern | Zeitplan erstellen, Hilfe holen |\n| **Emotionsorientiert** | Emotionale Reaktion regulieren | Neubewertung, Entspannung, Gespräch suchen |\n\nProblemorientation ist hilfreich, wenn die Situation **kontrollierbar** ist; Emotionsorientierung, wenn sie es **nicht** ist.\n\n## Soziale Unterstützung\n\nEin starkes **soziales Netzwerk** ist einer der wichtigsten Schutzfaktoren: Es dämpft Stressreaktionen, fördert Genesung und senkt das Erkrankungsrisiko.\n\n## Chronischer Stress und Burnout\n\nAnhaltender Distress kann zu **Burnout** führen — tiefe Erschöpfung, Zynismus und verringerte Leistungsfähigkeit, meist durch berufliche Überlastung (Freudenberger, 1974).\n\n## Gesundheitspsychologie\n\nDas Teilgebiet **Gesundheitspsychologie** untersucht, wie psychologische, soziale und biologische Faktoren zusammenwirken und die Gesundheit beeinflussen — mit dem Ziel der **Prävention** und Gesundheitsförderung."
+      "body": "## Coping - mit Stress umgehen\n\nNach **Lazarus & Folkman (1984)** beschreibt **Coping** alle Bemühungen, mit Stressoren umzugehen:\n\n| Coping-Form | Strategie | Beispiel |\n|---|---|---|\n| **Problemorientiert** | Stressor direkt verändern | Zeitplan erstellen, Hilfe holen |\n| **Emotionsorientiert** | Emotionale Reaktion regulieren | Neubewertung, Entspannung, Gespräch suchen |\n\nProblemorientation ist hilfreich, wenn die Situation **kontrollierbar** ist; Emotionsorientierung, wenn sie es **nicht** ist.\n\n## Soziale Unterstützung\n\nEin starkes **soziales Netzwerk** ist einer der wichtigsten Schutzfaktoren: Es dämpft Stressreaktionen, fördert Genesung und senkt das Erkrankungsrisiko.\n\n## Chronischer Stress und Burnout\n\nAnhaltender Distress kann zu **Burnout** führen, tiefe Erschöpfung, Zynismus und verringerte Leistungsfähigkeit, meist durch berufliche Überlastung (Freudenberger, 1974).\n\n## Gesundheitspsychologie\n\nDas Teilgebiet **Gesundheitspsychologie** untersucht, wie psychologische, soziale und biologische Faktoren zusammenwirken und die Gesundheit beeinflussen, mit dem Ziel der **Prävention** und Gesundheitsförderung."
     },
     {
       "id": "ex-cloze-cortisol",
@@ -182,7 +182,7 @@
           { "accept": ["Erschöpfungsphase", "Erschoepfungsphase"] }
         ],
         "cloze_mode": "type",
-        "hint": "Die letzte Phase — wenn die Ressourcen aufgebraucht sind."
+        "hint": "Die letzte Phase, wenn die Ressourcen aufgebraucht sind."
       }
     },
     {

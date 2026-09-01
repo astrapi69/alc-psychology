@@ -1,7 +1,7 @@
 {
   "id": "41-wahrnehmung-vertieft-psychophysik",
   "title": "Wahrnehmung vertieft: Psychophysik",
-  "description": "Die quantitative Seite der Wahrnehmung: absolute und Unterschiedsschwelle, das Webersche und das Fechnersche Gesetz, die Signalentdeckungstheorie sowie Wahrnehmungskonstanz und -organisation — auf Deutsch erklärt.",
+  "description": "Die quantitative Seite der Wahrnehmung: absolute und Unterschiedsschwelle, das Webersche und das Fechnersche Gesetz, die Signalentdeckungstheorie sowie Wahrnehmungskonstanz und -organisation, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -92,7 +92,7 @@
       "id": "gestaltgesetze",
       "stable_id": "card-ms942qpg0x7ev",
       "front": "Gestaltgesetze",
-      "back": "Prinzipien, nach denen wir einzelne Reize zu sinnvollen Ganzheiten zusammenfassen — z. B. Nähe, Ähnlichkeit, Geschlossenheit und gute Fortsetzung.",
+      "back": "Prinzipien, nach denen wir einzelne Reize zu sinnvollen Ganzheiten zusammenfassen, z. B. Nähe, Ähnlichkeit, Geschlossenheit und gute Fortsetzung.",
       "notes": "Aus der Gestaltpsychologie (vgl. Lektion 2 und 38): 'Das Ganze ist mehr als die Summe seiner Teile.'",
       "media_type": "text",
       "difficulty": 3,
@@ -122,7 +122,7 @@
       "id": "tiefenwahrnehmung",
       "stable_id": "card-ms942qpg0xan3",
       "front": "Tiefenwahrnehmung (Depth Perception)",
-      "back": "Die Fähigkeit, räumliche Tiefe und Entfernung zu sehen — über binokulare (beidäugige) und monokulare (einäugige) Tiefenhinweise.",
+      "back": "Die Fähigkeit, räumliche Tiefe und Entfernung zu sehen, über binokulare (beidäugige) und monokulare (einäugige) Tiefenhinweise.",
       "notes": "Binokular z. B. die Querdisparation; monokular z. B. Größenabnahme und Verdeckung.",
       "media_type": "text",
       "difficulty": 4,
@@ -134,19 +134,19 @@
       "id": "intro",
       "type": "theory",
       "title": "Psychophysik und Schwellen",
-      "body": "# Wahrnehmung vertieft: Psychophysik\n\nIn **Lektion 2** ging es darum, *was* wir wahrnehmen. Jetzt geht es um die **messbare** Seite: Wie hängt die **subjektive Empfindung** mit dem **physikalischen Reiz** zusammen? Genau das untersucht die **Psychophysik** (begründet von **Gustav Theodor Fechner**).\n\n## Zwei grundlegende Schwellen\n\n| Schwelle | Definition |\n|---|---|\n| **absolute Schwelle** | kleinste Reizintensität, die in **50 %** der Fälle entdeckt wird |\n| **Unterschiedsschwelle** (jnd) | kleinster **Unterschied** zwischen zwei Reizen, der eben noch bemerkt wird |\n\nDie Unterschiedsschwelle heißt auch **eben merklicher Unterschied** (englisch *just noticeable difference*, jnd).\n\nEng damit verbunden ist die **sensorische Adaptation**: Bleibt ein Reiz konstant, lässt unsere Empfindlichkeit dafür nach — man riecht das eigene Parfüm bald nicht mehr."
+      "body": "# Wahrnehmung vertieft: Psychophysik\n\nIn **Lektion 2** ging es darum, *was* wir wahrnehmen. Jetzt geht es um die **messbare** Seite: Wie hängt die **subjektive Empfindung** mit dem **physikalischen Reiz** zusammen? Genau das untersucht die **Psychophysik** (begründet von **Gustav Theodor Fechner**).\n\n## Zwei grundlegende Schwellen\n\n| Schwelle | Definition |\n|---|---|\n| **absolute Schwelle** | kleinste Reizintensität, die in **50 %** der Fälle entdeckt wird |\n| **Unterschiedsschwelle** (jnd) | kleinster **Unterschied** zwischen zwei Reizen, der eben noch bemerkt wird |\n\nDie Unterschiedsschwelle heißt auch **eben merklicher Unterschied** (englisch *just noticeable difference*, jnd).\n\nEng damit verbunden ist die **sensorische Adaptation**: Bleibt ein Reiz konstant, lässt unsere Empfindlichkeit dafür nach, man riecht das eigene Parfüm bald nicht mehr."
     },
     {
       "id": "step-gesetze",
       "type": "theory",
-      "title": "Die Gesetze von Weber und Fechner — und die Signalentdeckung",
-      "body": "## Webersches Gesetz\n\nDer eben merkliche Unterschied ist **kein fester Betrag**, sondern ein **konstanter Anteil** des Ausgangsreizes.\n\n> Zu **100 g** muss man etwa **2 g** zugeben, um einen Unterschied zu merken — zu **1000 g** entsprechend etwa **20 g**.\n\n## Fechnersches Gesetz\n\nDarauf aufbauend: Die **Empfindungsstärke wächst logarithmisch** mit der Reizintensität. Eine Verdopplung des Reizes verdoppelt die Empfindung **nicht**.\n\n## Signalentdeckungstheorie\n\nModerner Gegenentwurf zur festen Schwelle: Ob ein schwacher Reiz entdeckt wird, hängt von **zwei** Faktoren ab:\n\n| Faktor | Bedeutung |\n|---|---|\n| **Sensitivität** | wie gut Signal und Rauschen unterschieden werden |\n| **Antwortkriterium** | wie bereitwillig die Person 'ja, da war etwas' sagt |\n\nDaraus ergeben sich **Treffer**, **falscher Alarm**, **Verpasser** und **korrekte Ablehnung**. Erwartung und Motivation verschieben das Kriterium."
+      "title": "Die Gesetze von Weber und Fechner - und die Signalentdeckung",
+      "body": "## Webersches Gesetz\n\nDer eben merkliche Unterschied ist **kein fester Betrag**, sondern ein **konstanter Anteil** des Ausgangsreizes.\n\n> Zu **100 g** muss man etwa **2 g** zugeben, um einen Unterschied zu merken, zu **1000 g** entsprechend etwa **20 g**.\n\n## Fechnersches Gesetz\n\nDarauf aufbauend: Die **Empfindungsstärke wächst logarithmisch** mit der Reizintensität. Eine Verdopplung des Reizes verdoppelt die Empfindung **nicht**.\n\n## Signalentdeckungstheorie\n\nModerner Gegenentwurf zur festen Schwelle: Ob ein schwacher Reiz entdeckt wird, hängt von **zwei** Faktoren ab:\n\n| Faktor | Bedeutung |\n|---|---|\n| **Sensitivität** | wie gut Signal und Rauschen unterschieden werden |\n| **Antwortkriterium** | wie bereitwillig die Person 'ja, da war etwas' sagt |\n\nDaraus ergeben sich **Treffer**, **falscher Alarm**, **Verpasser** und **korrekte Ablehnung**. Erwartung und Motivation verschieben das Kriterium."
     },
     {
       "id": "step-organisation",
       "type": "theory",
       "title": "Wie das Gehirn Reize organisiert",
-      "body": "## Von Reizen zu Objekten\n\nWahrnehmung ist **aktive Organisation**, kein passives Abbilden.\n\n- **Figur-Grund-Unterscheidung** — wir trennen ein Objekt (Figur) vom Hintergrund (Grund). Kippbilder zeigen, dass das umschlagen kann.\n- **Gestaltgesetze** — wir gruppieren nach **Nähe, Ähnlichkeit, Geschlossenheit** und **guter Fortsetzung** (vgl. Lektion 2 und 38).\n- **Wahrnehmungskonstanz** — ein Objekt bleibt für uns gleich groß/gleich geformt, auch wenn sich das Netzhautbild ändert (Größen-, Form-, Helligkeitskonstanz).\n- **Tiefenwahrnehmung** — über **binokulare** (beidäugige) und **monokulare** (einäugige) Hinweise sehen wir räumlich.\n\nDabei wirken zwei Richtungen zusammen: **Bottom-up** (von den Sinnesdaten her) und **Top-down** (von Vorwissen und Erwartungen gesteuert)."
+      "body": "## Von Reizen zu Objekten\n\nWahrnehmung ist **aktive Organisation**, kein passives Abbilden.\n\n- **Figur-Grund-Unterscheidung**, wir trennen ein Objekt (Figur) vom Hintergrund (Grund). Kippbilder zeigen, dass das umschlagen kann.\n- **Gestaltgesetze**, wir gruppieren nach **Nähe, Ähnlichkeit, Geschlossenheit** und **guter Fortsetzung** (vgl. Lektion 2 und 38).\n- **Wahrnehmungskonstanz**, ein Objekt bleibt für uns gleich groß/gleich geformt, auch wenn sich das Netzhautbild ändert (Größen-, Form-, Helligkeitskonstanz).\n- **Tiefenwahrnehmung**, über **binokulare** (beidäugige) und **monokulare** (einäugige) Hinweise sehen wir räumlich.\n\nDabei wirken zwei Richtungen zusammen: **Bottom-up** (von den Sinnesdaten her) und **Top-down** (von Vorwissen und Erwartungen gesteuert)."
     },
     {
       "id": "ex-cloze-psychophysik",
@@ -219,7 +219,7 @@
           { "accept": ["logarithmisch"] }
         ],
         "cloze_mode": "type",
-        "hint": "Nicht linear, sondern abgeflacht — mathematisch: log."
+        "hint": "Nicht linear, sondern abgeflacht, mathematisch: log."
       }
     },
     {

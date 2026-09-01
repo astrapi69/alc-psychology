@@ -1,7 +1,7 @@
 {
   "id": "04-kognitive-dissonanz",
-  "title": "Kognitive Dissonanz — der Druck nach Stimmigkeit",
-  "description": "Kognitive Dissonanz ist der unangenehme Spannungszustand, der entsteht, wenn Überzeugung und Handlung nicht zusammenpassen. Menschen versuchen, ihn zu reduzieren — oft durch Einstellungsänderung. Mit Festingers Theorie (1957) und dem Experiment von Festinger & Carlsmith (1959).",
+  "title": "Kognitive Dissonanz - der Druck nach Stimmigkeit",
+  "description": "Kognitive Dissonanz ist der unangenehme Spannungszustand, der entsteht, wenn Überzeugung und Handlung nicht zusammenpassen. Menschen versuchen, ihn zu reduzieren, oft durch Einstellungsänderung. Mit Festingers Theorie (1957) und dem Experiment von Festinger & Carlsmith (1959).",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -21,7 +21,7 @@
       "id": "card-reduktion",
       "stable_id": "card-ms942qod013hh",
       "front": "Dissonanzreduktion",
-      "back": "Das Bestreben, die Spannung zu verringern — etwa indem man die Einstellung ändert, das Verhalten anpasst oder neue Rechtfertigungen sucht",
+      "back": "Das Bestreben, die Spannung zu verringern, etwa indem man die Einstellung ändert, das Verhalten anpasst oder neue Rechtfertigungen sucht",
       "notes": "Häufig ist die Einstellung leichter zu ändern als das bereits gezeigte Verhalten.",
       "media_type": "text",
       "difficulty": 3,
@@ -31,7 +31,7 @@
       "id": "card-festinger-carlsmith",
       "stable_id": "card-ms942qod014m8",
       "front": "Festinger & Carlsmith (1959)",
-      "back": "Wer für eine Lüge nur 1 Dollar bekam, fand die langweilige Aufgabe danach interessanter als wer 20 Dollar bekam — die geringe Belohnung erzwang innere Rechtfertigung",
+      "back": "Wer für eine Lüge nur 1 Dollar bekam, fand die langweilige Aufgabe danach interessanter als wer 20 Dollar bekam, die geringe Belohnung erzwang innere Rechtfertigung",
       "notes": "Reale, klassische Studie. Die kleine Bezahlung bot keine äußere Rechtfertigung, also passte sich die Einstellung an.",
       "media_type": "text",
       "difficulty": 3,
@@ -61,7 +61,7 @@
       "id": "card-dissonanz-grenze",
       "stable_id": "card-ms942qod0175v",
       "front": "Augenmaß bei kognitiver Dissonanz",
-      "back": "Dissonanz wird nicht immer durch Einstellungsänderung aufgelöst — man kann sie auch aushalten, die Information abwerten oder das Verhalten ändern",
+      "back": "Dissonanz wird nicht immer durch Einstellungsänderung aufgelöst, man kann sie auch aushalten, die Information abwerten oder das Verhalten ändern",
       "notes": "Die Richtung der Auflösung ist nicht festgelegt.",
       "media_type": "text",
       "difficulty": 3,
@@ -73,7 +73,7 @@
       "id": "intro",
       "type": "theory",
       "title": "Spannung zwischen Haltung und Handlung",
-      "body": "# Kognitive Dissonanz\n\n**Kognitive Dissonanz** ist der unangenehme Spannungszustand, der entsteht, wenn Überzeugungen und Verhalten nicht zusammenpassen — etwa wenn man raucht, obwohl man weiß, dass es schädlich ist. Der Begriff geht auf **Leon Festinger (1957)** zurück.\n\nWeil die Spannung unangenehm ist, entsteht ein **Druck zur Reduktion**. Dafür gibt es mehrere Wege: die Einstellung ändern, das Verhalten anpassen oder neue Rechtfertigungen suchen. Oft ist die Einstellung leichter zu ändern als ein bereits gezeigtes Verhalten.\n\n## Das klassische Experiment\n\n**Festinger & Carlsmith (1959)** ließen Versuchspersonen eine langweilige Aufgabe erledigen und danach einer anderen Person erzählen, sie sei interessant gewesen. Ein Teil erhielt dafür **1 Dollar**, ein anderer **20 Dollar**. Überraschend: Wer nur 1 Dollar bekam, fand die Aufgabe hinterher *tatsächlich interessanter*.\n\nDie Erklärung ist die **unzureichende Rechtfertigung**: 20 Dollar waren ein ausreichender äußerer Grund für die kleine Lüge — die Einstellung musste sich nicht ändern. 1 Dollar war zu wenig, also passte sich die innere Einstellung an, um das eigene Verhalten stimmig erscheinen zu lassen.\n\n## Augenmaß\n\nDissonanz wird *nicht immer* durch Einstellungsänderung aufgelöst. Man kann die Spannung auch aushalten, die störende Information abwerten oder das Verhalten ändern. Die Richtung der Auflösung ist nicht festgelegt."
+      "body": "# Kognitive Dissonanz\n\n**Kognitive Dissonanz** ist der unangenehme Spannungszustand, der entsteht, wenn Überzeugungen und Verhalten nicht zusammenpassen, etwa wenn man raucht, obwohl man weiß, dass es schädlich ist. Der Begriff geht auf **Leon Festinger (1957)** zurück.\n\nWeil die Spannung unangenehm ist, entsteht ein **Druck zur Reduktion**. Dafür gibt es mehrere Wege: die Einstellung ändern, das Verhalten anpassen oder neue Rechtfertigungen suchen. Oft ist die Einstellung leichter zu ändern als ein bereits gezeigtes Verhalten.\n\n## Das klassische Experiment\n\n**Festinger & Carlsmith (1959)** ließen Versuchspersonen eine langweilige Aufgabe erledigen und danach einer anderen Person erzählen, sie sei interessant gewesen. Ein Teil erhielt dafür **1 Dollar**, ein anderer **20 Dollar**. Überraschend: Wer nur 1 Dollar bekam, fand die Aufgabe hinterher *tatsächlich interessanter*.\n\nDie Erklärung ist die **unzureichende Rechtfertigung**: 20 Dollar waren ein ausreichender äußerer Grund für die kleine Lüge, die Einstellung musste sich nicht ändern. 1 Dollar war zu wenig, also passte sich die innere Einstellung an, um das eigene Verhalten stimmig erscheinen zu lassen.\n\n## Augenmaß\n\nDissonanz wird *nicht immer* durch Einstellungsänderung aufgelöst. Man kann die Spannung auch aushalten, die störende Information abwerten oder das Verhalten ändern. Die Richtung der Auflösung ist nicht festgelegt."
     },
     {
       "id": "ex-free-dissonanz",

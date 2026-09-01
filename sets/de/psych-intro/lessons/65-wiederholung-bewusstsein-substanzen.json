@@ -1,7 +1,7 @@
 {
   "id": "65-wiederholung-bewusstsein-substanzen",
   "title": "Wiederholung: Bewusstsein, Substanzen und Gehirn",
-  "description": "Große Wiederholung der Lektionen 61–64: zirkadianer Rhythmus und Schlaf, veränderte Bewusstseinszustände, Psychopharmakologie und Sucht — alles auf Deutsch zusammengefasst.",
+  "description": "Große Wiederholung der Lektionen 61–64: zirkadianer Rhythmus und Schlaf, veränderte Bewusstseinszustände, Psychopharmakologie und Sucht, alles auf Deutsch zusammengefasst.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -11,7 +11,7 @@
       "id": "zikadianer-rhythmus-recap",
       "stable_id": "card-ms942qpw19pwu",
       "front": "Zirkadianer Rhythmus (Circadian Rhythm)",
-      "back": "Der etwa 24-stündige innere Takt, der Schlaf, Wachheit, Körpertemperatur und Hormone steuert — gesteuert vom SCN im Hypothalamus.",
+      "back": "Der etwa 24-stündige innere Takt, der Schlaf, Wachheit, Körpertemperatur und Hormone steuert, gesteuert vom SCN im Hypothalamus.",
       "notes": "Lektion 61. Lateinisch 'circa diem' = ungefähr ein Tag.",
       "media_type": "text",
       "difficulty": 2,
@@ -91,7 +91,7 @@
       "id": "placebo-effekt-recap",
       "stable_id": "card-ms942qpw19xca",
       "front": "Placebo-Effekt (Placebo Effect)",
-      "back": "Verbesserung des Befindens allein durch die Erwartungshaltung, eine wirksame Behandlung zu erhalten — auch ohne pharmakologisch aktiven Wirkstoff.",
+      "back": "Verbesserung des Befindens allein durch die Erwartungshaltung, eine wirksame Behandlung zu erhalten, auch ohne pharmakologisch aktiven Wirkstoff.",
       "notes": "Lektion 63. Belegt die Kraft der Erwartung; Nocebo = negativer Placebo-Effekt.",
       "media_type": "text",
       "difficulty": 3,
@@ -133,7 +133,7 @@
       "id": "intro-wiederholung",
       "type": "theory",
       "title": "Überblick: Was wir in den Lektionen 61–64 gelernt haben",
-      "body": "# Wiederholung: Bewusstsein, Substanzen und Gehirn\n\nZeit für die große Wiederholung: In den Lektionen 61–64 ging es um Schlaf und Bewusstsein, veränderte Bewusstseinszustände, die Psychopharmakologie und die Sucht. Diese Lektion mischt alles.\n\n## Überblick der vier Lektionen\n\n| Lektion | Thema | Kernbegriffe |\n|---|---|---|\n| **61** | Bewusstsein & Schlaf vertieft | Zirkadianer Rhythmus, SCN, Melatonin, NREM/REM, Tiefschlaf, Aktivierungs-Synthese-Hypothese, Insomnie |\n| **62** | Veränderte Bewusstseinszustände | Meditation, Achtsamkeit, Hypnose, Depressiva, Stimulanzien, Halluzinogene, Opioide |\n| **63** | Psychopharmakologie | SSRI, Antidepressiva, Anxiolytika/GABA, Antipsychotika/Dopamin, Stimmungsstabilisierer/Lithium, Placebo-Effekt |\n| **64** | Sucht & Abhängigkeit | Belohnungssystem, Dopamin, Toleranz, Entzug, Craving, körperliche vs. psychische Abhängigkeit, Verhaltenssüchte |\n\n> **Roter Faden:** Das Gehirn — ob im Schlaf, in veränderten Zuständen, unter Medikamenten oder in der Sucht — verarbeitet immer Botenstoffe (Neurotransmitter). Dopamin, Serotonin und GABA verbinden alle vier Themen."
+      "body": "# Wiederholung: Bewusstsein, Substanzen und Gehirn\n\nZeit für die große Wiederholung: In den Lektionen 61–64 ging es um Schlaf und Bewusstsein, veränderte Bewusstseinszustände, die Psychopharmakologie und die Sucht. Diese Lektion mischt alles.\n\n## Überblick der vier Lektionen\n\n| Lektion | Thema | Kernbegriffe |\n|---|---|---|\n| **61** | Bewusstsein & Schlaf vertieft | Zirkadianer Rhythmus, SCN, Melatonin, NREM/REM, Tiefschlaf, Aktivierungs-Synthese-Hypothese, Insomnie |\n| **62** | Veränderte Bewusstseinszustände | Meditation, Achtsamkeit, Hypnose, Depressiva, Stimulanzien, Halluzinogene, Opioide |\n| **63** | Psychopharmakologie | SSRI, Antidepressiva, Anxiolytika/GABA, Antipsychotika/Dopamin, Stimmungsstabilisierer/Lithium, Placebo-Effekt |\n| **64** | Sucht & Abhängigkeit | Belohnungssystem, Dopamin, Toleranz, Entzug, Craving, körperliche vs. psychische Abhängigkeit, Verhaltenssüchte |\n\n> **Roter Faden:** Das Gehirn, ob im Schlaf, in veränderten Zuständen, unter Medikamenten oder in der Sucht, verarbeitet immer Botenstoffe (Neurotransmitter). Dopamin, Serotonin und GABA verbinden alle vier Themen."
     },
     {
       "id": "theory-schlaf-bewusstsein",
@@ -145,7 +145,7 @@
       "id": "theory-pharma-sucht",
       "type": "theory",
       "title": "Psychopharmakologie und Sucht (Lektionen 63–64)",
-      "body": "## Psychopharmakologie: Die wichtigsten Wirkstoffklassen\n\n| Wirkstoffklasse | Mechanismus | Einsatz |\n|---|---|---|\n| **SSRI** (z. B. Fluoxetin) | blockiert Serotonin-Wiederaufnahme | Depression, Angststörungen |\n| **Anxiolytika** (Benzodiazepine) | verstärken GABA-Wirkung | Angst, Schlafstörungen |\n| **Antipsychotika** | blockieren Dopamin-D2-Rezeptoren | Schizophrenie, Manie |\n| **Stimmungsstabilisierer** (Lithium) | normalisieren Stimmungsschwankungen | Bipolare Störung |\n\n**Placebo-Effekt:** Die bloße Erwartung einer wirksamen Behandlung kann echte physiologische Veränderungen auslösen — ein Beleg für die Wechselwirkung von Psyche und Körper.\n\n## Sucht und Abhängigkeit\n\nDas **mesolimbische Dopaminsystem** (Belohnungssystem) ist das neurobiologische Herzstück der Sucht:\n\n- **Toleranz:** wiederholter Konsum → abgeschwächte Wirkung → Dosissteigerung\n- **Entzug:** Absetzen → unangenehme Gegensymptome\n- **Craving:** intensives Verlangen, oft durch Reize ausgelöst (konditioniert)\n- **Körperliche vs. psychische Abhängigkeit:** körperlich = Entzugserscheinungen; psychisch = starkes Verlangen ohne körperliche Symptome\n- **Verhaltenssüchte** (z. B. Glücksspiel) aktivieren dasselbe Belohnungssystem wie Substanzen"
+      "body": "## Psychopharmakologie: Die wichtigsten Wirkstoffklassen\n\n| Wirkstoffklasse | Mechanismus | Einsatz |\n|---|---|---|\n| **SSRI** (z. B. Fluoxetin) | blockiert Serotonin-Wiederaufnahme | Depression, Angststörungen |\n| **Anxiolytika** (Benzodiazepine) | verstärken GABA-Wirkung | Angst, Schlafstörungen |\n| **Antipsychotika** | blockieren Dopamin-D2-Rezeptoren | Schizophrenie, Manie |\n| **Stimmungsstabilisierer** (Lithium) | normalisieren Stimmungsschwankungen | Bipolare Störung |\n\n**Placebo-Effekt:** Die bloße Erwartung einer wirksamen Behandlung kann echte physiologische Veränderungen auslösen, ein Beleg für die Wechselwirkung von Psyche und Körper.\n\n## Sucht und Abhängigkeit\n\nDas **mesolimbische Dopaminsystem** (Belohnungssystem) ist das neurobiologische Herzstück der Sucht:\n\n- **Toleranz:** wiederholter Konsum → abgeschwächte Wirkung → Dosissteigerung\n- **Entzug:** Absetzen → unangenehme Gegensymptome\n- **Craving:** intensives Verlangen, oft durch Reize ausgelöst (konditioniert)\n- **Körperliche vs. psychische Abhängigkeit:** körperlich = Entzugserscheinungen; psychisch = starkes Verlangen ohne körperliche Symptome\n- **Verhaltenssüchte** (z. B. Glücksspiel) aktivieren dasselbe Belohnungssystem wie Substanzen"
     },
     {
       "id": "ex-match-lektionen",

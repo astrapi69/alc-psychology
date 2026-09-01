@@ -1,7 +1,7 @@
 {
   "id": "15-wiederholung-und-vertiefung",
   "title": "Wiederholung und Vertiefung",
-  "description": "Kursabschluss: Kernbegriffe aus allen 14 Lektionen — Wundt, Konditionierung, Gedächtnis, Intelligenz, Stress, Gehirn und mehr — kompakt wiederholt und vertieft.",
+  "description": "Kursabschluss: Kernbegriffe aus allen 14 Lektionen, Wundt, Konditionierung, Gedächtnis, Intelligenz, Stress, Gehirn und mehr, kompakt wiederholt und vertieft.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -14,7 +14,7 @@
       "id": "r-wundt-1879",
       "stable_id": "card-ms942qp10j2ou",
       "front": "Wundt 1879 (Gründungsjahr der Psychologie)",
-      "back": "Wilhelm Wundt gründete 1879 in Leipzig das erste psychologische Labor — Beginn der Psychologie als eigenständige Wissenschaft.",
+      "back": "Wilhelm Wundt gründete 1879 in Leipzig das erste psychologische Labor, Beginn der Psychologie als eigenständige Wissenschaft.",
       "media_type": "text",
       "difficulty": 1,
       "tags": ["wiederholung", "geschichte"]
@@ -23,7 +23,7 @@
       "id": "r-erleben-verhalten",
       "stable_id": "card-ms942qp10j38g",
       "front": "Erleben vs. Verhalten",
-      "back": "Erleben = innere Vorgänge (Gedanken, Gefühle, Wahrnehmungen) — von außen nicht direkt beobachtbar. Verhalten = von außen beobachtbare Handlungen und Reaktionen.",
+      "back": "Erleben = innere Vorgänge (Gedanken, Gefühle, Wahrnehmungen), von außen nicht direkt beobachtbar. Verhalten = von außen beobachtbare Handlungen und Reaktionen.",
       "media_type": "text",
       "difficulty": 1,
       "tags": ["wiederholung", "grundlagen"]
@@ -113,7 +113,7 @@
     {
       "id": "r-entwicklung",
       "stable_id": "card-ms942qp10jdjs",
-      "front": "Kognitive Entwicklung — Piaget",
+      "front": "Kognitive Entwicklung, Piaget",
       "back": "Jean Piaget beschrieb vier Stadien der kognitiven Entwicklung: sensomotorisch, präoperational, konkret-operational und formal-operational.",
       "media_type": "text",
       "difficulty": 3,
@@ -125,13 +125,13 @@
       "id": "theory-kursuebersicht",
       "type": "theory",
       "title": "Kursübersicht: 14 Lektionen auf einen Blick",
-      "body": "# Wiederholung und Vertiefung\n\nDieser Kurs hat 14 Lektionen umfasst — von der Definition der Psychologie bis zu Bewusstsein und Schlaf. Hier sind die wichtigsten Meilensteine:\n\n| Lektion | Kernbegriff(e) |\n|---|---|\n| **Was ist Psychologie?** | Erleben vs. Verhalten; Wundt 1879; Korrelation ≠ Kausalität |\n| **Wahrnehmung** | Top-down vs. Bottom-up; Gestaltprinzipien |\n| **Gedächtnis** | KZG vs. LZG; Vergessenskurve; Spacing-Effekt |\n| **Lernen & Konditionierung** | Klassische vs. operante Konditionierung |\n| **Motivation & Emotion** | Maslow-Hierarchie; Grundemotionen |\n| **Entwicklungspsychologie** | Piaget-Stadien; Bindungstheorie |\n| **Sozialpsychologie** | Konformität; fundamentaler Attributionsfehler |\n| **Persönlichkeit** | Big Five; Selbstkonzept |\n| **Klinische Psychologie** | DSM; kognitive Verhaltenstherapie |\n| **Positive Psychologie** | Wohlbefinden; Resilienz; Flow |\n| **Intelligenz & Denken** | g-Faktor; fluide vs. kristalline Intelligenz; Heuristiken |\n| **Stress & Gesundheit** | Kampf-oder-Flucht; Cortisol; Coping |\n| **Biologische Grundlagen** | Neuron; Synapse; die vier Hirnlappen |\n| **Bewusstsein & Schlaf** | REM-Schlaf; zirkadianer Rhythmus |\n\n**Roter Faden:** Psychologie ist eine *empirische* Wissenschaft — jede Aussage muss durch Daten gestützt sein, nicht durch Alltagsmeinungen."
+      "body": "# Wiederholung und Vertiefung\n\nDieser Kurs hat 14 Lektionen umfasst, von der Definition der Psychologie bis zu Bewusstsein und Schlaf. Hier sind die wichtigsten Meilensteine:\n\n| Lektion | Kernbegriff(e) |\n|---|---|\n| **Was ist Psychologie?** | Erleben vs. Verhalten; Wundt 1879; Korrelation ≠ Kausalität |\n| **Wahrnehmung** | Top-down vs. Bottom-up; Gestaltprinzipien |\n| **Gedächtnis** | KZG vs. LZG; Vergessenskurve; Spacing-Effekt |\n| **Lernen & Konditionierung** | Klassische vs. operante Konditionierung |\n| **Motivation & Emotion** | Maslow-Hierarchie; Grundemotionen |\n| **Entwicklungspsychologie** | Piaget-Stadien; Bindungstheorie |\n| **Sozialpsychologie** | Konformität; fundamentaler Attributionsfehler |\n| **Persönlichkeit** | Big Five; Selbstkonzept |\n| **Klinische Psychologie** | DSM; kognitive Verhaltenstherapie |\n| **Positive Psychologie** | Wohlbefinden; Resilienz; Flow |\n| **Intelligenz & Denken** | g-Faktor; fluide vs. kristalline Intelligenz; Heuristiken |\n| **Stress & Gesundheit** | Kampf-oder-Flucht; Cortisol; Coping |\n| **Biologische Grundlagen** | Neuron; Synapse; die vier Hirnlappen |\n| **Bewusstsein & Schlaf** | REM-Schlaf; zirkadianer Rhythmus |\n\n**Roter Faden:** Psychologie ist eine *empirische* Wissenschaft, jede Aussage muss durch Daten gestützt sein, nicht durch Alltagsmeinungen."
     },
     {
       "id": "theory-vernetzung",
       "type": "theory",
-      "title": "Konzepte vernetzen — das große Bild",
-      "body": "## Wie alles zusammenhängt\n\nViele Themen des Kurses greifen ineinander:\n\n- **Biologie → Verhalten**: Neurotransmitter und Hirnlappen beeinflussen, wie wir lernen (Konditionierung), fühlen (Emotion) und schlafen (zirkadianer Rhythmus).\n- **Gedächtnis → Intelligenz**: Das Langzeitgedächtnis speichert die *kristalline* Intelligenz; das Arbeitsgedächtnis bildet die Basis für *fluide* Leistungen.\n- **Stress → Klinische Psychologie**: Chronisch erhöhtes Cortisol ist ein Risikofaktor für Angststörungen und Depression — Themen der klinischen Psychologie.\n- **Sozialpsychologie → Entwicklung**: Konformitätsdruck und soziale Normen formen schon in der Kindheit (Piagets Stadien) die Persönlichkeit (Big Five).\n\n**Methodische Klammer:** Egal welches Thema — die Psychologie prüft ihre Hypothesen mit Experimenten, Beobachtungen und Befragungen. *Korrelation ist nicht Kausalität* bleibt die wichtigste Warnung."
+      "title": "Konzepte vernetzen - das große Bild",
+      "body": "## Wie alles zusammenhängt\n\nViele Themen des Kurses greifen ineinander:\n\n- **Biologie → Verhalten**: Neurotransmitter und Hirnlappen beeinflussen, wie wir lernen (Konditionierung), fühlen (Emotion) und schlafen (zirkadianer Rhythmus).\n- **Gedächtnis → Intelligenz**: Das Langzeitgedächtnis speichert die *kristalline* Intelligenz; das Arbeitsgedächtnis bildet die Basis für *fluide* Leistungen.\n- **Stress → Klinische Psychologie**: Chronisch erhöhtes Cortisol ist ein Risikofaktor für Angststörungen und Depression, Themen der klinischen Psychologie.\n- **Sozialpsychologie → Entwicklung**: Konformitätsdruck und soziale Normen formen schon in der Kindheit (Piagets Stadien) die Persönlichkeit (Big Five).\n\n**Methodische Klammer:** Egal welches Thema, die Psychologie prüft ihre Hypothesen mit Experimenten, Beobachtungen und Befragungen. *Korrelation ist nicht Kausalität* bleibt die wichtigste Warnung."
     },
     {
       "id": "ex-match-themen",
@@ -253,7 +253,7 @@
           { "accept": ["7 ± 2", "sieben", "7", "sieben plus/minus zwei"] }
         ],
         "cloze_mode": "type",
-        "hint": "Millers magische Zahl — plus oder minus zwei."
+        "hint": "Millers magische Zahl, plus oder minus zwei."
       }
     },
     {

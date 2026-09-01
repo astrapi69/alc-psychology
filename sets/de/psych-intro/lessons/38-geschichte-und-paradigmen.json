@@ -1,7 +1,7 @@
 {
   "id": "38-geschichte-und-paradigmen",
   "title": "Geschichte und Paradigmen der Psychologie",
-  "description": "Von Wundts erstem Labor (1879) über Strukturalismus, Funktionalismus, Behaviorismus, Gestaltpsychologie, Psychoanalyse und Humanismus bis zur kognitiven Wende und den biologisch-evolutionären Perspektiven — auf Deutsch erklärt.",
+  "description": "Von Wundts erstem Labor (1879) über Strukturalismus, Funktionalismus, Behaviorismus, Gestaltpsychologie, Psychoanalyse und Humanismus bis zur kognitiven Wende und den biologisch-evolutionären Perspektiven, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -22,7 +22,7 @@
       "stable_id": "card-ms942qpf0vd1a",
       "front": "Strukturalismus (Structuralism)",
       "back": "Die erste Schule der wissenschaftlichen Psychologie (Wundt, Titchener): Sie wollte die grundlegenden Elemente ('Strukturen') des Bewusstseins durch systematische Introspektion (Selbstbeobachtung) zerlegen.",
-      "notes": "Methode: Introspektion — Versuchspersonen beschreiben ihre inneren Erlebnisse möglichst genau.",
+      "notes": "Methode: Introspektion, Versuchspersonen beschreiben ihre inneren Erlebnisse möglichst genau.",
       "media_type": "text",
       "difficulty": 2,
       "hint": "Wundt + Titchener: Bewusstsein in Bausteine zerlegen.",
@@ -32,7 +32,7 @@
       "id": "funktionalismus",
       "stable_id": "card-ms942qpf0ve4c",
       "front": "Funktionalismus (Functionalism)",
-      "back": "Psychologische Schule um William James: statt der Struktur fragt sie nach der *Funktion* — wozu dienen Denken, Fühlen und Handeln für das Überleben und die Anpassung des Organismus?",
+      "back": "Psychologische Schule um William James: statt der Struktur fragt sie nach der *Funktion*, wozu dienen Denken, Fühlen und Handeln für das Überleben und die Anpassung des Organismus?",
       "notes": "Stark beeinflusst von Darwins Evolutionstheorie. Vorläufer der modernen angewandten Psychologie.",
       "media_type": "text",
       "difficulty": 2,
@@ -83,7 +83,7 @@
       "id": "kognitive-wende",
       "stable_id": "card-ms942qpf0vj66",
       "front": "Kognitive Wende (Cognitive Revolution)",
-      "back": "Ab den 1950er/60er-Jahren: Die Psychologie entdeckte den Geist ('mind') wieder und modelliert ihn als Informationsverarbeitungssystem — Wahrnehmen, Speichern, Denken, Problemlösen.",
+      "back": "Ab den 1950er/60er-Jahren: Die Psychologie entdeckte den Geist ('mind') wieder und modelliert ihn als Informationsverarbeitungssystem, Wahrnehmen, Speichern, Denken, Problemlösen.",
       "notes": "Wegbereiter: u. a. Miller, Bruner, Neisser. Legte die Grundlage für die Kognitionswissenschaft.",
       "media_type": "text",
       "difficulty": 3,
@@ -102,7 +102,7 @@
       "id": "evolutionaere-perspektive",
       "stable_id": "card-ms942qpf0vldd",
       "front": "Evolutionäre Perspektive (Evolutionary Psychology)",
-      "back": "Erklärt psychische Merkmale als Ergebnis natürlicher Selektion — Verhaltensweisen und Mechanismen, die das Überleben und die Fortpflanzung begünstigten, wurden bevorzugt weitergegeben.",
+      "back": "Erklärt psychische Merkmale als Ergebnis natürlicher Selektion, Verhaltensweisen und Mechanismen, die das Überleben und die Fortpflanzung begünstigten, wurden bevorzugt weitergegeben.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["paradigma", "biologie", "evolution"]
@@ -112,7 +112,7 @@
       "stable_id": "card-ms942qpf0vmsx",
       "front": "Multiparadigmatische / eklektische Psychologie",
       "back": "Die heutige Psychologie ist nicht von einem einzigen Paradigma beherrscht, sondern kombiniert je nach Fragestellung verschiedene Ansätze (biologisch, kognitiv, sozial, humanistisch usw.).",
-      "notes": "Kein Paradigma hat alle Fragen beantwortet — der eklektische Ansatz wählt das jeweils passende Werkzeug.",
+      "notes": "Kein Paradigma hat alle Fragen beantwortet, der eklektische Ansatz wählt das jeweils passende Werkzeug.",
       "media_type": "text",
       "difficulty": 4,
       "tags": ["grundlagen", "paradigma"]
@@ -133,19 +133,19 @@
       "id": "step-theory-anfaenge",
       "type": "theory",
       "title": "Die Anfänge: Wundt, Strukturalismus und Funktionalismus",
-      "body": "# Geschichte und Paradigmen der Psychologie\n\nDiese Lektion baut direkt auf **Lektion 1** (Was ist Psychologie?) auf, die Wundt und die Geburtsstunde unseres Fachs kurz vorgestellt hat. Hier beleuchten wir die gesamte Entwicklung systematisch — die **Paradigmen**, die die Psychologie geformt haben, begegnen Ihnen im weiteren Kursverlauf immer wieder.\n\n## 1879 — der Startschuss\n\n**Wilhelm Wundt** eröffnete 1879 in Leipzig das erste psychologische Labor und machte die Psychologie zur **empirischen Wissenschaft**. Seine Schule heißt **Strukturalismus**: Sie wollte das Bewusstsein durch **Introspektion** (Selbstbeobachtung) in seine elementaren Bausteine zerlegen.\n\n## Der Funktionalismus\n\nIn den USA entwickelte **William James** eine Gegenbewegung: den **Funktionalismus**. Anstatt nach der Struktur zu fragen, fragte er nach der *Funktion* — wozu dient ein mentaler Prozess für den Organismus?\n\n| Schule | Kernfrage | Hauptvertreter | Entstehung |\n|---|---|---|---|\n| **Strukturalismus** | Was sind die Elemente des Bewusstseins? | Wundt, Titchener | ~1879 |\n| **Funktionalismus** | Wozu dienen mentale Prozesse? | William James | ~1890 |"
+      "body": "# Geschichte und Paradigmen der Psychologie\n\nDiese Lektion baut direkt auf **Lektion 1** (Was ist Psychologie?) auf, die Wundt und die Geburtsstunde unseres Fachs kurz vorgestellt hat. Hier beleuchten wir die gesamte Entwicklung systematisch, die **Paradigmen**, die die Psychologie geformt haben, begegnen Ihnen im weiteren Kursverlauf immer wieder.\n\n## 1879 - der Startschuss\n\n**Wilhelm Wundt** eröffnete 1879 in Leipzig das erste psychologische Labor und machte die Psychologie zur **empirischen Wissenschaft**. Seine Schule heißt **Strukturalismus**: Sie wollte das Bewusstsein durch **Introspektion** (Selbstbeobachtung) in seine elementaren Bausteine zerlegen.\n\n## Der Funktionalismus\n\nIn den USA entwickelte **William James** eine Gegenbewegung: den **Funktionalismus**. Anstatt nach der Struktur zu fragen, fragte er nach der *Funktion*, wozu dient ein mentaler Prozess für den Organismus?\n\n| Schule | Kernfrage | Hauptvertreter | Entstehung |\n|---|---|---|---|\n| **Strukturalismus** | Was sind die Elemente des Bewusstseins? | Wundt, Titchener | ~1879 |\n| **Funktionalismus** | Wozu dienen mentale Prozesse? | William James | ~1890 |"
     },
     {
       "id": "step-theory-klassische-schulen",
       "type": "theory",
       "title": "Behaviorismus, Gestaltpsychologie und Psychoanalyse",
-      "body": "## Die großen Schulen des frühen 20. Jahrhunderts\n\n| Paradigma | Kernidee | Bekannte Vertreter |\n|---|---|---|\n| **Behaviorismus** | Nur beobachtbares Verhalten zählt; Lernen durch Konditionierung (→ Lektion 4) | Watson, Skinner |\n| **Gestaltpsychologie** | *'Das Ganze ist mehr als die Summe seiner Teile'*; Wahrnehmung als organisiertes Ganzes (→ Lektion 2) | Wertheimer, Köhler, Koffka |\n| **Tiefenpsychologie / Psychoanalyse** | Das Unbewusste, Triebe und Kindheitserfahrungen bestimmen uns (→ Lektion 8, 19) | Sigmund Freud |\n\n### Behaviorismus im Detail\nJohn B. **Watson** forderte 1913, die Psychologie solle nur noch **beobachtbares Verhalten** untersuchen. B. F. **Skinner** baute dies mit der **operanten Konditionierung** aus. Der Behaviorismus dominierte die US-amerikanische Psychologie bis in die 1960er-Jahre.\n\n### Gestaltpsychologie\nGegründet in Deutschland, betonte diese Schule, dass wir Reize nicht isoliert, sondern als **geordnetes Ganzes** wahrnehmen. Die Gestaltgesetze (z. B. Nähe, Ähnlichkeit) sind bis heute in der Wahrnehmungspsychologie und im Design relevant.\n\n### Psychoanalyse\nFreuds Theorie des **Unbewussten** revolutionierte das Menschenbild — und blieb zugleich empirisch heiß umstritten."
+      "body": "## Die großen Schulen des frühen 20. Jahrhunderts\n\n| Paradigma | Kernidee | Bekannte Vertreter |\n|---|---|---|\n| **Behaviorismus** | Nur beobachtbares Verhalten zählt; Lernen durch Konditionierung (→ Lektion 4) | Watson, Skinner |\n| **Gestaltpsychologie** | *'Das Ganze ist mehr als die Summe seiner Teile'*; Wahrnehmung als organisiertes Ganzes (→ Lektion 2) | Wertheimer, Köhler, Koffka |\n| **Tiefenpsychologie / Psychoanalyse** | Das Unbewusste, Triebe und Kindheitserfahrungen bestimmen uns (→ Lektion 8, 19) | Sigmund Freud |\n\n### Behaviorismus im Detail\nJohn B. **Watson** forderte 1913, die Psychologie solle nur noch **beobachtbares Verhalten** untersuchen. B. F. **Skinner** baute dies mit der **operanten Konditionierung** aus. Der Behaviorismus dominierte die US-amerikanische Psychologie bis in die 1960er-Jahre.\n\n### Gestaltpsychologie\nGegründet in Deutschland, betonte diese Schule, dass wir Reize nicht isoliert, sondern als **geordnetes Ganzes** wahrnehmen. Die Gestaltgesetze (z. B. Nähe, Ähnlichkeit) sind bis heute in der Wahrnehmungspsychologie und im Design relevant.\n\n### Psychoanalyse\nFreuds Theorie des **Unbewussten** revolutionierte das Menschenbild, und blieb zugleich empirisch heiß umstritten."
     },
     {
       "id": "step-theory-moderne-perspektiven",
       "type": "theory",
       "title": "Humanismus, Kognitive Wende und heutige Perspektiven",
-      "body": "## Humanismus und kognitive Wende\n\n**Carl Rogers** und **Abraham Maslow** begründeten in den 1940er/50er-Jahren den **Humanismus**: Der Mensch strebt aus eigenem Antrieb nach **Selbstverwirklichung** (→ Lektion 10, 19). Im Gegensatz zum Behaviorismus betonen Humanisten freien Willen und subjektives Erleben.\n\nAb den **1950er/60er-Jahren** setzte die **Kognitive Wende** ein: Psychologen wie Miller, Bruner und Neisser rehabilitierten den *'Geist'* (mind) und modellierten ihn als **Informationsverarbeitungssystem** — damit wurden Wahrnehmen, Erinnern, Denken und Problemlösen wieder zum legitimen Forschungsgegenstand.\n\n## Biologische und evolutionäre Perspektive\n\n| Perspektive | Kernansatz |\n|---|---|\n| **Biologisch** | Gehirn, Neurotransmitter, Gene erklären Verhalten (→ Lektion 13) |\n| **Evolutionär** | Psychische Merkmale als Produkt natürlicher Selektion |\n\n## Heutige Psychologie: multiparadigmatisch\n\nDie moderne Psychologie ist **eklektisch** — sie greift je nach Fragestellung auf mehrere Paradigmen zurück:\n\n> **Merksatz:** Kein einzelnes Paradigma erklärt alles. Die Stärke der heutigen Psychologie liegt gerade darin, dass sie **verschiedene Brillen** aufsetzen kann."
+      "body": "## Humanismus und kognitive Wende\n\n**Carl Rogers** und **Abraham Maslow** begründeten in den 1940er/50er-Jahren den **Humanismus**: Der Mensch strebt aus eigenem Antrieb nach **Selbstverwirklichung** (→ Lektion 10, 19). Im Gegensatz zum Behaviorismus betonen Humanisten freien Willen und subjektives Erleben.\n\nAb den **1950er/60er-Jahren** setzte die **Kognitive Wende** ein: Psychologen wie Miller, Bruner und Neisser rehabilitierten den *'Geist'* (mind) und modellierten ihn als **Informationsverarbeitungssystem**, damit wurden Wahrnehmen, Erinnern, Denken und Problemlösen wieder zum legitimen Forschungsgegenstand.\n\n## Biologische und evolutionäre Perspektive\n\n| Perspektive | Kernansatz |\n|---|---|\n| **Biologisch** | Gehirn, Neurotransmitter, Gene erklären Verhalten (→ Lektion 13) |\n| **Evolutionär** | Psychische Merkmale als Produkt natürlicher Selektion |\n\n## Heutige Psychologie: multiparadigmatisch\n\nDie moderne Psychologie ist **eklektisch**, sie greift je nach Fragestellung auf mehrere Paradigmen zurück:\n\n> **Merksatz:** Kein einzelnes Paradigma erklärt alles. Die Stärke der heutigen Psychologie liegt gerade darin, dass sie **verschiedene Brillen** aufsetzen kann."
     },
     {
       "id": "ex-match-paradigmen-vertreter",
@@ -276,7 +276,7 @@
           "beobachtbares Verhalten",
           "Beobachtbares Verhalten",
           "nur beobachtbares Verhalten",
-          "Watson und Skinner — beobachtbares Verhalten"
+          "Watson und Skinner, beobachtbares Verhalten"
         ],
         "hint": "Stichwort: Was kann man von außen sehen und messen?",
         "distractors": [

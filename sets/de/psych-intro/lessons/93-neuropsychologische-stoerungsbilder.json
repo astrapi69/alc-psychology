@@ -1,7 +1,7 @@
 {
   "id": "93-neuropsychologische-stoerungsbilder",
   "title": "Neuropsychologische Störungsbilder",
-  "description": "Nach einer Hirnschädigung können umschriebene psychische Funktionen ausfallen, während andere erhalten bleiben. Diese Lektion stellt zentrale erworbene Störungsbilder sachlich und respektvoll vor: Aphasie (Broca vs. Wernicke), Apraxie, Agnosie, Neglect sowie Alexie und Agrafie — auf Deutsch erklärt, mit den Fachbegriffen. Diese Begriffe beschreiben Funktionsausfälle und definieren nicht den Wert eines Menschen.",
+  "description": "Nach einer Hirnschädigung können umschriebene psychische Funktionen ausfallen, während andere erhalten bleiben. Diese Lektion stellt zentrale erworbene Störungsbilder sachlich und respektvoll vor: Aphasie (Broca vs. Wernicke), Apraxie, Agnosie, Neglect sowie Alexie und Agrafie, auf Deutsch erklärt, mit den Fachbegriffen. Diese Begriffe beschreiben Funktionsausfälle und definieren nicht den Wert eines Menschen.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -139,13 +139,13 @@
       "id": "sprache",
       "type": "theory",
       "title": "Aphasie: Broca und Wernicke",
-      "body": "## Aphasie — die Sprache ist betroffen\n\nEine **Aphasie** (*aphasia*) ist eine erworbene Störung der Sprache. Betroffen sein können Sprechen, Verstehen, Lesen oder Schreiben. Wichtig: Eine Aphasie ist eine **Sprachstörung**, kein Zeichen geringerer Intelligenz.\n\nZwei klassische Formen werden unterschieden:\n\n| Merkmal | Broca-Aphasie | Wernicke-Aphasie |\n|---|---|---|\n| Sprachfluss | nicht-flüssig, mühevoll | flüssig |\n| Hauptproblem | Sprach**produktion** | Sprach**verständnis** |\n| Verständnis | relativ besser erhalten | deutlich gestört |\n| typische Lage | vorn (Broca-Areal) | hinten/temporal (Wernicke-Areal) |\n\n**Merkhilfe:** *Broca = Produktion (vorn)*, *Wernicke = Verständnis (hinten)*.\n\nIn der Praxis treten diese Formen nicht immer rein auf; es gibt Mischbilder und Übergänge.\n\nVerwandt sind die **Alexie** (erworbene Lesestörung) und die **Agrafie** (erworbene Schreibstörung), die oft gemeinsam mit einer Aphasie vorkommen."
+      "body": "## Aphasie - die Sprache ist betroffen\n\nEine **Aphasie** (*aphasia*) ist eine erworbene Störung der Sprache. Betroffen sein können Sprechen, Verstehen, Lesen oder Schreiben. Wichtig: Eine Aphasie ist eine **Sprachstörung**, kein Zeichen geringerer Intelligenz.\n\nZwei klassische Formen werden unterschieden:\n\n| Merkmal | Broca-Aphasie | Wernicke-Aphasie |\n|---|---|---|\n| Sprachfluss | nicht-flüssig, mühevoll | flüssig |\n| Hauptproblem | Sprach**produktion** | Sprach**verständnis** |\n| Verständnis | relativ besser erhalten | deutlich gestört |\n| typische Lage | vorn (Broca-Areal) | hinten/temporal (Wernicke-Areal) |\n\n**Merkhilfe:** *Broca = Produktion (vorn)*, *Wernicke = Verständnis (hinten)*.\n\nIn der Praxis treten diese Formen nicht immer rein auf; es gibt Mischbilder und Übergänge.\n\nVerwandt sind die **Alexie** (erworbene Lesestörung) und die **Agrafie** (erworbene Schreibstörung), die oft gemeinsam mit einer Aphasie vorkommen."
     },
     {
       "id": "handeln-erkennen-raum",
       "type": "theory",
       "title": "Apraxie, Agnosie und Neglect",
-      "body": "## Handeln, Erkennen und Raum\n\n**Apraxie** (*apraxia*) ist eine Störung der **Handlungsplanung**: Vertraute Bewegungsabläufe auf Aufforderung auszuführen fällt schwer, obwohl Kraft, Beweglichkeit und Koordination grundsätzlich **erhalten** sind. Die Bewegung scheitert also nicht an einer Lähmung, sondern an der Planung.\n\n**Agnosie** (*agnosia*) ist eine Störung des **Erkennens** trotz intakter Sinnesorgane: Ein Reiz wird wahrgenommen, aber nicht zu einer Bedeutung zugeordnet.\n\n- **Visuelle Agnosie**: Objekte werden gesehen, aber nicht erkannt.\n- **Prosopagnosie**: speziell **Gesichter** werden nicht mehr erkannt (Gesichtsblindheit); die Erkennung gelingt oft über Stimme oder Gang.\n\n**Neglect** ist eine **halbseitige Vernachlässigung** des Raums: Eine Raumhälfte wird nicht beachtet, obwohl die Sinnesorgane funktionieren. Er tritt **meist nach rechtshemisphärischer Schädigung** auf, dann wird die **linke** Seite vernachlässigt — häufig, ohne dass es selbst bemerkt wird.\n\n> Diagnostik und Rehabilitation dieser Störungsbilder werden in **Lektion 94/95** vertieft."
+      "body": "## Handeln, Erkennen und Raum\n\n**Apraxie** (*apraxia*) ist eine Störung der **Handlungsplanung**: Vertraute Bewegungsabläufe auf Aufforderung auszuführen fällt schwer, obwohl Kraft, Beweglichkeit und Koordination grundsätzlich **erhalten** sind. Die Bewegung scheitert also nicht an einer Lähmung, sondern an der Planung.\n\n**Agnosie** (*agnosia*) ist eine Störung des **Erkennens** trotz intakter Sinnesorgane: Ein Reiz wird wahrgenommen, aber nicht zu einer Bedeutung zugeordnet.\n\n- **Visuelle Agnosie**: Objekte werden gesehen, aber nicht erkannt.\n- **Prosopagnosie**: speziell **Gesichter** werden nicht mehr erkannt (Gesichtsblindheit); die Erkennung gelingt oft über Stimme oder Gang.\n\n**Neglect** ist eine **halbseitige Vernachlässigung** des Raums: Eine Raumhälfte wird nicht beachtet, obwohl die Sinnesorgane funktionieren. Er tritt **meist nach rechtshemisphärischer Schädigung** auf, dann wird die **linke** Seite vernachlässigt, häufig, ohne dass es selbst bemerkt wird.\n\n> Diagnostik und Rehabilitation dieser Störungsbilder werden in **Lektion 94/95** vertieft."
     },
     {
       "id": "ex-match-stoerungen",
@@ -198,7 +198,7 @@
         "sentence": "Ein Neglect tritt meist nach Schädigung der ___ Hemisphäre auf, sodass die linke Raumhälfte vernachlässigt wird.",
         "blanks": [{"accept": ["rechten", "rechtshemisphärischen", "rechts"]}],
         "cloze_mode": "type",
-        "hint": "Vernachlässigt wird die linke Seite — die Schädigung liegt auf der Gegenseite."
+        "hint": "Vernachlässigt wird die linke Seite, die Schädigung liegt auf der Gegenseite."
       }
     },
     {
@@ -264,7 +264,7 @@
         "id": "ex-free-agnosie",
         "stable_id": "ex-ms942qqb1p5eu",
         "type": "free_text",
-        "prompt": "Wie heißt die Störung des Erkennens, bei der ein Reiz wahrgenommen, aber nicht als das erkannt wird, was er ist — obwohl die Sinnesorgane intakt sind?",
+        "prompt": "Wie heißt die Störung des Erkennens, bei der ein Reiz wahrgenommen, aber nicht als das erkannt wird, was er ist, obwohl die Sinnesorgane intakt sind?",
         "card_ids": ["agnosie", "visuelle-agnosie"],
         "accept": ["Agnosie", "die Agnosie", "agnosia", "visuelle Agnosie"],
         "hint": "Wörtlich Nicht-Erkennen; z. B. in visueller Form.",

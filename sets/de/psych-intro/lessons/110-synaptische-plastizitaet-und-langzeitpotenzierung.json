@@ -1,7 +1,7 @@
 {
   "id": "110-synaptische-plastizitaet-und-langzeitpotenzierung",
-  "title": "Synaptische Plastizität — Langzeitpotenzierung und die Hebbsche Regel",
-  "description": "Die zelluläre Grundlage des Lernens: synaptische Plastizität, die Hebbsche Regel, Langzeitpotenzierung (LTP) und Langzeitdepression (LTD), die Rolle des NMDA-Rezeptors und des Hippocampus sowie der Bezug zur Gedächtniskonsolidierung — auf Deutsch erklärt. Vertieft die biologischen Grundlagen aus den Lektionen 13 und 37 mit einem völlig neuen, zellulären Fokus.",
+  "title": "Synaptische Plastizität - Langzeitpotenzierung und die Hebbsche Regel",
+  "description": "Die zelluläre Grundlage des Lernens: synaptische Plastizität, die Hebbsche Regel, Langzeitpotenzierung (LTP) und Langzeitdepression (LTD), die Rolle des NMDA-Rezeptors und des Hippocampus sowie der Bezug zur Gedächtniskonsolidierung, auf Deutsch erklärt. Vertieft die biologischen Grundlagen aus den Lektionen 13 und 37 mit einem völlig neuen, zellulären Fokus.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -23,7 +23,7 @@
       "stable_id": "card-ms942qoy0fyda",
       "front": "Hebbsche Regel (Hebb's Rule)",
       "back": "Donald Hebb (1949): Feuert ein Neuron wiederholt kurz vor einem zweiten und trägt so zu dessen Erregung bei, wird die Verbindung zwischen beiden verstärkt.",
-      "notes": "Griffige Merkformel: 'Cells that fire together, wire together' — Zellen, die gemeinsam feuern, verschalten sich.",
+      "notes": "Griffige Merkformel: 'Cells that fire together, wire together', Zellen, die gemeinsam feuern, verschalten sich.",
       "media_type": "text",
       "difficulty": 3,
       "hint": "Fire together, wire together.",
@@ -66,7 +66,7 @@
       "stable_id": "card-ms942qoy0g2qj",
       "front": "Glutamat als erregender Botenstoff",
       "back": "Glutamat ist der wichtigste erregende Neurotransmitter des ZNS und der Hauptbotenstoff bei der LTP, indem es u. a. AMPA- und NMDA-Rezeptoren aktiviert.",
-      "notes": "Bezug Lektion 37: Dort als erregender Botenstoff eingeführt — hier seine Rolle beim Lernen.",
+      "notes": "Bezug Lektion 37: Dort als erregender Botenstoff eingeführt, hier seine Rolle beim Lernen.",
       "media_type": "text",
       "difficulty": 4,
       "tags": ["glutamat", "ltp", "neurotransmitter"]
@@ -105,7 +105,7 @@
       "id": "engramm",
       "stable_id": "card-ms942qoy0g656",
       "front": "Engramm (Engram)",
-      "back": "Die physische Gedächtnisspur im Gehirn — das Muster veränderter Synapsen und Zellverbände, in dem eine bestimmte Erinnerung gespeichert ist.",
+      "back": "Die physische Gedächtnisspur im Gehirn, das Muster veränderter Synapsen und Zellverbände, in dem eine bestimmte Erinnerung gespeichert ist.",
       "notes": "Begriff von Richard Semon; Karl Lashley suchte das Engramm lange erfolglos an einem einzelnen Ort.",
       "media_type": "text",
       "difficulty": 4,
@@ -143,7 +143,7 @@
       "id": "theory-ltp-mechanismus",
       "type": "theory",
       "title": "Langzeitpotenzierung im Detail",
-      "body": "## Langzeitpotenzierung (LTP)\n\nDas zelluläre Korrelat der Hebbschen Regel ist die **Langzeitpotenzierung (LTP)**: Nach **hochfrequenter Reizung** wird eine Synapse langanhaltend stärker. Bliss & Lømo wiesen sie 1973 im **Hippocampus** nach.\n\n### Der molekulare Ablauf (vereinfacht)\n\n1. **Glutamat** wird ausgeschüttet und aktiviert AMPA- und NMDA-Rezeptoren.\n2. Der **NMDA-Rezeptor** öffnet nur, wenn *gleichzeitig* Glutamat anliegt **und** die Zelle bereits depolarisiert ist — er ist ein **Koinzidenzdetektor** (UND-Gatter).\n3. Dann strömt **Calcium** in die Zelle und löst die Verstärkung aus.\n4. Folge: mehr **AMPA-Rezeptoren** in der Membran — die Synapse wird dauerhaft 'lauter'.\n\n| Mechanismus | Wirkung |\n|---|---|\n| **LTP** | langanhaltende Verstärkung (hochfrequente Reizung) |\n| **LTD** | langanhaltende Abschwächung (niederfrequente Aktivität) |\n\n## Vom Mechanismus zum Gedächtnis\n\nDamit eine frische Spur dauerhaft wird, braucht es **synaptische Konsolidierung** (u. a. Proteinsynthese). Das stabile Muster veränderter Synapsen heißt **Engramm** — die physische Gedächtnisspur."
+      "body": "## Langzeitpotenzierung (LTP)\n\nDas zelluläre Korrelat der Hebbschen Regel ist die **Langzeitpotenzierung (LTP)**: Nach **hochfrequenter Reizung** wird eine Synapse langanhaltend stärker. Bliss & Lømo wiesen sie 1973 im **Hippocampus** nach.\n\n### Der molekulare Ablauf (vereinfacht)\n\n1. **Glutamat** wird ausgeschüttet und aktiviert AMPA- und NMDA-Rezeptoren.\n2. Der **NMDA-Rezeptor** öffnet nur, wenn *gleichzeitig* Glutamat anliegt **und** die Zelle bereits depolarisiert ist, er ist ein **Koinzidenzdetektor** (UND-Gatter).\n3. Dann strömt **Calcium** in die Zelle und löst die Verstärkung aus.\n4. Folge: mehr **AMPA-Rezeptoren** in der Membran, die Synapse wird dauerhaft 'lauter'.\n\n| Mechanismus | Wirkung |\n|---|---|\n| **LTP** | langanhaltende Verstärkung (hochfrequente Reizung) |\n| **LTD** | langanhaltende Abschwächung (niederfrequente Aktivität) |\n\n## Vom Mechanismus zum Gedächtnis\n\nDamit eine frische Spur dauerhaft wird, braucht es **synaptische Konsolidierung** (u. a. Proteinsynthese). Das stabile Muster veränderter Synapsen heißt **Engramm**, die physische Gedächtnisspur."
     },
     {
       "id": "ex-free-hebb",
@@ -198,7 +198,7 @@
           { "accept": ["depression", "Depression"] }
         ],
         "cloze_mode": "type",
-        "hint": "Englisch: long-term depression (LTD) — hat nichts mit der Stimmungsstörung zu tun."
+        "hint": "Englisch: long-term depression (LTD), hat nichts mit der Stimmungsstörung zu tun."
       }
     },
     {
@@ -271,7 +271,7 @@
           { "src": "assets/img/nmda-hemmend.png", "label": "Er ist der wichtigste hemmende Rezeptor des Gehirns." },
           { "src": "assets/img/nmda-dopamin.png", "label": "Er wird ausschließlich durch Dopamin aktiviert." }
         ],
-        "hint": "Der NMDA-Rezeptor ist ein Koinzidenzdetektor — er braucht zwei Bedingungen zugleich.",
+        "hint": "Der NMDA-Rezeptor ist ein Koinzidenzdetektor, er braucht zwei Bedingungen zugleich.",
         "distractors": [
           "Er ist ständig geöffnet und lässt Calcium frei strömen.",
           "Er ist der wichtigste hemmende Rezeptor des Gehirns.",

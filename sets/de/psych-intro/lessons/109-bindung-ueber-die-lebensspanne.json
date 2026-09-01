@@ -1,7 +1,7 @@
 {
   "id": "109-bindung-ueber-die-lebensspanne",
-  "title": "Bindung über die Lebensspanne — innere Arbeitsmodelle und Erwachsenenbindung",
-  "description": "Wie frühe Bindungserfahrungen über die Kindheit hinaus wirken: das innere Arbeitsmodell (Bowlby), die Übertragung von Bindungsmustern auf romantische Beziehungen (Hazan & Shaver), die vier Erwachsenen-Bindungsstile (sicher, ängstlich, vermeidend, ängstlich-vermeidend) und die intergenerationale Weitergabe von Bindung — auf Deutsch erklärt. Neuer Fokus auf die Erwachsenenbindung, ergänzend zu den Lektionen 6, 34 und 73.",
+  "title": "Bindung über die Lebensspanne - innere Arbeitsmodelle und Erwachsenenbindung",
+  "description": "Wie frühe Bindungserfahrungen über die Kindheit hinaus wirken: das innere Arbeitsmodell (Bowlby), die Übertragung von Bindungsmustern auf romantische Beziehungen (Hazan & Shaver), die vier Erwachsenen-Bindungsstile (sicher, ängstlich, vermeidend, ängstlich-vermeidend) und die intergenerationale Weitergabe von Bindung, auf Deutsch erklärt. Neuer Fokus auf die Erwachsenenbindung, ergänzend zu den Lektionen 6, 34 und 73.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -75,7 +75,7 @@
       "id": "aengstlich-vermeidend-erwachsen",
       "stable_id": "card-ms942qox0f0cb",
       "front": "Ängstlich-vermeidender (desorganisierter) Bindungsstil",
-      "back": "Gleichzeitiges Bedürfnis nach Nähe und Angst davor — Nähe wird ersehnt und gefürchtet. Hohe Bindungsangst und hohe Vermeidung zugleich.",
+      "back": "Gleichzeitiges Bedürfnis nach Nähe und Angst davor, Nähe wird ersehnt und gefürchtet. Hohe Bindungsangst und hohe Vermeidung zugleich.",
       "notes": "Auch 'fearful-avoidant'; häufig mit belastenden oder beängstigenden frühen Erfahrungen verbunden.",
       "media_type": "text",
       "difficulty": 4,
@@ -89,7 +89,7 @@
       "notes": "Die vier Stile entstehen aus der Kombination von hoher/niedriger Angst und hoher/niedriger Vermeidung.",
       "media_type": "text",
       "difficulty": 4,
-      "hint": "Zwei Achsen — Angst und Vermeidung — spannen vier Stile auf.",
+      "hint": "Zwei Achsen, Angst und Vermeidung, spannen vier Stile auf.",
       "tags": ["dimensionen", "erwachsenenbindung"]
     },
     {
@@ -106,7 +106,7 @@
       "id": "intergenerationale-weitergabe",
       "stable_id": "card-ms942qox0f35k",
       "front": "Intergenerationale Weitergabe von Bindung",
-      "back": "Die Beobachtung, dass die Bindungsrepräsentation der Eltern die Bindungssicherheit ihrer Kinder vorhersagt — vermittelt vor allem über die elterliche Feinfühligkeit.",
+      "back": "Die Beobachtung, dass die Bindungsrepräsentation der Eltern die Bindungssicherheit ihrer Kinder vorhersagt, vermittelt vor allem über die elterliche Feinfühligkeit.",
       "notes": "Bindungsmuster können so über Generationen weitergegeben, durch korrigierende Erfahrungen aber auch unterbrochen werden.",
       "media_type": "text",
       "difficulty": 4,
@@ -116,7 +116,7 @@
       "id": "earned-security",
       "stable_id": "card-ms942qox0f4we",
       "front": "Erworbene Sicherheit (Earned Security)",
-      "back": "Ein heute sicherer Bindungsstil trotz belastender Kindheit — erreicht durch Reflexion und korrigierende Beziehungserfahrungen, etwa in Partnerschaft oder Therapie.",
+      "back": "Ein heute sicherer Bindungsstil trotz belastender Kindheit, erreicht durch Reflexion und korrigierende Beziehungserfahrungen, etwa in Partnerschaft oder Therapie.",
       "notes": "Belegt, dass frühe Bindung kein unveränderliches Schicksal ist.",
       "media_type": "text",
       "difficulty": 4,
@@ -138,13 +138,13 @@
       "id": "theory-arbeitsmodell",
       "type": "theory",
       "title": "Das innere Arbeitsmodell",
-      "body": "# Bindung über die Lebensspanne\n\n> Die **Lektionen 6, 34 und 71** behandeln die kindlichen Bindungstypen und die Fremde Situation. Diese Lektion fragt neu: **Was wird aus der Bindung im Erwachsenenalter?**\n\n## Das innere Arbeitsmodell (Bowlby)\n\nAus den frühen Erfahrungen mit der Bezugsperson bildet das Kind nach **Bowlby** ein **inneres Arbeitsmodell** — ein verinnerlichtes Schema mit zwei Grundfragen:\n\n1. *Bin ich es wert, geliebt zu werden?*\n2. *Sind andere verlässlich und für mich da?*\n\nDieses Modell wirkt wie eine **Landkarte für Beziehungen** und prägt, was man in späteren Bindungen erwartet.\n\n## Zwei Dimensionen der Erwachsenenbindung\n\nModerne Modelle beschreiben Erwachsenenbindung über **zwei Achsen**:\n\n- **Bindungsangst** — Furcht vor Zurückweisung und Verlassenwerden\n- **Bindungsvermeidung** — Unbehagen mit Nähe und Abhängigkeit"
+      "body": "# Bindung über die Lebensspanne\n\n> Die **Lektionen 6, 34 und 71** behandeln die kindlichen Bindungstypen und die Fremde Situation. Diese Lektion fragt neu: **Was wird aus der Bindung im Erwachsenenalter?**\n\n## Das innere Arbeitsmodell (Bowlby)\n\nAus den frühen Erfahrungen mit der Bezugsperson bildet das Kind nach **Bowlby** ein **inneres Arbeitsmodell**, ein verinnerlichtes Schema mit zwei Grundfragen:\n\n1. *Bin ich es wert, geliebt zu werden?*\n2. *Sind andere verlässlich und für mich da?*\n\nDieses Modell wirkt wie eine **Landkarte für Beziehungen** und prägt, was man in späteren Bindungen erwartet.\n\n## Zwei Dimensionen der Erwachsenenbindung\n\nModerne Modelle beschreiben Erwachsenenbindung über **zwei Achsen**:\n\n- **Bindungsangst**, Furcht vor Zurückweisung und Verlassenwerden\n- **Bindungsvermeidung**, Unbehagen mit Nähe und Abhängigkeit"
     },
     {
       "id": "theory-erwachsenenbindung",
       "type": "theory",
       "title": "Vier Bindungsstile Erwachsener",
-      "body": "## Hazan & Shaver (1987)\n\n**Cindy Hazan** und **Phillip Shaver** übertrugen die Bindungstheorie auf **romantische Beziehungen**: Erwachsene zeigen gegenüber Partnern ähnliche Muster wie Kinder gegenüber ihren Bezugspersonen.\n\nAus der Kombination der beiden Dimensionen ergeben sich vier Stile:\n\n| Stil | Angst | Vermeidung | Kurz |\n|---|---|---|---|\n| **sicher** | niedrig | niedrig | Nähe und Autonomie fallen leicht |\n| **ängstlich** (präokkupiert) | hoch | niedrig | klammert, fürchtet Verlassenwerden |\n| **vermeidend** (abweisend) | niedrig | hoch | betont Unabhängigkeit, meidet Nähe |\n| **ängstlich-vermeidend** | hoch | hoch | ersehnt und fürchtet Nähe zugleich |\n\n## Weitergabe — und Veränderung\n\nDie **Bindungsrepräsentation der Eltern** sagt die Bindungssicherheit der Kinder voraus, vermittelt über die elterliche **Feinfühligkeit** (intergenerationale Weitergabe). Erfasst wird sie u. a. mit dem **Adult Attachment Interview (AAI)**, bei dem die **Kohärenz** der Erzählung zählt — nicht, ob die Kindheit glücklich war.\n\n> Bindung ist kein Schicksal: Durch korrigierende Erfahrungen ist **erworbene Sicherheit** (earned security) möglich."
+      "body": "## Hazan & Shaver (1987)\n\n**Cindy Hazan** und **Phillip Shaver** übertrugen die Bindungstheorie auf **romantische Beziehungen**: Erwachsene zeigen gegenüber Partnern ähnliche Muster wie Kinder gegenüber ihren Bezugspersonen.\n\nAus der Kombination der beiden Dimensionen ergeben sich vier Stile:\n\n| Stil | Angst | Vermeidung | Kurz |\n|---|---|---|---|\n| **sicher** | niedrig | niedrig | Nähe und Autonomie fallen leicht |\n| **ängstlich** (präokkupiert) | hoch | niedrig | klammert, fürchtet Verlassenwerden |\n| **vermeidend** (abweisend) | niedrig | hoch | betont Unabhängigkeit, meidet Nähe |\n| **ängstlich-vermeidend** | hoch | hoch | ersehnt und fürchtet Nähe zugleich |\n\n## Weitergabe - und Veränderung\n\nDie **Bindungsrepräsentation der Eltern** sagt die Bindungssicherheit der Kinder voraus, vermittelt über die elterliche **Feinfühligkeit** (intergenerationale Weitergabe). Erfasst wird sie u. a. mit dem **Adult Attachment Interview (AAI)**, bei dem die **Kohärenz** der Erzählung zählt, nicht, ob die Kindheit glücklich war.\n\n> Bindung ist kein Schicksal: Durch korrigierende Erfahrungen ist **erworbene Sicherheit** (earned security) möglich."
     },
     {
       "id": "ex-match-bindungsstile",

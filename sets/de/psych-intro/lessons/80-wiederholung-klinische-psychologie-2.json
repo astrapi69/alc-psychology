@@ -1,7 +1,7 @@
 {
   "id": "80-wiederholung-klinische-psychologie-2",
   "title": "Wiederholung: Klinische Psychologie II",
-  "description": "Die große Wiederholung der Lektionen 76–79: Trauma und PTBS, Essstörungen, Suizidprävention und Krisenintervention sowie Zwangs- und Angststörungen — informativ, respektvoll und hoffnungsvoll auf Deutsch.",
+  "description": "Die große Wiederholung der Lektionen 76–79: Trauma und PTBS, Essstörungen, Suizidprävention und Krisenintervention sowie Zwangs- und Angststörungen, informativ, respektvoll und hoffnungsvoll auf Deutsch.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -22,7 +22,7 @@
       "stable_id": "card-ms942qq41hp1q",
       "front": "Die vier Bereiche der PTBS",
       "back": "Wiedererleben (Intrusionen, Flashbacks), Vermeidung, Übererregung (Hyperarousal) und negative Veränderungen von Denken und Stimmung.",
-      "notes": "Aus Lektion 76. Zum Verständnis — nicht zur Selbstdiagnose.",
+      "notes": "Aus Lektion 76. Zum Verständnis, nicht zur Selbstdiagnose.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["klinisch", "ptbs", "trauma"]
@@ -41,7 +41,7 @@
       "id": "emdr",
       "stable_id": "card-ms942qq41hrr0",
       "front": "EMDR",
-      "back": "Eye Movement Desensitization and Reprocessing — ein wirksames traumafokussiertes Therapieverfahren, das Augenbewegungen zur Verarbeitung traumatischer Erinnerungen einsetzt.",
+      "back": "Eye Movement Desensitization and Reprocessing, ein wirksames traumafokussiertes Therapieverfahren, das Augenbewegungen zur Verarbeitung traumatischer Erinnerungen einsetzt.",
       "notes": "Neben der traumafokussierten kognitiven Verhaltenstherapie (KVT) eine der am besten belegten Behandlungen für PTBS.",
       "media_type": "text",
       "difficulty": 4,
@@ -51,8 +51,8 @@
       "id": "essstoerungen-ueberblick",
       "stable_id": "card-ms942qq41hsqk",
       "front": "Essstörungen (Eating Disorders)",
-      "back": "Ernsthafte psychische Erkrankungen mit gestörtem Essverhalten und Körperbild. Genesung ist möglich — professionelle Unterstützung ist wichtig.",
-      "notes": "Aus Lektion 77. Keine Zahlen oder Methoden — Fokus auf Konzept und Hoffnung.",
+      "back": "Ernsthafte psychische Erkrankungen mit gestörtem Essverhalten und Körperbild. Genesung ist möglich, professionelle Unterstützung ist wichtig.",
+      "notes": "Aus Lektion 77. Keine Zahlen oder Methoden, Fokus auf Konzept und Hoffnung.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["klinisch", "essstoerungen"]
@@ -61,7 +61,7 @@
       "id": "multifaktorielle-ursachen",
       "stable_id": "card-ms942qq41htwd",
       "front": "Multifaktorielle Ursachen",
-      "back": "Essstörungen entstehen durch das Zusammenwirken biologischer, psychologischer und sozialer Faktoren — kein einzelner Faktor reicht als Erklärung aus.",
+      "back": "Essstörungen entstehen durch das Zusammenwirken biologischer, psychologischer und sozialer Faktoren, kein einzelner Faktor reicht als Erklärung aus.",
       "notes": "Gilt auch für viele andere psychische Erkrankungen. Schuld trifft niemanden.",
       "media_type": "text",
       "difficulty": 3,
@@ -81,7 +81,7 @@
       "id": "mythos-ansprechen",
       "stable_id": "card-ms942qq41hv1s",
       "front": "Mythos: Ansprechen erhöht das Risiko",
-      "back": "Das ist falsch. Offen über suizidale Gedanken zu sprechen erhöht das Risiko nicht — im Gegenteil, es kann Erleichterung bringen und den Weg zur Hilfe öffnen.",
+      "back": "Das ist falsch. Offen über suizidale Gedanken zu sprechen erhöht das Risiko nicht, im Gegenteil, es kann Erleichterung bringen und den Weg zur Hilfe öffnen.",
       "notes": "Aus Lektion 78. Einer der wichtigsten Mythen in der Suizidprävention.",
       "media_type": "text",
       "difficulty": 3,
@@ -103,7 +103,7 @@
       "stable_id": "card-ms942qq41hx22",
       "front": "Obsessionen und Kompulsionen",
       "back": "Obsessionen (Zwangsgedanken) sind aufdringliche, belastende Gedanken. Kompulsionen (Zwangshandlungen) sind Verhaltensweisen, die Angst kurzfristig lindern, sie aber langfristig aufrechterhalten.",
-      "notes": "Aus Lektion 79. Kennzeichen der Zwangsstörung (OCD — Obsessive-Compulsive Disorder).",
+      "notes": "Aus Lektion 79. Kennzeichen der Zwangsstörung (OCD, Obsessive-Compulsive Disorder).",
       "media_type": "text",
       "difficulty": 4,
       "tags": ["klinisch", "zwangsstoerung"]
@@ -112,7 +112,7 @@
       "id": "exposition-reaktionsverhinderung",
       "stable_id": "card-ms942qq41hywl",
       "front": "Exposition mit Reaktionsverhinderung (ERP)",
-      "back": "Eine wirksame verhaltenstherapeutische Methode bei Zwangs- und Angststörungen: die Angst aushalten, ohne die Zwangshandlung auszuführen — so lernt das Gehirn, dass die Angst von selbst nachlässt.",
+      "back": "Eine wirksame verhaltenstherapeutische Methode bei Zwangs- und Angststörungen: die Angst aushalten, ohne die Zwangshandlung auszuführen, so lernt das Gehirn, dass die Angst von selbst nachlässt.",
       "notes": "ERP = Exposure and Response Prevention. Aus Lektion 79.",
       "media_type": "text",
       "difficulty": 4,
@@ -144,25 +144,25 @@
       "id": "intro-wiederholung",
       "type": "theory",
       "title": "Zeit für die große Wiederholung",
-      "body": "# Wiederholung: Klinische Psychologie II\n\n> **Wichtiger Hinweis:** Diese Lektion ersetzt keine professionelle Diagnose oder Behandlung. Sie dient dem Verständnis und der Wissensvermittlung. Wenn dich ein Thema belastet, wende dich an eine Fachperson oder eine Beratungsstelle — Anlaufstellen findest du am Ende.\n\nIn den **Lektionen 76–79** ging es um Trauma, Essstörungen, seelische Krisen und Suizidprävention sowie Zwangs- und Angststörungen. Diese Lektion mischt alles — mit der wichtigen Erinnerung: **Hilfe ist verfügbar und wirkt.**\n\n## Überblick über die vier Themen\n\n| Lektion | Thema | Kernbotschaft |\n|---|---|---|\n| **76** | Trauma & PTBS | Reaktionen sind verständlich; PTBS ist gut behandelbar |\n| **77** | Essstörungen | Ernsthafte Erkrankungen; Genesung ist möglich |\n| **78** | Suizidprävention & Krisenintervention | Krisen sind vorübergehend; Ansprechen hilft |\n| **79** | Zwangs- & Angststörungen | Teufelskreis verstehen; Exposition wirkt |\n\nDie folgende Wiederholung verbindet diese Themen und zeigt, was sie gemeinsam haben: **multifaktorielle Ursachen, wirksame Behandlungen und die Kraft sozialer Unterstützung.**"
+      "body": "# Wiederholung: Klinische Psychologie II\n\n> **Wichtiger Hinweis:** Diese Lektion ersetzt keine professionelle Diagnose oder Behandlung. Sie dient dem Verständnis und der Wissensvermittlung. Wenn dich ein Thema belastet, wende dich an eine Fachperson oder eine Beratungsstelle, Anlaufstellen findest du am Ende.\n\nIn den **Lektionen 76–79** ging es um Trauma, Essstörungen, seelische Krisen und Suizidprävention sowie Zwangs- und Angststörungen. Diese Lektion mischt alles, mit der wichtigen Erinnerung: **Hilfe ist verfügbar und wirkt.**\n\n## Überblick über die vier Themen\n\n| Lektion | Thema | Kernbotschaft |\n|---|---|---|\n| **76** | Trauma & PTBS | Reaktionen sind verständlich; PTBS ist gut behandelbar |\n| **77** | Essstörungen | Ernsthafte Erkrankungen; Genesung ist möglich |\n| **78** | Suizidprävention & Krisenintervention | Krisen sind vorübergehend; Ansprechen hilft |\n| **79** | Zwangs- & Angststörungen | Teufelskreis verstehen; Exposition wirkt |\n\nDie folgende Wiederholung verbindet diese Themen und zeigt, was sie gemeinsam haben: **multifaktorielle Ursachen, wirksame Behandlungen und die Kraft sozialer Unterstützung.**"
     },
     {
       "id": "step-konzepte",
       "type": "theory",
       "title": "Schlüsselbegriffe im Überblick",
-      "body": "## Schlüsselbegriffe der Lektionen 76–79\n\n### Trauma & PTBS (Lektion 76)\n\nEine **PTBS** kann nach einem traumatischen Erlebnis entstehen und zeigt sich in vier Bereichen:\n\n| Bereich | Worum es geht |\n|---|---|\n| **Wiedererleben** | Flashbacks, Albträume, Intrusionen |\n| **Vermeidung** | Meiden von Erinnerungsauslösern |\n| **Übererregung** | Schreckhaftigkeit, Reizbarkeit, Schlafprobleme |\n| **Denken & Stimmung** | negative Gedanken, Schuld, emotionale Taubheit |\n\nDie **akute Belastungsreaktion** ist in den ersten Tagen zunächst normal. **EMDR** (Eye Movement Desensitization and Reprocessing) ist ein wirksames traumafokussiertes Verfahren.\n\n### Essstörungen (Lektion 77)\n\nEstörungen sind **ernsthafte psychische Erkrankungen** mit **multifaktoriellen Ursachen** — biologisch, psychologisch, sozial. Das Körperbild spielt eine zentrale Rolle. Genesung ist mit Unterstützung möglich.\n\n### Suizidprävention (Lektion 78)\n\nKrisen fühlen sich endlos an, sind es aber nicht. Ein wichtiger **Mythos-Check**: Offen über suizidale Gedanken zu sprechen erhöht das Risiko **nicht** — es erleichtert oft den Weg zur Hilfe.\n\n### Zwangs- & Angststörungen (Lektion 79)\n\nDer **Teufelskreis der Angst** zeigt: Vermeidung verstärkt Angst. **Obsessionen** (Zwangsgedanken) und **Kompulsionen** (Zwangshandlungen) halten sich gegenseitig aufrecht. Die **Exposition mit Reaktionsverhinderung (ERP)** unterbricht diesen Kreislauf."
+      "body": "## Schlüsselbegriffe der Lektionen 76–79\n\n### Trauma & PTBS (Lektion 76)\n\nEine **PTBS** kann nach einem traumatischen Erlebnis entstehen und zeigt sich in vier Bereichen:\n\n| Bereich | Worum es geht |\n|---|---|\n| **Wiedererleben** | Flashbacks, Albträume, Intrusionen |\n| **Vermeidung** | Meiden von Erinnerungsauslösern |\n| **Übererregung** | Schreckhaftigkeit, Reizbarkeit, Schlafprobleme |\n| **Denken & Stimmung** | negative Gedanken, Schuld, emotionale Taubheit |\n\nDie **akute Belastungsreaktion** ist in den ersten Tagen zunächst normal. **EMDR** (Eye Movement Desensitization and Reprocessing) ist ein wirksames traumafokussiertes Verfahren.\n\n### Essstörungen (Lektion 77)\n\nEstörungen sind **ernsthafte psychische Erkrankungen** mit **multifaktoriellen Ursachen**, biologisch, psychologisch, sozial. Das Körperbild spielt eine zentrale Rolle. Genesung ist mit Unterstützung möglich.\n\n### Suizidprävention (Lektion 78)\n\nKrisen fühlen sich endlos an, sind es aber nicht. Ein wichtiger **Mythos-Check**: Offen über suizidale Gedanken zu sprechen erhöht das Risiko **nicht**, es erleichtert oft den Weg zur Hilfe.\n\n### Zwangs- & Angststörungen (Lektion 79)\n\nDer **Teufelskreis der Angst** zeigt: Vermeidung verstärkt Angst. **Obsessionen** (Zwangsgedanken) und **Kompulsionen** (Zwangshandlungen) halten sich gegenseitig aufrecht. Die **Exposition mit Reaktionsverhinderung (ERP)** unterbricht diesen Kreislauf."
     },
     {
       "id": "step-hilfe",
       "type": "theory",
       "title": "Gemeinsamkeiten und Anlaufstellen",
-      "body": "## Was alle vier Themen verbindet\n\n- **Multifaktorielle Ursachen**: Keine Erkrankung hat eine einzige Ursache — Biologie, Psychologie und soziales Umfeld wirken zusammen.\n- **Wirksame Behandlungen**: Zu allen Bereichen gibt es gut belegte Therapieverfahren.\n- **Resilienz und Wachstum**: Viele Menschen erholen sich — manche berichten sogar von positivem Wandel nach Krisen.\n- **Soziale Unterstützung**: Zuhören, da sein, professionelle Hilfe empfehlen — das macht einen Unterschied.\n\n## Anlaufstellen in Deutschland\n\n| Angebot | Kontakt |\n|---|---|\n| **Telefonseelsorge** (kostenlos, anonym, 24/7) | **0800 111 0 111** oder **116 123** |\n| **Nummer gegen Kummer** (Kinder/Jugendliche) | **116 111** |\n| **Akuter Notfall** | Notruf **112** |\n| **Ärztlicher Bereitschaftsdienst** | **116 117** |\n\nSich Hilfe zu holen ist ein Zeichen von **Stärke**. Professionelle Unterstützung wirkt — und niemand muss alleine durch eine Krise."
+      "body": "## Was alle vier Themen verbindet\n\n- **Multifaktorielle Ursachen**: Keine Erkrankung hat eine einzige Ursache, Biologie, Psychologie und soziales Umfeld wirken zusammen.\n- **Wirksame Behandlungen**: Zu allen Bereichen gibt es gut belegte Therapieverfahren.\n- **Resilienz und Wachstum**: Viele Menschen erholen sich, manche berichten sogar von positivem Wandel nach Krisen.\n- **Soziale Unterstützung**: Zuhören, da sein, professionelle Hilfe empfehlen, das macht einen Unterschied.\n\n## Anlaufstellen in Deutschland\n\n| Angebot | Kontakt |\n|---|---|\n| **Telefonseelsorge** (kostenlos, anonym, 24/7) | **0800 111 0 111** oder **116 123** |\n| **Nummer gegen Kummer** (Kinder/Jugendliche) | **116 111** |\n| **Akuter Notfall** | Notruf **112** |\n| **Ärztlicher Bereitschaftsdienst** | **116 117** |\n\nSich Hilfe zu holen ist ein Zeichen von **Stärke**. Professionelle Unterstützung wirkt, und niemand muss alleine durch eine Krise."
     },
     {
       "id": "ex-match-vier-themen",
       "type": "exercise",
       "theory_ref": "intro-wiederholung",
-      "title": "Vier Themen — vier Kernbotschaften",
+      "title": "Vier Themen - vier Kernbotschaften",
       "exercise": {
         "id": "ex-match-vier-themen",
         "stable_id": "ex-ms942qq41i1gh",
@@ -209,7 +209,7 @@
         "prompt": "Wie nennt man das sich selbst verstärkende Muster, bei dem Angst zu Vermeidung führt, die die Angst wiederum aufrechterhält?",
         "card_ids": ["teufelskreis-angst"],
         "accept": ["Teufelskreis der Angst", "Teufelskreis", "Angstkreislauf", "Angst-Teufelskreis"],
-        "hint": "Ein Kreislauf, der sich selbst verstärkt — und durchbrochen werden kann.",
+        "hint": "Ein Kreislauf, der sich selbst verstärkt, und durchbrochen werden kann.",
         "distractors": ["Konditionierung", "Übertragung", "Habituation"],
         "direction": "target_to_source"
       }
@@ -265,7 +265,7 @@
         "prompt": "Wie nennt man das Modell, das erklärt, dass Essstörungen durch das Zusammenwirken biologischer, psychologischer und sozialer Faktoren entstehen?",
         "card_ids": ["multifaktorielle-ursachen"],
         "accept": ["multifaktoriell", "multifaktorielle Ursachen", "multifaktorielles Modell", "biopsychosoziales Modell"],
-        "hint": "Viele Faktoren wirken zusammen — kein einziger reicht als Erklärung.",
+        "hint": "Viele Faktoren wirken zusammen, kein einziger reicht als Erklärung.",
         "distractors": ["monokausales Modell", "genetisches Modell", "Konditionierungsmodell"],
         "direction": "target_to_source"
       }
@@ -282,7 +282,7 @@
         "prompt": "Setze den zentralen Merksatz über Hilfe zusammen.",
         "card_ids": ["hilfe-anlaufstellen", "krise-voruebergehend"],
         "tiles": ["Hilfe", "ist", "verfügbar", "und", "wirkt"],
-        "hint": "Fünf Wörter — beginnt mit 'Hilfe ist …'.",
+        "hint": "Fünf Wörter, beginnt mit 'Hilfe ist …'.",
         "direction": "target_to_source"
       }
     }

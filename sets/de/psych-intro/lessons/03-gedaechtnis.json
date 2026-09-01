@@ -1,7 +1,7 @@
 {
   "id": "03-gedaechtnis",
   "title": "Gedächtnis",
-  "description": "Mehrspeichermodell, Arbeitsgedächtnis, Vergessenskurve und Gedächtnisstrategien — auf Deutsch erklärt.",
+  "description": "Mehrspeichermodell, Arbeitsgedächtnis, Vergessenskurve und Gedächtnisstrategien, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -11,7 +11,7 @@
       "id": "mehrspeichermodell",
       "stable_id": "card-ms942qoi043oo",
       "front": "Mehrspeichermodell (Multi-Store Model)",
-      "back": "Modell von Atkinson & Shiffrin (1968): Informationen durchlaufen drei Speicher — sensorisches Register, Kurzzeitgedächtnis und Langzeitgedächtnis.",
+      "back": "Modell von Atkinson & Shiffrin (1968): Informationen durchlaufen drei Speicher, sensorisches Register, Kurzzeitgedächtnis und Langzeitgedächtnis.",
       "notes": "Das Modell ist ein Meilenstein der Kognitionspsychologie, obwohl spätere Forschung es erweitert hat.",
       "tags": ["modell", "atkinson-shiffrin"]
     },
@@ -68,14 +68,14 @@
       "stable_id": "card-ms942qoi04a5x",
       "front": "Zentrale Exekutive (Central Executive)",
       "back": "Übergeordnete Kontrollinstanz des Arbeitsgedächtnisses: steuert Aufmerksamkeit und koordiniert die Subsysteme.",
-      "notes": "Keine eigene Speicherkapazität — nur Steuerung und Koordination.",
+      "notes": "Keine eigene Speicherkapazität, nur Steuerung und Koordination.",
       "tags": ["baddeley", "arbeitsgedaechtnis"]
     },
     {
       "id": "vergessenskurve",
       "stable_id": "card-ms942qoi04b5f",
       "front": "Vergessenskurve (Forgetting Curve)",
-      "back": "Von Ebbinghaus entdeckt: Vergessen verläuft exponentiell — der größte Verlust tritt kurz nach dem Lernen auf.",
+      "back": "Von Ebbinghaus entdeckt: Vergessen verläuft exponentiell, der größte Verlust tritt kurz nach dem Lernen auf.",
       "notes": "Ebbinghaus lernte sinnlose Silben und maß Behaltensleistung über die Zeit. Nach einem Tag sind oft über 50 % vergessen.",
       "tags": ["ebbinghaus", "vergessen"]
     },
@@ -141,19 +141,19 @@
       "id": "theory-mehrspeicher",
       "type": "theory",
       "title": "Das Mehrspeichermodell (Atkinson & Shiffrin)",
-      "body": "# Mehrspeichermodell\n\nAtkinson & Shiffrin (1968) beschrieben Gedächtnis als **drei aufeinanderfolgende Speicher**:\n\n1. **Sensorisches Register** — hält Sinneseindrücke für Millisekunden bis Sekunden.\n2. **Kurzzeitgedächtnis (KZG)** — begrenzte Kapazität (~7 ± 2 Chunks) und kurze Dauer (~15–30 s).\n3. **Langzeitgedächtnis (LZG)** — quasi unbegrenzt in Kapazität und Dauer.\n\nInformationen fließen von links nach rechts — aber nur, wenn Aufmerksamkeit und Wiederholung aktiv eingesetzt werden. Was das KZG nicht durch **Rehearsal** überführt, geht verloren."
+      "body": "# Mehrspeichermodell\n\nAtkinson & Shiffrin (1968) beschrieben Gedächtnis als **drei aufeinanderfolgende Speicher**:\n\n1. **Sensorisches Register**, hält Sinneseindrücke für Millisekunden bis Sekunden.\n2. **Kurzzeitgedächtnis (KZG)**, begrenzte Kapazität (~7 ± 2 Chunks) und kurze Dauer (~15–30 s).\n3. **Langzeitgedächtnis (LZG)**, quasi unbegrenzt in Kapazität und Dauer.\n\nInformationen fließen von links nach rechts, aber nur, wenn Aufmerksamkeit und Wiederholung aktiv eingesetzt werden. Was das KZG nicht durch **Rehearsal** überführt, geht verloren."
     },
     {
       "id": "theory-arbeitsgedaechtnis",
       "type": "theory",
       "title": "Das Arbeitsgedächtnismodell (Baddeley)",
-      "body": "# Arbeitsgedächtnis\n\nBaddeley & Hitch (1974) erweiterten das KZG zu einem aktiven **Arbeitsgedächtnismodell** mit drei Komponenten:\n\n- **Phonologische Schleife** — speichert Sprache und Klänge durch inneres Sprechen.\n- **Visuell-räumlicher Notizblock** — verarbeitet Bilder und Rauminformationen.\n- **Zentrale Exekutive** — übergeordnete Steuerinstanz; koordiniert beide Subsysteme und lenkt Aufmerksamkeit.\n\nDas Arbeitsgedächtnis ist unser mentaler 'Schreibtisch': begrenzt, aber aktiv. Wenn wir rechnen, lesen oder eine Entscheidung treffen, ist es im Einsatz."
+      "body": "# Arbeitsgedächtnis\n\nBaddeley & Hitch (1974) erweiterten das KZG zu einem aktiven **Arbeitsgedächtnismodell** mit drei Komponenten:\n\n- **Phonologische Schleife**, speichert Sprache und Klänge durch inneres Sprechen.\n- **Visuell-räumlicher Notizblock**, verarbeitet Bilder und Rauminformationen.\n- **Zentrale Exekutive**, übergeordnete Steuerinstanz; koordiniert beide Subsysteme und lenkt Aufmerksamkeit.\n\nDas Arbeitsgedächtnis ist unser mentaler 'Schreibtisch': begrenzt, aber aktiv. Wenn wir rechnen, lesen oder eine Entscheidung treffen, ist es im Einsatz."
     },
     {
       "id": "theory-vergessen-und-strategien",
       "type": "theory",
       "title": "Vergessenskurve, Spacing-Effekt & SRS",
-      "body": "# Vergessen und wie man es bekämpft\n\n**Ebbinghaus** zeigte: Vergessen verläuft **exponentiell** — kurz nach dem Lernen geht am meisten verloren. Die **Vergessenskurve** flacht dann ab.\n\nDas wirksamste Gegenmittel ist der **Spacing-Effekt**: Lernstoff *verteilt* über die Zeit wiederholen statt kurz vor der Prüfung zu pauken.\n\nDaneben helfen:\n- **Chunking** — Einheiten bündeln\n- **Elaboration** — neues Wissen verknüpfen\n- **Loci-Methode** — Gedächtnispalast\n- **Eselsbrücken** — Reime, Akronyme\n\n> **Meta-Hinweis:** Adaptive Learner nutzt ein **SRS** (Spaced Repetition System) — genau das Prinzip aus dieser Lektion. Je öfter du eine Karte richtig beantwortest, desto länger wartet das System mit der nächsten Wiederholung."
+      "body": "# Vergessen und wie man es bekämpft\n\n**Ebbinghaus** zeigte: Vergessen verläuft **exponentiell**, kurz nach dem Lernen geht am meisten verloren. Die **Vergessenskurve** flacht dann ab.\n\nDas wirksamste Gegenmittel ist der **Spacing-Effekt**: Lernstoff *verteilt* über die Zeit wiederholen statt kurz vor der Prüfung zu pauken.\n\nDaneben helfen:\n- **Chunking**, Einheiten bündeln\n- **Elaboration**, neues Wissen verknüpfen\n- **Loci-Methode**, Gedächtnispalast\n- **Eselsbrücken**, Reime, Akronyme\n\n> **Meta-Hinweis:** Adaptive Learner nutzt ein **SRS** (Spaced Repetition System), genau das Prinzip aus dieser Lektion. Je öfter du eine Karte richtig beantwortest, desto länger wartet das System mit der nächsten Wiederholung."
     },
     {
       "id": "ex-match-speicher",
@@ -297,7 +297,7 @@
           { "accept": ["verteiltes", "verteilt"] }
         ],
         "cloze_mode": "type",
-        "hint": "Das Gegenteil von 'auf einmal' — also über mehrere Tage aufgeteilt."
+        "hint": "Das Gegenteil von 'auf einmal', also über mehrere Tage aufgeteilt."
       }
     },
     {

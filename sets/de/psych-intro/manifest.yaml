@@ -1,4 +1,4 @@
-# Psychologie — Grundlagen (für Deutschsprachige) — Set-Manifest
+# Psychologie - Grundlagen (für Deutschsprachige) - Set-Manifest
 # (Phase 60 / v1.44.0).
 #
 # Erstes Nicht-Sprachen-Set von Adaptive Learner. ``domain:
@@ -116,7 +116,7 @@
 # sowie eine abschließende Wiederholung (rezeptive Richtung).
 #
 # v1.18.0 (schema v1.3): Einzellektion 106 zur
-# Kommunikationspsychologie — der Inception-Effekt (induzierte
+# Kommunikationspsychologie, der Inception-Effekt (induzierte
 # Eigendynamik): die Mechanismen sokratische Gesprächsführung,
 # Priming/Framing und Fehlattribuierung der Quelle, sachlich und
 # mit Beispielen.
@@ -158,7 +158,7 @@
 # ohne diese Lektionen zu ändern: neue Fallbeschreibungen aus dem
 # Arbeitsalltag statt Begriffsabfrage.
 schema_version: '1.3'
-name: Psychologie — Grundlagen
+name: Psychologie - Grundlagen
 description: >-
   Einführungskurs Psychologie auf Universitätsniveau für
   Deutschsprachige (40 Lektionen): von Grundbegriffen,
@@ -176,8 +176,8 @@ description: >-
   in Klammern.
 sets:
   - id: psych-intro-from-de
-    title: Psychologie — Grundlagen
-    title_native: Psychologia — Fundamenta
+    title: Psychologie - Grundlagen
+    title_native: Psychologia - Fundamenta
     target_language: de
     source_language: de
     domain: psychology
@@ -187,7 +187,7 @@ sets:
     lesson_count: 115
     description: >-
       Vollständiger Einführungskurs Psychologie auf
-      Universitätsniveau (90 Lektionen), auf Deutsch erklärt — von
+      Universitätsniveau (90 Lektionen), auf Deutsch erklärt, von
       den Grundlagen- und Anwendungsfächern über Psychotherapie,
       Forschungsmethoden und Statistik bis zu vertieften
       Grundlagenfächern, Geschichte, Wissenschaftstheorie, einem
@@ -204,11 +204,11 @@ sets:
       sowie der Entwicklung über die Lebensspanne (von der
       pränatalen Phase bis ins hohe Alter) und einer Vertiefung
       der klinischen Psychologie (Trauma, Essstörungen,
-      Suizidprävention, Zwangs- und Angststörungen — mit Hinweis
+      Suizidprävention, Zwangs- und Angststörungen, mit Hinweis
       auf professionelle Hilfe und Anlaufstellen) sowie der
       forensischen und Rechtspsychologie (Aussagepsychologie,
       Glaubhaftigkeitsbegutachtung, Schuldfähigkeit, Täterprofile
-      und Kriminalprognose — sachlich und ohne Sensationalismus),
+      und Kriminalprognose, sachlich und ohne Sensationalismus),
       einer Vertiefungslektion dazu (Fallanwendung und
       Unterscheidung statt Begriffsabfrage), sowie der
       Neuropsychologie (Grundlagen und Methoden,
@@ -216,7 +216,7 @@ sets:
       Exekutivstörungen) mit einer eigenen Vertiefungslektion,
       der Arbeits- und Organisationspsychologie
       (Motivation und Zufriedenheit, Führung und Teams,
-      Arbeitsstress und Burnout — mit Hinweis auf professionelle
+      Arbeitsstress und Burnout, mit Hinweis auf professionelle
       Hilfe) mit einer eigenen Vertiefungslektion, und der
       Pädagogischen Psychologie (Lernmotivation,
       Unterrichtsqualität, Leistungsbeurteilung und Prüfungsangst).

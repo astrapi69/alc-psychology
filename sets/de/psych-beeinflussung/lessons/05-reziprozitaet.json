@@ -1,7 +1,7 @@
 {
   "id": "05-reziprozitaet",
-  "title": "Reziprozität — der Druck der Gegenseitigkeit",
-  "description": "Das Reziprozitätsprinzip: Wer etwas erhält, fühlt sich verpflichtet, etwas zurückzugeben. Eines der Einflussprinzipien nach Cialdini, gestützt auf die Norm der Reziprozität (Gouldner, 1960). Als empirisch belegte Tendenz dargestellt — nicht als Trick, der immer funktioniert.",
+  "title": "Reziprozität - der Druck der Gegenseitigkeit",
+  "description": "Das Reziprozitätsprinzip: Wer etwas erhält, fühlt sich verpflichtet, etwas zurückzugeben. Eines der Einflussprinzipien nach Cialdini, gestützt auf die Norm der Reziprozität (Gouldner, 1960). Als empirisch belegte Tendenz dargestellt, nicht als Trick, der immer funktioniert.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -21,7 +21,7 @@
       "id": "card-gouldner",
       "stable_id": "card-ms942qoe01ef3",
       "front": "Norm der Reziprozität (Gouldner, 1960)",
-      "back": "Eine weit verbreitete soziale Norm: Man soll denen helfen, die einem geholfen haben — sie stützt das Reziprozitätsprinzip",
+      "back": "Eine weit verbreitete soziale Norm: Man soll denen helfen, die einem geholfen haben, sie stützt das Reziprozitätsprinzip",
       "notes": "Alvin Gouldner beschrieb sie 1960 als nahezu universelle soziale Erwartung.",
       "media_type": "text",
       "difficulty": 3,
@@ -41,7 +41,7 @@
       "id": "card-door-in-the-face",
       "stable_id": "card-ms942qoe01ghc",
       "front": "Door-in-the-face",
-      "back": "Eine reziproke Zugeständnis-Technik: Auf eine bewusst überzogene erste Bitte folgt eine kleinere — das Nachgeben des Bittenden erzeugt Druck, ebenfalls nachzugeben",
+      "back": "Eine reziproke Zugeständnis-Technik: Auf eine bewusst überzogene erste Bitte folgt eine kleinere, das Nachgeben des Bittenden erzeugt Druck, ebenfalls nachzugeben",
       "notes": "Cialdini et al. (1975). Beruht auf reziproken Zugeständnissen, nicht auf einem Geschenk.",
       "media_type": "text",
       "difficulty": 3,
@@ -63,7 +63,7 @@
       "id": "intro",
       "type": "theory",
       "title": "Geben erzeugt Verpflichtung",
-      "body": "# Reziprozität\n\nDas **Reziprozitätsprinzip** besagt: Wer etwas erhält — ein Geschenk, einen Gefallen, ein Zugeständnis — verspürt einen sozialen Druck, sich zu revanchieren. Es ist eines der sechs Einflussprinzipien, die **Robert Cialdini** zusammengetragen hat.\n\nDahinter steht die **Norm der Reziprozität**, die der Soziologe **Alvin Gouldner (1960)** als nahezu universelle soziale Erwartung beschrieb: Man soll denen helfen, die einem geholfen haben.\n\n## Ein Beispiel aus der Forschung\n\nIm Experiment von **Regan (1971)** spendierte ein vermeintlicher Mitproband den Versuchspersonen unaufgefordert eine Cola. Später bat er sie, ihm Lose abzukaufen. Wer zuvor die Cola erhalten hatte, kaufte im Schnitt **mehr** Lose — ein kleiner Gefallen erzeugte ein Gefühl der Verpflichtung.\n\nEine verwandte Technik ist **Door-in-the-face** (Cialdini et al., 1975): Auf eine bewusst überzogene erste Bitte folgt eine kleinere. Das sichtbare *Nachgeben* des Bittenden wirkt wie ein Zugeständnis, das man erwidern möchte.\n\n## Augenmaß\n\nReziprozität ist eine **empirisch belegte Tendenz, kein Automatismus**. Wer ein Geschenk als Manipulationsversuch durchschaut, fühlt sich oft nicht verpflichtet. Das Prinzip beschreibt eine Wahrscheinlichkeit, keinen Schalter."
+      "body": "# Reziprozität\n\nDas **Reziprozitätsprinzip** besagt: Wer etwas erhält, ein Geschenk, einen Gefallen, ein Zugeständnis, verspürt einen sozialen Druck, sich zu revanchieren. Es ist eines der sechs Einflussprinzipien, die **Robert Cialdini** zusammengetragen hat.\n\nDahinter steht die **Norm der Reziprozität**, die der Soziologe **Alvin Gouldner (1960)** als nahezu universelle soziale Erwartung beschrieb: Man soll denen helfen, die einem geholfen haben.\n\n## Ein Beispiel aus der Forschung\n\nIm Experiment von **Regan (1971)** spendierte ein vermeintlicher Mitproband den Versuchspersonen unaufgefordert eine Cola. Später bat er sie, ihm Lose abzukaufen. Wer zuvor die Cola erhalten hatte, kaufte im Schnitt **mehr** Lose, ein kleiner Gefallen erzeugte ein Gefühl der Verpflichtung.\n\nEine verwandte Technik ist **Door-in-the-face** (Cialdini et al., 1975): Auf eine bewusst überzogene erste Bitte folgt eine kleinere. Das sichtbare *Nachgeben* des Bittenden wirkt wie ein Zugeständnis, das man erwidern möchte.\n\n## Augenmaß\n\nReziprozität ist eine **empirisch belegte Tendenz, kein Automatismus**. Wer ein Geschenk als Manipulationsversuch durchschaut, fühlt sich oft nicht verpflichtet. Das Prinzip beschreibt eine Wahrscheinlichkeit, keinen Schalter."
     },
     {
       "id": "ex-free-reziprozitaet",

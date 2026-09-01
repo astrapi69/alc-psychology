@@ -1,7 +1,7 @@
 {
   "id": "06-entwicklungspsychologie",
   "title": "Entwicklungspsychologie",
-  "description": "Kognitive Entwicklung nach Piaget, psychosoziale Stufen nach Erikson, Bindungstheorie nach Bowlby & Ainsworth und moralische Entwicklung nach Kohlberg — auf Deutsch erklärt.",
+  "description": "Kognitive Entwicklung nach Piaget, psychosoziale Stufen nach Erikson, Bindungstheorie nach Bowlby & Ainsworth und moralische Entwicklung nach Kohlberg, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -36,7 +36,7 @@
       "stable_id": "card-ms942qol06bli",
       "front": "Präoperationale Stufe (Preoperational Stage)",
       "back": "Zweite kognitive Entwicklungsstufe nach Piaget (2–7 Jahre): Sprache und symbolisches Denken entstehen, aber logisches Schlussfolgern fehlt noch.",
-      "notes": "Kinder in dieser Phase sind egozentrisch — sie können die Perspektive anderer noch nicht übernehmen.",
+      "notes": "Kinder in dieser Phase sind egozentrisch, sie können die Perspektive anderer noch nicht übernehmen.",
       "tags": ["piaget", "stufe"]
     },
     {
@@ -60,7 +60,7 @@
       "stable_id": "card-ms942qol06eue",
       "front": "Objektpermanenz (Object Permanence)",
       "back": "Erkenntnis, dass Gegenstände weiter existieren, auch wenn man sie gerade nicht sieht (ab ca. 8 Monaten).",
-      "notes": "Zuvor sucht ein Baby nach einem versteckten Spielzeug nicht — für es hat der Gegenstand aufgehört zu existieren.",
+      "notes": "Zuvor sucht ein Baby nach einem versteckten Spielzeug nicht, für es hat der Gegenstand aufgehört zu existieren.",
       "tags": ["piaget", "konzept"]
     },
     {
@@ -84,14 +84,14 @@
       "stable_id": "card-ms942qol06huc",
       "front": "Identität vs. Rollenkonfusion (Identity vs. Role Confusion)",
       "back": "Fünfte psychosoziale Stufe nach Erikson (Adoleszenz, 12–18 Jahre): Jugendliche fragen 'Wer bin ich?' und suchen eine stabile Identität.",
-      "notes": "Scheitert diese Aufgabe, entsteht Rollenkonfusion — Unsicherheit über die eigene Rolle in der Gesellschaft.",
+      "notes": "Scheitert diese Aufgabe, entsteht Rollenkonfusion, Unsicherheit über die eigene Rolle in der Gesellschaft.",
       "tags": ["erikson", "stufe"]
     },
     {
       "id": "integritaet-vs-verzweiflung",
       "stable_id": "card-ms942qol06isj",
       "front": "Integrität vs. Verzweiflung (Integrity vs. Despair)",
-      "back": "Achte und letzte psychosoziale Stufe nach Erikson (hohes Alter): Menschen blicken auf ihr Leben zurück — entweder mit Akzeptanz oder mit Bedauern.",
+      "back": "Achte und letzte psychosoziale Stufe nach Erikson (hohes Alter): Menschen blicken auf ihr Leben zurück, entweder mit Akzeptanz oder mit Bedauern.",
       "notes": "Ein erfülltes Rückblicken führt zu Ich-Integrität; das Gefühl, Zeit verloren zu haben, erzeugt Verzweiflung.",
       "tags": ["erikson", "stufe"]
     },
@@ -171,7 +171,7 @@
       "id": "theorie-erikson-bindung",
       "type": "theory",
       "title": "Eriksons psychosoziale Stufen und Bindungstheorie",
-      "body": "## Erikson & Bindungstheorie\n\n**Erikson** beschrieb 8 Lebensstufen, jede mit einem Kernkonflikt:\n\n- **Säugling**: Urvertrauen vs. Misstrauen\n- **Adoleszenz**: Identität vs. Rollenkonfusion\n- **Alter**: Integrität vs. Verzweiflung\n\n**Bindungstheorie** (Bowlby & Ainsworth): Kinder bauen emotionale Bindungen zu Bezugspersonen auf. Im **Fremde-Situation-Test** zeigen sich vier Stile:\n\n- **Sicher** — Bezugsperson als sicherer Hafen\n- **Unsicher-vermeidend** — kaum Trennungsschmerz, Nähe wird gemieden\n- **Unsicher-ambivalent** — übermäßiger Stress, schwer zu beruhigen\n- **Desorganisiert** — inkonsistentes, widersprüchliches Verhalten"
+      "body": "## Erikson & Bindungstheorie\n\n**Erikson** beschrieb 8 Lebensstufen, jede mit einem Kernkonflikt:\n\n- **Säugling**: Urvertrauen vs. Misstrauen\n- **Adoleszenz**: Identität vs. Rollenkonfusion\n- **Alter**: Integrität vs. Verzweiflung\n\n**Bindungstheorie** (Bowlby & Ainsworth): Kinder bauen emotionale Bindungen zu Bezugspersonen auf. Im **Fremde-Situation-Test** zeigen sich vier Stile:\n\n- **Sicher**, Bezugsperson als sicherer Hafen\n- **Unsicher-vermeidend**, kaum Trennungsschmerz, Nähe wird gemieden\n- **Unsicher-ambivalent**, übermäßiger Stress, schwer zu beruhigen\n- **Desorganisiert**, inkonsistentes, widersprüchliches Verhalten"
     },
     {
       "id": "theorie-kohlberg",
@@ -266,7 +266,7 @@
         "prompt": "Welcher Bindungsstil zeigt sich, wenn ein Kind kaum Trennungsschmerz hat und die Bezugsperson bei Rückkehr ignoriert?",
         "card_ids": ["unsicher-vermeidend"],
         "accept": ["unsicher-vermeidend", "unsicher vermeidend", "Unsicher-vermeidend", "vermeidend", "unsicher-vermeidende Bindung"],
-        "hint": "Das Kind meidet die Nähe zur Bezugsperson — es scheint wenig Bedarf an Fürsorge zu zeigen.",
+        "hint": "Das Kind meidet die Nähe zur Bezugsperson, es scheint wenig Bedarf an Fürsorge zu zeigen.",
         "distractors": ["sichere Bindung", "unsicher-ambivalent", "desorganisiert"],
         "direction": "target_to_source"
       }

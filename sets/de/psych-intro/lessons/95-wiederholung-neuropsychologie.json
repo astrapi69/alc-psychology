@@ -1,7 +1,7 @@
 {
   "id": "95-wiederholung-neuropsychologie",
   "title": "Wiederholung: Neuropsychologie",
-  "description": "Abschluss von Block 19: Diese Lektion fasst die Lektionen 91-94 kompakt zusammen — Gegenstand und Methoden der Neuropsychologie, funktionelle Neuroanatomie und Lateralisierung, neuropsychologische Störungsbilder sowie Diagnostik und Rehabilitation. Die Theorie rekapituliert in Übersichten, die Übungen mischen alle Themen des Blocks.",
+  "description": "Abschluss von Block 19: Diese Lektion fasst die Lektionen 91-94 kompakt zusammen, Gegenstand und Methoden der Neuropsychologie, funktionelle Neuroanatomie und Lateralisierung, neuropsychologische Störungsbilder sowie Diagnostik und Rehabilitation. Die Theorie rekapituliert in Übersichten, die Übungen mischen alle Themen des Blocks.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -81,7 +81,7 @@
       "id": "wdh-agnosie",
       "stable_id": "card-ms942qqd1pyp3",
       "front": "Agnosie und Prosopagnosie",
-      "back": "Agnosie: Erkennensstörung bei intakter Sinneswahrnehmung — Gesehenes wird wahrgenommen, aber nicht erkannt. Prosopagnosie ist die Sonderform der Gesichtserkennungsstörung.",
+      "back": "Agnosie: Erkennensstörung bei intakter Sinneswahrnehmung, Gesehenes wird wahrgenommen, aber nicht erkannt. Prosopagnosie ist die Sonderform der Gesichtserkennungsstörung.",
       "notes": "Griechisch a-gnosis (Nicht-Erkennen), prosopon (Gesicht).",
       "media_type": "text",
       "difficulty": 3,
@@ -133,19 +133,19 @@
       "id": "wdh-methoden-anatomie",
       "type": "theory",
       "title": "Rekapitulation: Methoden und Anatomie",
-      "body": "# Wiederholung Neuropsychologie (Block 19)\n\nDiese Lektion bündelt die Lektionen 91-94. Wir starten mit **Methoden** und **funktioneller Neuroanatomie**.\n\n## Methoden im Überblick\n\n| Begriff | Kurz erklärt |\n|---|---|\n| Läsionsmethode | Rückschluss aus dem Ausfall nach Schädigung |\n| Bildgebung (strukturell) | zeigt den Aufbau (CT, MRT) |\n| Bildgebung (funktionell) | zeigt Aktivität (fMRT, PET, EEG) |\n| Doppelte Dissoziation | belegt die Unabhängigkeit zweier Funktionen |\n\nDie alte Frage **Lokalisation oder Netzwerk?** löst die moderne Sicht auf: Funktionen entstehen in **verteilten Netzwerken**, und das Gehirn ist **plastisch** (Neuroplastizität).\n\n## Die vier Lappen\n\n| Lappen | Schwerpunkt |\n|---|---|\n| Frontallappen | Planung, Handlung, exekutive Funktionen |\n| Parietallappen | Raum, Berührung, Aufmerksamkeit |\n| Temporallappen | Hören, Sprache, Gedächtnis |\n| Okzipitallappen | Sehen |\n\n**Lateralisierung**: Hemisphären sind spezialisiert (Sprache meist links). **Split-Brain**-Studien (durchtrennter Balken) zeigen die Trennung — aber der populäre Gegensatz *linkshirnig/rechtshirnig* ist ein **Mythos**."
+      "body": "# Wiederholung Neuropsychologie (Block 19)\n\nDiese Lektion bündelt die Lektionen 91-94. Wir starten mit **Methoden** und **funktioneller Neuroanatomie**.\n\n## Methoden im Überblick\n\n| Begriff | Kurz erklärt |\n|---|---|\n| Läsionsmethode | Rückschluss aus dem Ausfall nach Schädigung |\n| Bildgebung (strukturell) | zeigt den Aufbau (CT, MRT) |\n| Bildgebung (funktionell) | zeigt Aktivität (fMRT, PET, EEG) |\n| Doppelte Dissoziation | belegt die Unabhängigkeit zweier Funktionen |\n\nDie alte Frage **Lokalisation oder Netzwerk?** löst die moderne Sicht auf: Funktionen entstehen in **verteilten Netzwerken**, und das Gehirn ist **plastisch** (Neuroplastizität).\n\n## Die vier Lappen\n\n| Lappen | Schwerpunkt |\n|---|---|\n| Frontallappen | Planung, Handlung, exekutive Funktionen |\n| Parietallappen | Raum, Berührung, Aufmerksamkeit |\n| Temporallappen | Hören, Sprache, Gedächtnis |\n| Okzipitallappen | Sehen |\n\n**Lateralisierung**: Hemisphären sind spezialisiert (Sprache meist links). **Split-Brain**-Studien (durchtrennter Balken) zeigen die Trennung, aber der populäre Gegensatz *linkshirnig/rechtshirnig* ist ein **Mythos**."
     },
     {
       "id": "wdh-stoerungsbilder",
       "type": "theory",
       "title": "Rekapitulation: Störungsbilder",
-      "body": "## Die wichtigsten Störungsbilder\n\nEin gemeinsames Prinzip: Die Sinnesorgane oder die Muskeln sind oft intakt — gestört ist die **zentrale Verarbeitung**.\n\n| Störung | Kern | Typisches Areal |\n|---|---|---|\n| Broca-Aphasie | Sprachproduktion gestört, Verständnis erhalten | Frontallappen (links) |\n| Wernicke-Aphasie | flüssig, aber Verständnis gestört | Temporallappen (links) |\n| Apraxie | willkürliche Bewegungen nicht ausführbar | parietal/frontal |\n| Agnosie | Erkennen gestört trotz intakter Wahrnehmung | je nach Modalität |\n| Prosopagnosie | Gesichter werden nicht erkannt | temporo-okzipital |\n| Neglect | eine Raumhälfte vernachlässigt | meist rechts parietal |\n\n## Gedächtnis und Frontalhirn\n\n- **Anterograde Amnesie**: keine *neuen* Inhalte speicherbar — der **Hippocampus** ist zentral.\n- **Retrograde Amnesie**: Verlust *früherer* Inhalte.\n- **Dysexekutives Syndrom**: gestörte Planung, Steuerung und Impulskontrolle nach Schädigung des **präfrontalen Cortex**."
+      "body": "## Die wichtigsten Störungsbilder\n\nEin gemeinsames Prinzip: Die Sinnesorgane oder die Muskeln sind oft intakt, gestört ist die **zentrale Verarbeitung**.\n\n| Störung | Kern | Typisches Areal |\n|---|---|---|\n| Broca-Aphasie | Sprachproduktion gestört, Verständnis erhalten | Frontallappen (links) |\n| Wernicke-Aphasie | flüssig, aber Verständnis gestört | Temporallappen (links) |\n| Apraxie | willkürliche Bewegungen nicht ausführbar | parietal/frontal |\n| Agnosie | Erkennen gestört trotz intakter Wahrnehmung | je nach Modalität |\n| Prosopagnosie | Gesichter werden nicht erkannt | temporo-okzipital |\n| Neglect | eine Raumhälfte vernachlässigt | meist rechts parietal |\n\n## Gedächtnis und Frontalhirn\n\n- **Anterograde Amnesie**: keine *neuen* Inhalte speicherbar, der **Hippocampus** ist zentral.\n- **Retrograde Amnesie**: Verlust *früherer* Inhalte.\n- **Dysexekutives Syndrom**: gestörte Planung, Steuerung und Impulskontrolle nach Schädigung des **präfrontalen Cortex**."
     },
     {
       "id": "wdh-diagnostik-reha",
       "type": "theory",
       "title": "Rekapitulation: Diagnostik und Rehabilitation",
-      "body": "## Von der Diagnostik zur Rehabilitation\n\nAm Anfang steht die **Diagnostik** mit standardisierten Tests: Welche Funktionen sind ausgefallen, welche erhalten? Auf dieser Grundlage setzt die **Rehabilitation** an — sie nutzt die **Neuroplastizität** des Gehirns.\n\n| Weg | Idee |\n|---|---|\n| Restitution | die geschädigte Funktion wiederherstellen |\n| Kompensation | mit anderen Strategien oder Fähigkeiten ausgleichen |\n| Adaptation | Umwelt und Hilfsmittel an verbleibende Möglichkeiten anpassen |\n\n> Merksatz: Erst **messen** (Diagnostik), dann **fördern** (Rehabilitation) — und zwar nicht nur die Funktion wiederherstellen, sondern auch klug ausgleichen und anpassen.\n\nDamit schließt sich der Bogen des Blocks: von **Gegenstand und Methoden** über **Anatomie** und **Störungsbilder** bis zur **Anwendung** in der klinischen Neuropsychologie."
+      "body": "## Von der Diagnostik zur Rehabilitation\n\nAm Anfang steht die **Diagnostik** mit standardisierten Tests: Welche Funktionen sind ausgefallen, welche erhalten? Auf dieser Grundlage setzt die **Rehabilitation** an, sie nutzt die **Neuroplastizität** des Gehirns.\n\n| Weg | Idee |\n|---|---|\n| Restitution | die geschädigte Funktion wiederherstellen |\n| Kompensation | mit anderen Strategien oder Fähigkeiten ausgleichen |\n| Adaptation | Umwelt und Hilfsmittel an verbleibende Möglichkeiten anpassen |\n\n> Merksatz: Erst **messen** (Diagnostik), dann **fördern** (Rehabilitation), und zwar nicht nur die Funktion wiederherstellen, sondern auch klug ausgleichen und anpassen.\n\nDamit schließt sich der Bogen des Blocks: von **Gegenstand und Methoden** über **Anatomie** und **Störungsbilder** bis zur **Anwendung** in der klinischen Neuropsychologie."
     },
     {
       "id": "ex-match-stoerungen",
@@ -193,7 +193,7 @@
         "id": "ex-free-dissoziation",
         "stable_id": "ex-ms942qqd1q5b8",
         "type": "free_text",
-        "prompt": "Wie heißt das Muster, bei dem Patient A Funktion 1 (nicht 2) und Patient B Funktion 2 (nicht 1) zeigt — der stärkste Beleg für die Unabhängigkeit zweier Funktionen?",
+        "prompt": "Wie heißt das Muster, bei dem Patient A Funktion 1 (nicht 2) und Patient B Funktion 2 (nicht 1) zeigt, der stärkste Beleg für die Unabhängigkeit zweier Funktionen?",
         "card_ids": ["wdh-doppelte-dissoziation"],
         "accept": ["doppelte Dissoziation", "Doppelte Dissoziation", "double dissociation", "die doppelte Dissoziation"],
         "hint": "Zwei Patienten, spiegelbildliche Ausfälle.",

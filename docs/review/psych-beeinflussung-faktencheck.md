@@ -39,7 +39,7 @@ Quelle: `lessons/01-priming.json`
 - **Semantisches Priming** (bedeutungsverwandte Wörter, z. B. *Arzt* nach *Krankenschwester*) gilt als **robust** und vielfach repliziert. *(step `intro`, card `card-semantisches-priming`)*
 - **Perzeptuelles Priming** (leichteres Wiedererkennen eines zuvor wahrgenommenen Reizes, auch ohne bewusste Erinnerung) gilt ebenfalls als gut abgesichert. *(card `card-perzeptuelles-priming`)*
 - **Social/Behavioral Priming** (beiläufige Reize verändern direkt komplexes Verhalten) gilt als **umstritten**; viele dieser Studien ließen sich nicht reproduzieren. *(step `intro`, cards `card-social-priming`, `card-priming-grenze`)*
-- Gesamteinordnung: semantisches/perzeptuelles Priming robust; behaviorales Priming „klein, fragil und nicht garantiert — kein allmächtiger Steuerungsmechanismus". *(card `card-priming-grenze`)*
+- Gesamteinordnung: semantisches/perzeptuelles Priming robust; behaviorales Priming „klein, fragil und nicht garantiert, kein allmächtiger Steuerungsmechanismus". *(card `card-priming-grenze`)*
 
 ### Genannte Studien
 - **Meyer & Schvaneveldt (1971):** semantisches Priming, klassisch gezeigt in Lexical-Decision-Aufgaben. Belegt im Set die Robustheit des semantischen Primings. *(step `intro`, card `card-semantisches-priming`)*
@@ -75,7 +75,7 @@ Quelle: `lessons/02-framing.json`
 - Asian disease: *200 von 600 werden gerettet* (Gewinn) vs. *400 von 600 sterben* (Verlust), als mathematisch identisch dargestellt. *(step `intro`)*
 
 ### Einordnungs-/Augenmaß-Aussagen
-- „Framing ist real und vielfach repliziert — aber **ein Einfluss, keine Determinante**." Vorwissen, Motivation, klare Zahlen, Nachdenken können den Effekt abschwächen. *(step `intro`, card `card-framing-grenze`)*
+- „Framing ist real und vielfach repliziert, aber **ein Einfluss, keine Determinante**." Vorwissen, Motivation, klare Zahlen, Nachdenken können den Effekt abschwächen. *(step `intro`, card `card-framing-grenze`)*
 
 ---
 
@@ -179,7 +179,7 @@ Quelle: `lessons/07-foot-in-the-door.json`
 - Keine konkreten Zahlen („deutlich häufiger", qualitativ). *(step `intro`)*
 
 ### Einordnungs-/Augenmaß-Aussagen
-- „Der Effekt ist real, aber **moderat und nicht garantiert**." Hängt von Kontext, Größe der Bitten und Freiwilligkeit der ersten Zusage ab. „Eine belegte Tendenz — kein sicherer Hebel." *(step `intro`, card `card-fitd-grenze`)*
+- „Der Effekt ist real, aber **moderat und nicht garantiert**." Hängt von Kontext, Größe der Bitten und Freiwilligkeit der ersten Zusage ab. „Eine belegte Tendenz, kein sicherer Hebel." *(step `intro`, card `card-fitd-grenze`)*
 
 ---
 

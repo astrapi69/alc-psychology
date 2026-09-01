@@ -1,6 +1,6 @@
 {
   "id": "05-wiederholung-rhetorik",
-  "title": "Wiederholung & Synthese — Ethos, Pathos, Logos",
+  "title": "Wiederholung & Synthese - Ethos, Pathos, Logos",
   "description": "Abschließende Wiederholung der drei Überzeugungsmittel und ihres Zusammenspiels: Ethos (Glaubwürdigkeit), Pathos (Emotion) und Logos (Argument), mit den zugehörigen Studien und den zwei Routen der Überzeugung. Mit Querverbindungen und einem zusammenfassenden Augenmaß-Schritt.",
   "target_language": "de",
   "source_language": "de",
@@ -11,7 +11,7 @@
       "id": "card-s-ethos",
       "stable_id": "card-mscwy0h9001l1",
       "front": "Ethos (Kurzform)",
-      "back": "Überzeugung durch Glaubwürdigkeit — Kompetenz und Vertrauenswürdigkeit der Quelle",
+      "back": "Überzeugung durch Glaubwürdigkeit, Kompetenz und Vertrauenswürdigkeit der Quelle",
       "notes": "Hovland & Weiss (1951); der Quellen-Vorsprung verblasst mit der Zeit (Sleeper-Effekt).",
       "media_type": "text",
       "difficulty": 2,
@@ -63,7 +63,7 @@
       "id": "card-s-zusammenspiel",
       "stable_id": "card-mscwy0h9005ii",
       "front": "Zusammenspiel (Kurzform)",
-      "back": "Wer nachdenkt, prüft den Logos; wer nicht, folgt Ethos und Pathos — die drei Mittel greifen ineinander",
+      "back": "Wer nachdenkt, prüft den Logos; wer nicht, folgt Ethos und Pathos, die drei Mittel greifen ineinander",
       "notes": "Ethos und Pathos sind oft die peripheren Reize, über die ein Argument erst Gehör findet.",
       "media_type": "text",
       "difficulty": 3,
@@ -91,7 +91,7 @@
       "id": "intro",
       "type": "theory",
       "title": "Die drei Mittel im Überblick",
-      "body": "# Wiederholung: Ethos, Pathos, Logos\n\nDieses Set ist von einem gemeinsamen Gedanken durchzogen: **Aristoteles' drei Überzeugungsmittel** sind bis heute der Rahmen, in dem die Überzeugungspsychologie forscht.\n\n## Die drei Mittel in Kurzform\n\n- **Ethos** — Überzeugung durch **Glaubwürdigkeit** (Kompetenz + Vertrauenswürdigkeit). *Hovland & Weiss (1951)*; der Vorsprung verblasst mit der Zeit (**Sleeper-Effekt**).\n- **Pathos** — Überzeugung durch **Emotion**. Furchtappelle wirken nur mit **Bedrohung UND Wirksamkeit** (*Extended Parallel Process Model*, Witte, 1992).\n- **Logos** — Überzeugung durch das **Argument**. Die Argumentqualität zählt vor allem auf der **zentralen Route** (*Elaboration-Likelihood-Modell*, Petty & Cacioppo, 1986).\n\n## Der verbindende Faden: die zwei Routen\n\nDas **Elaboration-Likelihood-Modell** erklärt, wie die drei Mittel zusammenspielen:\n\n- **Zentrale Route** — wer **nachdenkt** (Motivation und Fähigkeit), wird vom **Logos** überzeugt; solche Einstellungen sind stabiler.\n- **Periphere Route** — wer **nicht** nachdenkt, folgt **Ethos** und **Pathos** als Randmerkmalen.\n\nSo greifen die drei Mittel ineinander: Ethos und Pathos verschaffen dem Logos oft erst Gehör.\n\n## Augenmaß zum Schluss\n\nDurch das ganze Set zieht sich eine Haltung: Rhetorische Mittel sind **Wirkungstendenzen**, keine Garantien. Sie erhöhen die Wahrscheinlichkeit der Zustimmung — sie erzwingen sie nicht. Die genannten Studien sind real und korrekt zugeordnet."
+      "body": "# Wiederholung: Ethos, Pathos, Logos\n\nDieses Set ist von einem gemeinsamen Gedanken durchzogen: **Aristoteles' drei Überzeugungsmittel** sind bis heute der Rahmen, in dem die Überzeugungspsychologie forscht.\n\n## Die drei Mittel in Kurzform\n\n- **Ethos**, Überzeugung durch **Glaubwürdigkeit** (Kompetenz + Vertrauenswürdigkeit). *Hovland & Weiss (1951)*; der Vorsprung verblasst mit der Zeit (**Sleeper-Effekt**).\n- **Pathos**, Überzeugung durch **Emotion**. Furchtappelle wirken nur mit **Bedrohung UND Wirksamkeit** (*Extended Parallel Process Model*, Witte, 1992).\n- **Logos**, Überzeugung durch das **Argument**. Die Argumentqualität zählt vor allem auf der **zentralen Route** (*Elaboration-Likelihood-Modell*, Petty & Cacioppo, 1986).\n\n## Der verbindende Faden: die zwei Routen\n\nDas **Elaboration-Likelihood-Modell** erklärt, wie die drei Mittel zusammenspielen:\n\n- **Zentrale Route**, wer **nachdenkt** (Motivation und Fähigkeit), wird vom **Logos** überzeugt; solche Einstellungen sind stabiler.\n- **Periphere Route**, wer **nicht** nachdenkt, folgt **Ethos** und **Pathos** als Randmerkmalen.\n\nSo greifen die drei Mittel ineinander: Ethos und Pathos verschaffen dem Logos oft erst Gehör.\n\n## Augenmaß zum Schluss\n\nDurch das ganze Set zieht sich eine Haltung: Rhetorische Mittel sind **Wirkungstendenzen**, keine Garantien. Sie erhöhen die Wahrscheinlichkeit der Zustimmung, sie erzwingen sie nicht. Die genannten Studien sind real und korrekt zugeordnet."
     },
     {
       "id": "ex-match-mittel",
@@ -130,15 +130,15 @@
         "pairs": [
           {
             "left": "Hovland & Weiss (1951)",
-            "right": "Ethos — Quellenglaubwürdigkeit"
+            "right": "Ethos, Quellenglaubwürdigkeit"
           },
           {
             "left": "Witte (1992), Extended Parallel Process Model",
-            "right": "Pathos — Furchtappelle"
+            "right": "Pathos, Furchtappelle"
           },
           {
             "left": "Petty & Cacioppo (1986), Elaboration-Likelihood-Modell",
-            "right": "Logos — Argumentqualität und die zwei Routen"
+            "right": "Logos, Argumentqualität und die zwei Routen"
           }
         ],
         "direction": "target_to_source"

@@ -1,7 +1,7 @@
 {
   "id": "14-bewusstsein-und-schlaf",
   "title": "Bewusstsein und Schlaf",
-  "description": "Was Bewusstsein ist, wie der zirkadiane Rhythmus und Melatonin den Schlaf steuern, die Schlafphasen (NREM und REM), Funktionen des Schlafs, Schlafstörungen sowie zwei konkurrierende Traumtheorien — auf Deutsch erklärt.",
+  "description": "Was Bewusstsein ist, wie der zirkadiane Rhythmus und Melatonin den Schlaf steuern, die Schlafphasen (NREM und REM), Funktionen des Schlafs, Schlafstörungen sowie zwei konkurrierende Traumtheorien, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -11,7 +11,7 @@
       "id": "bewusstsein",
       "stable_id": "card-ms942qp10ikj0",
       "front": "Bewusstsein (Consciousness)",
-      "back": "Das Gewahrsein von sich selbst und der Umwelt — also die subjektive Erfahrung von Gedanken, Gefühlen und Wahrnehmungen im gegenwärtigen Moment.",
+      "back": "Das Gewahrsein von sich selbst und der Umwelt, also die subjektive Erfahrung von Gedanken, Gefühlen und Wahrnehmungen im gegenwärtigen Moment.",
       "notes": "Bewusstsein ist schwer zu definieren; Psychologen beschreiben es oft als den 'Strom des Erlebens'.",
       "media_type": "text",
       "difficulty": 1,
@@ -33,7 +33,7 @@
       "stable_id": "card-ms942qp10imoj",
       "front": "Melatonin",
       "back": "Ein Hormon, das von der Zirbeldrüse (Epiphyse) bei Dunkelheit ausgeschüttet wird und das Einschlafen fördert.",
-      "notes": "Helles Licht — besonders blaues Bildschirmlicht — hemmt die Melatoninproduktion.",
+      "notes": "Helles Licht, besonders blaues Bildschirmlicht, hemmt die Melatoninproduktion.",
       "media_type": "text",
       "difficulty": 2,
       "hint": "Wird bei Dunkelheit freigesetzt und macht schläfrig.",
@@ -73,7 +73,7 @@
       "id": "gedaechtniskonsolidierung",
       "stable_id": "card-ms942qp10iqtt",
       "front": "Gedächtniskonsolidierung im Schlaf (Memory Consolidation)",
-      "back": "Während des Schlafs — besonders im Tiefschlaf und im REM-Schlaf — werden tagsüber gelernte Informationen gefestigt und ins Langzeitgedächtnis übertragen.",
+      "back": "Während des Schlafs, besonders im Tiefschlaf und im REM-Schlaf, werden tagsüber gelernte Informationen gefestigt und ins Langzeitgedächtnis übertragen.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["schlaf", "gedaechtnis", "funktion"]
@@ -96,14 +96,14 @@
       "notes": "Diese Theorie ist heute wissenschaftlich umstritten, aber kulturell einflussreich.",
       "media_type": "text",
       "difficulty": 4,
-      "hint": "Träume als verschlüsselte unbewusste Wünsche — von Sigmund Freud.",
+      "hint": "Träume als verschlüsselte unbewusste Wünsche, von Sigmund Freud.",
       "tags": ["träume", "theorie", "person"]
     },
     {
       "id": "aktivierungs-synthese",
       "stable_id": "card-ms942qp10it7d",
       "front": "Aktivierungs-Synthese-Hypothese",
-      "back": "Nach Hobson und McCarley erzeugt das Gehirn im REM-Schlaf zufällige neuronale Aktivierungen; der Kortex interpretiert diese dann als kohärente Geschichte — das ist der Traum.",
+      "back": "Nach Hobson und McCarley erzeugt das Gehirn im REM-Schlaf zufällige neuronale Aktivierungen; der Kortex interpretiert diese dann als kohärente Geschichte, das ist der Traum.",
       "notes": "Im Gegensatz zu Freud: kein versteckter Sinn, sondern gehirnphysiologische Zufallsaktivität.",
       "media_type": "text",
       "difficulty": 4,
@@ -125,19 +125,19 @@
       "id": "intro-bewusstsein-schlaf",
       "type": "theory",
       "title": "Bewusstsein und der zirkadiane Rhythmus",
-      "body": "# Bewusstsein und Schlaf\n\n**Bewusstsein** ist das Gewahrsein von sich selbst und der Umwelt — die subjektive Erfahrung von Gedanken, Gefühlen und Wahrnehmungen. Psychologen beschreiben es oft als den kontinuierlichen 'Strom des Erlebens'.\n\n## Der zirkadiane Rhythmus\n\nUnser Körper folgt einem biologischen **24-Stunden-Takt**, dem **zirkadianen Rhythmus** (von lat. *circa diem* — ungefähr ein Tag). Er reguliert:\n\n- **Schlaf-Wach-Phasen**\n- Körpertemperatur\n- Hormonausschüttung\n\nEin zentrales Steuerhormon ist **Melatonin**: Die Zirbeldrüse schüttet es bei **Dunkelheit** aus und fördert dadurch den Schlaf. Helles Licht — besonders blaues Bildschirmlicht am Abend — **hemmt** die Melatoninproduktion und kann den Einschlafvorgang verzögern."
+      "body": "# Bewusstsein und Schlaf\n\n**Bewusstsein** ist das Gewahrsein von sich selbst und der Umwelt, die subjektive Erfahrung von Gedanken, Gefühlen und Wahrnehmungen. Psychologen beschreiben es oft als den kontinuierlichen 'Strom des Erlebens'.\n\n## Der zirkadiane Rhythmus\n\nUnser Körper folgt einem biologischen **24-Stunden-Takt**, dem **zirkadianen Rhythmus** (von lat. *circa diem*, ungefähr ein Tag). Er reguliert:\n\n- **Schlaf-Wach-Phasen**\n- Körpertemperatur\n- Hormonausschüttung\n\nEin zentrales Steuerhormon ist **Melatonin**: Die Zirbeldrüse schüttet es bei **Dunkelheit** aus und fördert dadurch den Schlaf. Helles Licht, besonders blaues Bildschirmlicht am Abend, **hemmt** die Melatoninproduktion und kann den Einschlafvorgang verzögern."
     },
     {
       "id": "step-schlafphasen",
       "type": "theory",
       "title": "Die Schlafphasen und der Schlafzyklus",
-      "body": "## Schlafphasen im Überblick\n\nEin **Schlafzyklus** dauert etwa **90 Minuten** und wiederholt sich pro Nacht 4–6 Mal. Er besteht aus NREM- und REM-Phasen:\n\n| Phase | Merkmale |\n|---|---|\n| **NREM Stadium 1** | Übergang zum Schlaf, leichter Schlaf, langsame Augenbewegungen |\n| **NREM Stadium 2** | Schlafspindeln und K-Komplexe im EEG, echte Schlafphase |\n| **NREM Stadium 3** | Tiefschlaf (Slow-Wave-Sleep), schwer erweckbar, körperliche Erholung |\n| **REM-Schlaf** | Schnelle Augenbewegungen, lebhafte Träume, Muskelatonie, Gedächtniskonsolidierung |\n\nDer **REM-Schlaf** tritt besonders häufig in der zweiten Nachthälfte auf. Wichtig: Im REM-Schlaf ist die Gehirnaktivität hoch, aber die Körpermuskeln sind weitgehend **gelähmt** (Atonie) — vermutlich, damit wir unsere Träume nicht ausagieren."
+      "body": "## Schlafphasen im Überblick\n\nEin **Schlafzyklus** dauert etwa **90 Minuten** und wiederholt sich pro Nacht 4–6 Mal. Er besteht aus NREM- und REM-Phasen:\n\n| Phase | Merkmale |\n|---|---|\n| **NREM Stadium 1** | Übergang zum Schlaf, leichter Schlaf, langsame Augenbewegungen |\n| **NREM Stadium 2** | Schlafspindeln und K-Komplexe im EEG, echte Schlafphase |\n| **NREM Stadium 3** | Tiefschlaf (Slow-Wave-Sleep), schwer erweckbar, körperliche Erholung |\n| **REM-Schlaf** | Schnelle Augenbewegungen, lebhafte Träume, Muskelatonie, Gedächtniskonsolidierung |\n\nDer **REM-Schlaf** tritt besonders häufig in der zweiten Nachthälfte auf. Wichtig: Im REM-Schlaf ist die Gehirnaktivität hoch, aber die Körpermuskeln sind weitgehend **gelähmt** (Atonie), vermutlich, damit wir unsere Träume nicht ausagieren."
     },
     {
       "id": "step-traumtheorien",
       "type": "theory",
       "title": "Traumtheorien und Schlaffunktionen",
-      "body": "## Wozu dient Schlaf?\n\n- **Körperliche Erholung**: Zellen regenerieren sich, Wachstumshormone werden ausgeschüttet.\n- **Gedächtniskonsolidierung**: Tagsüber Gelerntes wird im Schlaf — vor allem im Tiefschlaf und REM-Schlaf — ins Langzeitgedächtnis übertragen.\n\n## Zwei Traumtheorien im Vergleich\n\n| Theorie | Vertreter | Kernaussage |\n|---|---|---|\n| **Traumdeutung** | Sigmund Freud | Träume sind verschlüsselte **unbewusste Wünsche**; manifester vs. latenter Inhalt |\n| **Aktivierungs-Synthese-Hypothese** | Hobson & McCarley | Träume entstehen durch **zufällige neuronale Aktivierungen** im REM-Schlaf, die der Kortex nachträglich zu einer Geschichte zusammensetzt |\n\n## Veränderte Bewusstseinszustände\n\nNeben dem Schlaf gibt es weitere **veränderte Bewusstseinszustände** — Zustände, die vom normalen Wachbewusstsein abweichen: Meditation, Hypnose, Drogen- oder Fiebererleben. Sie zeigen, wie formbar unser Bewusstsein ist."
+      "body": "## Wozu dient Schlaf?\n\n- **Körperliche Erholung**: Zellen regenerieren sich, Wachstumshormone werden ausgeschüttet.\n- **Gedächtniskonsolidierung**: Tagsüber Gelerntes wird im Schlaf, vor allem im Tiefschlaf und REM-Schlaf, ins Langzeitgedächtnis übertragen.\n\n## Zwei Traumtheorien im Vergleich\n\n| Theorie | Vertreter | Kernaussage |\n|---|---|---|\n| **Traumdeutung** | Sigmund Freud | Träume sind verschlüsselte **unbewusste Wünsche**; manifester vs. latenter Inhalt |\n| **Aktivierungs-Synthese-Hypothese** | Hobson & McCarley | Träume entstehen durch **zufällige neuronale Aktivierungen** im REM-Schlaf, die der Kortex nachträglich zu einer Geschichte zusammensetzt |\n\n## Veränderte Bewusstseinszustände\n\nNeben dem Schlaf gibt es weitere **veränderte Bewusstseinszustände**, Zustände, die vom normalen Wachbewusstsein abweichen: Meditation, Hypnose, Drogen- oder Fiebererleben. Sie zeigen, wie formbar unser Bewusstsein ist."
     },
     {
       "id": "ex-cloze-melatonin",
@@ -243,8 +243,8 @@
         "prompt": "Ordne jede Traumtheorie ihrer Kernaussage zu.",
         "card_ids": ["traumdeutung-freud", "aktivierungs-synthese"],
         "pairs": [
-          { "left": "Freud — Traumdeutung", "right": "Träume verschlüsseln unbewusste Wünsche" },
-          { "left": "Hobson & McCarley — Aktivierungs-Synthese", "right": "Träume entstehen aus zufälligen neuronalen Aktivierungen" },
+          { "left": "Freud, Traumdeutung", "right": "Träume verschlüsseln unbewusste Wünsche" },
+          { "left": "Hobson & McCarley, Aktivierungs-Synthese", "right": "Träume entstehen aus zufälligen neuronalen Aktivierungen" },
           { "left": "Latenter Trauminhalt (Freud)", "right": "die versteckte, unbewusste Bedeutung des Traums" }
         ],
         "direction": "target_to_source"

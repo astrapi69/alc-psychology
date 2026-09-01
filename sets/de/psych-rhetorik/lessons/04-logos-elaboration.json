@@ -1,6 +1,6 @@
 {
   "id": "04-logos-elaboration",
-  "title": "Logos — Argument und die zwei Routen der Überzeugung",
+  "title": "Logos - Argument und die zwei Routen der Überzeugung",
   "description": "Logos überzeugt durch das Argument selbst. Das Elaboration-Likelihood-Modell (Petty & Cacioppo, 1986) erklärt, wann Argumentqualität zählt: auf der zentralen Route bei Motivation und Fähigkeit, sonst wirken auf der peripheren Route Randmerkmale. Über die zentrale Route gewonnene Einstellungen sind stabiler.",
   "target_language": "de",
   "source_language": "de",
@@ -31,7 +31,7 @@
       "id": "card-zentrale-route",
       "stable_id": "card-msa1vhyq013hi",
       "front": "Zentrale Route",
-      "back": "Bei Motivation und Fähigkeit wägt das Publikum die Argumente gründlich ab — dann entscheidet die Argumentqualität",
+      "back": "Bei Motivation und Fähigkeit wägt das Publikum die Argumente gründlich ab, dann entscheidet die Argumentqualität",
       "notes": "Starke Argumente überzeugen, schwache fallen auf; genau hier zahlt sich guter Logos aus.",
       "media_type": "text",
       "difficulty": 3,
@@ -41,7 +41,7 @@
       "id": "card-periphere-route",
       "stable_id": "card-msa1vhyq014pa",
       "front": "Periphere Route",
-      "back": "Fehlt Motivation oder Fähigkeit, entscheiden Randmerkmale statt der Argumente — etwa Attraktivität der Quelle oder die bloße Anzahl der Argumente",
+      "back": "Fehlt Motivation oder Fähigkeit, entscheiden Randmerkmale statt der Argumente, etwa Attraktivität der Quelle oder die bloße Anzahl der Argumente",
       "notes": "Hier greifen dieselben Heuristiken wie in der Beeinflussungspsychologie (z. B. Autorität, soziale Bewährtheit).",
       "media_type": "text",
       "difficulty": 3,
@@ -61,7 +61,7 @@
       "id": "card-logos-einordnung",
       "stable_id": "card-msa1vhyq016gu",
       "front": "Logos, Ethos und Pathos zusammen",
-      "back": "Argumentqualität wirkt vor allem, wenn das Publikum nachdenkt; sonst tragen Ethos und periphere Reize — die drei Mittel greifen ineinander",
+      "back": "Argumentqualität wirkt vor allem, wenn das Publikum nachdenkt; sonst tragen Ethos und periphere Reize, die drei Mittel greifen ineinander",
       "notes": "Schließt den Bogen: Ethos und Pathos sind oft die peripheren Reize, über die Logos erst Gehör findet.",
       "media_type": "text",
       "difficulty": 3,
@@ -73,7 +73,7 @@
       "id": "intro",
       "type": "theory",
       "title": "Wann das Argument zählt",
-      "body": "# Logos: das Argument und die zwei Routen\n\n**Logos** überzeugt durch die **Sache selbst** — Gründe, Belege, nachvollziehbare Schlüsse. Aber ein starkes Argument wirkt nur, wenn das Publikum es auch **verarbeitet**. Wann das geschieht, erklärt das wichtigste Modell der Überzeugungspsychologie.\n\n## Das Elaboration-Likelihood-Modell\n\nNach dem **Elaboration-Likelihood-Modell** (**Petty & Cacioppo, 1986**) wird eine Botschaft auf einer von **zwei Routen** verarbeitet — je nachdem, wie gründlich (*elaboriert*) das Publikum nachdenkt:\n\n- **Zentrale Route** — bei **Motivation** (das Thema ist wichtig) **und Fähigkeit** (genug Zeit, Wissen, Ruhe) wägt man die Argumente sorgfältig ab. Jetzt entscheidet die **Argumentqualität**: Starke Argumente überzeugen, schwache fallen auf.\n- **Periphere Route** — fehlt Motivation oder Fähigkeit, entscheiden **Randmerkmale** statt der Argumente: die Attraktivität der Quelle, ihre Autorität, die bloße **Anzahl** der Argumente, ein sympathischer Eindruck.\n\n## Warum die Route zählt\n\nDer Unterschied ist folgenreich: Über die **zentrale Route** gewonnene Einstellungen sind **stabiler**, widerstehen Gegenargumenten besser und sagen das spätere Verhalten zuverlässiger vorher. Peripher gewonnene Zustimmung hält kürzer und kippt leichter zurück.\n\n## Der Bogen zu Ethos und Pathos\n\nDamit schließt sich der Kreis dieses Sets: **Ethos** (Glaubwürdigkeit) und **Pathos** (Emotion) sind oft genau die **peripheren Reize**, über die ein Argument erst Gehör findet. Wer nachdenkt, prüft den **Logos**; wer nicht, folgt Ethos und Pathos. Die drei Mittel des Aristoteles greifen ineinander.\n\n## Augenmaß\n\nGuter Logos ist kein Selbstläufer: Ohne Motivation und Fähigkeit beim Publikum bleibt selbst das beste Argument ungehört. Überzeugung heißt darum auch, die **Bedingungen** zu schaffen, unter denen Argumente überhaupt wirken."
+      "body": "# Logos: das Argument und die zwei Routen\n\n**Logos** überzeugt durch die **Sache selbst**, Gründe, Belege, nachvollziehbare Schlüsse. Aber ein starkes Argument wirkt nur, wenn das Publikum es auch **verarbeitet**. Wann das geschieht, erklärt das wichtigste Modell der Überzeugungspsychologie.\n\n## Das Elaboration-Likelihood-Modell\n\nNach dem **Elaboration-Likelihood-Modell** (**Petty & Cacioppo, 1986**) wird eine Botschaft auf einer von **zwei Routen** verarbeitet, je nachdem, wie gründlich (*elaboriert*) das Publikum nachdenkt:\n\n- **Zentrale Route**, bei **Motivation** (das Thema ist wichtig) **und Fähigkeit** (genug Zeit, Wissen, Ruhe) wägt man die Argumente sorgfältig ab. Jetzt entscheidet die **Argumentqualität**: Starke Argumente überzeugen, schwache fallen auf.\n- **Periphere Route**, fehlt Motivation oder Fähigkeit, entscheiden **Randmerkmale** statt der Argumente: die Attraktivität der Quelle, ihre Autorität, die bloße **Anzahl** der Argumente, ein sympathischer Eindruck.\n\n## Warum die Route zählt\n\nDer Unterschied ist folgenreich: Über die **zentrale Route** gewonnene Einstellungen sind **stabiler**, widerstehen Gegenargumenten besser und sagen das spätere Verhalten zuverlässiger vorher. Peripher gewonnene Zustimmung hält kürzer und kippt leichter zurück.\n\n## Der Bogen zu Ethos und Pathos\n\nDamit schließt sich der Kreis dieses Sets: **Ethos** (Glaubwürdigkeit) und **Pathos** (Emotion) sind oft genau die **peripheren Reize**, über die ein Argument erst Gehör findet. Wer nachdenkt, prüft den **Logos**; wer nicht, folgt Ethos und Pathos. Die drei Mittel des Aristoteles greifen ineinander.\n\n## Augenmaß\n\nGuter Logos ist kein Selbstläufer: Ohne Motivation und Fähigkeit beim Publikum bleibt selbst das beste Argument ungehört. Überzeugung heißt darum auch, die **Bedingungen** zu schaffen, unter denen Argumente überhaupt wirken."
     },
     {
       "id": "ex-free-logos",
@@ -137,7 +137,7 @@
         ],
         "cloze_mode": "select",
         "distractors": ["Hovland & Weiss", "Tversky & Kahneman", "Festinger & Carlsmith"],
-        "hint": "Zwei Namen, verbunden mit *und* — Vornamen Richard und John."
+        "hint": "Zwei Namen, verbunden mit *und*, Vornamen Richard und John."
       }
     },
     {

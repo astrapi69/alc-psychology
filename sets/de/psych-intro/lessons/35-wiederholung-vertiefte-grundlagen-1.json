@@ -1,7 +1,7 @@
 {
   "id": "35-wiederholung-vertiefte-grundlagen-1",
   "title": "Wiederholung: Vertiefte Grundlagen I",
-  "description": "Große Wiederholung der Lektionen 31–34: Emotionstheorien, vertiefte Kognition, Sozialpsychologie vertieft und Entwicklungspsychologie vertieft — alles auf einen Blick.",
+  "description": "Große Wiederholung der Lektionen 31–34: Emotionstheorien, vertiefte Kognition, Sozialpsychologie vertieft und Entwicklungspsychologie vertieft, alles auf einen Blick.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -10,7 +10,7 @@
     {
       "id": "zwei-faktoren-theorie",
       "stable_id": "card-ms942qpd0tpz0",
-      "front": "Zwei-Faktoren-Theorie (Two-Factor Theory) — Schachter & Singer",
+      "front": "Zwei-Faktoren-Theorie (Two-Factor Theory), Schachter & Singer",
       "back": "Emotionen entstehen aus zwei Zutaten: körperlicher Erregung (Arousal) UND kognitiver Bewertung (Attribution). Dieselbe Erregung führt je nach Situation zu Freude oder Ärger.",
       "notes": "Auch Schachter-Singer-Theorie genannt. Klassisches Adrenalin-Experiment (1962).",
       "media_type": "text",
@@ -21,8 +21,8 @@
     {
       "id": "basisemotionen-ekman",
       "stable_id": "card-ms942qpd0tqxk",
-      "front": "Basisemotionen (Basic Emotions) — Ekman",
-      "back": "Paul Ekman identifizierte sechs kulturübergreifende Grundemotionen: Freude, Trauer, Wut, Angst, Ekel und Überraschung — erkennbar an universellen Gesichtsausdrücken.",
+      "front": "Basisemotionen (Basic Emotions), Ekman",
+      "back": "Paul Ekman identifizierte sechs kulturübergreifende Grundemotionen: Freude, Trauer, Wut, Angst, Ekel und Überraschung, erkennbar an universellen Gesichtsausdrücken.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["emotion", "theorie", "person"]
@@ -31,7 +31,7 @@
       "id": "facial-feedback",
       "stable_id": "card-ms942qpd0tre1",
       "front": "Facial-Feedback-Hypothese",
-      "back": "Gesichtsausdrücke beeinflussen das subjektive Gefühlserleben: Wer lächelt, fühlt sich etwas besser — der Körper sendet Signale ans Gehirn zurück.",
+      "back": "Gesichtsausdrücke beeinflussen das subjektive Gefühlserleben: Wer lächelt, fühlt sich etwas besser, der Körper sendet Signale ans Gehirn zurück.",
       "notes": "Klassisch demonstriert mit dem Stift-im-Mund-Experiment von Strack.",
       "media_type": "text",
       "difficulty": 3,
@@ -41,7 +41,7 @@
       "id": "cocktailparty-effekt",
       "stable_id": "card-ms942qpd0tsig",
       "front": "Cocktailparty-Effekt (Cocktail Party Effect)",
-      "back": "Selbst bei lautem Umgebungslärm kann man das eigene Namenssignal aus dem Hintergrundrauschen herausfiltern — ein Beispiel für selektive Aufmerksamkeit (Selective Attention).",
+      "back": "Selbst bei lautem Umgebungslärm kann man das eigene Namenssignal aus dem Hintergrundrauschen herausfiltern, ein Beispiel für selektive Aufmerksamkeit (Selective Attention).",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["kognition", "aufmerksamkeit"]
@@ -50,7 +50,7 @@
       "id": "funktionale-gebundenheit",
       "stable_id": "card-ms942qpd0ttq0",
       "front": "Funktionale Gebundenheit (Functional Fixedness)",
-      "back": "Die Tendenz, Gegenstände nur in ihrer üblichen Funktion zu sehen — dies hemmt kreatives Problemlösen und Einsicht (Insight).",
+      "back": "Die Tendenz, Gegenstände nur in ihrer üblichen Funktion zu sehen, dies hemmt kreatives Problemlösen und Einsicht (Insight).",
       "notes": "Klassisches Beispiel: Duncker-Kerzenaufgabe.",
       "media_type": "text",
       "difficulty": 4,
@@ -59,8 +59,8 @@
     {
       "id": "kognitive-dissonanz",
       "stable_id": "card-ms942qpd0tuww",
-      "front": "Kognitive Dissonanz (Cognitive Dissonance) — Festinger",
-      "back": "Unangenehme Spannung, wenn zwei Kognitionen (Gedanken, Überzeugungen, Handlungen) sich widersprechen. Menschen streben nach Auflösung — z. B. durch Einstellungsänderung.",
+      "front": "Kognitive Dissonanz (Cognitive Dissonance), Festinger",
+      "back": "Unangenehme Spannung, wenn zwei Kognitionen (Gedanken, Überzeugungen, Handlungen) sich widersprechen. Menschen streben nach Auflösung, z. B. durch Einstellungsänderung.",
       "notes": "Leon Festinger (1957). Klassisches Experiment: 1-Dollar vs. 20-Dollar Bedingung.",
       "media_type": "text",
       "difficulty": 4,
@@ -70,8 +70,8 @@
     {
       "id": "konformitaet-asch",
       "stable_id": "card-ms942qpd0tvxl",
-      "front": "Konformitätsexperiment — Asch",
-      "back": "Solomon Asch zeigte: Menschen passen ihr Urteil (z. B. Linienlänge) an die Mehrheit an, selbst wenn die Mehrheit offensichtlich falsch liegt — sozialer Druck erzeugt Konformität (Conformity).",
+      "front": "Konformitätsexperiment, Asch",
+      "back": "Solomon Asch zeigte: Menschen passen ihr Urteil (z. B. Linienlänge) an die Mehrheit an, selbst wenn die Mehrheit offensichtlich falsch liegt, sozialer Druck erzeugt Konformität (Conformity).",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["sozialpsychologie", "person"]
@@ -79,8 +79,8 @@
     {
       "id": "gehorsam-milgram",
       "stable_id": "card-ms942qpd0twek",
-      "front": "Gehorsamkeitsstudie (Obedience Study) — Milgram",
-      "back": "Stanley Milgram zeigte, dass die Mehrheit der Versuchspersonen auf Anweisung einer Autorität scheinbar starke Elektroschocks verabreichte — Gehorsam gegenüber Autorität kann moralische Hemmschwellen überwinden.",
+      "front": "Gehorsamkeitsstudie (Obedience Study), Milgram",
+      "back": "Stanley Milgram zeigte, dass die Mehrheit der Versuchspersonen auf Anweisung einer Autorität scheinbar starke Elektroschocks verabreichte, Gehorsam gegenüber Autorität kann moralische Hemmschwellen überwinden.",
       "media_type": "text",
       "difficulty": 4,
       "tags": ["sozialpsychologie", "person", "ethik"]
@@ -89,7 +89,7 @@
       "id": "bystander-effekt",
       "stable_id": "card-ms942qpd0txm3",
       "front": "Bystander-Effekt (Bystander Effect) / Zuschauereffekt",
-      "back": "Je mehr Personen anwesend sind, desto unwahrscheinlicher greift jeder Einzelne bei einem Notfall ein — Verantwortung diffundiert in der Gruppe (Verantwortungsdiffusion).",
+      "back": "Je mehr Personen anwesend sind, desto unwahrscheinlicher greift jeder Einzelne bei einem Notfall ein, Verantwortung diffundiert in der Gruppe (Verantwortungsdiffusion).",
       "notes": "Ausgelöst durch den Fall Kitty Genovese; untersucht von Latané & Darley.",
       "media_type": "text",
       "difficulty": 3,
@@ -98,12 +98,12 @@
     {
       "id": "bindungstypen-ainsworth",
       "stable_id": "card-ms942qpd0ty8i",
-      "front": "Bindungstypen — Ainsworth (Attachment Types)",
+      "front": "Bindungstypen, Ainsworth (Attachment Types)",
       "back": "Mary Ainsworth unterschied: sicher gebunden (secure), unsicher-vermeidend (anxious-avoidant) und unsicher-ambivalent (anxious-ambivalent). Sicher gebundene Kinder nutzen die Mutter als sicheren Hafen.",
       "notes": "Untersucht mit der Fremden Situation (Strange Situation). Bowlby lieferte die Bindungstheorie.",
       "media_type": "text",
       "difficulty": 4,
-      "hint": "Ainsworth: drei Typen — sicher, vermeidend, ambivalent.",
+      "hint": "Ainsworth: drei Typen, sicher, vermeidend, ambivalent.",
       "tags": ["entwicklung", "bindung", "person"]
     },
     {
@@ -136,13 +136,13 @@
       "id": "theorie-emotionen-kognition",
       "type": "theory",
       "title": "Emotionen und Kognition vertieft",
-      "body": "## Emotionstheorien auf einen Blick\n\n| Theorie | Kernaussage |\n|---|---|\n| **James-Lange** | Körperreaktion kommt zuerst → erst dann Emotion (\"Ich zittere, also habe ich Angst\") |\n| **Cannon-Bard** | Körperreaktion und Emotion entstehen gleichzeitig, unabhängig |\n| **Schachter-Singer** (Zwei-Faktoren) | Erregung + kognitive Bewertung = Emotion |\n| **Lazarus / Appraisal** | Kognitive Einschätzung (Bewertung) bestimmt die Emotion |\n| **Ekman** | Sechs Basisemotionen sind kulturuniversell |\n| **Facial-Feedback** | Gesichtsausdruck beeinflusst das Gefühlserleben |\n\n## Kognition vertieft — Aufmerksamkeit und Problemlösen\n\n- **Selektive Aufmerksamkeit** (Selective Attention): auf einen Reiz fokussieren, andere ausblenden.\n- **Geteilte Aufmerksamkeit** (Divided Attention): mehrere Aufgaben gleichzeitig verarbeiten (begrenzte Kapazität!).\n- **Cocktailparty-Effekt**: eigener Name springt aus dem Lärm heraus — selektive Aufmerksamkeit in der Praxis.\n- **Funktionale Gebundenheit**: Dinge nur in ihrer gewohnten Rolle sehen hemmt Einsicht (Insight).\n- **Chomsky**: Sprachliche Tiefenstruktur vs. Oberflächenstruktur; angeborenes Sprachvermögen (Language Acquisition Device, LAD)."
+      "body": "## Emotionstheorien auf einen Blick\n\n| Theorie | Kernaussage |\n|---|---|\n| **James-Lange** | Körperreaktion kommt zuerst → erst dann Emotion (\"Ich zittere, also habe ich Angst\") |\n| **Cannon-Bard** | Körperreaktion und Emotion entstehen gleichzeitig, unabhängig |\n| **Schachter-Singer** (Zwei-Faktoren) | Erregung + kognitive Bewertung = Emotion |\n| **Lazarus / Appraisal** | Kognitive Einschätzung (Bewertung) bestimmt die Emotion |\n| **Ekman** | Sechs Basisemotionen sind kulturuniversell |\n| **Facial-Feedback** | Gesichtsausdruck beeinflusst das Gefühlserleben |\n\n## Kognition vertieft - Aufmerksamkeit und Problemlösen\n\n- **Selektive Aufmerksamkeit** (Selective Attention): auf einen Reiz fokussieren, andere ausblenden.\n- **Geteilte Aufmerksamkeit** (Divided Attention): mehrere Aufgaben gleichzeitig verarbeiten (begrenzte Kapazität!).\n- **Cocktailparty-Effekt**: eigener Name springt aus dem Lärm heraus, selektive Aufmerksamkeit in der Praxis.\n- **Funktionale Gebundenheit**: Dinge nur in ihrer gewohnten Rolle sehen hemmt Einsicht (Insight).\n- **Chomsky**: Sprachliche Tiefenstruktur vs. Oberflächenstruktur; angeborenes Sprachvermögen (Language Acquisition Device, LAD)."
     },
     {
       "id": "theorie-sozial-entwicklung",
       "type": "theory",
       "title": "Sozialpsychologie und Entwicklungspsychologie vertieft",
-      "body": "## Sozialpsychologie vertieft\n\n| Konzept / Studie | Kerngedanke |\n|---|---|\n| **Einstellungen** (3 Komponenten) | Kognitiv (Gedanken) + Affektiv (Gefühle) + Behavioral (Handlung) |\n| **Kognitive Dissonanz** (Festinger) | Innerer Widerspruch → Drang zur Auflösung durch Einstellungsänderung |\n| **Konformität** (Asch) | Anpassung an die Gruppennorm, auch bei falschem Mehrheitsurteil |\n| **Gehorsam** (Milgram) | Autoritäten befolgen — selbst wenn es moralisch fragwürdig ist |\n| **Groupthink** | Falsche Harmonie in Gruppen → schlechte Entscheidungen |\n| **Bystander-Effekt** | Mehr Zuschauer → geringere Hilfswahrscheinlichkeit (Verantwortungsdiffusion) |\n\n## Entwicklungspsychologie vertieft\n\n| Theoretiker | Modell | Kern |\n|---|---|---|\n| **Bowlby / Ainsworth** | Bindungstheorie (Attachment Theory) | Sichere Bindung als Basis gesunder Entwicklung; drei Typen (Ainsworth) |\n| **Piaget** | Kognitive Stufen | 4 Stufen: sensomotorisch → präoperational → konkret-operational → formal-operational |\n| **Erikson** | Psychosoziale Krisen | 8 Lebensphasen mit je einer zentralen Krise (z. B. Vertrauen vs. Misstrauen) |\n| **Kohlberg** | Moralentwicklung | 3 Ebenen: präkonventionell → konventionell → postkonventionell |"
+      "body": "## Sozialpsychologie vertieft\n\n| Konzept / Studie | Kerngedanke |\n|---|---|\n| **Einstellungen** (3 Komponenten) | Kognitiv (Gedanken) + Affektiv (Gefühle) + Behavioral (Handlung) |\n| **Kognitive Dissonanz** (Festinger) | Innerer Widerspruch → Drang zur Auflösung durch Einstellungsänderung |\n| **Konformität** (Asch) | Anpassung an die Gruppennorm, auch bei falschem Mehrheitsurteil |\n| **Gehorsam** (Milgram) | Autoritäten befolgen, selbst wenn es moralisch fragwürdig ist |\n| **Groupthink** | Falsche Harmonie in Gruppen → schlechte Entscheidungen |\n| **Bystander-Effekt** | Mehr Zuschauer → geringere Hilfswahrscheinlichkeit (Verantwortungsdiffusion) |\n\n## Entwicklungspsychologie vertieft\n\n| Theoretiker | Modell | Kern |\n|---|---|---|\n| **Bowlby / Ainsworth** | Bindungstheorie (Attachment Theory) | Sichere Bindung als Basis gesunder Entwicklung; drei Typen (Ainsworth) |\n| **Piaget** | Kognitive Stufen | 4 Stufen: sensomotorisch → präoperational → konkret-operational → formal-operational |\n| **Erikson** | Psychosoziale Krisen | 8 Lebensphasen mit je einer zentralen Krise (z. B. Vertrauen vs. Misstrauen) |\n| **Kohlberg** | Moralentwicklung | 3 Ebenen: präkonventionell → konventionell → postkonventionell |"
     },
     {
       "id": "ex-match-emotionstheorien",
@@ -191,7 +191,7 @@
         "id": "ex-free-milgram-asch",
         "stable_id": "ex-ms942qpd0u3vh",
         "type": "free_text",
-        "prompt": "Wie heißt das Phänomen, das Stanley Milgram untersuchte — also die Bereitschaft, Autorität zu folgen, selbst auf Kosten moralischer Überzeugungen?",
+        "prompt": "Wie heißt das Phänomen, das Stanley Milgram untersuchte, also die Bereitschaft, Autorität zu folgen, selbst auf Kosten moralischer Überzeugungen?",
         "card_ids": ["gehorsam-milgram"],
         "accept": ["Gehorsam", "Autoritätsgehorsam", "Obedience", "Gehorsamkeit", "blinder Gehorsam"],
         "hint": "Milgram fragte: Wie weit gehorchen Menschen einer Autorität?",
@@ -222,7 +222,7 @@
       "id": "ex-tiles-dissonanz",
       "type": "exercise",
       "theory_ref": "intro-wiederholung",
-      "title": "Kognitive Dissonanz — Kerngedanke",
+      "title": "Kognitive Dissonanz - Kerngedanke",
       "exercise": {
         "id": "ex-tiles-dissonanz",
         "stable_id": "ex-ms942qpd0u58u",

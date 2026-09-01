@@ -1,7 +1,7 @@
 {
   "id": "02-framing",
-  "title": "Der Framing-Effekt — gleiche Information, andere Verpackung",
-  "description": "Der Framing-Effekt beschreibt, dass dieselbe Information je nach Formulierung (z. B. als Gewinn oder als Verlust) unterschiedlich bewertet wird. Real und gut belegt — aber ein Einfluss, keine Determinante. Mit dem klassischen Experiment von Tversky & Kahneman (1981).",
+  "title": "Der Framing-Effekt - gleiche Information, andere Verpackung",
+  "description": "Der Framing-Effekt beschreibt, dass dieselbe Information je nach Formulierung (z. B. als Gewinn oder als Verlust) unterschiedlich bewertet wird. Real und gut belegt, aber ein Einfluss, keine Determinante. Mit dem klassischen Experiment von Tversky & Kahneman (1981).",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -73,7 +73,7 @@
       "id": "intro",
       "type": "theory",
       "title": "Was Framing ist",
-      "body": "# Der Framing-Effekt\n\nDer **Framing-Effekt** beschreibt, dass dieselbe Information je nach *Verpackung* unterschiedlich bewertet wird. Ein Joghurt mit *95 % fettfrei* wirkt attraktiver als einer mit *5 % Fett* — obwohl beide Angaben identisch sind.\n\n## Gewinn- und Verlust-Framing\n\nBesonders stark zeigt sich Framing, wenn dieselbe Lage einmal als Gewinn und einmal als Verlust dargestellt wird. Im klassischen Experiment von **Tversky & Kahneman (1981)** — dem *Asian disease problem* — sollten Versuchspersonen zwischen Maßnahmen gegen eine Krankheit wählen. Bei der Gewinn-Formulierung (*200 von 600 Menschen werden gerettet*) entschieden sie sich eher risikoscheu, bei der mathematisch identischen Verlust-Formulierung (*400 von 600 sterben*) eher risikofreudig.\n\nDahinter steht die **Verlustaversion**: Verluste wiegen subjektiv schwerer als gleich große Gewinne.\n\n## Augenmaß\n\nFraming ist real und vielfach repliziert — aber **ein Einfluss, keine Determinante**. Vorwissen, Motivation, klar dargestellte Zahlen oder Nachdenken können den Effekt abschwächen. Framing lenkt Tendenzen; es steuert nicht jede Entscheidung beliebig."
+      "body": "# Der Framing-Effekt\n\nDer **Framing-Effekt** beschreibt, dass dieselbe Information je nach *Verpackung* unterschiedlich bewertet wird. Ein Joghurt mit *95 % fettfrei* wirkt attraktiver als einer mit *5 % Fett*, obwohl beide Angaben identisch sind.\n\n## Gewinn- und Verlust-Framing\n\nBesonders stark zeigt sich Framing, wenn dieselbe Lage einmal als Gewinn und einmal als Verlust dargestellt wird. Im klassischen Experiment von **Tversky & Kahneman (1981)**, dem *Asian disease problem*, sollten Versuchspersonen zwischen Maßnahmen gegen eine Krankheit wählen. Bei der Gewinn-Formulierung (*200 von 600 Menschen werden gerettet*) entschieden sie sich eher risikoscheu, bei der mathematisch identischen Verlust-Formulierung (*400 von 600 sterben*) eher risikofreudig.\n\nDahinter steht die **Verlustaversion**: Verluste wiegen subjektiv schwerer als gleich große Gewinne.\n\n## Augenmaß\n\nFraming ist real und vielfach repliziert, aber **ein Einfluss, keine Determinante**. Vorwissen, Motivation, klar dargestellte Zahlen oder Nachdenken können den Effekt abschwächen. Framing lenkt Tendenzen; es steuert nicht jede Entscheidung beliebig."
     },
     {
       "id": "ex-free-framing",
@@ -117,7 +117,7 @@
           {"accept": ["risikofreudig", "riskant", "risikobereit"]}
         ],
         "cloze_mode": "type",
-        "hint": "Verluste wiegen subjektiv schwerer — das macht riskanter."
+        "hint": "Verluste wiegen subjektiv schwerer, das macht riskanter."
       }
     },
     {

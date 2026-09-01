@@ -1,7 +1,7 @@
 {
   "id": "75-wiederholung-lebensspanne",
   "title": "Wiederholung: Entwicklung über die Lebensspanne",
-  "description": "Große Wiederholung der Lektionen 71–74: von der vorgeburtlichen Phase über Kindheit und Jugend, Erwachsenenalter bis ins hohe Alter — alle Kernbegriffe kompakt auf Deutsch.",
+  "description": "Große Wiederholung der Lektionen 71–74: von der vorgeburtlichen Phase über Kindheit und Jugend, Erwachsenenalter bis ins hohe Alter, alle Kernbegriffe kompakt auf Deutsch.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -11,7 +11,7 @@
       "id": "wdh-teratogene",
       "stable_id": "card-ms942qq21ezz8",
       "front": "Teratogene",
-      "back": "Schädigende Einflüsse in der Schwangerschaft (z. B. Alkohol, Nikotin, Infektionen), die die pränatale Entwicklung stören — besonders gefährlich in der Embryonalphase.",
+      "back": "Schädigende Einflüsse in der Schwangerschaft (z. B. Alkohol, Nikotin, Infektionen), die die pränatale Entwicklung stören, besonders gefährlich in der Embryonalphase.",
       "notes": "Von griechisch 'teras' = Missbildung. Lektion 71.",
       "media_type": "text",
       "difficulty": 3,
@@ -21,7 +21,7 @@
       "id": "wdh-bindung-feinfuehligkeit",
       "stable_id": "card-ms942qq21f0jp",
       "front": "Bindung & Feinfühligkeit (Attachment & Sensitivity)",
-      "back": "Bindung ist das enge emotionale Band zwischen Kind und Bezugsperson; Feinfühligkeit (Ainsworth) — Signale richtig wahrnehmen und prompt angemessen reagieren — ist der wichtigste Faktor für sichere Bindung.",
+      "back": "Bindung ist das enge emotionale Band zwischen Kind und Bezugsperson; Feinfühligkeit (Ainsworth), Signale richtig wahrnehmen und prompt angemessen reagieren, ist der wichtigste Faktor für sichere Bindung.",
       "notes": "Bowlby / Ainsworth. Lektion 71.",
       "media_type": "text",
       "difficulty": 4,
@@ -31,7 +31,7 @@
       "id": "wdh-theory-of-mind",
       "stable_id": "card-ms942qq21f1v9",
       "front": "Theory of Mind",
-      "back": "Die Fähigkeit, anderen Menschen mentale Zustände (Überzeugungen, Wünsche, Absichten) zuzuschreiben; entsteht typischerweise um das 4. Lebensjahr — getestet mit dem Falsche-Überzeugung-Paradigma.",
+      "back": "Die Fähigkeit, anderen Menschen mentale Zustände (Überzeugungen, Wünsche, Absichten) zuzuschreiben; entsteht typischerweise um das 4. Lebensjahr, getestet mit dem Falsche-Überzeugung-Paradigma.",
       "notes": "Meilenstein der Kognitionsentwicklung. Lektion 72.",
       "media_type": "text",
       "difficulty": 4,
@@ -45,14 +45,14 @@
       "notes": "Diana Baumrind. Lektion 72.",
       "media_type": "text",
       "difficulty": 4,
-      "hint": "Autoritativ ≠ autoritär — Wärme macht den Unterschied.",
+      "hint": "Autoritativ ≠ autoritär, Wärme macht den Unterschied.",
       "tags": ["entwicklung", "kindheit", "erziehung"]
     },
     {
       "id": "wdh-identitaet-rollenkonfusion",
       "stable_id": "card-ms942qq21f3jm",
       "front": "Identität vs. Rollenkonfusion (Identity vs. Role Confusion)",
-      "back": "Eriksons psychosoziale Krise der Adoleszenz: Jugendliche erproben Rollen und entwickeln ein kohärentes Selbstbild — gelingt dies nicht, entsteht Rollenkonfusion.",
+      "back": "Eriksons psychosoziale Krise der Adoleszenz: Jugendliche erproben Rollen und entwickeln ein kohärentes Selbstbild, gelingt dies nicht, entsteht Rollenkonfusion.",
       "notes": "5. Stufe bei Erikson. Lektion 72.",
       "media_type": "text",
       "difficulty": 4,
@@ -62,7 +62,7 @@
       "id": "wdh-generativitaet",
       "stable_id": "card-ms942qq21f4ut",
       "front": "Generativität vs. Stagnation (Generativity vs. Stagnation)",
-      "back": "Eriksons Krise des mittleren Erwachsenenalters: das Bedürfnis, etwas Bleibendes für die nächste Generation zu schaffen (Kinder, Mentoring, Werk) — bleibt dies aus, folgt Stagnation.",
+      "back": "Eriksons Krise des mittleren Erwachsenenalters: das Bedürfnis, etwas Bleibendes für die nächste Generation zu schaffen (Kinder, Mentoring, Werk), bleibt dies aus, folgt Stagnation.",
       "notes": "7. Stufe bei Erikson. Lektion 73.",
       "media_type": "text",
       "difficulty": 4,
@@ -82,7 +82,7 @@
       "id": "wdh-sozioemotionale-selektivitaet",
       "stable_id": "card-ms942qq21f6qq",
       "front": "Sozioemotionale Selektivitätstheorie (Socioemotional Selectivity Theory)",
-      "back": "Carstensens Theorie: Ältere Menschen fokussieren ihr soziales Netzwerk auf emotional bedeutsame Beziehungen und verfolgen Gegenwartsziele statt Zukunftsziele — weil die verbleibende Zeit bewusst wird.",
+      "back": "Carstensens Theorie: Ältere Menschen fokussieren ihr soziales Netzwerk auf emotional bedeutsame Beziehungen und verfolgen Gegenwartsziele statt Zukunftsziele, weil die verbleibende Zeit bewusst wird.",
       "notes": "Laura Carstensen. Lektion 74.",
       "media_type": "text",
       "difficulty": 5,
@@ -92,7 +92,7 @@
       "id": "wdh-demenz-alzheimer",
       "stable_id": "card-ms942qq21f7uk",
       "front": "Demenz & Alzheimer",
-      "back": "Demenz ist ein Oberbegriff für progrediente kognitive Beeinträchtigungen (Gedächtnis, Sprache, Orientierung); Alzheimer ist die häufigste Form — gekennzeichnet durch Amyloid-Plaques und Tau-Fibrillen.",
+      "back": "Demenz ist ein Oberbegriff für progrediente kognitive Beeinträchtigungen (Gedächtnis, Sprache, Orientierung); Alzheimer ist die häufigste Form, gekennzeichnet durch Amyloid-Plaques und Tau-Fibrillen.",
       "notes": "Lektion 74.",
       "media_type": "text",
       "difficulty": 4,
@@ -112,7 +112,7 @@
       "id": "wdh-praenatale-phasen",
       "stable_id": "card-ms942qq21f9w4",
       "front": "Pränatale Entwicklungsphasen",
-      "back": "Drei Abschnitte: Keimphase (0–2 Wochen, Einnistung), Embryonalphase (3.–8. Woche, Organbildung — kritischste Phase für Teratogene), Fetalphase (ab 9. Woche, Wachstum bis Geburt).",
+      "back": "Drei Abschnitte: Keimphase (0–2 Wochen, Einnistung), Embryonalphase (3.–8. Woche, Organbildung, kritischste Phase für Teratogene), Fetalphase (ab 9. Woche, Wachstum bis Geburt).",
       "notes": "Lektion 71.",
       "media_type": "text",
       "difficulty": 3,
@@ -140,13 +140,13 @@
       "id": "step-kindheit-jugend",
       "type": "theory",
       "title": "Kindheit und Jugend: Denken, Erziehung, Identität",
-      "body": "## Piagets kognitive Stadien\n\n| Stadium | Alter | Merkmal |\n|---|---|---|\n| Sensomotorisch | 0–2 J. | Objektpermanenz |\n| Präoperational | 2–7 J. | Egozentrisches Denken, Symbole |\n| Konkret-operational | 7–11 J. | Konservierung, logisches Denken |\n| Formal-operational | ab 12 J. | Abstraktes, hypothetisches Denken |\n\n## Theory of Mind\n\nUm das 4. Lebensjahr können Kinder anderen **mentale Zustände** zuschreiben — sie verstehen, dass jemand etwas **Falsches** glauben kann (Falsche-Überzeugung-Paradigma, False-Belief-Test).\n\n## Erziehungsstile nach Baumrind\n\n| Stil | Wärme | Kontrolle | Ergebnis |\n|---|---|---|---|\n| **Autoritativ** | hoch | klar | Beste Outcomes |\n| **Autoritär** | niedrig | streng | Niedrige Selbständigkeit |\n| **Permissiv** | hoch | niedrig | Wenig Selbstdisziplin |\n| **Uninvolviert** | niedrig | niedrig | Schlechteste Outcomes |\n\n## Identität in der Adoleszenz\n\nErikson: In der Pubertät erproben Jugendliche verschiedene Rollen — das Ziel ist ein stabiles **Identitätsgefühl**. Marcia unterscheidet Moratorium, Übernahme, Diffusion und Erarbeitung."
+      "body": "## Piagets kognitive Stadien\n\n| Stadium | Alter | Merkmal |\n|---|---|---|\n| Sensomotorisch | 0–2 J. | Objektpermanenz |\n| Präoperational | 2–7 J. | Egozentrisches Denken, Symbole |\n| Konkret-operational | 7–11 J. | Konservierung, logisches Denken |\n| Formal-operational | ab 12 J. | Abstraktes, hypothetisches Denken |\n\n## Theory of Mind\n\nUm das 4. Lebensjahr können Kinder anderen **mentale Zustände** zuschreiben, sie verstehen, dass jemand etwas **Falsches** glauben kann (Falsche-Überzeugung-Paradigma, False-Belief-Test).\n\n## Erziehungsstile nach Baumrind\n\n| Stil | Wärme | Kontrolle | Ergebnis |\n|---|---|---|---|\n| **Autoritativ** | hoch | klar | Beste Outcomes |\n| **Autoritär** | niedrig | streng | Niedrige Selbständigkeit |\n| **Permissiv** | hoch | niedrig | Wenig Selbstdisziplin |\n| **Uninvolviert** | niedrig | niedrig | Schlechteste Outcomes |\n\n## Identität in der Adoleszenz\n\nErikson: In der Pubertät erproben Jugendliche verschiedene Rollen, das Ziel ist ein stabiles **Identitätsgefühl**. Marcia unterscheidet Moratorium, Übernahme, Diffusion und Erarbeitung."
     },
     {
       "id": "step-erwachsenenalter-alter",
       "type": "theory",
       "title": "Erwachsenenalter und Alter: Intelligenz, Reife und Lebensrückblick",
-      "body": "## Intelligenz im Erwachsenenalter\n\n**Fluide Intelligenz** (schnelles Schlussfolgern, Arbeitsgedächtnis) erreicht ihr Maximum früh und sinkt danach — **kristalline Intelligenz** (Wissen, Wortschatz, Erfahrung) bleibt lange stabil oder nimmt zu (Cattell/Horn).\n\n## Soziale Uhr & Midlife\n\nDie **soziale Uhr** beschreibt kulturelle Erwartungen, wann Ereignisse eintreten sollten (Heirat, Kinder, Pension). Die **Midlife-Crisis** ist wissenschaftlich ein Mythos — die meisten Menschen erleben das mittlere Alter als stabile oder positive Phase.\n\n## Sozioemotionale Selektivitätstheorie (Carstensen)\n\nIm Alter wird Zeit als **begrenzt** wahrgenommen — Menschen wählen **emotional bedeutsame Beziehungen** und Gegenwartsziele. Dies erklärt das **Wohlbefindenspardox**: Ältere berichten trotz objektiven Verlusten oft hohe Lebenszufriedenheit.\n\n## Alzheimer & Integrität\n\n**Alzheimer** (häufigste Demenzform): Amyloid-Plaques und Tau-Fibrillen zerstören Nervenzellen — Gedächtnis, Sprache und Orientierung nehmen progredient ab.\n\n**Integrität vs. Verzweiflung** (Erikson, 8. Krise): Das Leben als sinnvoll akzeptieren — oder in Reue und Todesfurcht verharren."
+      "body": "## Intelligenz im Erwachsenenalter\n\n**Fluide Intelligenz** (schnelles Schlussfolgern, Arbeitsgedächtnis) erreicht ihr Maximum früh und sinkt danach, **kristalline Intelligenz** (Wissen, Wortschatz, Erfahrung) bleibt lange stabil oder nimmt zu (Cattell/Horn).\n\n## Soziale Uhr & Midlife\n\nDie **soziale Uhr** beschreibt kulturelle Erwartungen, wann Ereignisse eintreten sollten (Heirat, Kinder, Pension). Die **Midlife-Crisis** ist wissenschaftlich ein Mythos, die meisten Menschen erleben das mittlere Alter als stabile oder positive Phase.\n\n## Sozioemotionale Selektivitätstheorie (Carstensen)\n\nIm Alter wird Zeit als **begrenzt** wahrgenommen, Menschen wählen **emotional bedeutsame Beziehungen** und Gegenwartsziele. Dies erklärt das **Wohlbefindenspardox**: Ältere berichten trotz objektiven Verlusten oft hohe Lebenszufriedenheit.\n\n## Alzheimer & Integrität\n\n**Alzheimer** (häufigste Demenzform): Amyloid-Plaques und Tau-Fibrillen zerstören Nervenzellen, Gedächtnis, Sprache und Orientierung nehmen progredient ab.\n\n**Integrität vs. Verzweiflung** (Erikson, 8. Krise): Das Leben als sinnvoll akzeptieren, oder in Reue und Todesfurcht verharren."
     },
     {
       "id": "ex-match-lebensphasen",
@@ -179,12 +179,12 @@
         "type": "cloze",
         "prompt": "Ergänze den Erziehungsstil mit den besten Entwicklungsoutcomes.",
         "card_ids": ["wdh-erziehungsstile"],
-        "sentence": "Der ___ Erziehungsstil nach Baumrind — hohe Wärme und klare Grenzen — geht mit den besten Outcomes einher.",
+        "sentence": "Der ___ Erziehungsstil nach Baumrind, hohe Wärme und klare Grenzen, geht mit den besten Outcomes einher.",
         "blanks": [
           { "accept": ["autoritativ", "Autoritativ"] }
         ],
         "cloze_mode": "type",
-        "hint": "Nicht 'autoritär' — Wärme unterscheidet die beiden."
+        "hint": "Nicht 'autoritär', Wärme unterscheidet die beiden."
       }
     },
     {
@@ -196,7 +196,7 @@
         "id": "ex-free-erikson",
         "stable_id": "ex-ms942qq21fd34",
         "type": "free_text",
-        "prompt": "Wie heißt Eriksons Krise des mittleren Erwachsenenalters — das Bedürfnis, etwas für die nächste Generation zu schaffen?",
+        "prompt": "Wie heißt Eriksons Krise des mittleren Erwachsenenalters, das Bedürfnis, etwas für die nächste Generation zu schaffen?",
         "card_ids": ["wdh-generativitaet"],
         "accept": ["Generativität", "die Generativität", "Generativität vs. Stagnation", "Generativitaet"],
         "hint": "Aus dem Lateinischen 'generare' = erzeugen. 7. Stufe bei Erikson.",
@@ -234,7 +234,7 @@
         "type": "cloze",
         "prompt": "Ergänze das Alter, in dem die Theory of Mind typischerweise entsteht.",
         "card_ids": ["wdh-theory-of-mind"],
-        "sentence": "Die Theory of Mind entsteht typischerweise um das ___ Lebensjahr — Kinder verstehen dann, dass andere falsche Überzeugungen haben können.",
+        "sentence": "Die Theory of Mind entsteht typischerweise um das ___ Lebensjahr, Kinder verstehen dann, dass andere falsche Überzeugungen haben können.",
         "blanks": [
           { "accept": ["4.", "vierte", "4"] }
         ],
@@ -267,7 +267,7 @@
         "id": "ex-free-demenz",
         "stable_id": "ex-ms942qq21fhts",
         "type": "free_text",
-        "prompt": "Wie heißt die häufigste Form der Demenz — mit Amyloid-Plaques und Tau-Fibrillen?",
+        "prompt": "Wie heißt die häufigste Form der Demenz, mit Amyloid-Plaques und Tau-Fibrillen?",
         "card_ids": ["wdh-demenz-alzheimer"],
         "accept": ["Alzheimer", "Alzheimer-Demenz", "Alzheimer-Krankheit", "die Alzheimer-Krankheit"],
         "hint": "Benannt nach dem deutschen Arzt Alois Alzheimer.",

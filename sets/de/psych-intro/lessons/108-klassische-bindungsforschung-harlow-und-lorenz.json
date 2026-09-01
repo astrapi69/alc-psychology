@@ -1,7 +1,7 @@
 {
   "id": "108-klassische-bindungsforschung-harlow-und-lorenz",
-  "title": "Klassische Bindungsforschung — Harlow und Lorenz",
-  "description": "Die ethologischen und tierexperimentellen Wurzeln der Bindungsforschung: Harlows Rhesusaffen und der Kontaktkomfort, Lorenz' Prägung bei Graugänsen, der Begriff der kritischen bzw. sensiblen Phase und wie diese Befunde Bowlbys Bindungstheorie vorbereiteten — auf Deutsch erklärt. Ergänzt die Lektionen 6, 34 und 71 mit den historischen Tierstudien, ohne die Bindungstypen erneut durchzunehmen.",
+  "title": "Klassische Bindungsforschung - Harlow und Lorenz",
+  "description": "Die ethologischen und tierexperimentellen Wurzeln der Bindungsforschung: Harlows Rhesusaffen und der Kontaktkomfort, Lorenz' Prägung bei Graugänsen, der Begriff der kritischen bzw. sensiblen Phase und wie diese Befunde Bowlbys Bindungstheorie vorbereiteten, auf Deutsch erklärt. Ergänzt die Lektionen 6, 34 und 71 mit den historischen Tierstudien, ohne die Bindungstypen erneut durchzunehmen.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -25,7 +25,7 @@
       "notes": "Wegweisender Befund: Die Bindung beruht nicht primär auf Nahrung, sondern auf Körperkontakt und Geborgenheit.",
       "media_type": "text",
       "difficulty": 3,
-      "hint": "Stoffmutter vs. Drahtmutter — Kontakt schlägt Nahrung.",
+      "hint": "Stoffmutter vs. Drahtmutter, Kontakt schlägt Nahrung.",
       "tags": ["harlow", "bindung", "experiment"]
     },
     {
@@ -52,11 +52,11 @@
       "id": "lorenz-praegung",
       "stable_id": "card-ms942qow0efxa",
       "front": "Prägung (Imprinting) nach Lorenz",
-      "back": "Konrad Lorenz (1935) beschrieb, dass frisch geschlüpfte Graugänse dem ersten bewegten Objekt folgen, das sie sehen, und es als 'Mutter' behandeln — ein rascher, früh festgelegter und kaum umkehrbarer Lernvorgang.",
+      "back": "Konrad Lorenz (1935) beschrieb, dass frisch geschlüpfte Graugänse dem ersten bewegten Objekt folgen, das sie sehen, und es als 'Mutter' behandeln, ein rascher, früh festgelegter und kaum umkehrbarer Lernvorgang.",
       "notes": "Lorenz selbst wurde von den Gänsen geprägt, weil er das erste war, was sie sahen.",
       "media_type": "text",
       "difficulty": 3,
-      "hint": "Graugänse folgen dem ersten bewegten Objekt — fast unumkehrbar.",
+      "hint": "Graugänse folgen dem ersten bewegten Objekt, fast unumkehrbar.",
       "tags": ["lorenz", "praegung", "ethologie"]
     },
     {
@@ -73,7 +73,7 @@
       "id": "sensible-phase",
       "stable_id": "card-ms942qow0ehph",
       "front": "Sensible Phase (Sensitive Period)",
-      "back": "Ein Zeitraum, in dem ein Organismus für bestimmte Reize besonders empfänglich ist, der aber weicher begrenzt ist als eine kritische Phase — Lernen bleibt auch danach möglich, fällt aber schwerer.",
+      "back": "Ein Zeitraum, in dem ein Organismus für bestimmte Reize besonders empfänglich ist, der aber weicher begrenzt ist als eine kritische Phase, Lernen bleibt auch danach möglich, fällt aber schwerer.",
       "notes": "In der menschlichen Entwicklung spricht man meist von sensiblen, nicht von strikt kritischen Phasen.",
       "media_type": "text",
       "difficulty": 3,
@@ -93,7 +93,7 @@
       "id": "sekundaeres-triebmodell",
       "stable_id": "card-ms942qow0ej0j",
       "front": "Sekundäres Triebmodell (Cupboard Love)",
-      "back": "Die ältere, behavioristische Annahme, das Kind binde sich an die Mutter, weil sie den primären Trieb Hunger befriedigt — Liebe als 'gelernte' Folge des Fütterns.",
+      "back": "Die ältere, behavioristische Annahme, das Kind binde sich an die Mutter, weil sie den primären Trieb Hunger befriedigt, Liebe als 'gelernte' Folge des Fütterns.",
       "notes": "Genau diese Annahme widerlegte Harlow mit dem Kontaktkomfort.",
       "media_type": "text",
       "difficulty": 4,
@@ -103,7 +103,7 @@
       "id": "trennungsangst",
       "stable_id": "card-ms942qow0ekwn",
       "front": "Trennungsangst (Separation Distress)",
-      "back": "Die belastende Reaktion eines Jungtiers oder Kindes auf die Trennung von der Bindungsperson — ein Hinweis darauf, dass eine echte Bindung besteht.",
+      "back": "Die belastende Reaktion eines Jungtiers oder Kindes auf die Trennung von der Bindungsperson, ein Hinweis darauf, dass eine echte Bindung besteht.",
       "notes": "Harlows isoliert aufgezogene Affen zeigten schwere, dauerhafte Verhaltensstörungen.",
       "media_type": "text",
       "difficulty": 3,
@@ -135,13 +135,13 @@
       "id": "theory-harlow",
       "type": "theory",
       "title": "Harlow: Kontakt schlägt Nahrung",
-      "body": "# Klassische Bindungsforschung\n\n> Diese Lektion ergänzt die Entwicklungspsychologie der **Lektionen 6, 34 und 71** mit den historischen **Tierstudien**, die der Bindungstheorie zugrunde liegen. Die Bindungs*typen* (sicher, unsicher-vermeidend usw.) werden hier nicht wiederholt.\n\n## Harlows Rhesusaffen (1958)\n\nLange galt die behavioristische Idee, ein Kind binde sich an die Mutter nur, **weil sie es füttert** — das **sekundäre Triebmodell** ('cupboard love').\n\n**Harry Harlow** stellte junge Rhesusaffen vor die Wahl zwischen zwei Ersatzmüttern:\n\n| Ersatzmutter | Eigenschaft | Verhalten der Affen |\n|---|---|---|\n| **Drahtmutter** | hart, aber mit Milchflasche | nur zum Trinken aufgesucht |\n| **Stoffmutter** | weich, aber milchlos | dauerhaftes Anklammern, Zuflucht bei Angst |\n\nDie Affen verbrachten fast die ganze Zeit bei der **weichen Stoffmutter** und suchten sie bei Angst als **sichere Basis** auf. Entscheidend war also der **Kontaktkomfort**, nicht die Nahrung. Sozial isoliert aufgezogene Affen zeigten dagegen schwere, oft irreversible Störungen (**Deprivation**)."
+      "body": "# Klassische Bindungsforschung\n\n> Diese Lektion ergänzt die Entwicklungspsychologie der **Lektionen 6, 34 und 71** mit den historischen **Tierstudien**, die der Bindungstheorie zugrunde liegen. Die Bindungs*typen* (sicher, unsicher-vermeidend usw.) werden hier nicht wiederholt.\n\n## Harlows Rhesusaffen (1958)\n\nLange galt die behavioristische Idee, ein Kind binde sich an die Mutter nur, **weil sie es füttert**, das **sekundäre Triebmodell** ('cupboard love').\n\n**Harry Harlow** stellte junge Rhesusaffen vor die Wahl zwischen zwei Ersatzmüttern:\n\n| Ersatzmutter | Eigenschaft | Verhalten der Affen |\n|---|---|---|\n| **Drahtmutter** | hart, aber mit Milchflasche | nur zum Trinken aufgesucht |\n| **Stoffmutter** | weich, aber milchlos | dauerhaftes Anklammern, Zuflucht bei Angst |\n\nDie Affen verbrachten fast die ganze Zeit bei der **weichen Stoffmutter** und suchten sie bei Angst als **sichere Basis** auf. Entscheidend war also der **Kontaktkomfort**, nicht die Nahrung. Sozial isoliert aufgezogene Affen zeigten dagegen schwere, oft irreversible Störungen (**Deprivation**)."
     },
     {
       "id": "theory-lorenz",
       "type": "theory",
       "title": "Lorenz: Prägung und kritische Phasen",
-      "body": "## Lorenz und die Prägung (1935)\n\nDer Verhaltensforscher **Konrad Lorenz** beobachtete bei Graugänsen die **Prägung** (*imprinting*): Frisch geschlüpfte Küken folgen dem **ersten bewegten Objekt**, das sie sehen — normalerweise die Mutter, in Lorenz' Experiment aber er selbst. Diese **Nachfolgereaktion** ist:\n\n- **schnell** — in wenigen Stunden festgelegt,\n- **früh begrenzt** — nur in einem engen Zeitfenster möglich,\n- **kaum umkehrbar**.\n\n## Kritische und sensible Phase\n\n| Begriff | Zeitfenster | Lernen danach |\n|---|---|---|\n| **kritische Phase** | eng, strikt begrenzt | praktisch nicht mehr möglich |\n| **sensible Phase** | weicher begrenzt | erschwert, aber möglich |\n\nIn der menschlichen Entwicklung spricht man eher von **sensiblen** Phasen.\n\n## Anknüpfung: Bowlby\n\n**John Bowlby** verband beide Linien: Bindung ist ein **angeborenes, evolutionär entstandenes Verhaltenssystem**, das die Nähe zur Bezugsperson sichert und so das Überleben fördert. Harlow lieferte den Beleg gegen das reine Nahrungsmodell, Lorenz das Konzept der frühen, festgelegten Bindung."
+      "body": "## Lorenz und die Prägung (1935)\n\nDer Verhaltensforscher **Konrad Lorenz** beobachtete bei Graugänsen die **Prägung** (*imprinting*): Frisch geschlüpfte Küken folgen dem **ersten bewegten Objekt**, das sie sehen, normalerweise die Mutter, in Lorenz' Experiment aber er selbst. Diese **Nachfolgereaktion** ist:\n\n- **schnell**, in wenigen Stunden festgelegt,\n- **früh begrenzt**, nur in einem engen Zeitfenster möglich,\n- **kaum umkehrbar**.\n\n## Kritische und sensible Phase\n\n| Begriff | Zeitfenster | Lernen danach |\n|---|---|---|\n| **kritische Phase** | eng, strikt begrenzt | praktisch nicht mehr möglich |\n| **sensible Phase** | weicher begrenzt | erschwert, aber möglich |\n\nIn der menschlichen Entwicklung spricht man eher von **sensiblen** Phasen.\n\n## Anknüpfung: Bowlby\n\n**John Bowlby** verband beide Linien: Bindung ist ein **angeborenes, evolutionär entstandenes Verhaltenssystem**, das die Nähe zur Bezugsperson sichert und so das Überleben fördert. Harlow lieferte den Beleg gegen das reine Nahrungsmodell, Lorenz das Konzept der frühen, festgelegten Bindung."
     },
     {
       "id": "ex-match-forscher",

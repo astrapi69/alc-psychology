@@ -1,4 +1,4 @@
-# Psychologie der Beeinflussung (für Deutschsprachige) — Set-Manifest.
+# Psychologie der Beeinflussung (für Deutschsprachige) - Set-Manifest.
 #
 # Aufbauendes Nicht-Sprachen-Set (``domain: psychology``) im
 # thematischen Anschluss an die Inception-Effekt-Lektion des
@@ -9,9 +9,9 @@
 # ``metadata.lessons`` für die Dateiliste.
 #
 # v1.0.0 (schema v1.4): acht Lektionen zu den zentralen
-# Beeinflussungs- und Verzerrungseffekten — Priming (mit
+# Beeinflussungs- und Verzerrungseffekten, Priming (mit
 # Replikationskrise), Framing, Ankereffekt, kognitive Dissonanz,
-# Reziprozität, soziale Bewährtheit und Foot-in-the-door — plus eine
+# Reziprozität, soziale Bewährtheit und Foot-in-the-door, plus eine
 # zusammenfassende Wiederholung. Genutzte Aufgabentypen: free_text,
 # cloze (type und select), matching und word_tiles, jeweils mit
 # einem Theorie-Schritt pro Lektion. picture_choice wird bewusst
@@ -24,7 +24,7 @@ description: >-
   Anschluss an die Inception-Effekt-Lektion: Priming (mit
   Replikationskrise), Framing-Effekt, Ankereffekt, kognitive
   Dissonanz, Reziprozität, soziale Bewährtheit und
-  Foot-in-the-door. Fachlich mit Augenmaß erklärt — Effekte als
+  Foot-in-the-door. Fachlich mit Augenmaß erklärt, Effekte als
   empirisch belegte Tendenzen, nicht als garantierte Manipulations-
   Hebel; genannte Studien sind real und korrekt zugeordnet.
 sets:

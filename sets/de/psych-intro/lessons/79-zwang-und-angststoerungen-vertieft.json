@@ -1,7 +1,7 @@
 {
   "id": "79-zwang-und-angststoerungen-vertieft",
   "title": "Zwangs- und Angststörungen vertieft",
-  "description": "Ein vertiefender Blick auf Angststörungen und die Zwangsstörung (OCD): Teufelskreise der Angst und des Zwangs, die Rolle von Vermeidung sowie wirksame Behandlungsmethoden — informativ, respektvoll und hoffnungsvoll erklärt.",
+  "description": "Ein vertiefender Blick auf Angststörungen und die Zwangsstörung (OCD): Teufelskreise der Angst und des Zwangs, die Rolle von Vermeidung sowie wirksame Behandlungsmethoden, informativ, respektvoll und hoffnungsvoll erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -20,7 +20,7 @@
     {
       "id": "angststoerungen-ueberblick",
       "stable_id": "card-ms942qq41h5vz",
-      "front": "Angststörungen (Anxiety Disorders) — Überblick",
+      "front": "Angststörungen (Anxiety Disorders), Überblick",
       "back": "Eine Gruppe von Störungen, bei denen intensive Angst oder Furcht den Alltag erheblich beeinträchtigt. Fachleute unterscheiden verschiedene Formen je nach Auslöser und Verlauf.",
       "media_type": "text",
       "difficulty": 2,
@@ -47,7 +47,7 @@
     {
       "id": "gas",
       "stable_id": "card-ms942qq41h8iw",
-      "front": "Generalisierte Angststörung — GAS (Generalized Anxiety Disorder — GAD)",
+      "front": "Generalisierte Angststörung, GAS (Generalized Anxiety Disorder, GAD)",
       "back": "Anhaltende, schwer kontrollierbare Sorgen über viele Lebensbereiche (Gesundheit, Arbeit, Familie), oft verbunden mit Anspannung und Schlafproblemen.",
       "media_type": "text",
       "difficulty": 3,
@@ -66,7 +66,7 @@
       "id": "vermeidung-angst",
       "stable_id": "card-ms942qq41ha6u",
       "front": "Vermeidung und negative Verstärkung (Avoidance & Negative Reinforcement)",
-      "back": "Vermeidung angstbesetzter Situationen senkt die Angst kurzfristig (negative Verstärkung), verhindert aber die Habituation und erhält die Störung langfristig aufrecht (vgl. Lektion 4 — Konditionierung).",
+      "back": "Vermeidung angstbesetzter Situationen senkt die Angst kurzfristig (negative Verstärkung), verhindert aber die Habituation und erhält die Störung langfristig aufrecht (vgl. Lektion 4, Konditionierung).",
       "media_type": "text",
       "difficulty": 4,
       "tags": ["klinisch", "angst", "konditionierung"]
@@ -74,7 +74,7 @@
     {
       "id": "obsessionen",
       "stable_id": "card-ms942qq41hb9n",
-      "front": "Zwangsgedanken — Obsessionen (Obsessions)",
+      "front": "Zwangsgedanken, Obsessionen (Obsessions)",
       "back": "Wiederkehrende, aufdringliche und unerwünschte Gedanken, Impulse oder Bilder, die intensive Angst oder Anspannung auslösen. Betroffene erleben sie als ich-fremd.",
       "media_type": "text",
       "difficulty": 3,
@@ -83,7 +83,7 @@
     {
       "id": "kompulsionen",
       "stable_id": "card-ms942qq41hcjg",
-      "front": "Zwangshandlungen — Kompulsionen (Compulsions)",
+      "front": "Zwangshandlungen, Kompulsionen (Compulsions)",
       "back": "Wiederholte Verhaltensweisen oder mentale Handlungen (z. B. Kontrollieren, Zählen), die als Reaktion auf Obsessionen ausgeführt werden, um Anspannung kurzzeitig zu lindern.",
       "media_type": "text",
       "difficulty": 3,
@@ -101,7 +101,7 @@
     {
       "id": "exposition-reaktionsverhinderung",
       "stable_id": "card-ms942qq41heos",
-      "front": "Exposition mit Reaktionsverhinderung (Exposure and Response Prevention — ERP)",
+      "front": "Exposition mit Reaktionsverhinderung (Exposure and Response Prevention, ERP)",
       "back": "Wirksames Verfahren bei Zwangsstörungen und Angststörungen: Die angstauslösende Situation wird bewusst aufgesucht, ohne die Vermeidungs- oder Zwangshandlung auszuführen. Die Angst klingt dadurch von selbst ab (Habituation).",
       "notes": "Kernbestandteil der KVT (vgl. Lektion 18). Gute Wirksamkeitsnachweise.",
       "media_type": "text",
@@ -133,19 +133,19 @@
       "id": "intro-angststoerungen",
       "type": "theory",
       "title": "Angststörungen im Überblick",
-      "body": "# Zwangs- und Angststörungen vertieft\n\n> **Wichtiger Hinweis:** Diese Lektion ersetzt keine professionelle Diagnose oder Behandlung. Sie dient dem Verständnis und der Aufklärung — nicht der Selbsteinschätzung. Bei persönlicher Belastung helfen Hausärzt:in, Psychotherapeut:in oder die Telefonseelsorge (116 123).\n\nDiese Lektion vertieft die Inhalte aus **Lektion 43** (Störungsbilder) und baut auf den Konzepten aus **Lektion 18** (kognitive Verhaltenstherapie) und **Lektion 4** (Konditionierung) auf.\n\n## Angststörungen — was Fachleute unterscheiden\n\nAngst ist zunächst eine normale und sinnvolle Reaktion. Von einer **Angststörung (Anxiety Disorder)** spricht man, wenn Angst so intensiv, häufig oder anhaltend wird, dass sie den Alltag erheblich beeinträchtigt. Fachleute unterscheiden mehrere Formen:\n\n| Störung | Kerncharakteristik |\n|---|---|\n| **Panikstörung** | Wiederkehrende unerwartete Panikattacken; Angst vor weiteren Attacken |\n| **Agoraphobie** | Furcht vor Situationen, aus denen Flucht schwierig erscheint (z. B. Menschenmengen, öffentliche Verkehrsmittel) |\n| **Soziale Angststörung** | Ausgeprägte Furcht vor sozialer Bewertung und Blamage |\n| **Generalisierte Angststörung (GAS)** | Anhaltende, unkontrollierbare Sorgen über viele Lebensbereiche |\n| **Spezifische Phobien** | Starke Furcht vor einem bestimmten Objekt oder einer bestimmten Situation (z. B. Höhe, Tiere) |\n\n## Der Teufelskreis der Angst\n\nViele Angststörungen werden durch einen sich selbst verstärkenden Kreislauf aufrechterhalten (vgl. Lektion 18 — KVT):\n\n1. Wahrnehmung körperlicher Symptome (z. B. Herzrasen)\n2. **Katastrophisierende Bewertung** (»Ich bekomme einen Herzinfarkt!«)\n3. Noch mehr Angst → noch stärkere Symptome\n4. Der Kreislauf schließt sich\n\n## Die Rolle der Vermeidung\n\n**Vermeidung** senkt die Angst kurzfristig — das ist negative Verstärkung im Sinne von Lektion 4. Langfristig verhindert sie aber, dass das Gehirn lernt: »Die Situation ist nicht gefährlich.« Deshalb bleibt die Störung bestehen oder wird stärker."
+      "body": "# Zwangs- und Angststörungen vertieft\n\n> **Wichtiger Hinweis:** Diese Lektion ersetzt keine professionelle Diagnose oder Behandlung. Sie dient dem Verständnis und der Aufklärung, nicht der Selbsteinschätzung. Bei persönlicher Belastung helfen Hausärzt:in, Psychotherapeut:in oder die Telefonseelsorge (116 123).\n\nDiese Lektion vertieft die Inhalte aus **Lektion 43** (Störungsbilder) und baut auf den Konzepten aus **Lektion 18** (kognitive Verhaltenstherapie) und **Lektion 4** (Konditionierung) auf.\n\n## Angststörungen - was Fachleute unterscheiden\n\nAngst ist zunächst eine normale und sinnvolle Reaktion. Von einer **Angststörung (Anxiety Disorder)** spricht man, wenn Angst so intensiv, häufig oder anhaltend wird, dass sie den Alltag erheblich beeinträchtigt. Fachleute unterscheiden mehrere Formen:\n\n| Störung | Kerncharakteristik |\n|---|---|\n| **Panikstörung** | Wiederkehrende unerwartete Panikattacken; Angst vor weiteren Attacken |\n| **Agoraphobie** | Furcht vor Situationen, aus denen Flucht schwierig erscheint (z. B. Menschenmengen, öffentliche Verkehrsmittel) |\n| **Soziale Angststörung** | Ausgeprägte Furcht vor sozialer Bewertung und Blamage |\n| **Generalisierte Angststörung (GAS)** | Anhaltende, unkontrollierbare Sorgen über viele Lebensbereiche |\n| **Spezifische Phobien** | Starke Furcht vor einem bestimmten Objekt oder einer bestimmten Situation (z. B. Höhe, Tiere) |\n\n## Der Teufelskreis der Angst\n\nViele Angststörungen werden durch einen sich selbst verstärkenden Kreislauf aufrechterhalten (vgl. Lektion 18, KVT):\n\n1. Wahrnehmung körperlicher Symptome (z. B. Herzrasen)\n2. **Katastrophisierende Bewertung** (»Ich bekomme einen Herzinfarkt!«)\n3. Noch mehr Angst → noch stärkere Symptome\n4. Der Kreislauf schließt sich\n\n## Die Rolle der Vermeidung\n\n**Vermeidung** senkt die Angst kurzfristig, das ist negative Verstärkung im Sinne von Lektion 4. Langfristig verhindert sie aber, dass das Gehirn lernt: »Die Situation ist nicht gefährlich.« Deshalb bleibt die Störung bestehen oder wird stärker."
     },
     {
       "id": "step-zwangsstoerung",
       "type": "theory",
       "title": "Die Zwangsstörung (OCD)",
-      "body": "## Zwangsstörung — Obsessionen und Kompulsionen\n\nDie **Zwangsstörung (Obsessive-Compulsive Disorder — OCD)** ist durch zwei Kernelemente gekennzeichnet, die Fachleute klar unterscheiden:\n\n| Element | Beschreibung |\n|---|---|\n| **Zwangsgedanken (Obsessionen)** | Wiederkehrende, aufdringliche, unerwünschte Gedanken, Impulse oder Vorstellungen; werden als ich-fremd erlebt |\n| **Zwangshandlungen (Kompulsionen)** | Wiederholte Verhaltensweisen oder mentale Rituale (z. B. Kontrollieren, Waschen, Zählen), die ausgeführt werden, um die Anspannung durch Obsessionen zu verringern |\n\n### Der Teufelskreis des Zwangs\n\n```\nAufdringlicher Gedanke\n        ↓\n  Angst / Anspannung\n        ↓\n  Zwangshandlung\n        ↓\nKurzfristige Erleichterung\n        ↓\nVerstärkung der Kompulsion (negative Verstärkung)\n        ↑_________________________________↑\n```\n\nDie kurzfristige Erleichterung durch die Kompulsion verstärkt den Zwang — ein klassisches Konditionierungsmuster (vgl. Lektion 4). Die Zwangshandlung löst das Problem nicht, sondern erhält es aufrecht."
+      "body": "## Zwangsstörung - Obsessionen und Kompulsionen\n\nDie **Zwangsstörung (Obsessive-Compulsive Disorder, OCD)** ist durch zwei Kernelemente gekennzeichnet, die Fachleute klar unterscheiden:\n\n| Element | Beschreibung |\n|---|---|\n| **Zwangsgedanken (Obsessionen)** | Wiederkehrende, aufdringliche, unerwünschte Gedanken, Impulse oder Vorstellungen; werden als ich-fremd erlebt |\n| **Zwangshandlungen (Kompulsionen)** | Wiederholte Verhaltensweisen oder mentale Rituale (z. B. Kontrollieren, Waschen, Zählen), die ausgeführt werden, um die Anspannung durch Obsessionen zu verringern |\n\n### Der Teufelskreis des Zwangs\n\n```\nAufdringlicher Gedanke\n        ↓\n  Angst / Anspannung\n        ↓\n  Zwangshandlung\n        ↓\nKurzfristige Erleichterung\n        ↓\nVerstärkung der Kompulsion (negative Verstärkung)\n        ↑_________________________________↑\n```\n\nDie kurzfristige Erleichterung durch die Kompulsion verstärkt den Zwang, ein klassisches Konditionierungsmuster (vgl. Lektion 4). Die Zwangshandlung löst das Problem nicht, sondern erhält es aufrecht."
     },
     {
       "id": "step-behandlung",
       "type": "theory",
       "title": "Behandlung und Hilfe",
-      "body": "## Es gibt wirksame Behandlungen\n\nSowohl Angststörungen als auch die Zwangsstörung sind **gut behandelbar**. Das wichtigste psychologische Verfahren ist die:\n\n### Exposition mit Reaktionsverhinderung (Exposure and Response Prevention — ERP)\n\nDie Person sucht die angstauslösende Situation bewusst auf — und führt dabei **nicht** die gewohnte Vermeidungs- oder Zwangshandlung aus. Die Angst steigt zunächst, klingt dann aber von selbst ab (**Habituation**). Das Gehirn lernt: »Die Situation ist aushaltbar.«\n\n- Bei **Angststörungen**: schrittweise Konfrontation mit der gefürchteten Situation\n- Bei der **Zwangsstörung**: Obsession zulassen, ohne die Kompulsion auszuführen\n\n### Weitere Bausteine\n\n| Methode | Einsatz |\n|---|---|\n| **KVT** (kognitive Verhaltenstherapie, vgl. Lektion 18) | Veränderung katastrophisierender Gedanken |\n| **SSRIs** (Medikamente) | Ergänzend, in Absprache mit Ärztin/Arzt |\n| **Psychoedukation** | Störung verstehen — wie in dieser Lektion |\n\n## Anlaufstellen in Deutschland\n\n| Angebot | Kontakt |\n|---|---|\n| **Telefonseelsorge** (kostenlos, anonym, 24/7) | **116 123** |\n| **Hausärzt:in / psychotherapeutische Praxis** | erste Anlaufstelle |\n| **Ärztlicher Bereitschaftsdienst** | **116 117** |\n\nSich Hilfe zu holen ist keine Schwäche — Angststörungen und Zwangsstörungen sind bekannte, erforschte Erkrankungen, bei denen Therapie wirklich hilft."
+      "body": "## Es gibt wirksame Behandlungen\n\nSowohl Angststörungen als auch die Zwangsstörung sind **gut behandelbar**. Das wichtigste psychologische Verfahren ist die:\n\n### Exposition mit Reaktionsverhinderung (Exposure and Response Prevention - ERP)\n\nDie Person sucht die angstauslösende Situation bewusst auf, und führt dabei **nicht** die gewohnte Vermeidungs- oder Zwangshandlung aus. Die Angst steigt zunächst, klingt dann aber von selbst ab (**Habituation**). Das Gehirn lernt: »Die Situation ist aushaltbar.«\n\n- Bei **Angststörungen**: schrittweise Konfrontation mit der gefürchteten Situation\n- Bei der **Zwangsstörung**: Obsession zulassen, ohne die Kompulsion auszuführen\n\n### Weitere Bausteine\n\n| Methode | Einsatz |\n|---|---|\n| **KVT** (kognitive Verhaltenstherapie, vgl. Lektion 18) | Veränderung katastrophisierender Gedanken |\n| **SSRIs** (Medikamente) | Ergänzend, in Absprache mit Ärztin/Arzt |\n| **Psychoedukation** | Störung verstehen, wie in dieser Lektion |\n\n## Anlaufstellen in Deutschland\n\n| Angebot | Kontakt |\n|---|---|\n| **Telefonseelsorge** (kostenlos, anonym, 24/7) | **116 123** |\n| **Hausärzt:in / psychotherapeutische Praxis** | erste Anlaufstelle |\n| **Ärztlicher Bereitschaftsdienst** | **116 117** |\n\nSich Hilfe zu holen ist keine Schwäche, Angststörungen und Zwangsstörungen sind bekannte, erforschte Erkrankungen, bei denen Therapie wirklich hilft."
     },
     {
       "id": "ex-match-angststoerungen",
@@ -182,7 +182,7 @@
           { "accept": ["Bewertung"] }
         ],
         "cloze_mode": "type",
-        "hint": "Was man mit einem Gedanken über ein Symptom macht — positiv, neutral oder negativ."
+        "hint": "Was man mit einem Gedanken über ein Symptom macht, positiv, neutral oder negativ."
       }
     },
     {
@@ -242,7 +242,7 @@
           { "accept": ["negative"] }
         ],
         "cloze_mode": "type",
-        "hint": "Das Gegenteil von 'positiver Verstärkung' — ein unangenehmes Ereignis wird entfernt."
+        "hint": "Das Gegenteil von 'positiver Verstärkung', ein unangenehmes Ereignis wird entfernt."
       }
     },
     {
@@ -263,7 +263,7 @@
           "ERP",
           "Expositionstherapie"
         ],
-        "hint": "Das Kürzel lautet KVT — oder spezifisch: Exposition mit Reaktionsverhinderung.",
+        "hint": "Das Kürzel lautet KVT, oder spezifisch: Exposition mit Reaktionsverhinderung.",
         "distractors": ["Homöopathie", "Hypnose", "Aromatherapie"],
         "direction": "target_to_source"
       }

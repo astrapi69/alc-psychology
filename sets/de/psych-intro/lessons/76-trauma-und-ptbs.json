@@ -1,7 +1,7 @@
 {
   "id": "76-trauma-und-ptbs",
   "title": "Trauma und posttraumatische Belastungsstörung",
-  "description": "Was ein psychisches Trauma ist, wie sich eine posttraumatische Belastungsstörung (PTBS) äußert, welche Behandlungen helfen und wo man Unterstützung findet — informativ und respektvoll, auf Deutsch erklärt.",
+  "description": "Was ein psychisches Trauma ist, wie sich eine posttraumatische Belastungsstörung (PTBS) äußert, welche Behandlungen helfen und wo man Unterstützung findet, informativ und respektvoll, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -41,7 +41,7 @@
       "stable_id": "card-ms942qq21fljy",
       "front": "Posttraumatische Belastungsstörung (PTBS)",
       "back": "Eine mögliche Reaktion auf ein traumatisches Erlebnis, die über längere Zeit anhält und den Alltag deutlich beeinträchtigt.",
-      "notes": "Englisch: PTSD. Sie betrifft nur einen Teil der Betroffenen — viele erholen sich auch ohne Therapie.",
+      "notes": "Englisch: PTSD. Sie betrifft nur einen Teil der Betroffenen, viele erholen sich auch ohne Therapie.",
       "media_type": "text",
       "difficulty": 3,
       "hint": "Abkürzung für Posttraumatische Belastungsstörung.",
@@ -130,13 +130,13 @@
       "id": "intro",
       "type": "theory",
       "title": "Was ist ein Trauma?",
-      "body": "# Trauma und posttraumatische Belastungsstörung\n\n> **Wichtiger Hinweis:** Diese Lektion vermittelt Wissen und Verständnis. Sie **ersetzt keine professionelle Diagnose oder Behandlung**. Wenn dich dieses Thema belastet, sprich mit einer Ärztin, einer Psychotherapeutin oder einer Beratungsstelle — Anlaufstellen findest du am Ende.\n\nEin **psychisches Trauma** ist eine seelische Verletzung infolge eines **überwältigenden Ereignisses**, das die eigenen Bewältigungsmöglichkeiten übersteigt.\n\nZwei wichtige Klarstellungen:\n\n- Nicht jedes belastende Ereignis führt zu einem Trauma.\n- Nicht jedes Trauma führt zu einer Störung — **viele Menschen erholen sich**.\n\nMan unterscheidet das **Typ-I-Trauma** (ein einmaliges Ereignis) vom **Typ-II-Trauma** (wiederholte oder lang andauernde Belastung). Diese Lektion baut auf der klinischen Psychologie aus **Lektion 9** und der Stressreaktion aus **Lektion 12** auf."
+      "body": "# Trauma und posttraumatische Belastungsstörung\n\n> **Wichtiger Hinweis:** Diese Lektion vermittelt Wissen und Verständnis. Sie **ersetzt keine professionelle Diagnose oder Behandlung**. Wenn dich dieses Thema belastet, sprich mit einer Ärztin, einer Psychotherapeutin oder einer Beratungsstelle, Anlaufstellen findest du am Ende.\n\nEin **psychisches Trauma** ist eine seelische Verletzung infolge eines **überwältigenden Ereignisses**, das die eigenen Bewältigungsmöglichkeiten übersteigt.\n\nZwei wichtige Klarstellungen:\n\n- Nicht jedes belastende Ereignis führt zu einem Trauma.\n- Nicht jedes Trauma führt zu einer Störung, **viele Menschen erholen sich**.\n\nMan unterscheidet das **Typ-I-Trauma** (ein einmaliges Ereignis) vom **Typ-II-Trauma** (wiederholte oder lang andauernde Belastung). Diese Lektion baut auf der klinischen Psychologie aus **Lektion 9** und der Stressreaktion aus **Lektion 12** auf."
     },
     {
       "id": "step-ptbs",
       "type": "theory",
       "title": "Wie sich eine PTBS äußern kann",
-      "body": "## Posttraumatische Belastungsstörung\n\nEine **PTBS** ist eine **mögliche** Reaktion, die über längere Zeit anhält und den Alltag deutlich beeinträchtigt. Fachleute beschreiben dabei vier **Bereiche** von Beschwerden — hier zum **Verständnis**, nicht zur Selbsteinschätzung:\n\n| Bereich | Worum es geht |\n|---|---|\n| **Wiedererleben** | ungewollte Erinnerungen, Albträume, Flashbacks |\n| **Vermeidung** | Erinnerndes wird gemieden |\n| **Übererregung** | Schreckhaftigkeit, Reizbarkeit, Schlafprobleme |\n| **Denken & Stimmung** | negative Gedanken, Schuld, emotionale Taubheit |\n\nWichtig ist die zeitliche Einordnung: In den **ersten Tagen** ist eine starke **akute Belastungsreaktion** zunächst **normal** und klingt oft von selbst ab. Erst wenn Beschwerden **lange anhalten und stark belasten**, kann eine PTBS vorliegen — das einzuschätzen ist Aufgabe von **Fachleuten**, nicht von Checklisten."
+      "body": "## Posttraumatische Belastungsstörung\n\nEine **PTBS** ist eine **mögliche** Reaktion, die über längere Zeit anhält und den Alltag deutlich beeinträchtigt. Fachleute beschreiben dabei vier **Bereiche** von Beschwerden, hier zum **Verständnis**, nicht zur Selbsteinschätzung:\n\n| Bereich | Worum es geht |\n|---|---|\n| **Wiedererleben** | ungewollte Erinnerungen, Albträume, Flashbacks |\n| **Vermeidung** | Erinnerndes wird gemieden |\n| **Übererregung** | Schreckhaftigkeit, Reizbarkeit, Schlafprobleme |\n| **Denken & Stimmung** | negative Gedanken, Schuld, emotionale Taubheit |\n\nWichtig ist die zeitliche Einordnung: In den **ersten Tagen** ist eine starke **akute Belastungsreaktion** zunächst **normal** und klingt oft von selbst ab. Erst wenn Beschwerden **lange anhalten und stark belasten**, kann eine PTBS vorliegen, das einzuschätzen ist Aufgabe von **Fachleuten**, nicht von Checklisten."
     },
     {
       "id": "step-hilfe",
@@ -195,7 +195,7 @@
         "prompt": "Wie nennt man ein wiederholtes oder lang andauerndes Trauma (im Gegensatz zum einmaligen Typ-I-Trauma)?",
         "card_ids": ["typ1-typ2-trauma"],
         "accept": ["Typ-II-Trauma", "Typ 2 Trauma", "Typ-2-Trauma", "Typ II Trauma"],
-        "hint": "Die zweite Kategorie — eine römische Zwei.",
+        "hint": "Die zweite Kategorie, eine römische Zwei.",
         "distractors": ["Typ-I-Trauma", "akute Belastungsreaktion", "Hyperarousal"],
         "direction": "target_to_source"
       }

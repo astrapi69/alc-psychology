@@ -1,7 +1,7 @@
 {
   "id": "11-intelligenz-und-denken",
   "title": "Intelligenz und Denken",
-  "description": "Was Intelligenz ist, wie man sie misst, die wichtigsten Intelligenzmodelle sowie Denken, Problemlösen und typische Urteilsfehler — auf Deutsch erklärt.",
+  "description": "Was Intelligenz ist, wie man sie misst, die wichtigsten Intelligenzmodelle sowie Denken, Problemlösen und typische Urteilsfehler, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -12,7 +12,7 @@
       "stable_id": "card-ms942qox0fd8v",
       "front": "Intelligenz (Intelligence)",
       "back": "Die Fähigkeit, zu lernen, Probleme zu lösen, sich anzupassen und aus Erfahrung Nutzen zu ziehen.",
-      "notes": "Es gibt keine einzige, allgemein akzeptierte Definition — aber Lernen und Problemlösen stehen im Kern.",
+      "notes": "Es gibt keine einzige, allgemein akzeptierte Definition, aber Lernen und Problemlösen stehen im Kern.",
       "media_type": "text",
       "difficulty": 1,
       "tags": ["grundlagen", "intelligenz"]
@@ -42,7 +42,7 @@
       "id": "fluide-intelligenz",
       "stable_id": "card-ms942qox0fgoo",
       "front": "Fluide Intelligenz",
-      "back": "Die Fähigkeit, neue Probleme logisch zu lösen — unabhängig von erworbenem Wissen. Nimmt im höheren Alter eher ab.",
+      "back": "Die Fähigkeit, neue Probleme logisch zu lösen, unabhängig von erworbenem Wissen. Nimmt im höheren Alter eher ab.",
       "notes": "Von Cattell. 'Fluid' = beweglich, schnell.",
       "media_type": "text",
       "difficulty": 3,
@@ -82,7 +82,7 @@
       "id": "denken",
       "stable_id": "card-ms942qox0fkpa",
       "front": "Denken (Cognition / Thinking)",
-      "back": "Das innere Verarbeiten und Manipulieren von Informationen — etwa beim Schlussfolgern, Urteilen und Entscheiden.",
+      "back": "Das innere Verarbeiten und Manipulieren von Informationen, etwa beim Schlussfolgern, Urteilen und Entscheiden.",
       "media_type": "text",
       "difficulty": 1,
       "tags": ["denken", "grundlagen"]
@@ -91,7 +91,7 @@
       "id": "algorithmus",
       "stable_id": "card-ms942qox0flam",
       "front": "Algorithmus",
-      "back": "Ein schrittweises Verfahren, das bei korrekter Anwendung garantiert zur Lösung führt — aber langsam sein kann.",
+      "back": "Ein schrittweises Verfahren, das bei korrekter Anwendung garantiert zur Lösung führt, aber langsam sein kann.",
       "notes": "Beispiel: alle Buchstabenkombinationen systematisch durchprobieren.",
       "media_type": "text",
       "difficulty": 2,
@@ -102,7 +102,7 @@
       "id": "heuristik",
       "stable_id": "card-ms942qox0fmy1",
       "front": "Heuristik (Heuristic)",
-      "back": "Eine geistige Faustregel, die schnell zu einer Lösung führt — aber nicht immer zur richtigen.",
+      "back": "Eine geistige Faustregel, die schnell zu einer Lösung führt, aber nicht immer zur richtigen.",
       "notes": "Spart Zeit, kann jedoch zu systematischen Fehlern führen.",
       "media_type": "text",
       "difficulty": 2,
@@ -133,7 +133,7 @@
       "stable_id": "card-ms942qox0fpe6",
       "front": "Kreativität (Creativity)",
       "back": "Die Fähigkeit, neuartige und zugleich nützliche Ideen oder Lösungen hervorzubringen.",
-      "notes": "Eng verbunden mit divergentem Denken — viele verschiedene Lösungen erzeugen.",
+      "notes": "Eng verbunden mit divergentem Denken, viele verschiedene Lösungen erzeugen.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["denken", "kreativitaet"]
@@ -144,7 +144,7 @@
       "id": "intro",
       "type": "theory",
       "title": "Intelligenz definieren und messen",
-      "body": "# Intelligenz und Denken\n\n**Intelligenz** ist die Fähigkeit, *zu lernen, Probleme zu lösen und sich an neue Situationen anzupassen*. Eine einzige, allgemein akzeptierte Definition gibt es nicht — aber Lernen und Problemlösen stehen immer im Kern.\n\n## Der IQ\n\nGemessen wird Intelligenz oft als **Intelligenzquotient (IQ)**. Der IQ vergleicht eine Person mit ihrer Altersgruppe:\n\n- Der **Mittelwert** liegt definitionsgemäß bei **100**.\n- Rund **zwei Drittel** aller Menschen liegen zwischen **85 und 115**.\n\nWichtig: Ein IQ-Test misst bestimmte geistige Fähigkeiten unter Testbedingungen — nicht den 'Wert' eines Menschen."
+      "body": "# Intelligenz und Denken\n\n**Intelligenz** ist die Fähigkeit, *zu lernen, Probleme zu lösen und sich an neue Situationen anzupassen*. Eine einzige, allgemein akzeptierte Definition gibt es nicht, aber Lernen und Problemlösen stehen immer im Kern.\n\n## Der IQ\n\nGemessen wird Intelligenz oft als **Intelligenzquotient (IQ)**. Der IQ vergleicht eine Person mit ihrer Altersgruppe:\n\n- Der **Mittelwert** liegt definitionsgemäß bei **100**.\n- Rund **zwei Drittel** aller Menschen liegen zwischen **85 und 115**.\n\nWichtig: Ein IQ-Test misst bestimmte geistige Fähigkeiten unter Testbedingungen, nicht den 'Wert' eines Menschen."
     },
     {
       "id": "step-modelle",
@@ -156,7 +156,7 @@
       "id": "step-denken",
       "type": "theory",
       "title": "Denken, Problemlösen und Urteilsfehler",
-      "body": "## Zwei Wege zur Lösung\n\nBeim **Problemlösen** unterscheidet man:\n\n- **Algorithmus** — ein schrittweises Verfahren, das die Lösung **garantiert**, aber langsam sein kann.\n- **Heuristik** — eine **Faustregel**, die schnell zu einer Lösung führt, aber nicht immer zur richtigen.\n\n## Wenn Abkürzungen in die Irre führen\n\nHeuristiken sparen Zeit, erzeugen aber **systematische Denkfehler**:\n\n- **Verfügbarkeitsheuristik** — wir halten etwas für häufig, wenn uns leicht Beispiele einfallen (deshalb wirken seltene, spektakuläre Gefahren größer, als sie sind).\n- **Bestätigungsfehler (Confirmation Bias)** — wir suchen vor allem nach Belegen, die unsere Meinung **bestätigen**.\n\nGanz anders gelagert ist **Kreativität**: das Hervorbringen neuartiger *und* nützlicher Ideen — eng verbunden mit divergentem Denken."
+      "body": "## Zwei Wege zur Lösung\n\nBeim **Problemlösen** unterscheidet man:\n\n- **Algorithmus**, ein schrittweises Verfahren, das die Lösung **garantiert**, aber langsam sein kann.\n- **Heuristik**, eine **Faustregel**, die schnell zu einer Lösung führt, aber nicht immer zur richtigen.\n\n## Wenn Abkürzungen in die Irre führen\n\nHeuristiken sparen Zeit, erzeugen aber **systematische Denkfehler**:\n\n- **Verfügbarkeitsheuristik**, wir halten etwas für häufig, wenn uns leicht Beispiele einfallen (deshalb wirken seltene, spektakuläre Gefahren größer, als sie sind).\n- **Bestätigungsfehler (Confirmation Bias)**, wir suchen vor allem nach Belegen, die unsere Meinung **bestätigen**.\n\nGanz anders gelagert ist **Kreativität**: das Hervorbringen neuartiger *und* nützlicher Ideen, eng verbunden mit divergentem Denken."
     },
     {
       "id": "ex-cloze-iq",
@@ -247,7 +247,7 @@
           { "accept": ["Verfügbarkeitsheuristik", "Verfuegbarkeitsheuristik"] }
         ],
         "cloze_mode": "type",
-        "hint": "Vom Wort 'verfügbar' — wie leicht etwas abrufbar ist."
+        "hint": "Vom Wort 'verfügbar', wie leicht etwas abrufbar ist."
       }
     },
     {

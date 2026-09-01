@@ -1,7 +1,7 @@
 {
   "id": "39-wissenschaftstheorie-und-ethik",
   "title": "Wissenschaftstheorie und Forschungsethik",
-  "description": "Philosophie der Wissenschaft und Ethik der Forschung: Falsifikationismus, Empirismus, deduktives vs. induktives Schließen, Operationalisierung, Replikationskrise sowie die ethischen Prinzipien der Psychologie — auf Deutsch erklärt.",
+  "description": "Philosophie der Wissenschaft und Ethik der Forschung: Falsifikationismus, Empirismus, deduktives vs. induktives Schließen, Operationalisierung, Replikationskrise sowie die ethischen Prinzipien der Psychologie, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -11,7 +11,7 @@
       "id": "falsifikationismus",
       "stable_id": "card-ms942qpf0vv02",
       "front": "Falsifikationismus (Falsificationism)",
-      "back": "Poppers Kriterium für eine gute wissenschaftliche Theorie: Sie muss durch mögliche Befunde widerlegbar (falsifizierbar) sein — eine Theorie, die alles erklären kann, erklärt nichts.",
+      "back": "Poppers Kriterium für eine gute wissenschaftliche Theorie: Sie muss durch mögliche Befunde widerlegbar (falsifizierbar) sein, eine Theorie, die alles erklären kann, erklärt nichts.",
       "notes": "Verknüpft mit Lektion 21: Eine Hypothese muss grundsätzlich falsifizierbar sein.",
       "media_type": "text",
       "difficulty": 2,
@@ -22,7 +22,7 @@
       "id": "empirismus",
       "stable_id": "card-ms942qpf0vw4v",
       "front": "Empirismus (Empiricism)",
-      "back": "Erkenntnistheoretische Position, dass Wissen aus Erfahrung und Beobachtung stammt — nicht aus reinem Vernunftdenken.",
+      "back": "Erkenntnistheoretische Position, dass Wissen aus Erfahrung und Beobachtung stammt, nicht aus reinem Vernunftdenken.",
       "notes": "Grundlage der empirischen Methode (Lektion 21).",
       "media_type": "text",
       "difficulty": 2,
@@ -43,7 +43,7 @@
       "id": "operationalisierung-bruecke",
       "stable_id": "card-ms942qpf0vy7f",
       "front": "Operationalisierung als Brücke",
-      "back": "Operationalisierung macht abstrakte Konstrukte messbar, indem sie sie durch konkrete Indikatoren festlegt — sie bildet die Brücke zwischen Theorie und Messung.",
+      "back": "Operationalisierung macht abstrakte Konstrukte messbar, indem sie sie durch konkrete Indikatoren festlegt, sie bildet die Brücke zwischen Theorie und Messung.",
       "notes": "Eingeführt in Lektion 21: z. B. 'Stress' operationalisiert über den Cortisolwert.",
       "media_type": "text",
       "difficulty": 3,
@@ -53,7 +53,7 @@
       "id": "replikationskrise",
       "stable_id": "card-ms942qpf0vzr6",
       "front": "Replikationskrise (Replication Crisis)",
-      "back": "Die Entdeckung, dass viele klassische Befunde der Psychologie sich in Wiederholungsstudien nicht bestätigen ließen — ausgelöst u. a. durch p-Hacking und Publikationsbias.",
+      "back": "Die Entdeckung, dass viele klassische Befunde der Psychologie sich in Wiederholungsstudien nicht bestätigen ließen, ausgelöst u. a. durch p-Hacking und Publikationsbias.",
       "notes": "Bezug zu Lektion 21 (Replikation). Begann öffentlich ca. 2011 mit dem Open Science Collaboration-Projekt.",
       "media_type": "text",
       "difficulty": 4,
@@ -63,7 +63,7 @@
       "id": "p-hacking",
       "stable_id": "card-ms942qpf0w0t1",
       "front": "p-Hacking",
-      "back": "Das (oft unbewusste) Anpassen von Analysen, Stichproben oder Messzeitpunkten, bis der p-Wert unter die Signifikanzgrenze fällt — aufblähen statistisch signifikanter Ergebnisse.",
+      "back": "Das (oft unbewusste) Anpassen von Analysen, Stichproben oder Messzeitpunkten, bis der p-Wert unter die Signifikanzgrenze fällt, aufblähen statistisch signifikanter Ergebnisse.",
       "notes": "Mitursache der Replikationskrise.",
       "media_type": "text",
       "difficulty": 4,
@@ -73,7 +73,7 @@
       "id": "publikationsbias",
       "stable_id": "card-ms942qpf0w1k4",
       "front": "Publikationsbias (Publication Bias)",
-      "back": "Tendenz, dass positive Befunde leichter veröffentlicht werden als Null-Ergebnisse — dies verzerrt das wissenschaftliche Bild einer Forschungsfrage.",
+      "back": "Tendenz, dass positive Befunde leichter veröffentlicht werden als Null-Ergebnisse, dies verzerrt das wissenschaftliche Bild einer Forschungsfrage.",
       "media_type": "text",
       "difficulty": 4,
       "tags": ["methodenkritik", "replikation"]
@@ -82,7 +82,7 @@
       "id": "informierte-einwilligung",
       "stable_id": "card-ms942qpf0w2zx",
       "front": "Informierte Einwilligung (Informed Consent)",
-      "back": "Teilnehmende müssen vor einer Studie umfassend informiert werden und freiwillig zustimmen — ein Grundprinzip der Forschungsethik.",
+      "back": "Teilnehmende müssen vor einer Studie umfassend informiert werden und freiwillig zustimmen, ein Grundprinzip der Forschungsethik.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["forschungsethik", "ethik"]
@@ -91,7 +91,7 @@
       "id": "debriefing",
       "stable_id": "card-ms942qpf0w3qx",
       "front": "Aufklärung / Debriefing (Debriefing)",
-      "back": "Nach der Studie werden Teilnehmende vollständig über Zweck und Vorgehen aufgeklärt — besonders wichtig nach Täuschungsstudien.",
+      "back": "Nach der Studie werden Teilnehmende vollständig über Zweck und Vorgehen aufgeklärt, besonders wichtig nach Täuschungsstudien.",
       "notes": "Klassisches Beispiel: Milgrams Gehorsamkeitsstudien (Lektion 7/33).",
       "media_type": "text",
       "difficulty": 3,
@@ -119,7 +119,7 @@
       "id": "recht-auf-abbruch",
       "stable_id": "card-ms942qpf0w6ty",
       "front": "Recht auf Abbruch (Right to Withdraw)",
-      "back": "Teilnehmende dürfen jederzeit und ohne Nachteile aus einer Studie aussteigen — auch nachdem sie zugestimmt haben.",
+      "back": "Teilnehmende dürfen jederzeit und ohne Nachteile aus einer Studie aussteigen, auch nachdem sie zugestimmt haben.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["forschungsethik", "ethik"]
@@ -128,7 +128,7 @@
       "id": "ethikkommission",
       "stable_id": "card-ms942qpf0w7se",
       "front": "Ethikkommission (Institutional Review Board / IRB)",
-      "back": "Unabhängiges Gremium, das Forschungsvorhaben prüft und genehmigt, bevor Daten erhoben werden — wacht über die Einhaltung ethischer Standards.",
+      "back": "Unabhängiges Gremium, das Forschungsvorhaben prüft und genehmigt, bevor Daten erhoben werden, wacht über die Einhaltung ethischer Standards.",
       "notes": "Ohne Ethikvotum sind Studien heute in der Regel nicht publizierbar.",
       "media_type": "text",
       "difficulty": 3,
@@ -140,19 +140,19 @@
       "id": "intro-wissenschaftstheorie",
       "type": "theory",
       "title": "Was macht eine gute Theorie? Popper und der Empirismus",
-      "body": "# Wissenschaftstheorie und Forschungsethik\n\nIn **Lektion 21** (Forschungsmethoden) hast du die empirische Methode, Hypothesen und Replikation kennengelernt. Diese Lektion fragt tiefer: *Wann ist eine Theorie überhaupt wissenschaftlich?*\n\n## Falsifikationismus — Popper\n\n**Karl Popper** stellte eine einfache, aber weitreichende Forderung: Eine wissenschaftliche Theorie muss **falsifizierbar** sein — es muss einen möglichen Befund geben, der sie widerlegen könnte.\n\n> **Beispiel:** 'Alle Schwäne sind weiß' ist wissenschaftlich, weil ein schwarzer Schwan sie widerlegen würde. 'Menschen handeln immer so, wie es situationsbedingt angemessen ist' ist es nicht — sie ist nicht widerlegbar.\n\n## Empirismus und Schlussrichtungen\n\nDer **Empirismus** besagt, dass Wissen aus Erfahrung stammt. Die Psychologie ist empirisch: Sie schließt aus Beobachtung.\n\n| Schlussrichtung | Richtung | Ablauf |\n|---|---|---|\n| **deduktiv** | Theorie → Hypothese | Aus einer allgemeinen Theorie wird eine konkrete, prüfbare Vorhersage abgeleitet |\n| **induktiv** | Beobachtung → Theorie | Aus vielen Einzelfällen wird eine allgemeine Schlussfolgerung gezogen |\n\nDie wissenschaftliche Psychologie arbeitet vorwiegend **deduktiv-hypothesentestend**: Man hat eine Theorie, leitet Hypothesen ab und prüft sie (vgl. Lektion 21)."
+      "body": "# Wissenschaftstheorie und Forschungsethik\n\nIn **Lektion 21** (Forschungsmethoden) hast du die empirische Methode, Hypothesen und Replikation kennengelernt. Diese Lektion fragt tiefer: *Wann ist eine Theorie überhaupt wissenschaftlich?*\n\n## Falsifikationismus - Popper\n\n**Karl Popper** stellte eine einfache, aber weitreichende Forderung: Eine wissenschaftliche Theorie muss **falsifizierbar** sein, es muss einen möglichen Befund geben, der sie widerlegen könnte.\n\n> **Beispiel:** 'Alle Schwäne sind weiß' ist wissenschaftlich, weil ein schwarzer Schwan sie widerlegen würde. 'Menschen handeln immer so, wie es situationsbedingt angemessen ist' ist es nicht, sie ist nicht widerlegbar.\n\n## Empirismus und Schlussrichtungen\n\nDer **Empirismus** besagt, dass Wissen aus Erfahrung stammt. Die Psychologie ist empirisch: Sie schließt aus Beobachtung.\n\n| Schlussrichtung | Richtung | Ablauf |\n|---|---|---|\n| **deduktiv** | Theorie → Hypothese | Aus einer allgemeinen Theorie wird eine konkrete, prüfbare Vorhersage abgeleitet |\n| **induktiv** | Beobachtung → Theorie | Aus vielen Einzelfällen wird eine allgemeine Schlussfolgerung gezogen |\n\nDie wissenschaftliche Psychologie arbeitet vorwiegend **deduktiv-hypothesentestend**: Man hat eine Theorie, leitet Hypothesen ab und prüft sie (vgl. Lektion 21)."
     },
     {
       "id": "step-replikationskrise",
       "type": "theory",
       "title": "Operationalisierung und die Replikationskrise",
-      "body": "## Operationalisierung als Brücke\n\nJede Theorie bleibt abstrakt, solange ihre Konzepte nicht messbar sind. Die **Operationalisierung** (Lektion 21) schlägt die Brücke: Sie legt fest, *wie* ein Konstrukt gemessen wird.\n\n> 'Aggression' → operationalisiert als Anzahl lauter Töne, die eine Person gegen eine andere einsetzt.\n\nOhne klare Operationalisierung kann eine Studie nicht repliziert werden — denn andere Forschende wissen nicht, was genau gemessen wurde.\n\n## Die Replikationskrise\n\nAb ca. 2011 erschütterte die **Replikationskrise** die Psychologie: Viele klassische Befunde ließen sich in unabhängigen Wiederholungsstudien *nicht* bestätigen.\n\n| Ursache | Erklärung |\n|---|---|\n| **p-Hacking** | Analysen werden so lange angepasst, bis p < .05 — zufällige Muster werden als Befunde interpretiert |\n| **Publikationsbias** | Nur positive Ergebnisse werden veröffentlicht — Null-Ergebnisse verschwinden in der Schublade |\n| **Kleine Stichproben** | Zu geringe Teststärke — zufällige Ausreißer führen zu falschen Schlüssen |\n\nDie Reaktion: offene Daten, präregistrierte Studien und Replikationsinitiativen (Open Science)."
+      "body": "## Operationalisierung als Brücke\n\nJede Theorie bleibt abstrakt, solange ihre Konzepte nicht messbar sind. Die **Operationalisierung** (Lektion 21) schlägt die Brücke: Sie legt fest, *wie* ein Konstrukt gemessen wird.\n\n> 'Aggression' → operationalisiert als Anzahl lauter Töne, die eine Person gegen eine andere einsetzt.\n\nOhne klare Operationalisierung kann eine Studie nicht repliziert werden, denn andere Forschende wissen nicht, was genau gemessen wurde.\n\n## Die Replikationskrise\n\nAb ca. 2011 erschütterte die **Replikationskrise** die Psychologie: Viele klassische Befunde ließen sich in unabhängigen Wiederholungsstudien *nicht* bestätigen.\n\n| Ursache | Erklärung |\n|---|---|\n| **p-Hacking** | Analysen werden so lange angepasst, bis p < .05, zufällige Muster werden als Befunde interpretiert |\n| **Publikationsbias** | Nur positive Ergebnisse werden veröffentlicht, Null-Ergebnisse verschwinden in der Schublade |\n| **Kleine Stichproben** | Zu geringe Teststärke, zufällige Ausreißer führen zu falschen Schlüssen |\n\nDie Reaktion: offene Daten, präregistrierte Studien und Replikationsinitiativen (Open Science)."
     },
     {
       "id": "step-forschungsethik",
       "type": "theory",
       "title": "Forschungsethik: Prinzipien und Praxis",
-      "body": "## Warum Ethik in der Forschung?\n\nKlassische Studien — etwa **Milgrams Gehorsamkeitsexperiment** (Lektion 7/33) — haben gezeigt, was passiert, wenn ethische Grenzen fehlen: Teilnehmende erlebten erheblichen psychischen Stress. Heute gelten verbindliche Prinzipien.\n\n## Die fünf ethischen Kernprinzipien\n\n| Prinzip | Bedeutung |\n|---|---|\n| **Informierte Einwilligung** | Vollständige Information *vor* der Studie und freiwillige Zustimmung |\n| **Debriefing (Aufklärung)** | Vollständige Aufklärung *nach* der Studie — besonders nach Täuschung |\n| **Schutz vor Schaden** | Kein körperlicher oder psychischer Schaden durch die Teilnahme |\n| **Anonymität / Vertraulichkeit** | Daten dürfen nicht auf einzelne Personen zurückführbar sein |\n| **Recht auf Abbruch** | Teilnehmende dürfen jederzeit ohne Nachteile aussteigen |\n\n## Die Ethikkommission\n\nBevor Daten erhoben werden, prüft eine **Ethikkommission** (auch: Institutional Review Board, IRB) das Studiendesign. Ohne positives Ethikvotum ist eine Veröffentlichung in Fachzeitschriften heute kaum möglich."
+      "body": "## Warum Ethik in der Forschung?\n\nKlassische Studien, etwa **Milgrams Gehorsamkeitsexperiment** (Lektion 7/33), haben gezeigt, was passiert, wenn ethische Grenzen fehlen: Teilnehmende erlebten erheblichen psychischen Stress. Heute gelten verbindliche Prinzipien.\n\n## Die fünf ethischen Kernprinzipien\n\n| Prinzip | Bedeutung |\n|---|---|\n| **Informierte Einwilligung** | Vollständige Information *vor* der Studie und freiwillige Zustimmung |\n| **Debriefing (Aufklärung)** | Vollständige Aufklärung *nach* der Studie, besonders nach Täuschung |\n| **Schutz vor Schaden** | Kein körperlicher oder psychischer Schaden durch die Teilnahme |\n| **Anonymität / Vertraulichkeit** | Daten dürfen nicht auf einzelne Personen zurückführbar sein |\n| **Recht auf Abbruch** | Teilnehmende dürfen jederzeit ohne Nachteile aussteigen |\n\n## Die Ethikkommission\n\nBevor Daten erhoben werden, prüft eine **Ethikkommission** (auch: Institutional Review Board, IRB) das Studiendesign. Ohne positives Ethikvotum ist eine Veröffentlichung in Fachzeitschriften heute kaum möglich."
     },
     {
       "id": "ex-cloze-popper",
@@ -165,7 +165,7 @@
         "type": "cloze",
         "prompt": "Ergänze das Schlüsselwort für Poppers Kriterium an eine wissenschaftliche Theorie.",
         "card_ids": ["falsifikationismus"],
-        "sentence": "Nach Popper muss eine gute Theorie ___ sein — es muss einen Befund geben, der sie widerlegen könnte.",
+        "sentence": "Nach Popper muss eine gute Theorie ___ sein, es muss einen Befund geben, der sie widerlegen könnte.",
         "blanks": [
           { "accept": ["falsifizierbar", "widerlegbar"] }
         ],

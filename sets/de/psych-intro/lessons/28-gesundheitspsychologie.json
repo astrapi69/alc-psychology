@@ -1,7 +1,7 @@
 {
   "id": "28-gesundheitspsychologie",
   "title": "Gesundheitspsychologie",
-  "description": "Das Anwendungsfach Gesundheitspsychologie: biopsychosoziales Modell, Salutogenese und Kohärenzsinn, Gesundheitsverhalten, Prävention, Verhaltensänderung, Coping und soziale Unterstützung sowie Adhärenz — auf Deutsch erklärt.",
+  "description": "Das Anwendungsfach Gesundheitspsychologie: biopsychosoziales Modell, Salutogenese und Kohärenzsinn, Gesundheitsverhalten, Prävention, Verhaltensänderung, Coping und soziale Unterstützung sowie Adhärenz, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -40,11 +40,11 @@
       "id": "salutogenese",
       "stable_id": "card-ms942qp90q10w",
       "front": "Salutogenese (Salutogenesis)",
-      "back": "Konzept des Medizinsoziologen Aaron Antonovsky: statt zu fragen 'Was macht krank?' (Pathogenese) fragt die Salutogenese 'Was hält gesund?' — also welche Ressourcen und Faktoren zur Gesundheit beitragen.",
+      "back": "Konzept des Medizinsoziologen Aaron Antonovsky: statt zu fragen 'Was macht krank?' (Pathogenese) fragt die Salutogenese 'Was hält gesund?', also welche Ressourcen und Faktoren zur Gesundheit beitragen.",
       "notes": "Salut = Gesundheit (lat./frz.), Genesis = Entstehung.",
       "media_type": "text",
       "difficulty": 3,
-      "hint": "Von Antonovsky — 'Was hält Menschen gesund?'",
+      "hint": "Von Antonovsky, 'Was hält Menschen gesund?'",
       "tags": ["theorie", "person"]
     },
     {
@@ -70,7 +70,7 @@
       "id": "transtheoretisches-modell",
       "stable_id": "card-ms942qp90q4d0",
       "front": "Transtheoretisches Modell / Stufenmodell (Transtheoretical Model, TTM)",
-      "back": "Modell der Verhaltensänderung von Prochaska und DiClemente: Menschen durchlaufen fünf Stufen — Absichtslosigkeit, Absichtsbildung, Vorbereitung, Handlung, Aufrechterhaltung — bevor eine Verhaltensänderung stabil ist.",
+      "back": "Modell der Verhaltensänderung von Prochaska und DiClemente: Menschen durchlaufen fünf Stufen, Absichtslosigkeit, Absichtsbildung, Vorbereitung, Handlung, Aufrechterhaltung, bevor eine Verhaltensänderung stabil ist.",
       "notes": "Auch als 'Stages of Change' bekannt. Wichtig: Man kann Stufen überspringen oder zurückfallen.",
       "media_type": "text",
       "difficulty": 4,
@@ -91,7 +91,7 @@
       "id": "soziale-unterstuetzung",
       "stable_id": "card-ms942qp90q6my",
       "front": "Soziale Unterstützung (Social Support)",
-      "back": "Hilfe und Rückhalt durch das soziale Umfeld — emotional (Zuwendung, Empathie), informationell (Rat, Wissen) und instrumentell (praktische Hilfe). Soziale Unterstützung puffert Stressfolgen und fördert Genesung.",
+      "back": "Hilfe und Rückhalt durch das soziale Umfeld, emotional (Zuwendung, Empathie), informationell (Rat, Wissen) und instrumentell (praktische Hilfe). Soziale Unterstützung puffert Stressfolgen und fördert Genesung.",
       "notes": "Starker Schutzfaktor; fehlendes soziales Netz gilt als gesundheitliches Risiko.",
       "media_type": "text",
       "difficulty": 3,
@@ -111,7 +111,7 @@
       "id": "primärprävention",
       "stable_id": "card-ms942qp90q8ei",
       "front": "Primärprävention",
-      "back": "Maßnahmen, die das Auftreten von Krankheiten verhindern, bevor sie entstehen — z. B. Impfungen, Aufklärungskampagnen zu Rauchen oder Bewegungsförderung.",
+      "back": "Maßnahmen, die das Auftreten von Krankheiten verhindern, bevor sie entstehen, z. B. Impfungen, Aufklärungskampagnen zu Rauchen oder Bewegungsförderung.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["prävention"]
@@ -120,7 +120,7 @@
       "id": "sekundaerprävention",
       "stable_id": "card-ms942qp90q9mq",
       "front": "Sekundärprävention",
-      "back": "Früherkennung und Frühbehandlung von Krankheiten, um ihre Ausbreitung oder Verschlimmerung zu verhindern — z. B. Krebs-Screening, Blutdruckmessung.",
+      "back": "Früherkennung und Frühbehandlung von Krankheiten, um ihre Ausbreitung oder Verschlimmerung zu verhindern, z. B. Krebs-Screening, Blutdruckmessung.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["prävention"]
@@ -129,7 +129,7 @@
       "id": "tertiärprävention",
       "stable_id": "card-ms942qp90qadb",
       "front": "Tertiärprävention",
-      "back": "Maßnahmen bei bereits bestehender Erkrankung, die Rückfälle verhüten und Folgeschäden mindern — z. B. Rehabilitation nach Herzinfarkt, Rückfallprävention bei Sucht.",
+      "back": "Maßnahmen bei bereits bestehender Erkrankung, die Rückfälle verhüten und Folgeschäden mindern, z. B. Rehabilitation nach Herzinfarkt, Rückfallprävention bei Sucht.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["prävention"]
@@ -140,19 +140,19 @@
       "id": "intro-gesundheitspsychologie",
       "type": "theory",
       "title": "Was ist Gesundheitspsychologie?",
-      "body": "# Gesundheitspsychologie\n\nIn **Lektion 12** ging es um Stress und Bewältigung. Die **Gesundheitspsychologie** (Health Psychology) geht weiter: Sie untersucht umfassend, wie Verhalten, Psyche und soziales Umfeld Gesundheit beeinflussen — also nicht nur Stressreaktionen, sondern das gesamte Gesundheitsgeschehen.\n\n## Das biopsychosoziale Modell\n\nDas wichtigste Rahmenmodell der Gesundheitspsychologie ist das **biopsychosoziale Modell**. Es besagt, dass Gesundheit immer aus dem **Zusammenspiel dreier Faktorgruppen** entsteht:\n\n| Faktorgruppe | Beispiele |\n|---|---|\n| **Biologisch** | Gene, Immunsystem, Hormonhaushalt, Alter |\n| **Psychisch** | Gedanken, Emotionen, Stressbewältigung, Persönlichkeit |\n| **Sozial** | Familie, soziale Unterstützung, Armut, Bildung |\n\n> Dieses Modell ersetzt das ältere **biomedizinische Modell**, das Krankheit rein als körperliches Problem betrachtete und psychische sowie soziale Einflüsse weitgehend ignorierte."
+      "body": "# Gesundheitspsychologie\n\nIn **Lektion 12** ging es um Stress und Bewältigung. Die **Gesundheitspsychologie** (Health Psychology) geht weiter: Sie untersucht umfassend, wie Verhalten, Psyche und soziales Umfeld Gesundheit beeinflussen, also nicht nur Stressreaktionen, sondern das gesamte Gesundheitsgeschehen.\n\n## Das biopsychosoziale Modell\n\nDas wichtigste Rahmenmodell der Gesundheitspsychologie ist das **biopsychosoziale Modell**. Es besagt, dass Gesundheit immer aus dem **Zusammenspiel dreier Faktorgruppen** entsteht:\n\n| Faktorgruppe | Beispiele |\n|---|---|\n| **Biologisch** | Gene, Immunsystem, Hormonhaushalt, Alter |\n| **Psychisch** | Gedanken, Emotionen, Stressbewältigung, Persönlichkeit |\n| **Sozial** | Familie, soziale Unterstützung, Armut, Bildung |\n\n> Dieses Modell ersetzt das ältere **biomedizinische Modell**, das Krankheit rein als körperliches Problem betrachtete und psychische sowie soziale Einflüsse weitgehend ignorierte."
     },
     {
       "id": "step-salutogenese-praevention",
       "type": "theory",
       "title": "Salutogenese, Kohärenzsinn und Prävention",
-      "body": "## Salutogenese — Was hält gesund?\n\nDer Medizinsoziologe **Aaron Antonovsky** entwickelte das Konzept der **Salutogenese**: Statt zu fragen *'Was macht krank?'* (Pathogenese) fragt er *'Was hält Menschen gesund?'* Zentral dabei ist der **Kohärenzsinn** (Sense of Coherence) — eine Grundhaltung aus drei Komponenten:\n\n| Komponente | Bedeutung |\n|---|---|\n| **Verstehbarkeit** | Die Welt erscheint geordnet und erklärbar |\n| **Bewältigbarkeit** | Man vertraut darauf, Ressourcen mobilisieren zu können |\n| **Bedeutsamkeit** | Das Leben erscheint sinnhaft und es lohnt sich, Energie zu investieren |\n\nEin hoher Kohärenzsinn gilt als wichtiger **Schutzfaktor** (Resilienz).\n\n## Prävention\n\nPrävention umfasst alle Maßnahmen, die Krankheit verhüten oder abmildern:\n\n| Stufe | Ziel | Beispiel |\n|---|---|---|\n| **Primärprävention** | Krankheit verhindern | Impfung, Aufklärung über Rauchen |\n| **Sekundärprävention** | Früherkennung | Krebs-Screening, Blutdruckkontrolle |\n| **Tertiärprävention** | Folgen mindern | Reha nach Herzinfarkt |"
+      "body": "## Salutogenese - Was hält gesund?\n\nDer Medizinsoziologe **Aaron Antonovsky** entwickelte das Konzept der **Salutogenese**: Statt zu fragen *'Was macht krank?'* (Pathogenese) fragt er *'Was hält Menschen gesund?'* Zentral dabei ist der **Kohärenzsinn** (Sense of Coherence), eine Grundhaltung aus drei Komponenten:\n\n| Komponente | Bedeutung |\n|---|---|\n| **Verstehbarkeit** | Die Welt erscheint geordnet und erklärbar |\n| **Bewältigbarkeit** | Man vertraut darauf, Ressourcen mobilisieren zu können |\n| **Bedeutsamkeit** | Das Leben erscheint sinnhaft und es lohnt sich, Energie zu investieren |\n\nEin hoher Kohärenzsinn gilt als wichtiger **Schutzfaktor** (Resilienz).\n\n## Prävention\n\nPrävention umfasst alle Maßnahmen, die Krankheit verhüten oder abmildern:\n\n| Stufe | Ziel | Beispiel |\n|---|---|---|\n| **Primärprävention** | Krankheit verhindern | Impfung, Aufklärung über Rauchen |\n| **Sekundärprävention** | Früherkennung | Krebs-Screening, Blutdruckkontrolle |\n| **Tertiärprävention** | Folgen mindern | Reha nach Herzinfarkt |"
     },
     {
       "id": "step-verhaltensaenderung-coping",
       "type": "theory",
       "title": "Verhaltensänderung, Coping und Adhärenz",
-      "body": "## Verhaltensänderung — Transtheoretisches Modell\n\nWie ändern Menschen gesundheitsschädliches Verhalten? Das **Transtheoretische Modell** (TTM) von Prochaska und DiClemente beschreibt fünf **Stufen der Verhaltensänderung**:\n\n1. **Absichtslosigkeit** — kein Problembewusstsein\n2. **Absichtsbildung** — Nachdenken über eine Änderung\n3. **Vorbereitung** — Planung konkreter Schritte\n4. **Handlung** — aktive Umsetzung\n5. **Aufrechterhaltung** — stabile Verhaltensänderung\n\n> Menschen können Stufen überspringen oder zurückfallen — Veränderung ist selten ein linearer Prozess.\n\n## Coping und soziale Unterstützung\n\n**Coping** (Krankheitsbewältigung) und **soziale Unterstützung** sind eng miteinander verknüpft (vgl. Lektion 12). Soziale Unterstützung wirkt als **Puffer**: Sie mildert die Auswirkungen von Stress und Krankheit. Man unterscheidet emotionale, informationelle und instrumentelle Unterstützung.\n\n## Adhärenz\n\n**Adhärenz** (Therapietreue) bezeichnet den Grad, in dem Patienten Behandlungsempfehlungen umsetzen. Geringe Adhärenz ist ein Haupthindernis für den Therapieerfolg — psychologische Interventionen können sie verbessern."
+      "body": "## Verhaltensänderung - Transtheoretisches Modell\n\nWie ändern Menschen gesundheitsschädliches Verhalten? Das **Transtheoretische Modell** (TTM) von Prochaska und DiClemente beschreibt fünf **Stufen der Verhaltensänderung**:\n\n1. **Absichtslosigkeit**, kein Problembewusstsein\n2. **Absichtsbildung**, Nachdenken über eine Änderung\n3. **Vorbereitung**, Planung konkreter Schritte\n4. **Handlung**, aktive Umsetzung\n5. **Aufrechterhaltung**, stabile Verhaltensänderung\n\n> Menschen können Stufen überspringen oder zurückfallen, Veränderung ist selten ein linearer Prozess.\n\n## Coping und soziale Unterstützung\n\n**Coping** (Krankheitsbewältigung) und **soziale Unterstützung** sind eng miteinander verknüpft (vgl. Lektion 12). Soziale Unterstützung wirkt als **Puffer**: Sie mildert die Auswirkungen von Stress und Krankheit. Man unterscheidet emotionale, informationelle und instrumentelle Unterstützung.\n\n## Adhärenz\n\n**Adhärenz** (Therapietreue) bezeichnet den Grad, in dem Patienten Behandlungsempfehlungen umsetzen. Geringe Adhärenz ist ein Haupthindernis für den Therapieerfolg, psychologische Interventionen können sie verbessern."
     },
     {
       "id": "ex-match-biopsychosozial",
@@ -189,7 +189,7 @@
           { "accept": ["gesund", "Menschen gesund"] }
         ],
         "cloze_mode": "type",
-        "hint": "Antonovskys Kernfrage — das Gegenteil von Pathogenese."
+        "hint": "Antonovskys Kernfrage, das Gegenteil von Pathogenese."
       }
     },
     {
@@ -256,7 +256,7 @@
         "prompt": "Wie heißt der Begriff für den Grad, in dem Patienten Behandlungsempfehlungen tatsächlich umsetzen?",
         "card_ids": ["adhaerenz"],
         "accept": ["Adhärenz", "Therapietreue", "Compliance", "die Adhärenz"],
-        "hint": "Früher 'Compliance' — der modernere Begriff betont die aktive Rolle des Patienten.",
+        "hint": "Früher 'Compliance', der modernere Begriff betont die aktive Rolle des Patienten.",
         "distractors": ["Prävention", "Coping", "Salutogenese"],
         "direction": "target_to_source"
       }

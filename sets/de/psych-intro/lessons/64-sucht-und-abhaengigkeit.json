@@ -1,7 +1,7 @@
 {
   "id": "64-sucht-und-abhaengigkeit",
   "title": "Sucht und Abhängigkeit",
-  "description": "Die Psychologie und Neurowissenschaft der Sucht: Abhängigkeit, Belohnungssystem, Dopamin, Toleranz, Entzug, Craving, Konditionierung und Verhaltenssüchte — sachlich und entstigmatisierend auf Deutsch erklärt.",
+  "description": "Die Psychologie und Neurowissenschaft der Sucht: Abhängigkeit, Belohnungssystem, Dopamin, Toleranz, Entzug, Craving, Konditionierung und Verhaltenssüchte, sachlich und entstigmatisierend auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -30,7 +30,7 @@
       "id": "psychische-abhaengigkeit",
       "stable_id": "card-ms942qpv198nf",
       "front": "Psychische Abhängigkeit (Psychological Dependence)",
-      "back": "Starkes Verlangen (Craving) nach einer Substanz oder einem Verhalten, das durch Erwartung von Lust oder Linderung von Unwohlsein angetrieben wird — ohne zwingend körperliche Entzugszeichen.",
+      "back": "Starkes Verlangen (Craving) nach einer Substanz oder einem Verhalten, das durch Erwartung von Lust oder Linderung von Unwohlsein angetrieben wird, ohne zwingend körperliche Entzugszeichen.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["sucht", "psyche"]
@@ -59,7 +59,7 @@
       "id": "toleranz",
       "stable_id": "card-ms942qpv19bd4",
       "front": "Toleranz (Tolerance)",
-      "back": "Mit der Zeit wird eine immer höhere Dosis einer Substanz benötigt, um dieselbe Wirkung zu erzielen — weil sich das Gehirn an die Substanz angepasst hat.",
+      "back": "Mit der Zeit wird eine immer höhere Dosis einer Substanz benötigt, um dieselbe Wirkung zu erzielen, weil sich das Gehirn an die Substanz angepasst hat.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["sucht", "toleranz"]
@@ -87,7 +87,7 @@
       "id": "konditionierung-sucht",
       "stable_id": "card-ms942qpv19esr",
       "front": "Konditionierung (Conditioning) und Auslösereize (Cues) bei Sucht",
-      "back": "Neutrale Reize (Orte, Personen, Gerüche), die wiederholt mit dem Substanzkonsum aufgetreten sind, werden zu konditionierten Auslösern, die Craving auslösen — klassische Konditionierung (Bezug Lektion 4).",
+      "back": "Neutrale Reize (Orte, Personen, Gerüche), die wiederholt mit dem Substanzkonsum aufgetreten sind, werden zu konditionierten Auslösern, die Craving auslösen, klassische Konditionierung (Bezug Lektion 4).",
       "notes": "Negative Verstärkung: Konsum lindert Entzugssymptome → Verhalten wird aufrechterhalten (operante Konditionierung).",
       "media_type": "text",
       "difficulty": 4,
@@ -107,7 +107,7 @@
       "id": "biopsychosoziales-modell-sucht",
       "stable_id": "card-ms942qpv19gk1",
       "front": "Biopsychosoziales Modell (Biopsychosocial Model) der Sucht",
-      "back": "Sucht entsteht durch das Zusammenwirken biologischer (Genetik, Neurobiologie), psychologischer (Stressbewältigung, Persönlichkeit) und sozialer Faktoren (Umfeld, Verfügbarkeit) — kein einzelner Faktor reicht aus.",
+      "back": "Sucht entsteht durch das Zusammenwirken biologischer (Genetik, Neurobiologie), psychologischer (Stressbewältigung, Persönlichkeit) und sozialer Faktoren (Umfeld, Verfügbarkeit), kein einzelner Faktor reicht aus.",
       "notes": "Bezug Lektion 28 (Gesundheitspsychologie). Dieses Modell betont, dass Sucht eine komplexe Erkrankung ist.",
       "media_type": "text",
       "difficulty": 4,
@@ -118,7 +118,7 @@
       "stable_id": "card-ms942qpv19h1w",
       "front": "Behandlungsansätze bei Abhängigkeit",
       "back": "Entzug (medizinisch begleitet), Entwöhnung (Psychotherapie, z. B. kognitive Verhaltenstherapie), Selbsthilfegruppen, ggf. Substitution (z. B. Methadon) und Rückfallprävention.",
-      "notes": "Rückfälle sind häufig und gehören zum Genesungsprozess — kein Zeichen des Scheiterns.",
+      "notes": "Rückfälle sind häufig und gehören zum Genesungsprozess, kein Zeichen des Scheiterns.",
       "media_type": "text",
       "difficulty": 4,
       "tags": ["sucht", "behandlung", "therapie"]
@@ -129,19 +129,19 @@
       "id": "intro-abhaengigkeit",
       "type": "theory",
       "title": "Was ist Abhängigkeit?",
-      "body": "# Sucht und Abhängigkeit\n\nDiese Lektion baut auf **Lektion 62** (Substanzen und psychoaktive Stoffe), **Lektion 37** (Biopsychologie vertieft: Belohnung und Dopamin) und **Lektion 4** (Lernen und Konditionierung) auf.\n\n## Definition: Abhängigkeit (Addiction)\n\n**Abhängigkeit** (auch: Sucht) bezeichnet einen Zustand, in dem jemand eine Substanz konsumiert oder ein Verhalten ausführt:\n- **zwanghaft** — trotz des Wissens um negative Folgen,\n- mit **Kontrollverlust** — weniger oder gar nicht aufhören zu können,\n- und mit zentraler Beschäftigung im Alltag.\n\nAbhängigkeit ist **keine Willensschwäche**, sondern eine anerkannte psychische und oft auch körperliche Erkrankung.\n\n## Körperliche vs. psychische Abhängigkeit\n\n| Merkmal | Körperliche Abhängigkeit | Psychische Abhängigkeit |\n|---|---|---|\n| **Kern** | Körper braucht Substanz zum Funktionieren | Seele/Geist verlangt nach Substanz oder Verhalten |\n| **Ausdruck** | Entzugserscheinungen beim Absetzen | Craving (Suchtdruck), Verlangen |\n| **Beispiele** | Alkohol-, Opioid-, Benzodiazepinabhängigkeit | Nikotin, Kokain, Verhaltenssüchte |\n| **Oft kombiniert?** | Ja — viele Substanzen erzeugen beides | Ja — psychische Abhängigkeit ist fast immer vorhanden |\n\n> Beide Formen können gleichzeitig bestehen und verstärken sich gegenseitig."
+      "body": "# Sucht und Abhängigkeit\n\nDiese Lektion baut auf **Lektion 62** (Substanzen und psychoaktive Stoffe), **Lektion 37** (Biopsychologie vertieft: Belohnung und Dopamin) und **Lektion 4** (Lernen und Konditionierung) auf.\n\n## Definition: Abhängigkeit (Addiction)\n\n**Abhängigkeit** (auch: Sucht) bezeichnet einen Zustand, in dem jemand eine Substanz konsumiert oder ein Verhalten ausführt:\n- **zwanghaft**, trotz des Wissens um negative Folgen,\n- mit **Kontrollverlust**, weniger oder gar nicht aufhören zu können,\n- und mit zentraler Beschäftigung im Alltag.\n\nAbhängigkeit ist **keine Willensschwäche**, sondern eine anerkannte psychische und oft auch körperliche Erkrankung.\n\n## Körperliche vs. psychische Abhängigkeit\n\n| Merkmal | Körperliche Abhängigkeit | Psychische Abhängigkeit |\n|---|---|---|\n| **Kern** | Körper braucht Substanz zum Funktionieren | Seele/Geist verlangt nach Substanz oder Verhalten |\n| **Ausdruck** | Entzugserscheinungen beim Absetzen | Craving (Suchtdruck), Verlangen |\n| **Beispiele** | Alkohol-, Opioid-, Benzodiazepinabhängigkeit | Nikotin, Kokain, Verhaltenssüchte |\n| **Oft kombiniert?** | Ja, viele Substanzen erzeugen beides | Ja, psychische Abhängigkeit ist fast immer vorhanden |\n\n> Beide Formen können gleichzeitig bestehen und verstärken sich gegenseitig."
     },
     {
       "id": "step-belohnung-dopamin",
       "type": "theory",
       "title": "Das Belohnungssystem und Dopamin",
-      "body": "## Das Belohnungssystem (Reward System)\n\nIm Gehirn gibt es ein **mesolimbisches Belohnungssystem**, das bei angenehmen Erlebnissen (Essen, soziale Nähe, Erfolg) den Botenstoff **Dopamin** ausschüttet. Das wichtigste Zielgebiet ist der **Nucleus accumbens**.\n\nSuchtmittel **überfluten** dieses System mit Dopamin — oft viel stärker als natürliche Reize. Das führt zu:\n\n| Phänomen | Beschreibung |\n|---|---|\n| **Toleranz (Tolerance)** | Immer höhere Dosis nötig, um dieselbe Wirkung zu erzielen — das Gehirn hat sich angepasst |\n| **Entzug (Withdrawal)** | Körperliche und psychische Beschwerden beim Absetzen (Zittern, Angst, Übelkeit, Schlafstörungen) |\n| **Craving (Suchtdruck)** | Intensives, drängendes Verlangen nach der Substanz oder dem Verhalten |\n\n**Langfristige Veränderung**: Wiederholter Konsum schwächt die natürliche Dopaminreaktion auf alltägliche Freuden — Betroffene brauchen die Substanz nur noch, um sich 'normal' zu fühlen.\n\n> Bezug Lektion 37: Das Belohnungssystem (v. a. **ventrales Tegmentum → Nucleus accumbens**) ist die gemeinsame Endstrecke nahezu aller Suchtmittel."
+      "body": "## Das Belohnungssystem (Reward System)\n\nIm Gehirn gibt es ein **mesolimbisches Belohnungssystem**, das bei angenehmen Erlebnissen (Essen, soziale Nähe, Erfolg) den Botenstoff **Dopamin** ausschüttet. Das wichtigste Zielgebiet ist der **Nucleus accumbens**.\n\nSuchtmittel **überfluten** dieses System mit Dopamin, oft viel stärker als natürliche Reize. Das führt zu:\n\n| Phänomen | Beschreibung |\n|---|---|\n| **Toleranz (Tolerance)** | Immer höhere Dosis nötig, um dieselbe Wirkung zu erzielen, das Gehirn hat sich angepasst |\n| **Entzug (Withdrawal)** | Körperliche und psychische Beschwerden beim Absetzen (Zittern, Angst, Übelkeit, Schlafstörungen) |\n| **Craving (Suchtdruck)** | Intensives, drängendes Verlangen nach der Substanz oder dem Verhalten |\n\n**Langfristige Veränderung**: Wiederholter Konsum schwächt die natürliche Dopaminreaktion auf alltägliche Freuden, Betroffene brauchen die Substanz nur noch, um sich 'normal' zu fühlen.\n\n> Bezug Lektion 37: Das Belohnungssystem (v. a. **ventrales Tegmentum → Nucleus accumbens**) ist die gemeinsame Endstrecke nahezu aller Suchtmittel."
     },
     {
       "id": "step-konditionierung-modelle",
       "type": "theory",
       "title": "Konditionierung, Verhaltenssüchte und Modelle",
-      "body": "## Konditionierung und Auslösereize (Cues)\n\nBezug **Lektion 4**: Sucht lässt sich durch Lernmechanismen erklären.\n\n- **Klassische Konditionierung**: Neutrale Reize (ein bestimmter Ort, eine Person, ein Geruch), die wiederholt mit dem Konsum aufgetreten sind, werden zu **konditionierten Auslösern (Cues)** — sie allein können Craving auslösen.\n- **Negative Verstärkung** (operante Konditionierung): Konsum lindert Entzugssymptome oder Stress → das Verhalten wird aufrechterhalten.\n\n## Verhaltenssüchte (Behavioral Addictions)\n\n**Verhaltenssüchte** aktivieren dieselben Belohnungskreise wie Substanzen, ohne dass eine Droge im Spiel ist:\n\n| Verhaltenssucht | Anerkennungsstatus |\n|---|---|\n| **Glücksspielstörung** | ICD-11 und DSM-5 anerkannt |\n| **Gaming-Störung** | ICD-11 anerkannt |\n| **Internet-/Social-Media-Sucht** | Noch in Diskussion |\n\n## Biopsychosoziales Modell und Behandlung\n\nBezug **Lektion 28**: Sucht entsteht durch das Zusammenwirken von **biologischen** (Genetik, Neurobiologie), **psychologischen** (Stress, Persönlichkeit) und **sozialen** Faktoren (Umfeld, Verfügbarkeit). Kein einzelner Faktor reicht zur Erklärung.\n\n**Behandlungsansätze** umfassen medizinisch begleiteten **Entzug**, **Psychotherapie** (v. a. kognitive Verhaltenstherapie), **Selbsthilfegruppen**, ggf. **Substitution** und **Rückfallprävention**. Rückfälle gehören häufig zum Genesungsprozess."
+      "body": "## Konditionierung und Auslösereize (Cues)\n\nBezug **Lektion 4**: Sucht lässt sich durch Lernmechanismen erklären.\n\n- **Klassische Konditionierung**: Neutrale Reize (ein bestimmter Ort, eine Person, ein Geruch), die wiederholt mit dem Konsum aufgetreten sind, werden zu **konditionierten Auslösern (Cues)**, sie allein können Craving auslösen.\n- **Negative Verstärkung** (operante Konditionierung): Konsum lindert Entzugssymptome oder Stress → das Verhalten wird aufrechterhalten.\n\n## Verhaltenssüchte (Behavioral Addictions)\n\n**Verhaltenssüchte** aktivieren dieselben Belohnungskreise wie Substanzen, ohne dass eine Droge im Spiel ist:\n\n| Verhaltenssucht | Anerkennungsstatus |\n|---|---|\n| **Glücksspielstörung** | ICD-11 und DSM-5 anerkannt |\n| **Gaming-Störung** | ICD-11 anerkannt |\n| **Internet-/Social-Media-Sucht** | Noch in Diskussion |\n\n## Biopsychosoziales Modell und Behandlung\n\nBezug **Lektion 28**: Sucht entsteht durch das Zusammenwirken von **biologischen** (Genetik, Neurobiologie), **psychologischen** (Stress, Persönlichkeit) und **sozialen** Faktoren (Umfeld, Verfügbarkeit). Kein einzelner Faktor reicht zur Erklärung.\n\n**Behandlungsansätze** umfassen medizinisch begleiteten **Entzug**, **Psychotherapie** (v. a. kognitive Verhaltenstherapie), **Selbsthilfegruppen**, ggf. **Substitution** und **Rückfallprävention**. Rückfälle gehören häufig zum Genesungsprozess."
     },
     {
       "id": "ex-match-abhaengigkeit",
@@ -217,7 +217,7 @@
           { "accept": ["klassische Konditionierung", "Konditionierung"] }
         ],
         "cloze_mode": "type",
-        "hint": "Pawlow und seine Hunde — der gleiche Mechanismus gilt bei Sucht-Cues."
+        "hint": "Pawlow und seine Hunde, der gleiche Mechanismus gilt bei Sucht-Cues."
       }
     },
     {
@@ -246,7 +246,7 @@
         "id": "ex-free-verhaltenssucht",
         "stable_id": "ex-ms942qpv19nf9",
         "type": "free_text",
-        "prompt": "Zu welcher Kategorie von Sucht gehört die Glücksspielstörung — bei der keine Substanz konsumiert wird?",
+        "prompt": "Zu welcher Kategorie von Sucht gehört die Glücksspielstörung, bei der keine Substanz konsumiert wird?",
         "card_ids": ["verhaltenssucht"],
         "accept": ["Verhaltenssucht", "Verhaltenssüchte", "Behavioral Addiction", "Verhaltensabhängigkeit"],
         "hint": "Sie aktiviert dieselben Belohnungskreise wie Suchtmittel, aber ohne Droge.",

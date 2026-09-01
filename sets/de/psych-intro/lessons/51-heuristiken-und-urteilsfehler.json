@@ -1,7 +1,7 @@
 {
   "id": "51-heuristiken-und-urteilsfehler",
   "title": "Heuristiken und Urteilsfehler vertieft",
-  "description": "Wie schnelle Faustregeln zu systematischen Denkfehlern führen: Verfügbarkeits-, Repräsentativitäts- und Ankerheuristik, Basisratenfehler, Rückschaufehler und mehr — nach Kahneman und Tversky, auf Deutsch erklärt.",
+  "description": "Wie schnelle Faustregeln zu systematischen Denkfehlern führen: Verfügbarkeits-, Repräsentativitäts- und Ankerheuristik, Basisratenfehler, Rückschaufehler und mehr, nach Kahneman und Tversky, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -21,7 +21,7 @@
       "id": "heuristik-recap",
       "stable_id": "card-ms942qpm12be2",
       "front": "Heuristik (Faustregel)",
-      "back": "Eine geistige Abkürzung, die schnell und meist brauchbar urteilt — aber zu systematischen Fehlern führen kann.",
+      "back": "Eine geistige Abkürzung, die schnell und meist brauchbar urteilt, aber zu systematischen Fehlern führen kann.",
       "notes": "Grundbegriff aus Lektion 11; hier vertieft.",
       "media_type": "text",
       "difficulty": 2,
@@ -109,7 +109,7 @@
       "id": "affektheuristik",
       "stable_id": "card-ms942qpm12kdg",
       "front": "Affektheuristik",
-      "back": "Wir urteilen schnell nach dem Bauchgefühl: Was sich gut anfühlt, wird als nützlich und wenig riskant eingeschätzt — und umgekehrt.",
+      "back": "Wir urteilen schnell nach dem Bauchgefühl: Was sich gut anfühlt, wird als nützlich und wenig riskant eingeschätzt, und umgekehrt.",
       "media_type": "text",
       "difficulty": 4,
       "tags": ["urteilen", "heuristik"]
@@ -119,7 +119,7 @@
       "stable_id": "card-ms942qpm12laz",
       "front": "Bestätigungsfehler (Confirmation Bias)",
       "back": "Die Neigung, vor allem nach Informationen zu suchen, die die eigene Annahme bestätigen, und Gegenbelege zu übersehen.",
-      "notes": "Bereits in Lektion 11 eingeführt — ein zentraler Urteilsfehler.",
+      "notes": "Bereits in Lektion 11 eingeführt, ein zentraler Urteilsfehler.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["urteilen", "fehler"]
@@ -129,20 +129,20 @@
     {
       "id": "intro",
       "type": "theory",
-      "title": "Schnelles Urteilen — und seine Tücken",
-      "body": "# Heuristiken und Urteilsfehler vertieft\n\nIn **Lektion 11** hast du erste Denkfehler kennengelernt. Hier gehen wir tiefer — mit der einflussreichen Forschung von **Daniel Kahneman** und **Amos Tversky**.\n\nIhre Kernidee: Unser Verstand nutzt ständig **Heuristiken** — schnelle Faustregeln, die meist gut funktionieren, aber **systematische** (also vorhersehbare) Fehler erzeugen.\n\n> Wichtig: Diese Fehler sind **keine** Zeichen von Dummheit. Sie betreffen alle Menschen, auch Fachleute — weil sie in der normalen Arbeitsweise unseres Denkens angelegt sind.\n\nKahneman erhielt für diese Arbeiten **2002** den Wirtschaftsnobelpreis."
+      "title": "Schnelles Urteilen - und seine Tücken",
+      "body": "# Heuristiken und Urteilsfehler vertieft\n\nIn **Lektion 11** hast du erste Denkfehler kennengelernt. Hier gehen wir tiefer, mit der einflussreichen Forschung von **Daniel Kahneman** und **Amos Tversky**.\n\nIhre Kernidee: Unser Verstand nutzt ständig **Heuristiken**, schnelle Faustregeln, die meist gut funktionieren, aber **systematische** (also vorhersehbare) Fehler erzeugen.\n\n> Wichtig: Diese Fehler sind **keine** Zeichen von Dummheit. Sie betreffen alle Menschen, auch Fachleute, weil sie in der normalen Arbeitsweise unseres Denkens angelegt sind.\n\nKahneman erhielt für diese Arbeiten **2002** den Wirtschaftsnobelpreis."
     },
     {
       "id": "step-drei-heuristiken",
       "type": "theory",
       "title": "Die drei klassischen Heuristiken",
-      "body": "## Verfügbarkeit, Repräsentativität, Anker\n\n| Heuristik | Wir urteilen nach … | Typischer Fehler |\n|---|---|---|\n| **Verfügbarkeit** | wie leicht Beispiele einfallen | seltene, spektakuläre Risiken überschätzen |\n| **Repräsentativität** | Ähnlichkeit zum Prototyp | **Basisrate** ignorieren |\n| **Anker** | einem ersten Zahlenwert | sich am Startwert festklammern |\n\n## Zwei berühmte Folgen\n\n- **Basisratenvernachlässigung**: Man stützt sich auf den Einzelfall und übersieht die **Grundhäufigkeit**. Wenn eine Krankheit selten ist, ist selbst bei positivem Test ein Irrtum wahrscheinlich.\n- **Konjunktionsfehler** (Linda-Problem): Eine **Kombination** ('Bankangestellte *und* aktiv in der Frauenbewegung') wird fälschlich für wahrscheinlicher gehalten als die **einzelne** Bedingung ('Bankangestellte'). Logisch unmöglich — aber sie wirkt 'stimmiger'."
+      "body": "## Verfügbarkeit, Repräsentativität, Anker\n\n| Heuristik | Wir urteilen nach … | Typischer Fehler |\n|---|---|---|\n| **Verfügbarkeit** | wie leicht Beispiele einfallen | seltene, spektakuläre Risiken überschätzen |\n| **Repräsentativität** | Ähnlichkeit zum Prototyp | **Basisrate** ignorieren |\n| **Anker** | einem ersten Zahlenwert | sich am Startwert festklammern |\n\n## Zwei berühmte Folgen\n\n- **Basisratenvernachlässigung**: Man stützt sich auf den Einzelfall und übersieht die **Grundhäufigkeit**. Wenn eine Krankheit selten ist, ist selbst bei positivem Test ein Irrtum wahrscheinlich.\n- **Konjunktionsfehler** (Linda-Problem): Eine **Kombination** ('Bankangestellte *und* aktiv in der Frauenbewegung') wird fälschlich für wahrscheinlicher gehalten als die **einzelne** Bedingung ('Bankangestellte'). Logisch unmöglich, aber sie wirkt 'stimmiger'."
     },
     {
       "id": "step-weitere-fehler",
       "type": "theory",
       "title": "Weitere systematische Urteilsfehler",
-      "body": "## Noch mehr Verzerrungen\n\n- **Selbstüberschätzung (Overconfidence)** — wir trauen unseren Urteilen mehr Treffsicherheit zu, als sie haben.\n- **Rückschaufehler (Hindsight Bias)** — nach einem Ereignis erscheint es uns vorhersehbarer, als es war ('Ich hab's ja gewusst').\n- **Spielerfehlschluss (Gambler's Fallacy)** — wir erwarten bei unabhängigen Zufallsereignissen einen 'Ausgleich' (nach fünfmal Rot 'müsste' Schwarz kommen — stimmt nicht).\n- **Affektheuristik** — das **Bauchgefühl** lenkt das Urteil: Was sich gut anfühlt, wirkt nützlich und risikoarm.\n- **Bestätigungsfehler (Confirmation Bias)** — wir suchen bevorzugt nach **bestätigenden** Belegen (vgl. Lektion 11).\n\nDiese Verzerrungen bilden die Grundlage für das Verständnis von **Entscheidungen** in den nächsten Lektionen."
+      "body": "## Noch mehr Verzerrungen\n\n- **Selbstüberschätzung (Overconfidence)**, wir trauen unseren Urteilen mehr Treffsicherheit zu, als sie haben.\n- **Rückschaufehler (Hindsight Bias)**, nach einem Ereignis erscheint es uns vorhersehbarer, als es war ('Ich hab's ja gewusst').\n- **Spielerfehlschluss (Gambler's Fallacy)**, wir erwarten bei unabhängigen Zufallsereignissen einen 'Ausgleich' (nach fünfmal Rot 'müsste' Schwarz kommen, stimmt nicht).\n- **Affektheuristik**, das **Bauchgefühl** lenkt das Urteil: Was sich gut anfühlt, wirkt nützlich und risikoarm.\n- **Bestätigungsfehler (Confirmation Bias)**, wir suchen bevorzugt nach **bestätigenden** Belegen (vgl. Lektion 11).\n\nDiese Verzerrungen bilden die Grundlage für das Verständnis von **Entscheidungen** in den nächsten Lektionen."
     },
     {
       "id": "ex-cloze-verfuegbarkeit",
@@ -160,7 +160,7 @@
           { "accept": ["Verfügbarkeitsheuristik", "Verfuegbarkeitsheuristik"] }
         ],
         "cloze_mode": "type",
-        "hint": "Von 'verfügbar' — wie leicht abrufbar."
+        "hint": "Von 'verfügbar', wie leicht abrufbar."
       }
     },
     {

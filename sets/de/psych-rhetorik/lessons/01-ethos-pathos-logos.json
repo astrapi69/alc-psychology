@@ -1,6 +1,6 @@
 {
   "id": "01-ethos-pathos-logos",
-  "title": "Ethos, Pathos, Logos — die drei Überzeugungsmittel",
+  "title": "Ethos, Pathos, Logos - die drei Überzeugungsmittel",
   "description": "Aristoteles unterscheidet in seiner Rhetorik drei Mittel der Überzeugung: Ethos (Glaubwürdigkeit des Redners), Pathos (Emotion des Publikums) und Logos (das Argument selbst). Dieses Modell ist bis heute der Ausgangspunkt der Überzeugungspsychologie.",
   "target_language": "de",
   "source_language": "de",
@@ -32,7 +32,7 @@
       "stable_id": "card-msa1vhyo003j1",
       "front": "Ethos",
       "back": "Überzeugung durch die Glaubwürdigkeit und den Charakter des Redners",
-      "notes": "Wirkt über wahrgenommene Kompetenz und Vertrauenswürdigkeit — nicht über den Inhalt allein.",
+      "notes": "Wirkt über wahrgenommene Kompetenz und Vertrauenswürdigkeit, nicht über den Inhalt allein.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["ethos", "begriff"]
@@ -51,7 +51,7 @@
       "id": "card-logos",
       "stable_id": "card-msa1vhyo005rf",
       "front": "Logos",
-      "back": "Überzeugung durch das Argument selbst — Sachgründe, Belege und logische Schlüsse",
+      "back": "Überzeugung durch das Argument selbst, Sachgründe, Belege und logische Schlüsse",
       "notes": "Griechisch *logos* = Wort, Rede, Vernunftgrund.",
       "media_type": "text",
       "difficulty": 2,
@@ -73,7 +73,7 @@
       "id": "intro",
       "type": "theory",
       "title": "Die drei Überzeugungsmittel",
-      "body": "# Ethos, Pathos, Logos\n\nSchon **Aristoteles** (4. Jh. v. Chr.) fragte in seiner *Rhetorik*, wodurch eine Rede eigentlich überzeugt. Seine Antwort — die drei **Überzeugungsmittel** (griechisch *pisteis*) — ist bis heute der Ausgangspunkt der Überzeugungspsychologie.\n\n## Die drei Mittel\n\n- **Ethos** — Überzeugung durch die **Glaubwürdigkeit** des Redners. Wem wir Kompetenz und ehrliche Absicht zuschreiben, dem glauben wir eher.\n- **Pathos** — Überzeugung durch die **Emotion** des Publikums. In welche Stimmung eine Rede uns versetzt, färbt unser Urteil.\n- **Logos** — Überzeugung durch das **Argument** selbst: Sachgründe, Belege, logische Schlüsse.\n\n## Sie wirken zusammen\n\nDie drei Mittel sind keine Alternativen, zwischen denen man wählt. Eine überzeugende Rede nutzt sie meist **gemeinsam**: Ein starkes Argument (Logos) wirkt stärker aus glaubwürdigem Mund (Ethos) und mit der passenden Emotion (Pathos).\n\n## Augenmaß\n\nDie moderne Psychologie hat für jedes der drei Mittel messbare Effekte gefunden — aber es sind **Wirkungstendenzen, keine Garantien**. Rhetorik erhöht die Wahrscheinlichkeit der Zustimmung; sie erzwingt sie nicht."
+      "body": "# Ethos, Pathos, Logos\n\nSchon **Aristoteles** (4. Jh. v. Chr.) fragte in seiner *Rhetorik*, wodurch eine Rede eigentlich überzeugt. Seine Antwort, die drei **Überzeugungsmittel** (griechisch *pisteis*), ist bis heute der Ausgangspunkt der Überzeugungspsychologie.\n\n## Die drei Mittel\n\n- **Ethos**, Überzeugung durch die **Glaubwürdigkeit** des Redners. Wem wir Kompetenz und ehrliche Absicht zuschreiben, dem glauben wir eher.\n- **Pathos**, Überzeugung durch die **Emotion** des Publikums. In welche Stimmung eine Rede uns versetzt, färbt unser Urteil.\n- **Logos**, Überzeugung durch das **Argument** selbst: Sachgründe, Belege, logische Schlüsse.\n\n## Sie wirken zusammen\n\nDie drei Mittel sind keine Alternativen, zwischen denen man wählt. Eine überzeugende Rede nutzt sie meist **gemeinsam**: Ein starkes Argument (Logos) wirkt stärker aus glaubwürdigem Mund (Ethos) und mit der passenden Emotion (Pathos).\n\n## Augenmaß\n\nDie moderne Psychologie hat für jedes der drei Mittel messbare Effekte gefunden, aber es sind **Wirkungstendenzen, keine Garantien**. Rhetorik erhöht die Wahrscheinlichkeit der Zustimmung; sie erzwingt sie nicht."
     },
     {
       "id": "ex-free-rhetorik",
@@ -138,7 +138,7 @@
         ],
         "cloze_mode": "select",
         "distractors": ["Pathos", "Logos", "Rhetorik"],
-        "hint": "Das Wort steckt auch in *Ethik* — es geht um Charakter."
+        "hint": "Das Wort steckt auch in *Ethik*, es geht um Charakter."
       }
     },
     {

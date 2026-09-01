@@ -1,7 +1,7 @@
 {
   "id": "21-forschungsmethoden-grundlagen",
   "title": "Forschungsmethoden: die wissenschaftliche Vorgehensweise",
-  "description": "Wie Psychologie zu Wissen kommt: empirische Methode, Hypothese und Theorie, Variablen und Operationalisierung sowie Stichprobe und Population — auf Deutsch erklärt.",
+  "description": "Wie Psychologie zu Wissen kommt: empirische Methode, Hypothese und Theorie, Variablen und Operationalisierung sowie Stichprobe und Population, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -11,7 +11,7 @@
       "id": "empirische-methode",
       "stable_id": "card-ms942qp50m9sx",
       "front": "Empirische Methode (Empirical Method)",
-      "back": "Der Weg, Erkenntnisse durch systematische Beobachtung und Experiment zu gewinnen — statt durch bloßes Nachdenken oder Autorität.",
+      "back": "Der Weg, Erkenntnisse durch systematische Beobachtung und Experiment zu gewinnen, statt durch bloßes Nachdenken oder Autorität.",
       "notes": "In Lektion 1 hast du gesehen, dass die Psychologie mit Wundt zur empirischen Wissenschaft wurde. Hier vertiefen wir, *wie* sie arbeitet.",
       "media_type": "text",
       "difficulty": 1,
@@ -21,7 +21,7 @@
       "id": "hypothese",
       "stable_id": "card-ms942qp50malj",
       "front": "Hypothese (Hypothesis)",
-      "back": "Eine präzise, überprüfbare Vermutung über einen Zusammenhang — oft in der Form 'Wenn …, dann …'.",
+      "back": "Eine präzise, überprüfbare Vermutung über einen Zusammenhang, oft in der Form 'Wenn …, dann …'.",
       "notes": "Eine Hypothese muss sich grundsätzlich widerlegen lassen (Falsifizierbarkeit).",
       "media_type": "text",
       "difficulty": 2,
@@ -33,7 +33,7 @@
       "stable_id": "card-ms942qp50mbjy",
       "front": "Theorie (Theory)",
       "back": "Ein durch viele Befunde gestütztes Erklärungssystem, das Zusammenhänge ordnet und neue Vorhersagen erlaubt.",
-      "notes": "Eine Theorie ist mehr als eine einzelne Hypothese — sie fasst viele bestätigte Annahmen zusammen.",
+      "notes": "Eine Theorie ist mehr als eine einzelne Hypothese, sie fasst viele bestätigte Annahmen zusammen.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["methoden", "theorie"]
@@ -51,8 +51,8 @@
       "id": "unabhaengige-variable",
       "stable_id": "card-ms942qp50mdnd",
       "front": "Unabhängige Variable (UV)",
-      "back": "Die Variable, die die Forscherin gezielt verändert oder manipuliert — die vermutete Ursache.",
-      "notes": "Merkhilfe: Die UV ist *unabhängig* davon, was die Versuchsperson tut — sie wird vorgegeben.",
+      "back": "Die Variable, die die Forscherin gezielt verändert oder manipuliert, die vermutete Ursache.",
+      "notes": "Merkhilfe: Die UV ist *unabhängig* davon, was die Versuchsperson tut, sie wird vorgegeben.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["methoden", "variablen"]
@@ -61,7 +61,7 @@
       "id": "abhaengige-variable",
       "stable_id": "card-ms942qp50me7j",
       "front": "Abhängige Variable (AV)",
-      "back": "Die Variable, die gemessen wird — die vermutete Wirkung. Sie hängt (vermutlich) von der UV ab.",
+      "back": "Die Variable, die gemessen wird, die vermutete Wirkung. Sie hängt (vermutlich) von der UV ab.",
       "notes": "Beispiel: UV = Schlafdauer, AV = Konzentrationsleistung.",
       "media_type": "text",
       "difficulty": 3,
@@ -71,7 +71,7 @@
       "id": "konstrukt",
       "stable_id": "card-ms942qp50mfjb",
       "front": "Konstrukt (Construct)",
-      "back": "Ein nicht direkt beobachtbares Merkmal, das man theoretisch annimmt — z. B. Intelligenz, Angst oder Motivation.",
+      "back": "Ein nicht direkt beobachtbares Merkmal, das man theoretisch annimmt, z. B. Intelligenz, Angst oder Motivation.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["methoden", "messung"]
@@ -137,13 +137,13 @@
       "id": "step-variablen",
       "type": "theory",
       "title": "Variablen und Operationalisierung",
-      "body": "## Variablen: unabhängig und abhängig\n\nEine **Variable** ist ein Merkmal, das verschiedene Werte annehmen kann. In der Forschung unterscheidet man zwei Rollen:\n\n| Variable | Rolle | Beispiel |\n|---|---|---|\n| **unabhängige Variable (UV)** | wird *manipuliert* — die vermutete **Ursache** | Schlafdauer (4 h vs. 8 h) |\n| **abhängige Variable (AV)** | wird *gemessen* — die vermutete **Wirkung** | Konzentrationsleistung |\n\nMerkhilfe: Die **UV** wird *unabhängig* vom Verhalten der Versuchsperson **vorgegeben**; die **AV** **hängt** vermutlich davon **ab**.\n\n## Vom Konstrukt zur Messung\n\nViele psychologische Begriffe sind **Konstrukte** — nicht direkt beobachtbar (Intelligenz, Angst, Motivation). Um sie zu untersuchen, muss man sie **operationalisieren**: durch konkrete, messbare Indikatoren festlegen.\n\n> *Stress* → gemessen über den **Cortisolwert** oder einen **Fragebogenwert**."
+      "body": "## Variablen: unabhängig und abhängig\n\nEine **Variable** ist ein Merkmal, das verschiedene Werte annehmen kann. In der Forschung unterscheidet man zwei Rollen:\n\n| Variable | Rolle | Beispiel |\n|---|---|---|\n| **unabhängige Variable (UV)** | wird *manipuliert*, die vermutete **Ursache** | Schlafdauer (4 h vs. 8 h) |\n| **abhängige Variable (AV)** | wird *gemessen*, die vermutete **Wirkung** | Konzentrationsleistung |\n\nMerkhilfe: Die **UV** wird *unabhängig* vom Verhalten der Versuchsperson **vorgegeben**; die **AV** **hängt** vermutlich davon **ab**.\n\n## Vom Konstrukt zur Messung\n\nViele psychologische Begriffe sind **Konstrukte**, nicht direkt beobachtbar (Intelligenz, Angst, Motivation). Um sie zu untersuchen, muss man sie **operationalisieren**: durch konkrete, messbare Indikatoren festlegen.\n\n> *Stress* → gemessen über den **Cortisolwert** oder einen **Fragebogenwert**."
     },
     {
       "id": "step-stichprobe",
       "type": "theory",
       "title": "Stichprobe, Population und Replikation",
-      "body": "## Von wenigen auf viele schließen\n\nMan kann selten *alle* Menschen untersuchen. Deshalb zieht man eine **Stichprobe**:\n\n- **Population** — alle Fälle, über die man etwas aussagen will (z. B. alle Studierenden Deutschlands).\n- **Stichprobe** — die tatsächlich untersuchte Teilmenge.\n\nDamit der Schluss von der Stichprobe auf die Population zulässig ist, muss die Stichprobe **repräsentativ** sein — sie spiegelt die Population in wichtigen Merkmalen wider.\n\n## Zwei Zugänge und ein Qualitätssiegel\n\n| Ansatz | Mittel |\n|---|---|\n| **quantitativ** | Zahlen, Messung, Statistik |\n| **qualitativ** | Bedeutung, Erleben, Sprache (z. B. Interviews) |\n\nEin zentrales Gütemerkmal ist die **Replikation**: Lässt sich ein Befund in einer wiederholten Studie erneut zeigen, ist er verlässlicher."
+      "body": "## Von wenigen auf viele schließen\n\nMan kann selten *alle* Menschen untersuchen. Deshalb zieht man eine **Stichprobe**:\n\n- **Population**, alle Fälle, über die man etwas aussagen will (z. B. alle Studierenden Deutschlands).\n- **Stichprobe**, die tatsächlich untersuchte Teilmenge.\n\nDamit der Schluss von der Stichprobe auf die Population zulässig ist, muss die Stichprobe **repräsentativ** sein, sie spiegelt die Population in wichtigen Merkmalen wider.\n\n## Zwei Zugänge und ein Qualitätssiegel\n\n| Ansatz | Mittel |\n|---|---|\n| **quantitativ** | Zahlen, Messung, Statistik |\n| **qualitativ** | Bedeutung, Erleben, Sprache (z. B. Interviews) |\n\nEin zentrales Gütemerkmal ist die **Replikation**: Lässt sich ein Befund in einer wiederholten Studie erneut zeigen, ist er verlässlicher."
     },
     {
       "id": "ex-cloze-empirisch",
@@ -156,7 +156,7 @@
         "type": "cloze",
         "prompt": "Ergänze das Adjektiv für die wissenschaftliche Vorgehensweise durch Beobachtung und Experiment.",
         "card_ids": ["empirische-methode"],
-        "sentence": "Die Psychologie gewinnt ihr Wissen mit der ___ Methode — durch Beobachtung und Experiment.",
+        "sentence": "Die Psychologie gewinnt ihr Wissen mit der ___ Methode, durch Beobachtung und Experiment.",
         "blanks": [
           { "accept": ["empirischen"] }
         ],

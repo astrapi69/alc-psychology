@@ -1,7 +1,7 @@
 {
   "id": "87-intelligenzmessung-und-testguete",
   "title": "Intelligenzmessung und Testgütekriterien",
-  "description": "Wie Intelligenz gemessen wird: von Binets erstem Intelligenztest über den Intelligenzquotienten (IQ) bis zum modernen Abweichungs-IQ mit Mittelwert 100 und Standardabweichung 15 — sowie die drei Testgütekriterien Objektivität, Reliabilität und Validität angewandt auf Intelligenztests.",
+  "description": "Wie Intelligenz gemessen wird: von Binets erstem Intelligenztest über den Intelligenzquotienten (IQ) bis zum modernen Abweichungs-IQ mit Mittelwert 100 und Standardabweichung 15, sowie die drei Testgütekriterien Objektivität, Reliabilität und Validität angewandt auf Intelligenztests.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -12,7 +12,7 @@
       "stable_id": "card-ms942qq81lfkk",
       "front": "Alfred Binet und der erste Intelligenztest",
       "back": "Alfred Binet entwickelte 1905 mit Théodore Simon den ersten Intelligenztest (Binet-Simon-Skala), um Schulkinder mit Förderbedarf zu erkennen. Er führte das Konzept des Intelligenzalters (mental age) ein.",
-      "notes": "Auftrag des französischen Bildungsministeriums — ein praktisches, kein theoretisches Ziel.",
+      "notes": "Auftrag des französischen Bildungsministeriums, ein praktisches, kein theoretisches Ziel.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["intelligenz", "geschichte", "diagnostik"]
@@ -31,7 +31,7 @@
       "stable_id": "card-ms942qq81lhek",
       "front": "Intelligenzquotient nach Stern (IQ-Formel)",
       "back": "William Stern schlug 1912 vor, Intelligenzalter durch Lebensalter zu teilen und mit 100 zu multiplizieren: IQ = (Intelligenzalter / Lebensalter) × 100. Ein Kind mit gleichem Intelligenz- und Lebensalter hat IQ 100.",
-      "notes": "Diese Quotientenformel hat praktische Grenzen bei Erwachsenen — daher der spätere Abweichungs-IQ.",
+      "notes": "Diese Quotientenformel hat praktische Grenzen bei Erwachsenen, daher der spätere Abweichungs-IQ.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["intelligenz", "diagnostik", "person"]
@@ -101,7 +101,7 @@
       "stable_id": "card-ms942qq81lodf",
       "front": "Validität bei Intelligenztests (validity)",
       "back": "Ein Intelligenztest ist valide, wenn er wirklich Intelligenz misst (und nicht z. B. nur Schulwissen). Kriteriumsvalidität zeigt sich darin, dass IQ-Werte Schul- und Berufserfolg moderat vorhersagen.",
-      "notes": "Drittes Gütekriterium. Wichtig: Vorhersage ist moderat — IQ erklärt nicht alles.",
+      "notes": "Drittes Gütekriterium. Wichtig: Vorhersage ist moderat, IQ erklärt nicht alles.",
       "media_type": "text",
       "difficulty": 4,
       "tags": ["intelligenz", "diagnostik", "testguete"]
@@ -110,7 +110,7 @@
       "id": "testfairness-bias",
       "stable_id": "card-ms942qq81lplf",
       "front": "Testfairness und kulturelle Verzerrung (test bias)",
-      "back": "Ein Test ist unfair (biased), wenn er systematisch bestimmte Gruppen benachteiligt — z. B. durch kulturspezifische Inhalte oder sprachliche Hürden. Kulturfreie Tests (z. B. Matrizenaufgaben) sollen Bias reduzieren.",
+      "back": "Ein Test ist unfair (biased), wenn er systematisch bestimmte Gruppen benachteiligt, z. B. durch kulturspezifische Inhalte oder sprachliche Hürden. Kulturfreie Tests (z. B. Matrizenaufgaben) sollen Bias reduzieren.",
       "notes": "Bezug Lektion 88 (Erblichkeit, Umwelt, Flynn-Effekt). Testfairness ist eine Erweiterung des Validitätsbegriffs.",
       "media_type": "text",
       "difficulty": 4,
@@ -119,8 +119,8 @@
     {
       "id": "iq-vorhersage-und-grenzen",
       "stable_id": "card-ms942qq81lqp1",
-      "front": "Was der IQ vorhersagt — und was nicht",
-      "back": "Der IQ sagt Schul- und Berufserfolg moderat vorher. Er misst NICHT den Wert, die Kreativität oder die Weisheit eines Menschen. Ein IQ ist ein Vergleichswert — kein Maß für den Wert eines Menschen.",
+      "front": "Was der IQ vorhersagt, und was nicht",
+      "back": "Der IQ sagt Schul- und Berufserfolg moderat vorher. Er misst NICHT den Wert, die Kreativität oder die Weisheit eines Menschen. Ein IQ ist ein Vergleichswert, kein Maß für den Wert eines Menschen.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["intelligenz", "diagnostik", "ethik", "grundlagen"]
@@ -131,19 +131,19 @@
       "id": "intro-geschichte",
       "type": "theory",
       "title": "Geschichte der Intelligenzmessung",
-      "body": "# Intelligenzmessung und Testgütekriterien\n\nDiese Lektion baut auf **Lektion 24** (Normalverteilung) und **Lektion 29** (Gütekriterien und Normierung) auf und führt die Frage weiter: Wie kommt eigentlich der IQ-Wert zustande?\n\n## Binet und der erste Intelligenztest\n\n**Alfred Binet** entwickelte 1905 mit Théodore Simon im Auftrag des französischen Bildungsministeriums den ersten Intelligenztest — um Kinder mit Förderbedarf zu erkennen. Er führte das **Intelligenzalter** (mental age) ein: Ein 8-Jähriges Kind mit einem Intelligenzalter von 10 löst Aufgaben, die typischerweise 10-Jährige lösen.\n\n## Sterns Quotient\n\n**William Stern** (1912) berechnete daraus den **Intelligenzquotienten (IQ)**:\n\n> **IQ = (Intelligenzalter / Lebensalter) × 100**\n\nEin Kind mit gleichem Intelligenz- und Lebensalter hat also IQ 100. Diese Formel hat aber bei Erwachsenen Grenzen — daher wurde sie durch den modernen Abweichungs-IQ ersetzt.\n\n## Der Abweichungs-IQ\n\n| Kennwert | Wert |\n|---|---|\n| **Mittelwert** | **100** |\n| **Standardabweichung (SD)** | **15** |\n| IQ 85–115 | ±1 SD, ca. **68 %** der Bevölkerung |\n| IQ 70–130 | ±2 SD, ca. **95 %** der Bevölkerung |\n\n**David Wechsler** ersetzte die Quotientenformel durch den **Abweichungs-IQ**: ein Standardwert, der angibt, wie weit eine Person vom Mittelwert ihrer Altersgruppe abweicht — statistisch sauberer und für alle Altersgruppen geeignet."
+      "body": "# Intelligenzmessung und Testgütekriterien\n\nDiese Lektion baut auf **Lektion 24** (Normalverteilung) und **Lektion 29** (Gütekriterien und Normierung) auf und führt die Frage weiter: Wie kommt eigentlich der IQ-Wert zustande?\n\n## Binet und der erste Intelligenztest\n\n**Alfred Binet** entwickelte 1905 mit Théodore Simon im Auftrag des französischen Bildungsministeriums den ersten Intelligenztest, um Kinder mit Förderbedarf zu erkennen. Er führte das **Intelligenzalter** (mental age) ein: Ein 8-Jähriges Kind mit einem Intelligenzalter von 10 löst Aufgaben, die typischerweise 10-Jährige lösen.\n\n## Sterns Quotient\n\n**William Stern** (1912) berechnete daraus den **Intelligenzquotienten (IQ)**:\n\n> **IQ = (Intelligenzalter / Lebensalter) × 100**\n\nEin Kind mit gleichem Intelligenz- und Lebensalter hat also IQ 100. Diese Formel hat aber bei Erwachsenen Grenzen, daher wurde sie durch den modernen Abweichungs-IQ ersetzt.\n\n## Der Abweichungs-IQ\n\n| Kennwert | Wert |\n|---|---|\n| **Mittelwert** | **100** |\n| **Standardabweichung (SD)** | **15** |\n| IQ 85–115 | ±1 SD, ca. **68 %** der Bevölkerung |\n| IQ 70–130 | ±2 SD, ca. **95 %** der Bevölkerung |\n\n**David Wechsler** ersetzte die Quotientenformel durch den **Abweichungs-IQ**: ein Standardwert, der angibt, wie weit eine Person vom Mittelwert ihrer Altersgruppe abweicht, statistisch sauberer und für alle Altersgruppen geeignet."
     },
     {
       "id": "step-normierung-tests",
       "type": "theory",
       "title": "Normierung, Bezugsnormen und bekannte Tests",
-      "body": "## Normierung: Der IQ als Vergleichswert\n\nEin IQ-Wert ist **immer ein Vergleich mit der eigenen Altersgruppe** (Bezugsnorm, vgl. Lektion 29). Ohne Normierung ist ein Rohwert bedeutungslos.\n\nTests müssen regelmäßig neu geeicht werden, weil IQ-Werte im Bevölkerungsschnitt im Laufe der Zeit steigen — der sogenannte **Flynn-Effekt** (mehr dazu in Lektion 88).\n\n## Bekannte Testfamilien\n\n| Test | Zielgruppe | Grundlage |\n|---|---|---|\n| **WAIS** (Wechsler Adult Intelligence Scale) | Erwachsene | CHC-Modell (vgl. Lektion 86) |\n| **WISC** (Wechsler Intelligence Scale for Children) | Kinder & Jugendliche | CHC-Modell |\n| **Stanford-Binet** | Kinder bis Erwachsene | Hierarchisches Modell |\n\nAll diese Testbatterien messen **mehrere Teilfähigkeiten** und liefern neben einem Gesamt-IQ auch Profilwerte — was dem CHC-Modell entspricht."
+      "body": "## Normierung: Der IQ als Vergleichswert\n\nEin IQ-Wert ist **immer ein Vergleich mit der eigenen Altersgruppe** (Bezugsnorm, vgl. Lektion 29). Ohne Normierung ist ein Rohwert bedeutungslos.\n\nTests müssen regelmäßig neu geeicht werden, weil IQ-Werte im Bevölkerungsschnitt im Laufe der Zeit steigen, der sogenannte **Flynn-Effekt** (mehr dazu in Lektion 88).\n\n## Bekannte Testfamilien\n\n| Test | Zielgruppe | Grundlage |\n|---|---|---|\n| **WAIS** (Wechsler Adult Intelligence Scale) | Erwachsene | CHC-Modell (vgl. Lektion 86) |\n| **WISC** (Wechsler Intelligence Scale for Children) | Kinder & Jugendliche | CHC-Modell |\n| **Stanford-Binet** | Kinder bis Erwachsene | Hierarchisches Modell |\n\nAll diese Testbatterien messen **mehrere Teilfähigkeiten** und liefern neben einem Gesamt-IQ auch Profilwerte, was dem CHC-Modell entspricht."
     },
     {
       "id": "step-guetekriterien-fairness",
       "type": "theory",
       "title": "Gütekriterien und Grenzen des IQ",
-      "body": "## Die drei Gütekriterien angewandt auf Intelligenztests\n\nAus **Lektion 23/29** kennen wir die drei Hauptgütekriterien. Wie bewähren sie sich bei Intelligenztests?\n\n| Gütekriterium | Bedeutung | Bei Intelligenztests |\n|---|---|---|\n| **Objektivität** | Ergebnis unabhängig von der Testperson | Standardisierte Anweisungen und Auswertungsregeln |\n| **Reliabilität** (Zuverlässigkeit) | Stabile Ergebnisse bei Wiederholung | Hohe Retest-Reliabilität; Cronbachs α meist > .90 |\n| **Validität** (Gültigkeit) | Misst, was es messen soll | IQ sagt Schul-/Berufserfolg moderat vorher |\n\n## Testfairness und Bias\n\nEine Erweiterung der Validität ist die **Testfairness**: Ein Test ist unfair (biased), wenn er bestimmte Gruppen systematisch benachteiligt — z. B. durch kulturspezifische Inhalte oder sprachliche Hürden. Matrizenaufgaben sollen solchen **kulturellen Bias** reduzieren (Bezug Lektion 88).\n\n## Was der IQ vorhersagt — und was nicht\n\n> **IQ ist ein Vergleichswert, kein Maß für den Wert eines Menschen.**\n\n- **Vorhergesagt** (moderat): Schulerfolg, Berufserfolg, Lerngeschwindigkeit\n- **Nicht erfasst**: Kreativität, Weisheit, soziale Kompetenz, moralischer Wert\n\nEin einzelner Zahlenwert bildet Intelligenz — und erst recht einen Menschen — nie vollständig ab."
+      "body": "## Die drei Gütekriterien angewandt auf Intelligenztests\n\nAus **Lektion 23/29** kennen wir die drei Hauptgütekriterien. Wie bewähren sie sich bei Intelligenztests?\n\n| Gütekriterium | Bedeutung | Bei Intelligenztests |\n|---|---|---|\n| **Objektivität** | Ergebnis unabhängig von der Testperson | Standardisierte Anweisungen und Auswertungsregeln |\n| **Reliabilität** (Zuverlässigkeit) | Stabile Ergebnisse bei Wiederholung | Hohe Retest-Reliabilität; Cronbachs α meist > .90 |\n| **Validität** (Gültigkeit) | Misst, was es messen soll | IQ sagt Schul-/Berufserfolg moderat vorher |\n\n## Testfairness und Bias\n\nEine Erweiterung der Validität ist die **Testfairness**: Ein Test ist unfair (biased), wenn er bestimmte Gruppen systematisch benachteiligt, z. B. durch kulturspezifische Inhalte oder sprachliche Hürden. Matrizenaufgaben sollen solchen **kulturellen Bias** reduzieren (Bezug Lektion 88).\n\n## Was der IQ vorhersagt - und was nicht\n\n> **IQ ist ein Vergleichswert, kein Maß für den Wert eines Menschen.**\n\n- **Vorhergesagt** (moderat): Schulerfolg, Berufserfolg, Lerngeschwindigkeit\n- **Nicht erfasst**: Kreativität, Weisheit, soziale Kompetenz, moralischer Wert\n\nEin einzelner Zahlenwert bildet Intelligenz, und erst recht einen Menschen, nie vollständig ab."
     },
     {
       "id": "ex-cloze-iq-formel",
@@ -241,7 +241,7 @@
           "Validität, Objektivität, Reliabilität",
           "Validität, Reliabilität, Objektivität"
         ],
-        "hint": "Drei Begriffe — beginnt mit 'O', 'R' und 'V'.",
+        "hint": "Drei Begriffe, beginnt mit 'O', 'R' und 'V'.",
         "distractors": ["Normierung, Standardisierung, Kalibrierung", "Sensitivität, Spezifität, Präzision"],
         "direction": "target_to_source"
       }
@@ -265,7 +265,7 @@
           "Weisheit und Kreativität",
           "den Wert eines Menschen und Weisheit"
         ],
-        "hint": "Denke an künstlerische Fähigkeiten und Lebensklugheit — sowie daran, was kein Test über einen Menschen aussagen darf.",
+        "hint": "Denke an künstlerische Fähigkeiten und Lebensklugheit, sowie daran, was kein Test über einen Menschen aussagen darf.",
         "distractors": ["Schulnoten", "Berufserfolg", "Lerngeschwindigkeit"],
         "direction": "target_to_source"
       }

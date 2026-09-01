@@ -1,7 +1,7 @@
 {
   "id": "09-klinische-psychologie",
   "title": "Klinische Psychologie",
-  "description": "Einführung in die klinische Psychologie: Angststörungen, Depression, Therapieformen und Psychopharmaka — neutral und bildungsorientiert auf Deutsch erklärt.",
+  "description": "Einführung in die klinische Psychologie: Angststörungen, Depression, Therapieformen und Psychopharmaka, neutral und bildungsorientiert auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -31,7 +31,7 @@
       "stable_id": "card-ms942qon08h2y",
       "front": "Spezifische Phobie (Specific Phobia)",
       "back": "Ausgeprägte, anhaltende Furcht vor einem bestimmten Objekt oder einer bestimmten Situation (z. B. Spinnen, Höhen, Spritzen).",
-      "notes": "Die Furchtreaktion ist auf einen klar abgegrenzten Auslöser beschränkt — im Unterschied zur generalisierten Angststörung.",
+      "notes": "Die Furchtreaktion ist auf einen klar abgegrenzten Auslöser beschränkt, im Unterschied zur generalisierten Angststörung.",
       "tags": ["angst", "phobie"]
     },
     {
@@ -46,7 +46,7 @@
       "id": "generalisierte-angststörung",
       "stable_id": "card-ms942qon08jus",
       "front": "Generalisierte Angststörung (Generalized Anxiety Disorder, GAD)",
-      "back": "Anhaltende, unkontrollierbare Sorgen über viele verschiedene Lebensbereiche — nicht auf eine einzelne Situation begrenzt.",
+      "back": "Anhaltende, unkontrollierbare Sorgen über viele verschiedene Lebensbereiche, nicht auf eine einzelne Situation begrenzt.",
       "notes": "Typisch: chronische Anspannung und Grübeln; Dauer von mindestens sechs Monaten als diagnostisches Merkmal beschrieben.",
       "tags": ["angst", "sorge"]
     },
@@ -54,7 +54,7 @@
       "id": "soziale-angststörung",
       "stable_id": "card-ms942qon08kid",
       "front": "Soziale Angststörung (Social Anxiety Disorder)",
-      "back": "Ausgeprägte Furcht vor sozialen Situationen, in denen man negativ beurteilt werden könnte — geht oft mit Vermeidungsverhalten einher.",
+      "back": "Ausgeprägte Furcht vor sozialen Situationen, in denen man negativ beurteilt werden könnte, geht oft mit Vermeidungsverhalten einher.",
       "notes": "Früher auch 'soziale Phobie' genannt; nicht gleichzusetzen mit allgemeiner Schüchternheit.",
       "tags": ["angst", "sozial"]
     },
@@ -70,7 +70,7 @@
       "id": "kognitive-triade",
       "stable_id": "card-ms942qon08ma5",
       "front": "Kognitive Triade (Beck)",
-      "back": "Negative Sicht auf sich selbst, die Welt und die Zukunft — ein Kernmuster, das bei Depression beschrieben wird.",
+      "back": "Negative Sicht auf sich selbst, die Welt und die Zukunft, ein Kernmuster, das bei Depression beschrieben wird.",
       "notes": "Formuliert von Aaron Beck; zentrales Konzept der kognitiven Verhaltenstherapie. Keine Diagnose, sondern ein beschreibendes Modell.",
       "tags": ["depression", "beck", "kognition"]
     },
@@ -111,7 +111,7 @@
       "stable_id": "card-ms942qon08r8q",
       "front": "Antidepressiva (Antidepressants)",
       "back": "Kategorie von Psychopharmaka, die zur Behandlung depressiver Störungen eingesetzt werden; ein bekanntes Beispiel ist die Gruppe der SSRI (Selektive Serotonin-Wiederaufnahmehemmer).",
-      "notes": "Rein beschreibende Übersicht — keine Empfehlung oder Dosierungsangabe. Jede medikamentöse Behandlung erfordert ärztliche Begleitung.",
+      "notes": "Rein beschreibende Übersicht, keine Empfehlung oder Dosierungsangabe. Jede medikamentöse Behandlung erfordert ärztliche Begleitung.",
       "tags": ["pharmakologie", "antidepressivum"]
     },
     {
@@ -119,7 +119,7 @@
       "stable_id": "card-ms942qon08snb",
       "front": "Anxiolytika (Anxiolytics)",
       "back": "Kategorie von Psychopharmaka, die angstlösend wirken; umfasst u. a. Benzodiazepine.",
-      "notes": "Neutral beschreibende Übersicht. Benzodiazepine haben ein bekanntes Abhängigkeitspotenzial — nähere Informationen gehören in ärztliche Hände.",
+      "notes": "Neutral beschreibende Übersicht. Benzodiazepine haben ein bekanntes Abhängigkeitspotenzial, nähere Informationen gehören in ärztliche Hände.",
       "tags": ["pharmakologie", "angst"]
     },
     {
@@ -152,7 +152,7 @@
       "id": "theorie-einleitung",
       "type": "theory",
       "title": "Einleitung und wichtiger Hinweis",
-      "body": "# Klinische Psychologie — Einführung\n\n**Wichtiger Hinweis:** Diese Lektion dient dem Grundverständnis und ersetzt keine professionelle Diagnose oder Behandlung. Wenn du selbst betroffen bist oder jemanden kennst, der Hilfe braucht, wende dich bitte an eine qualifizierte Fachkraft (z. B. Psychotherapeutin, Psychiater oder hausärztliche Praxis).\n\nDie **Klinische Psychologie** befasst sich mit der Beschreibung, Erklärung und Behandlung psychischer Störungen. Sie ist das größte Anwendungsfeld der Psychologie und eng, aber nicht identisch mit der **Psychiatrie** — die Psychiatrie ist ein medizinisches Fachgebiet.\n\nZentral ist das **biopsychosoziale Modell**: Psychische Störungen entstehen durch das Zusammenspiel biologischer, psychologischer und sozialer Faktoren."
+      "body": "# Klinische Psychologie - Einführung\n\n**Wichtiger Hinweis:** Diese Lektion dient dem Grundverständnis und ersetzt keine professionelle Diagnose oder Behandlung. Wenn du selbst betroffen bist oder jemanden kennst, der Hilfe braucht, wende dich bitte an eine qualifizierte Fachkraft (z. B. Psychotherapeutin, Psychiater oder hausärztliche Praxis).\n\nDie **Klinische Psychologie** befasst sich mit der Beschreibung, Erklärung und Behandlung psychischer Störungen. Sie ist das größte Anwendungsfeld der Psychologie und eng, aber nicht identisch mit der **Psychiatrie**, die Psychiatrie ist ein medizinisches Fachgebiet.\n\nZentral ist das **biopsychosoziale Modell**: Psychische Störungen entstehen durch das Zusammenspiel biologischer, psychologischer und sozialer Faktoren."
     },
     {
       "id": "theorie-angst-depression",
@@ -164,7 +164,7 @@
       "id": "theorie-therapie-pharma",
       "type": "theory",
       "title": "Therapieformen und Psychopharmaka",
-      "body": "## Therapieformen (Überblick)\n\n- **Verhaltenstherapie** — basiert auf Lernprinzipien; zielt auf Verhaltensänderung.\n- **Kognitive Verhaltenstherapie (KVT)** — erweitert um die Arbeit an Denkmustern; gut empirisch belegt.\n- **Psychoanalyse** — nach Freud; Fokus auf Unbewusstes und frühe Erfahrungen.\n- **Systemische Therapie** — betrachtet das soziale System (Familie, Beziehungen).\n\n## Psychopharmaka — Kategorien (rein beschreibend)\n\n| Kategorie | Beschreibung |\n|---|---|\n| **Antidepressiva** (z. B. SSRI) | bei depressiven Störungen eingesetzt |\n| **Anxiolytika** | angstlösend (z. B. Benzodiazepine) |\n| **Neuroleptika/Antipsychotika** | bei psychotischen Störungen |\n\n*Keine Empfehlung oder Dosierungsangabe — medikamentöse Fragen gehören zur Ärztin oder zum Arzt.*"
+      "body": "## Therapieformen (Überblick)\n\n- **Verhaltenstherapie**, basiert auf Lernprinzipien; zielt auf Verhaltensänderung.\n- **Kognitive Verhaltenstherapie (KVT)**, erweitert um die Arbeit an Denkmustern; gut empirisch belegt.\n- **Psychoanalyse**, nach Freud; Fokus auf Unbewusstes und frühe Erfahrungen.\n- **Systemische Therapie**, betrachtet das soziale System (Familie, Beziehungen).\n\n## Psychopharmaka - Kategorien (rein beschreibend)\n\n| Kategorie | Beschreibung |\n|---|---|\n| **Antidepressiva** (z. B. SSRI) | bei depressiven Störungen eingesetzt |\n| **Anxiolytika** | angstlösend (z. B. Benzodiazepine) |\n| **Neuroleptika/Antipsychotika** | bei psychotischen Störungen |\n\n*Keine Empfehlung oder Dosierungsangabe, medikamentöse Fragen gehören zur Ärztin oder zum Arzt.*"
     },
     {
       "id": "ex-match-angststörungen",
@@ -237,7 +237,7 @@
         "prompt": "Welches Konzept von Aaron Beck beschreibt die negative Sicht auf sich selbst, die Welt und die Zukunft bei Depression?",
         "card_ids": ["kognitive-triade"],
         "accept": ["Kognitive Triade", "kognitive Triade", "die kognitive Triade", "Cognitive Triad"],
-        "hint": "Es sind drei Perspektiven — auf sich selbst, die Welt und die Zukunft.",
+        "hint": "Es sind drei Perspektiven, auf sich selbst, die Welt und die Zukunft.",
         "distractors": ["Kognitive Dissonanz", "Erlernte Hilflosigkeit", "Tripartites Angstmodell"],
         "direction": "target_to_source"
       }
@@ -323,7 +323,7 @@
         "id": "ex-pick-angststörung",
         "stable_id": "ex-ms942qon093zd",
         "type": "picture_choice",
-        "prompt": "Eine Person grübelt ständig über Gesundheit, Arbeit und Familie — ohne konkreten Auslöser. Welche Kategorie beschreibt dieses Muster?",
+        "prompt": "Eine Person grübelt ständig über Gesundheit, Arbeit und Familie, ohne konkreten Auslöser. Welche Kategorie beschreibt dieses Muster?",
         "card_ids": ["generalisierte-angststörung", "spezifische-phobie", "panikstörung", "soziale-angststörung"],
         "images": [
           { "src": "assets/img/anxiety-generalized.png", "label": "Generalisierte Angststörung", "is_correct": "true" },
@@ -331,7 +331,7 @@
           { "src": "assets/img/anxiety-panic.png", "label": "Panikstörung" },
           { "src": "assets/img/anxiety-social.png", "label": "Soziale Angststörung" }
         ],
-        "hint": "Kein klar abgegrenzter Auslöser — Sorgen über viele verschiedene Bereiche.",
+        "hint": "Kein klar abgegrenzter Auslöser, Sorgen über viele verschiedene Bereiche.",
         "distractors": ["Spezifische Phobie", "Panikstörung", "Soziale Angststörung"],
         "direction": "target_to_source"
       }

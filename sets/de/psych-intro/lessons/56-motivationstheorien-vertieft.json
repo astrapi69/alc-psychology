@@ -1,7 +1,7 @@
 {
   "id": "56-motivationstheorien-vertieft",
   "title": "Motivationstheorien vertieft",
-  "description": "Was Verhalten antreibt: Trieb- und Anreiztheorie, Maslows Bedürfnishierarchie, Leistungsmotivation, Zielsetzungstheorie sowie intrinsische Motivation und Flow — auf Deutsch erklärt.",
+  "description": "Was Verhalten antreibt: Trieb- und Anreiztheorie, Maslows Bedürfnishierarchie, Leistungsmotivation, Zielsetzungstheorie sowie intrinsische Motivation und Flow, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -41,7 +41,7 @@
       "stable_id": "card-ms942qpq152rh",
       "front": "Anreiztheorie (Incentive)",
       "back": "Verhalten wird nicht nur von inneren Trieben, sondern auch von äußeren Anreizen (Belohnungen, Zielen) gezogen.",
-      "notes": "Ergänzt die Triebtheorie: Wir essen den Nachtisch trotz Sättigung — der Anreiz lockt.",
+      "notes": "Ergänzt die Triebtheorie: Wir essen den Nachtisch trotz Sättigung, der Anreiz lockt.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["motivation", "theorie"]
@@ -61,7 +61,7 @@
       "id": "selbstverwirklichung",
       "stable_id": "card-ms942qpq154ta",
       "front": "Selbstverwirklichung (Self-Actualization)",
-      "back": "Das Bestreben, das eigene Potenzial voll auszuschöpfen — die oberste Stufe in Maslows Modell.",
+      "back": "Das Bestreben, das eigene Potenzial voll auszuschöpfen, die oberste Stufe in Maslows Modell.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["motivation", "humanistisch"]
@@ -132,19 +132,19 @@
       "id": "intro",
       "type": "theory",
       "title": "Was treibt uns an? Trieb und Anreiz",
-      "body": "# Motivationstheorien vertieft\n\nIn **Lektion 5** ging es um Motivation und Emotion. Jetzt schauen wir genauer auf die **Theorien**, die erklären, *warum* wir handeln.\n\n## Push und Pull\n\n| Theorie | Idee | Bild |\n|---|---|---|\n| **Triebtheorie** | inneres Ungleichgewicht erzeugt einen Trieb (Push) | Hunger treibt zum Essen |\n| **Anreiztheorie** | äußere Anreize ziehen uns an (Pull) | der Nachtisch lockt trotz Sättigung |\n\nDie **Triebtheorie** beruht auf der **Homöostase** — dem Bestreben, einen ausgeglichenen inneren Sollzustand zu halten. Sie erklärt biologische Bedürfnisse gut, aber nicht **Neugier** oder **Risikosuche**. Hier hilft die **Anreiztheorie**.\n\n> Beide zusammen: Wir werden von innen **geschoben** und von außen **gezogen**."
+      "body": "# Motivationstheorien vertieft\n\nIn **Lektion 5** ging es um Motivation und Emotion. Jetzt schauen wir genauer auf die **Theorien**, die erklären, *warum* wir handeln.\n\n## Push und Pull\n\n| Theorie | Idee | Bild |\n|---|---|---|\n| **Triebtheorie** | inneres Ungleichgewicht erzeugt einen Trieb (Push) | Hunger treibt zum Essen |\n| **Anreiztheorie** | äußere Anreize ziehen uns an (Pull) | der Nachtisch lockt trotz Sättigung |\n\nDie **Triebtheorie** beruht auf der **Homöostase**, dem Bestreben, einen ausgeglichenen inneren Sollzustand zu halten. Sie erklärt biologische Bedürfnisse gut, aber nicht **Neugier** oder **Risikosuche**. Hier hilft die **Anreiztheorie**.\n\n> Beide zusammen: Wir werden von innen **geschoben** und von außen **gezogen**."
     },
     {
       "id": "step-beduerfnisse-ziele",
       "type": "theory",
       "title": "Bedürfnisse, Leistung und Ziele",
-      "body": "## Maslows Bedürfnishierarchie\n\nAbraham **Maslow** ordnete Bedürfnisse stufenförmig:\n\n| Stufe | Beispiel |\n|---|---|\n| physiologisch | Hunger, Durst, Schlaf |\n| Sicherheit | Schutz, Stabilität |\n| sozial | Zugehörigkeit, Liebe |\n| Wertschätzung | Anerkennung, Status |\n| **Selbstverwirklichung** | eigenes Potenzial ausschöpfen |\n\nHöhere Stufen werden laut Maslow erst wichtig, wenn niedrigere weitgehend erfüllt sind — die strikte Reihenfolge ist heute aber **umstritten**.\n\n## Leistung und Ziele\n\n- **Leistungsmotivation** (McClelland): das Bedürfnis, anspruchsvolle Ziele zu meistern.\n- **Zielsetzungstheorie** (Locke & Latham): **konkrete, herausfordernde** Ziele schlagen vage ('gib dein Bestes'). Wirksame Ziele sind spezifisch, anspruchsvoll, akzeptiert und mit **Feedback** verbunden.\n- **Yerkes-Dodson-Gesetz**: Leistung ist bei **mittlerer** Erregung optimal (umgekehrte U-Kurve)."
+      "body": "## Maslows Bedürfnishierarchie\n\nAbraham **Maslow** ordnete Bedürfnisse stufenförmig:\n\n| Stufe | Beispiel |\n|---|---|\n| physiologisch | Hunger, Durst, Schlaf |\n| Sicherheit | Schutz, Stabilität |\n| sozial | Zugehörigkeit, Liebe |\n| Wertschätzung | Anerkennung, Status |\n| **Selbstverwirklichung** | eigenes Potenzial ausschöpfen |\n\nHöhere Stufen werden laut Maslow erst wichtig, wenn niedrigere weitgehend erfüllt sind, die strikte Reihenfolge ist heute aber **umstritten**.\n\n## Leistung und Ziele\n\n- **Leistungsmotivation** (McClelland): das Bedürfnis, anspruchsvolle Ziele zu meistern.\n- **Zielsetzungstheorie** (Locke & Latham): **konkrete, herausfordernde** Ziele schlagen vage ('gib dein Bestes'). Wirksame Ziele sind spezifisch, anspruchsvoll, akzeptiert und mit **Feedback** verbunden.\n- **Yerkes-Dodson-Gesetz**: Leistung ist bei **mittlerer** Erregung optimal (umgekehrte U-Kurve)."
     },
     {
       "id": "step-intrinsisch-flow",
       "type": "theory",
       "title": "Intrinsische Motivation und Flow",
-      "body": "## Von innen heraus\n\nDie Unterscheidung **intrinsisch** (aus der Sache heraus) vs. **extrinsisch** (durch äußere Folgen) kennst du aus Lektion 5 und 26. Wichtig ist der **Korrumpierungseffekt**:\n\n> Belohnt man eine ohnehin gern ausgeübte Tätigkeit, kann die **intrinsische** Motivation **sinken** — die Belohnung verdrängt die Freude an der Sache.\n\n## Flow\n\nMihaly **Csikszentmihalyi** beschrieb den **Flow**: völliges Aufgehen in einer Tätigkeit. Er entsteht, wenn **Anforderung und Können im Gleichgewicht** sind:\n\n- Anforderung **zu hoch** → Angst/Stress\n- Anforderung **zu niedrig** → Langeweile\n- **ausbalanciert** → Flow\n\nFlow ist ein Höhepunkt **intrinsischer** Motivation."
+      "body": "## Von innen heraus\n\nDie Unterscheidung **intrinsisch** (aus der Sache heraus) vs. **extrinsisch** (durch äußere Folgen) kennst du aus Lektion 5 und 26. Wichtig ist der **Korrumpierungseffekt**:\n\n> Belohnt man eine ohnehin gern ausgeübte Tätigkeit, kann die **intrinsische** Motivation **sinken**, die Belohnung verdrängt die Freude an der Sache.\n\n## Flow\n\nMihaly **Csikszentmihalyi** beschrieb den **Flow**: völliges Aufgehen in einer Tätigkeit. Er entsteht, wenn **Anforderung und Können im Gleichgewicht** sind:\n\n- Anforderung **zu hoch** → Angst/Stress\n- Anforderung **zu niedrig** → Langeweile\n- **ausbalanciert** → Flow\n\nFlow ist ein Höhepunkt **intrinsischer** Motivation."
     },
     {
       "id": "ex-match-theorien",

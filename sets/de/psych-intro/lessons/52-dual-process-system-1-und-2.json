@@ -1,7 +1,7 @@
 {
   "id": "52-dual-process-system-1-und-2",
   "title": "Dual-Process-Theorien: System 1 und System 2",
-  "description": "Die Zwei-System-Theorie nach Kahneman: System 1 (schnell, automatisch, intuitiv) und System 2 (langsam, bewusst, analytisch) — warum Heuristiken System-1-Produkte sind, was kognitive Leichtigkeit bedeutet und wie der kognitive Reflexionstest unsere Denkfehler aufdeckt.",
+  "description": "Die Zwei-System-Theorie nach Kahneman: System 1 (schnell, automatisch, intuitiv) und System 2 (langsam, bewusst, analytisch), warum Heuristiken System-1-Produkte sind, was kognitive Leichtigkeit bedeutet und wie der kognitive Reflexionstest unsere Denkfehler aufdeckt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -22,7 +22,7 @@
       "stable_id": "card-ms942qpn12umq",
       "front": "System 1",
       "back": "Der schnelle, automatische, intuitive und mühelos arbeitende Denkmodus: läuft unbewusst, reagiert emotional und nutzt Heuristiken.",
-      "notes": "System 1 ist immer aktiv — es liefert ständig Eindrücke, Impulse und Urteile.",
+      "notes": "System 1 ist immer aktiv, es liefert ständig Eindrücke, Impulse und Urteile.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["denken", "dual-process", "intuition"]
@@ -32,7 +32,7 @@
       "stable_id": "card-ms942qpn12vi7",
       "front": "System 2",
       "back": "Der langsame, bewusste, analytische und anstrengende Denkmodus: regelgeleitet, fokussiert und auf Aufmerksamkeit angewiesen.",
-      "notes": "System 2 wird nur bei Bedarf aktiviert — und bleibt oft 'faul', weil es viel mentale Energie kostet.",
+      "notes": "System 2 wird nur bei Bedarf aktiviert, und bleibt oft 'faul', weil es viel mentale Energie kostet.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["denken", "dual-process", "analytisch"]
@@ -41,7 +41,7 @@
       "id": "kognitive-leichtigkeit",
       "stable_id": "card-ms942qpn12wmi",
       "front": "Kognitive Leichtigkeit (Cognitive Ease)",
-      "back": "Das Gefühl, dass eine Information leicht zu verarbeiten ist — es fördert System-1-Verarbeitung und erzeugt ein positives, vertrautes Gefühl.",
+      "back": "Das Gefühl, dass eine Information leicht zu verarbeiten ist, es fördert System-1-Verarbeitung und erzeugt ein positives, vertrautes Gefühl.",
       "notes": "Gegenteil: kognitive Anstrengung (cognitive strain), die System 2 aktiviert.",
       "media_type": "text",
       "difficulty": 3,
@@ -51,7 +51,7 @@
       "id": "kognitive-anstrengung",
       "stable_id": "card-ms942qpn12x7y",
       "front": "Kognitive Anstrengung (Cognitive Strain)",
-      "back": "Das Gefühl der Schwierigkeit bei der Informationsverarbeitung — löst erhöhte Wachsamkeit aus und aktiviert System 2.",
+      "back": "Das Gefühl der Schwierigkeit bei der Informationsverarbeitung, löst erhöhte Wachsamkeit aus und aktiviert System 2.",
       "notes": "Kognitive Anstrengung reduziert Fehler, kostet aber Energie und wird daher oft vermieden.",
       "media_type": "text",
       "difficulty": 3,
@@ -61,7 +61,7 @@
       "id": "kognitiver-geizhals",
       "stable_id": "card-ms942qpn12yza",
       "front": "Kognitiver Geizhals (Cognitive Miser)",
-      "back": "Die Tendenz des menschlichen Geistes, mentale Anstrengung zu sparen und System 2 möglichst selten einzusetzen — auch wenn das zu Fehlern führt.",
+      "back": "Die Tendenz des menschlichen Geistes, mentale Anstrengung zu sparen und System 2 möglichst selten einzusetzen, auch wenn das zu Fehlern führt.",
       "notes": "Konzept von Susan Fiske und Shelley Taylor (1984); erklärt, warum System 1 so dominiert.",
       "media_type": "text",
       "difficulty": 3,
@@ -72,7 +72,7 @@
       "stable_id": "card-ms942qpn12z9d",
       "front": "Kognitiver Reflexionstest (Cognitive Reflection Test, CRT)",
       "back": "Ein kurzer Test von Shane Frederick (2005), der misst, ob jemand die intuitive System-1-Antwort durch System-2-Nachdenken korrigiert.",
-      "notes": "Klassisches Beispiel: 'Schläger und Ball zusammen kosten 1,10 €. Der Schläger kostet 1 € mehr als der Ball. Was kostet der Ball?' — Intuition sagt 10 Cent, richtig sind 5 Cent.",
+      "notes": "Klassisches Beispiel: 'Schläger und Ball zusammen kosten 1,10 €. Der Schläger kostet 1 € mehr als der Ball. Was kostet der Ball?', Intuition sagt 10 Cent, richtig sind 5 Cent.",
       "media_type": "text",
       "difficulty": 4,
       "hint": "Wer den CRT besteht, widersetzt sich seiner ersten Eingebung.",
@@ -82,7 +82,7 @@
       "id": "schlaeger-ball-problem",
       "stable_id": "card-ms942qpn130z6",
       "front": "Schläger-und-Ball-Problem (Bat-and-Ball Problem)",
-      "back": "Schläger und Ball kosten zusammen 1,10 €. Der Schläger kostet 1 € mehr als der Ball. Was kostet der Ball? — Richtige Antwort: 5 Cent (nicht 10 Cent).",
+      "back": "Schläger und Ball kosten zusammen 1,10 €. Der Schläger kostet 1 € mehr als der Ball. Was kostet der Ball?, Richtige Antwort: 5 Cent (nicht 10 Cent).",
       "notes": "System 1 liefert blitzschnell '10 Cent'; System 2 muss die Algebra durchführen, um '5 Cent' zu erkennen.",
       "media_type": "text",
       "difficulty": 4,
@@ -92,7 +92,7 @@
       "id": "heuristiken-als-system-1",
       "stable_id": "card-ms942qpn131ob",
       "front": "Heuristiken als Produkte von System 1",
-      "back": "Heuristiken entstehen durch System-1-Prozesse: schnell, unbewusst und mühelos — deshalb sind sie anfällig für die in Lektion 51 beschriebenen systematischen Urteilsfehler.",
+      "back": "Heuristiken entstehen durch System-1-Prozesse: schnell, unbewusst und mühelos, deshalb sind sie anfällig für die in Lektion 51 beschriebenen systematischen Urteilsfehler.",
       "notes": "Verbindet Lektion 51 (Heuristiken) mit der Dual-Process-Theorie.",
       "media_type": "text",
       "difficulty": 3,
@@ -102,7 +102,7 @@
       "id": "wann-system-2-eingreift",
       "stable_id": "card-ms942qpn13220",
       "front": "Wann greift System 2 ein?",
-      "back": "System 2 wird aktiviert, wenn System 1 auf ein Problem stößt, das es nicht automatisch lösen kann — z. B. ungewohnte Aufgaben, Widersprüche oder hoher Einsatz.",
+      "back": "System 2 wird aktiviert, wenn System 1 auf ein Problem stößt, das es nicht automatisch lösen kann, z. B. ungewohnte Aufgaben, Widersprüche oder hoher Einsatz.",
       "notes": "Aber: System 2 bleibt oft 'faul' und akzeptiert die System-1-Antwort, ohne sie zu prüfen.",
       "media_type": "text",
       "difficulty": 3,
@@ -141,20 +141,20 @@
     {
       "id": "intro-zwei-systeme",
       "type": "theory",
-      "title": "Die Zwei-System-Theorie — Überblick",
+      "title": "Die Zwei-System-Theorie - Überblick",
       "body": "# Dual-Process-Theorien: System 1 und System 2\n\nIn **Lektion 11** (Denken) und **Lektion 51** (Heuristiken) hast du gelernt, dass unser Verstand mit Faustregeln arbeitet und dabei systematische Fehler macht. Aber *warum* geschieht das? Die Antwort liefert die **Zwei-System-Theorie** des Psychologen und Nobelpreisträgers **Daniel Kahneman**.\n\nSein Buch **'Schnelles Denken, langsames Denken'** (englisch: *Thinking, Fast and Slow*, 2011) popularisierte die Idee, dass unser Denken auf zwei grundlegend verschiedenen Prozessen beruht:\n\n| Merkmal | **System 1** | **System 2** |\n|---|---|---|\n| Geschwindigkeit | schnell | langsam |\n| Bewusstsein | automatisch / unbewusst | bewusst / absichtlich |\n| Anstrengung | mühelos | anstrengend |\n| Steuerung | assoziativ, emotional | regelgeleitet, logisch |\n| Kapazität | läuft immer im Hintergrund | begrenzte Aufmerksamkeitsressource |\n\n> Wichtig: 'System 1' und 'System 2' sind keine anatomischen Gehirnregionen, sondern **konzeptuelle Bezeichnungen** für zwei Verarbeitungsmodi."
     },
     {
       "id": "kognitive-leichtigkeit-und-geizhals",
       "type": "theory",
       "title": "Kognitive Leichtigkeit, kognitive Anstrengung und der kognitive Geizhals",
-      "body": "## Wenn Denken sich leicht anfühlt — oder schwer\n\nUnser Gehirn unterscheidet ständig, wie viel Aufwand die Verarbeitung kostet:\n\n- **Kognitive Leichtigkeit** (*cognitive ease*): Die Information fühlt sich vertraut, klar und flüssig an. System 1 übernimmt, wir fühlen uns wohl und sicher — aber sind anfälliger für Fehler.\n- **Kognitive Anstrengung** (*cognitive strain*): Die Information ist schwierig, ungewohnt oder widersprüchlich. System 2 wird aktiviert — wir sind wachsamer, machen weniger Fehler, verbrauchen aber mehr mentale Energie.\n\n## Der kognitive Geizhals (Cognitive Miser)\n\nDas Konzept des **kognitiven Geizhalses** (Susan Fiske & Shelley Taylor, 1984) beschreibt, dass Menschen mentale Anstrengung so weit wie möglich sparen:\n\n- System 2 bleibt oft **'faul'** — es akzeptiert die System-1-Antwort, ohne sie zu prüfen.\n- Erst bei starken Widersprüchen, hohem Einsatz oder expliziten Aufforderungen ('Denk nochmal nach!') interveniert System 2.\n\n| Situation | Reaktion des Systems |\n|---|---|\n| Vertraute, leicht lesbare Aufgabe | System 1 dominiert |\n| Ungewohnte oder widersprüchliche Aufgabe | System 2 wird aktiviert |\n| Hoher Zeitdruck | System 1 dominiert stärker |\n| Explizite Anweisung, langsam nachzudenken | System 2 übernimmt |\n\n> Die meisten Alltagsurteile laufen über System 1 — deshalb sind die Heuristik-Fehler aus Lektion 51 so hartnäckig."
+      "body": "## Wenn Denken sich leicht anfühlt - oder schwer\n\nUnser Gehirn unterscheidet ständig, wie viel Aufwand die Verarbeitung kostet:\n\n- **Kognitive Leichtigkeit** (*cognitive ease*): Die Information fühlt sich vertraut, klar und flüssig an. System 1 übernimmt, wir fühlen uns wohl und sicher, aber sind anfälliger für Fehler.\n- **Kognitive Anstrengung** (*cognitive strain*): Die Information ist schwierig, ungewohnt oder widersprüchlich. System 2 wird aktiviert, wir sind wachsamer, machen weniger Fehler, verbrauchen aber mehr mentale Energie.\n\n## Der kognitive Geizhals (Cognitive Miser)\n\nDas Konzept des **kognitiven Geizhalses** (Susan Fiske & Shelley Taylor, 1984) beschreibt, dass Menschen mentale Anstrengung so weit wie möglich sparen:\n\n- System 2 bleibt oft **'faul'**, es akzeptiert die System-1-Antwort, ohne sie zu prüfen.\n- Erst bei starken Widersprüchen, hohem Einsatz oder expliziten Aufforderungen ('Denk nochmal nach!') interveniert System 2.\n\n| Situation | Reaktion des Systems |\n|---|---|\n| Vertraute, leicht lesbare Aufgabe | System 1 dominiert |\n| Ungewohnte oder widersprüchliche Aufgabe | System 2 wird aktiviert |\n| Hoher Zeitdruck | System 1 dominiert stärker |\n| Explizite Anweisung, langsam nachzudenken | System 2 übernimmt |\n\n> Die meisten Alltagsurteile laufen über System 1, deshalb sind die Heuristik-Fehler aus Lektion 51 so hartnäckig."
     },
     {
       "id": "crt-und-system-integration",
       "type": "theory",
       "title": "Der kognitive Reflexionstest und die Stärken beider Systeme",
-      "body": "## Der kognitive Reflexionstest (CRT)\n\nShane Frederick entwickelte 2005 den **kognitiven Reflexionstest**, um zu messen, ob jemand die intuitive System-1-Antwort durch System-2-Reflexion überprüft.\n\n**Das klassische Schläger-und-Ball-Problem:**\n\n> Schläger und Ball kosten zusammen **1,10 €**. Der Schläger kostet **1 € mehr** als der Ball. Was kostet der Ball?\n\n- **System-1-Antwort** (Intuition): *10 Cent* — falsch!\n- **System-2-Antwort** (Nachrechnen): Ball = **5 Cent**, Schläger = 1,05 € → Summe = 1,10 € ✓\n\nDas Problem ist so konstruiert, dass die intuitive Antwort plausibel *wirkt*, aber mathematisch falsch ist.\n\n## Stärken und Grenzen beider Systeme\n\n| | **System 1** | **System 2** |\n|---|---|---|\n| **Stärken** | schnell, effizient, Expertise-Erkennung | präzise Logik, statistische Urteile, Selbstkontrolle |\n| **Grenzen** | Heuristik-Fehler, emotionale Verzerrung | langsam, erschöpfbar, wird selten genutzt |\n\n## Heuristiken als System-1-Produkte\n\nDie in **Lektion 51** beschriebenen Heuristiken (Verfügbarkeit, Repräsentativität, Anker) sind typische **System-1-Ausgaben**: schnell, unbewusst und meist brauchbar — aber anfällig für systematische Urteilsfehler, weil System 2 sie zu selten überprüft."
+      "body": "## Der kognitive Reflexionstest (CRT)\n\nShane Frederick entwickelte 2005 den **kognitiven Reflexionstest**, um zu messen, ob jemand die intuitive System-1-Antwort durch System-2-Reflexion überprüft.\n\n**Das klassische Schläger-und-Ball-Problem:**\n\n> Schläger und Ball kosten zusammen **1,10 €**. Der Schläger kostet **1 € mehr** als der Ball. Was kostet der Ball?\n\n- **System-1-Antwort** (Intuition): *10 Cent*, falsch!\n- **System-2-Antwort** (Nachrechnen): Ball = **5 Cent**, Schläger = 1,05 € → Summe = 1,10 € ✓\n\nDas Problem ist so konstruiert, dass die intuitive Antwort plausibel *wirkt*, aber mathematisch falsch ist.\n\n## Stärken und Grenzen beider Systeme\n\n| | **System 1** | **System 2** |\n|---|---|---|\n| **Stärken** | schnell, effizient, Expertise-Erkennung | präzise Logik, statistische Urteile, Selbstkontrolle |\n| **Grenzen** | Heuristik-Fehler, emotionale Verzerrung | langsam, erschöpfbar, wird selten genutzt |\n\n## Heuristiken als System-1-Produkte\n\nDie in **Lektion 51** beschriebenen Heuristiken (Verfügbarkeit, Repräsentativität, Anker) sind typische **System-1-Ausgaben**: schnell, unbewusst und meist brauchbar, aber anfällig für systematische Urteilsfehler, weil System 2 sie zu selten überprüft."
     },
     {
       "id": "ex-matching-systeme-eigenschaften",
@@ -187,12 +187,12 @@
         "type": "cloze",
         "prompt": "Ergänze die richtige Lösung des CRT-Klassikers.",
         "card_ids": ["schlaeger-ball-problem", "kognitiver-reflexionstest"],
-        "sentence": "Schläger und Ball kosten 1,10 €, der Schläger 1 € mehr als der Ball — also kostet der Ball ___ Cent.",
+        "sentence": "Schläger und Ball kosten 1,10 €, der Schläger 1 € mehr als der Ball, also kostet der Ball ___ Cent.",
         "blanks": [
           { "accept": ["5", "fünf"] }
         ],
         "cloze_mode": "type",
-        "hint": "Nicht 10 — rechne die Gleichung durch."
+        "hint": "Nicht 10, rechne die Gleichung durch."
       }
     },
     {
@@ -257,7 +257,7 @@
         "id": "ex-free-heuristiken-system1",
         "stable_id": "ex-ms942qpn13bq5",
         "type": "free_text",
-        "prompt": "Zu welchem System gehören Heuristiken — und warum führen sie zu Urteilsfehlern?",
+        "prompt": "Zu welchem System gehören Heuristiken, und warum führen sie zu Urteilsfehlern?",
         "card_ids": ["heuristiken-als-system-1", "system-1"],
         "accept": ["System 1", "zu System 1", "sie sind System-1-Produkte", "System-1-Produkte"],
         "hint": "Heuristiken entstehen durch schnelle, automatische Prozesse.",

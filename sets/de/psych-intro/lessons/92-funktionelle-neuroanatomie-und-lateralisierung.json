@@ -1,7 +1,7 @@
 {
   "id": "92-funktionelle-neuroanatomie-und-lateralisierung",
   "title": "Funktionelle Neuroanatomie und Lateralisierung",
-  "description": "Diese Lektion gibt einen Überblick über den Aufbau des Großhirns: die vier Hirnlappen und ihre Hauptfunktionen, primäre/sekundäre/assoziative Areale, motorischen und somatosensorischen Cortex (Homunkulus), die zwei Hemisphären und das Corpus callosum sowie die Lateralisierung. Die Split-Brain-Forschung wird sachlich dargestellt und der Mythos vom linkshirnigen/rechtshirnigen Menschen kritisch eingeordnet — auf Deutsch erklärt, mit den Fachbegriffen.",
+  "description": "Diese Lektion gibt einen Überblick über den Aufbau des Großhirns: die vier Hirnlappen und ihre Hauptfunktionen, primäre/sekundäre/assoziative Areale, motorischen und somatosensorischen Cortex (Homunkulus), die zwei Hemisphären und das Corpus callosum sowie die Lateralisierung. Die Split-Brain-Forschung wird sachlich dargestellt und der Mythos vom linkshirnigen/rechtshirnigen Menschen kritisch eingeordnet, auf Deutsch erklärt, mit den Fachbegriffen.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -71,7 +71,7 @@
       "id": "motorischer-cortex",
       "stable_id": "card-ms942qqb1o9q7",
       "front": "Primär-motorischer Cortex",
-      "back": "Streifen im hinteren Frontallappen (Gyrus praecentralis), der willkürliche Bewegungen steuert. Die Körperregionen sind systematisch abgebildet (somatotop) — diese Karte heißt motorischer Homunkulus. Stark gesteuerte Bereiche wie Hand und Gesicht nehmen besonders viel Fläche ein.",
+      "back": "Streifen im hinteren Frontallappen (Gyrus praecentralis), der willkürliche Bewegungen steuert. Die Körperregionen sind systematisch abgebildet (somatotop), diese Karte heißt motorischer Homunkulus. Stark gesteuerte Bereiche wie Hand und Gesicht nehmen besonders viel Fläche ein.",
       "notes": "Englisch: primary motor cortex. Praecentral = vor der Zentralfurche.",
       "media_type": "text",
       "difficulty": 3,
@@ -111,7 +111,7 @@
       "id": "lateralisierung",
       "stable_id": "card-ms942qqb1odcc",
       "front": "Lateralisierung (Hemisphärendominanz)",
-      "back": "Tendenz, dass bestimmte Funktionen in einer Hemisphäre stärker ausgeprägt sind: Sprache meist in der linken, visuell-räumliche Verarbeitung eher in der rechten Hemisphäre. Lateralisierung ist graduell, nicht absolut — beide Hemisphären arbeiten ständig zusammen.",
+      "back": "Tendenz, dass bestimmte Funktionen in einer Hemisphäre stärker ausgeprägt sind: Sprache meist in der linken, visuell-räumliche Verarbeitung eher in der rechten Hemisphäre. Lateralisierung ist graduell, nicht absolut, beide Hemisphären arbeiten ständig zusammen.",
       "notes": "Englisch: lateralization. Bei den meisten Menschen ist Sprache links lateralisiert.",
       "media_type": "text",
       "difficulty": 3,
@@ -121,7 +121,7 @@
       "id": "split-brain",
       "stable_id": "card-ms942qqb1oesc",
       "front": "Split-Brain-Forschung (Sperry, Gazzaniga)",
-      "back": "Untersuchungen an Patienten, deren Balken (gegen schwere Epilepsie) durchtrennt wurde. Reize, die nur einer Hemisphäre gezeigt wurden, konnten nur von dieser verarbeitet werden — etwa konnte ein nur rechts gezeigter Gegenstand oft nicht benannt (Sprache links), aber mit der linken Hand gegriffen werden. Roger Sperry erhielt dafür 1981 den Nobelpreis.",
+      "back": "Untersuchungen an Patienten, deren Balken (gegen schwere Epilepsie) durchtrennt wurde. Reize, die nur einer Hemisphäre gezeigt wurden, konnten nur von dieser verarbeitet werden, etwa konnte ein nur rechts gezeigter Gegenstand oft nicht benannt (Sprache links), aber mit der linken Hand gegriffen werden. Roger Sperry erhielt dafür 1981 den Nobelpreis.",
       "notes": "Englisch: split-brain research. Wichtige Belege für Lateralisierung, KEIN Beleg für getrennte Persönlichkeitstypen.",
       "media_type": "text",
       "difficulty": 4,
@@ -133,13 +133,13 @@
       "id": "intro-lappen",
       "type": "theory",
       "title": "Die vier Großhirnlappen",
-      "body": "# Funktionelle Neuroanatomie\n\nDie **Großhirnrinde** (Cortex) jeder Hemisphäre wird in vier **Lappen** (lateinisch *lobi*) gegliedert. Jeder Lappen hat Schwerpunkte — arbeitet aber nie allein.\n\n| Lappen | Lateinisch | Hauptfunktionen |\n|---|---|---|\n| Frontallappen | *lobus frontalis* | Planung, Exekutivfunktionen, Motorik |\n| Parietallappen | *lobus parietalis* | Raum, Somatosensorik (Körperempfindung) |\n| Temporallappen | *lobus temporalis* | Hören, Gedächtnis, Sprachverständnis |\n| Okzipitallappen | *lobus occipitalis* | Sehen |\n\nEine Merkhilfe für die Lage: vorne planen (frontal), oben/hinten fühlen und verorten (parietal), seitlich hören und erinnern (temporal), ganz hinten sehen (okzipital)."
+      "body": "# Funktionelle Neuroanatomie\n\nDie **Großhirnrinde** (Cortex) jeder Hemisphäre wird in vier **Lappen** (lateinisch *lobi*) gegliedert. Jeder Lappen hat Schwerpunkte, arbeitet aber nie allein.\n\n| Lappen | Lateinisch | Hauptfunktionen |\n|---|---|---|\n| Frontallappen | *lobus frontalis* | Planung, Exekutivfunktionen, Motorik |\n| Parietallappen | *lobus parietalis* | Raum, Somatosensorik (Körperempfindung) |\n| Temporallappen | *lobus temporalis* | Hören, Gedächtnis, Sprachverständnis |\n| Okzipitallappen | *lobus occipitalis* | Sehen |\n\nEine Merkhilfe für die Lage: vorne planen (frontal), oben/hinten fühlen und verorten (parietal), seitlich hören und erinnern (temporal), ganz hinten sehen (okzipital)."
     },
     {
       "id": "areale-homunkulus",
       "type": "theory",
       "title": "Areale und der Homunkulus",
-      "body": "## Drei Stufen der Verarbeitung\n\nInnerhalb der Lappen unterscheidet man\n\n- **primäre Areale** — empfangen Sinnesreize zuerst oder geben Bewegungsbefehle direkt aus (z. B. primär-visueller Cortex im Okzipitallappen),\n- **sekundäre Areale** — verarbeiten diese Information weiter und komplexer,\n- **Assoziationsareale** — verknüpfen Information aus mehreren Quellen; hier entstehen Bedeutung, Planung und Sprache. Sie bilden den größten Teil der menschlichen Rinde.\n\n## Zwei Streifen am Sulcus centralis\n\nDirekt vor der Zentralfurche liegt der **primär-motorische Cortex** (Frontallappen), direkt dahinter der **somatosensorische Cortex** (Parietallappen).\n\nBeide bilden den Körper **somatotop** ab — als verzerrte Karte, den **Homunkulus** (*homunculus* = Menschlein).\n\n> Entscheidend ist nicht die Größe eines Körperteils, sondern die Feinheit seiner Steuerung bzw. Empfindlichkeit. Deshalb sind Hände, Lippen und Zunge stark überrepräsentiert."
+      "body": "## Drei Stufen der Verarbeitung\n\nInnerhalb der Lappen unterscheidet man\n\n- **primäre Areale**, empfangen Sinnesreize zuerst oder geben Bewegungsbefehle direkt aus (z. B. primär-visueller Cortex im Okzipitallappen),\n- **sekundäre Areale**, verarbeiten diese Information weiter und komplexer,\n- **Assoziationsareale**, verknüpfen Information aus mehreren Quellen; hier entstehen Bedeutung, Planung und Sprache. Sie bilden den größten Teil der menschlichen Rinde.\n\n## Zwei Streifen am Sulcus centralis\n\nDirekt vor der Zentralfurche liegt der **primär-motorische Cortex** (Frontallappen), direkt dahinter der **somatosensorische Cortex** (Parietallappen).\n\nBeide bilden den Körper **somatotop** ab, als verzerrte Karte, den **Homunkulus** (*homunculus* = Menschlein).\n\n> Entscheidend ist nicht die Größe eines Körperteils, sondern die Feinheit seiner Steuerung bzw. Empfindlichkeit. Deshalb sind Hände, Lippen und Zunge stark überrepräsentiert."
     },
     {
       "id": "hemisphaeren-mythos",

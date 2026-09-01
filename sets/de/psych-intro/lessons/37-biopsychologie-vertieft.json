@@ -1,7 +1,7 @@
 {
   "id": "37-biopsychologie-vertieft",
   "title": "Biopsychologie vertieft",
-  "description": "Vertiefung der biologischen Grundlagen aus Lektion 13: Neurotransmitter im Detail, das endokrine System (Hormone), das vegetative Nervensystem (Sympathikus vs. Parasympathikus), die Anlage-Umwelt-Debatte sowie Verhaltensgenetik und Epigenetik — auf Deutsch erklärt.",
+  "description": "Vertiefung der biologischen Grundlagen aus Lektion 13: Neurotransmitter im Detail, das endokrine System (Hormone), das vegetative Nervensystem (Sympathikus vs. Parasympathikus), die Anlage-Umwelt-Debatte sowie Verhaltensgenetik und Epigenetik, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -22,10 +22,10 @@
       "stable_id": "card-ms942qpe0ut5a",
       "front": "Dopamin",
       "back": "Neurotransmitter, der eine zentrale Rolle bei Belohnung, Motivation und Bewegungssteuerung spielt. Ein Mangel ist mit Parkinson, ein Überschuss mit Schizophrenie assoziiert.",
-      "notes": "Das sogenannte 'Belohnungshormon' — genauer ein Neurotransmitter.",
+      "notes": "Das sogenannte 'Belohnungshormon', genauer ein Neurotransmitter.",
       "media_type": "text",
       "difficulty": 2,
-      "hint": "Belohnung und Bewegung — das 'D' in Dopamin steht sinnbildlich für 'Drive'.",
+      "hint": "Belohnung und Bewegung, das 'D' in Dopamin steht sinnbildlich für 'Drive'.",
       "tags": ["neurotransmitter", "belohnung"]
     },
     {
@@ -42,7 +42,7 @@
       "id": "gaba-glutamat",
       "stable_id": "card-ms942qpe0uvsw",
       "front": "GABA und Glutamat",
-      "back": "GABA (Gamma-Aminobuttersäure) ist der wichtigste hemmende Neurotransmitter — er dämpft neuronale Aktivität. Glutamat ist der wichtigste erregenden Neurotransmitter — er steigert neuronale Aktivität.",
+      "back": "GABA (Gamma-Aminobuttersäure) ist der wichtigste hemmende Neurotransmitter, er dämpft neuronale Aktivität. Glutamat ist der wichtigste erregenden Neurotransmitter, er steigert neuronale Aktivität.",
       "notes": "Beide sind für das Gleichgewicht zwischen Erregung und Hemmung im Gehirn unverzichtbar.",
       "media_type": "text",
       "difficulty": 3,
@@ -149,13 +149,13 @@
       "id": "theory-hormone-vegetativum",
       "type": "theory",
       "title": "Hormone und das vegetative Nervensystem",
-      "body": "## Das endokrine System (Hormonsystem)\n\nHormone sind chemische Botenstoffe, die Drüsen direkt ins Blut abgeben. Sie wirken langsamer als Neurotransmitter, dafür aber anhaltender. Schaltzentrale ist der **Hypothalamus**, der die **Hypophyse** (Hirnanhangdrüse) steuert — zusammen regulieren sie fast alle Hormondrüsen des Körpers.\n\nIn **Lektion 12 (Stress)** haben wir die HPA-Achse kennengelernt:\n- **Cortisol** (Nebennierenrinde): Langzeitstresshormon, mobilisiert Energie, dämpft das Immunsystem.\n- **Adrenalin / Epinephrin** (Nebennierenmark): Sofortreaktion (Herzrate ↑, Atemfrequenz ↑).\n\n## Vegetatives (autonomes) Nervensystem\n\nDas vegetative Nervensystem steuert innere Organe unbewusst. Seine zwei Äste wirken **antagonistisch**:\n\n| System | Funktion | Merkhilfe |\n|---|---|---|\n| **Sympathikus** | Aktivierung, Stress, Kampf/Flucht | *Fight or Flight* |\n| **Parasympathikus** | Erholung, Verdauung, Regeneration | *Rest and Digest* |\n\nBeispiele: Der Sympathikus weitet die Pupillen und steigert die Herzrate; der Parasympathikus verengt die Pupillen und fördert die Verdauung."
+      "body": "## Das endokrine System (Hormonsystem)\n\nHormone sind chemische Botenstoffe, die Drüsen direkt ins Blut abgeben. Sie wirken langsamer als Neurotransmitter, dafür aber anhaltender. Schaltzentrale ist der **Hypothalamus**, der die **Hypophyse** (Hirnanhangdrüse) steuert, zusammen regulieren sie fast alle Hormondrüsen des Körpers.\n\nIn **Lektion 12 (Stress)** haben wir die HPA-Achse kennengelernt:\n- **Cortisol** (Nebennierenrinde): Langzeitstresshormon, mobilisiert Energie, dämpft das Immunsystem.\n- **Adrenalin / Epinephrin** (Nebennierenmark): Sofortreaktion (Herzrate ↑, Atemfrequenz ↑).\n\n## Vegetatives (autonomes) Nervensystem\n\nDas vegetative Nervensystem steuert innere Organe unbewusst. Seine zwei Äste wirken **antagonistisch**:\n\n| System | Funktion | Merkhilfe |\n|---|---|---|\n| **Sympathikus** | Aktivierung, Stress, Kampf/Flucht | *Fight or Flight* |\n| **Parasympathikus** | Erholung, Verdauung, Regeneration | *Rest and Digest* |\n\nBeispiele: Der Sympathikus weitet die Pupillen und steigert die Herzrate; der Parasympathikus verengt die Pupillen und fördert die Verdauung."
     },
     {
       "id": "theory-anlage-umwelt",
       "type": "theory",
       "title": "Anlage-Umwelt-Debatte, Verhaltensgenetik und Epigenetik",
-      "body": "## Anlage-Umwelt-Debatte (Nature vs. Nurture)\n\nEine der ältesten Fragen der Psychologie: Werden wir durch unsere **Gene (Anlage)** oder durch **Erfahrungen und Umwelt** geprägt? Die moderne Wissenschaft antwortet: **beides** — Gene und Umwelt interagieren ständig.\n\n## Verhaltensgenetik (Behavioral Genetics)\n\nDie Verhaltensgenetik untersucht den genetischen Anteil an Verhaltensmerkmalen mit zwei zentralen Methoden:\n\n| Methode | Logik |\n|---|---|\n| **Zwillingsstudien** | Eineiige (MZ) vs. zweieiige (DZ) Zwillinge: Wenn MZ-Paare ähnlicher sind, spricht das für genetischen Einfluss. |\n| **Adoptionsstudien** | Vergleich adoptierter Kinder mit Bio- vs. Adoptiveltern: Ähnlichkeit mit Biologeneltern → genetischer Einfluss. |\n\nDas Ergebnis ist die **Heritabilität** (Erblichkeit): ein statistisches Maß (0–1), das den genetischen Anteil an der Merkmalsvarianz in einer Population beschreibt. Wichtig: Hohe Heritabilität bedeutet **nicht**, dass ein Merkmal unveränderlich ist.\n\n## Epigenetik\n\n**Epigenetik** untersucht, wie Umweltfaktoren (Stress, Ernährung, Traumata) die **Aktivität von Genen** verändern können, ohne die DNA-Sequenz selbst zu verändern. Diese Veränderungen können sogar an Nachkommen weitergegeben werden — ein spannendes Bindeglied zwischen Anlage und Umwelt."
+      "body": "## Anlage-Umwelt-Debatte (Nature vs. Nurture)\n\nEine der ältesten Fragen der Psychologie: Werden wir durch unsere **Gene (Anlage)** oder durch **Erfahrungen und Umwelt** geprägt? Die moderne Wissenschaft antwortet: **beides**, Gene und Umwelt interagieren ständig.\n\n## Verhaltensgenetik (Behavioral Genetics)\n\nDie Verhaltensgenetik untersucht den genetischen Anteil an Verhaltensmerkmalen mit zwei zentralen Methoden:\n\n| Methode | Logik |\n|---|---|\n| **Zwillingsstudien** | Eineiige (MZ) vs. zweieiige (DZ) Zwillinge: Wenn MZ-Paare ähnlicher sind, spricht das für genetischen Einfluss. |\n| **Adoptionsstudien** | Vergleich adoptierter Kinder mit Bio- vs. Adoptiveltern: Ähnlichkeit mit Biologeneltern → genetischer Einfluss. |\n\nDas Ergebnis ist die **Heritabilität** (Erblichkeit): ein statistisches Maß (0–1), das den genetischen Anteil an der Merkmalsvarianz in einer Population beschreibt. Wichtig: Hohe Heritabilität bedeutet **nicht**, dass ein Merkmal unveränderlich ist.\n\n## Epigenetik\n\n**Epigenetik** untersucht, wie Umweltfaktoren (Stress, Ernährung, Traumata) die **Aktivität von Genen** verändern können, ohne die DNA-Sequenz selbst zu verändern. Diese Veränderungen können sogar an Nachkommen weitergegeben werden, ein spannendes Bindeglied zwischen Anlage und Umwelt."
     },
     {
       "id": "ex-match-neurotransmitter",

@@ -1,6 +1,6 @@
 {
   "id": "02-ethos-glaubwuerdigkeit",
-  "title": "Ethos — Glaubwürdigkeit und Autorität",
+  "title": "Ethos - Glaubwürdigkeit und Autorität",
   "description": "Ethos wirkt über die wahrgenommene Glaubwürdigkeit des Redners: Kompetenz und Vertrauenswürdigkeit. Mit der klassischen Studie von Hovland & Weiss (1951) und dem Sleeper-Effekt. Glaubwürdigkeit ist ein realer Einfluss, keine Garantie.",
   "target_language": "de",
   "source_language": "de",
@@ -22,7 +22,7 @@
       "stable_id": "card-msa1vhyp00epx",
       "front": "Kompetenz und Vertrauenswürdigkeit",
       "back": "Glaubwürdigkeit ruht auf zwei Säulen: Weiß die Quelle Bescheid (Kompetenz) und meint sie es ehrlich (Vertrauenswürdigkeit)",
-      "notes": "Beide werden getrennt wahrgenommen — eine kompetente Quelle kann als eigennützig gelten und dadurch Wirkung verlieren.",
+      "notes": "Beide werden getrennt wahrgenommen, eine kompetente Quelle kann als eigennützig gelten und dadurch Wirkung verlieren.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["ethos", "komponenten"]
@@ -41,7 +41,7 @@
       "id": "card-sleeper",
       "stable_id": "card-msa1vhyp00grf",
       "front": "Sleeper-Effekt",
-      "back": "Mit der Zeit verblasst die Erinnerung an die Quelle, während die Botschaft haften bleibt — der Glaubwürdigkeitsvorsprung schwindet",
+      "back": "Mit der Zeit verblasst die Erinnerung an die Quelle, während die Botschaft haften bleibt, der Glaubwürdigkeitsvorsprung schwindet",
       "notes": "Von Hovland beschrieben, später u. a. von Kelman & Hovland (1953) untersucht. Zeigt: Der Quellen-Effekt ist nicht dauerhaft.",
       "media_type": "text",
       "difficulty": 4,
@@ -73,7 +73,7 @@
       "id": "intro",
       "type": "theory",
       "title": "Warum Glaubwürdigkeit überzeugt",
-      "body": "# Ethos: Glaubwürdigkeit und Autorität\n\n**Ethos** ist das Überzeugungsmittel des Redners selbst. In der modernen Psychologie heißt es **Quellenglaubwürdigkeit** (*source credibility*): Wie überzeugend eine Botschaft ist, hängt auch davon ab, **wer** sie sagt.\n\n## Zwei Säulen\n\nGlaubwürdigkeit ruht auf zwei getrennt wahrgenommenen Säulen:\n\n- **Kompetenz** — Weiß die Quelle wirklich Bescheid?\n- **Vertrauenswürdigkeit** — Meint sie es ehrlich, oder verfolgt sie einen Eigennutz?\n\nEine kompetente Quelle kann Wirkung verlieren, wenn sie als eigennützig erscheint.\n\n## Die klassische Studie\n\n**Hovland & Weiss (1951)** legten Versuchspersonen denselben Text vor — einmal einer hoch glaubwürdigen, einmal einer wenig glaubwürdigen Quelle zugeschrieben. Die hoch glaubwürdige Quelle überzeugte deutlich mehr, **obwohl der Text identisch war**.\n\n## Der Sleeper-Effekt\n\nInteressant ist, was danach geschieht: Mit der Zeit **verblasst die Quelle** im Gedächtnis, während die Botschaft haften bleibt. Der anfängliche Glaubwürdigkeitsvorsprung schwindet — der sogenannte **Sleeper-Effekt** (Hovland; Kelman & Hovland, 1953). Ethos wirkt also stark, aber nicht dauerhaft.\n\n## Bezug zur Autorität\n\nEthos überschneidet sich mit dem **Autoritätsprinzip** aus der Beeinflussungspsychologie (Cialdini): Titel, Kittel und Expertenstatus erhöhen die Zustimmung. Autorität ist eine besondere Quelle von Ethos.\n\n## Augenmaß\n\nGlaubwürdigkeit verschafft **Gehör**, ersetzt aber kein Argument. Schwache Argumente, offener Eigennutz und schlicht Zeit (Sleeper-Effekt) schwächen den Ethos-Vorteil wieder ab."
+      "body": "# Ethos: Glaubwürdigkeit und Autorität\n\n**Ethos** ist das Überzeugungsmittel des Redners selbst. In der modernen Psychologie heißt es **Quellenglaubwürdigkeit** (*source credibility*): Wie überzeugend eine Botschaft ist, hängt auch davon ab, **wer** sie sagt.\n\n## Zwei Säulen\n\nGlaubwürdigkeit ruht auf zwei getrennt wahrgenommenen Säulen:\n\n- **Kompetenz**, Weiß die Quelle wirklich Bescheid?\n- **Vertrauenswürdigkeit**, Meint sie es ehrlich, oder verfolgt sie einen Eigennutz?\n\nEine kompetente Quelle kann Wirkung verlieren, wenn sie als eigennützig erscheint.\n\n## Die klassische Studie\n\n**Hovland & Weiss (1951)** legten Versuchspersonen denselben Text vor, einmal einer hoch glaubwürdigen, einmal einer wenig glaubwürdigen Quelle zugeschrieben. Die hoch glaubwürdige Quelle überzeugte deutlich mehr, **obwohl der Text identisch war**.\n\n## Der Sleeper-Effekt\n\nInteressant ist, was danach geschieht: Mit der Zeit **verblasst die Quelle** im Gedächtnis, während die Botschaft haften bleibt. Der anfängliche Glaubwürdigkeitsvorsprung schwindet, der sogenannte **Sleeper-Effekt** (Hovland; Kelman & Hovland, 1953). Ethos wirkt also stark, aber nicht dauerhaft.\n\n## Bezug zur Autorität\n\nEthos überschneidet sich mit dem **Autoritätsprinzip** aus der Beeinflussungspsychologie (Cialdini): Titel, Kittel und Expertenstatus erhöhen die Zustimmung. Autorität ist eine besondere Quelle von Ethos.\n\n## Augenmaß\n\nGlaubwürdigkeit verschafft **Gehör**, ersetzt aber kein Argument. Schwache Argumente, offener Eigennutz und schlicht Zeit (Sleeper-Effekt) schwächen den Ethos-Vorteil wieder ab."
     },
     {
       "id": "ex-free-ethos",
@@ -117,7 +117,7 @@
           {"accept": ["Vertrauenswürdigkeit", "vertrauenswürdigkeit", "Vertrauen"]}
         ],
         "cloze_mode": "type",
-        "hint": "Wissen die Quelle etwas — und meint sie es ehrlich?"
+        "hint": "Wissen die Quelle etwas, und meint sie es ehrlich?"
       }
     },
     {

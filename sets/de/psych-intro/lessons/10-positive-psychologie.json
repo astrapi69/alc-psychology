@@ -1,7 +1,7 @@
 {
   "id": "10-positive-psychologie",
   "title": "Positive Psychologie",
-  "description": "Wohlbefinden, Stärken und Aufblühen — die Grundbegriffe der Positiven Psychologie auf Deutsch erklärt.",
+  "description": "Wohlbefinden, Stärken und Aufblühen, die Grundbegriffe der Positiven Psychologie auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -11,7 +11,7 @@
       "id": "positive-psychologie",
       "stable_id": "card-ms942qoo095gp",
       "front": "Positive Psychologie (Positive Psychology)",
-      "back": "Wissenschaftlicher Ansatz, der Wohlbefinden, Stärken und Aufblühen des Menschen erforscht — statt sich nur auf Störungen zu konzentrieren.",
+      "back": "Wissenschaftlicher Ansatz, der Wohlbefinden, Stärken und Aufblühen des Menschen erforscht, statt sich nur auf Störungen zu konzentrieren.",
       "notes": "Begründet von Martin Seligman in den späten 1990er-Jahren als Gegenpol zur pathologiefokussierten Psychologie.",
       "tags": ["grundlagen", "person"]
     },
@@ -34,7 +34,7 @@
     {
       "id": "positive-emotionen",
       "stable_id": "card-ms942qoo098lf",
-      "front": "Positive Emotionen (Positive Emotions) — PERMA P",
+      "front": "Positive Emotionen (Positive Emotions), PERMA P",
       "back": "Freude, Dankbarkeit, Heiterkeit, Interesse und andere angenehme Gefühle, die das Wohlbefinden direkt fördern.",
       "notes": "Broaden-and-Build-Theorie (Fredrickson): positive Emotionen erweitern das Denken und helfen, Ressourcen aufzubauen.",
       "tags": ["perma", "emotion"]
@@ -42,7 +42,7 @@
     {
       "id": "engagement",
       "stable_id": "card-ms942qoo099ta",
-      "front": "Engagement (Engagement) — PERMA E",
+      "front": "Engagement (Engagement), PERMA E",
       "back": "Völliges Aufgehen in einer Tätigkeit, eng verwandt mit dem Flow-Erlebnis.",
       "notes": "Wenn man eine Aufgabe so vertieft ausführt, dass man Zeit und Umgebung vergisst.",
       "tags": ["perma", "flow"]
@@ -50,7 +50,7 @@
     {
       "id": "beziehungen-perma",
       "stable_id": "card-ms942qoo09abp",
-      "front": "Beziehungen (Relationships) — PERMA R",
+      "front": "Beziehungen (Relationships), PERMA R",
       "back": "Positive soziale Verbindungen zu anderen Menschen als wesentliche Quelle von Wohlbefinden.",
       "notes": "Soziale Unterstützung ist einer der stärksten Puffer gegen Stress und psychische Erkrankungen.",
       "tags": ["perma", "sozial"]
@@ -58,7 +58,7 @@
     {
       "id": "sinn-perma",
       "stable_id": "card-ms942qoo09bjo",
-      "front": "Sinn (Meaning) — PERMA M",
+      "front": "Sinn (Meaning), PERMA M",
       "back": "Das Gefühl, Teil von etwas Größerem zu sein und einem bedeutsamen Zweck zu dienen.",
       "notes": "Kann durch Arbeit, Engagement in Gemeinschaft, Religion oder Werte entstehen.",
       "tags": ["perma", "sinn"]
@@ -66,8 +66,8 @@
     {
       "id": "leistung-perma",
       "stable_id": "card-ms942qoo09ckq",
-      "front": "Zielerreichung/Leistung (Achievement) — PERMA A",
-      "back": "Das Verfolgen und Erreichen von Zielen um ihrer selbst willen — auch unabhängig von positiven Emotionen.",
+      "front": "Zielerreichung/Leistung (Achievement), PERMA A",
+      "back": "Das Verfolgen und Erreichen von Zielen um ihrer selbst willen, auch unabhängig von positiven Emotionen.",
       "notes": "Erfolge stärken das Selbstvertrauen und tragen zum Aufblühen bei.",
       "tags": ["perma", "leistung"]
     },
@@ -75,7 +75,7 @@
       "id": "flow-zustand",
       "stable_id": "card-ms942qoo09dty",
       "front": "Flow-Zustand (Flow)",
-      "back": "Völlige Vertiefung in eine Tätigkeit bei optimaler Herausforderung — nicht zu leicht, nicht zu schwer.",
+      "back": "Völlige Vertiefung in eine Tätigkeit bei optimaler Herausforderung, nicht zu leicht, nicht zu schwer.",
       "notes": "Im Flow verschwindet das Zeitgefühl, Selbstbewusstsein tritt in den Hintergrund. Beschrieben von Mihály Csikszentmihalyi.",
       "tags": ["flow", "person"]
     },
@@ -84,7 +84,7 @@
       "stable_id": "card-ms942qoo09ekl",
       "front": "Mihály Csikszentmihalyi",
       "back": "Ungarisch-amerikanischer Psychologe; erforschte den Flow-Zustand als optimale Erfahrung.",
-      "notes": "Sein bekanntestes Werk: 'Flow — Das Geheimnis des Glücks' (1990).",
+      "notes": "Sein bekanntestes Werk: 'Flow, Das Geheimnis des Glücks' (1990).",
       "tags": ["flow", "person"]
     },
     {
@@ -107,7 +107,7 @@
       "id": "dankbarkeit",
       "stable_id": "card-ms942qoo09h0t",
       "front": "Dankbarkeit (Gratitude)",
-      "back": "Wertschätzung positiver Erfahrungen und Anerkennung ihrer Quellen — eine trainierbare Haltung.",
+      "back": "Wertschätzung positiver Erfahrungen und Anerkennung ihrer Quellen, eine trainierbare Haltung.",
       "notes": "Dankbarkeitstagebücher (3 Dinge täglich notieren) erhöhen nachweislich das subjektive Wohlbefinden.",
       "tags": ["intervention"]
     },
@@ -124,7 +124,7 @@
       "stable_id": "card-ms942qoo09jsa",
       "front": "Growth Mindset / Dynamisches Selbstbild (Growth Mindset)",
       "back": "Überzeugung, dass Fähigkeiten durch Einsatz, Lernen und Ausdauer entwickelt werden können (Dweck).",
-      "notes": "Gegenteil: Fixed Mindset — die Annahme, Talente seien angeboren und unveränderlich.",
+      "notes": "Gegenteil: Fixed Mindset, die Annahme, Talente seien angeboren und unveränderlich.",
       "tags": ["mindset", "person"]
     },
     {
@@ -140,7 +140,7 @@
       "stable_id": "card-ms942qoo09lk2",
       "front": "Aufblühen (Flourishing)",
       "back": "Zustand optimalen psychischen Wohlbefindens: Kombination aus positivem Erleben, Funktionsfähigkeit und Sinnhaftigkeit.",
-      "notes": "Gegenteil: Languishing (Dahinvegetieren) — funktionierend, aber ohne Freude oder Engagement.",
+      "notes": "Gegenteil: Languishing (Dahinvegetieren), funktionierend, aber ohne Freude oder Engagement.",
       "tags": ["grundlagen", "modell"]
     }
   ],
@@ -155,13 +155,13 @@
       "id": "theorie-flow-resilienz",
       "type": "theory",
       "title": "Flow, Resilienz und Selbstwirksamkeit",
-      "body": "## Flow und Resilienz\n\n**Flow** (Csikszentmihalyi): Wenn Herausforderung und Fähigkeit im Gleichgewicht stehen, entsteht ein Zustand völliger Vertiefung — Zeit vergeht, Selbstbewusstsein schwindet.\n\n**Resilienz** beschreibt die psychische Widerstandsfähigkeit nach Rückschlägen. Wichtige Schutzfaktoren:\n\n- **Selbstwirksamkeitserwartung** (Bandura): *„Ich kann das schaffen.“*\n- Soziale Unterstützung\n- Optimismus\n\nResilienz ist kein Talent — sie ist **trainierbar**. Banduras Forschung zeigt: Wer Erfolgserlebnisse sammelt und Vorbilder beobachtet, stärkt seine Selbstwirksamkeit."
+      "body": "## Flow und Resilienz\n\n**Flow** (Csikszentmihalyi): Wenn Herausforderung und Fähigkeit im Gleichgewicht stehen, entsteht ein Zustand völliger Vertiefung, Zeit vergeht, Selbstbewusstsein schwindet.\n\n**Resilienz** beschreibt die psychische Widerstandsfähigkeit nach Rückschlägen. Wichtige Schutzfaktoren:\n\n- **Selbstwirksamkeitserwartung** (Bandura): *„Ich kann das schaffen.“*\n- Soziale Unterstützung\n- Optimismus\n\nResilienz ist kein Talent, sie ist **trainierbar**. Banduras Forschung zeigt: Wer Erfolgserlebnisse sammelt und Vorbilder beobachtet, stärkt seine Selbstwirksamkeit."
     },
     {
       "id": "theorie-alltagsanwendung",
       "type": "theory",
       "title": "Dankbarkeit, Stärken und Growth Mindset",
-      "body": "## Positive Psychologie im Alltag\n\nDrei gut belegte Interventionen:\n\n1. **Dankbarkeitstagebuch** — täglich drei positive Dinge notieren. Steigert Wohlbefinden messbar.\n2. **Stärkenorientierung** — eigene Charakterstärken erkennen und gezielt einsetzen (VIA-Klassifikation: 24 universelle Stärken).\n3. **Growth Mindset** (Carol Dweck) — die Überzeugung, Fähigkeiten durch Anstrengung zu entwickeln. Fördert Ausdauer und Lernbereitschaft.\n\nGegenpol zum Growth Mindset ist das **Fixed Mindset**: die Annahme, Talent sei unveränderlich. Menschen mit Fixed Mindset meiden Herausforderungen — Menschen mit Growth Mindset suchen sie auf."
+      "body": "## Positive Psychologie im Alltag\n\nDrei gut belegte Interventionen:\n\n1. **Dankbarkeitstagebuch**, täglich drei positive Dinge notieren. Steigert Wohlbefinden messbar.\n2. **Stärkenorientierung**, eigene Charakterstärken erkennen und gezielt einsetzen (VIA-Klassifikation: 24 universelle Stärken).\n3. **Growth Mindset** (Carol Dweck), die Überzeugung, Fähigkeiten durch Anstrengung zu entwickeln. Fördert Ausdauer und Lernbereitschaft.\n\nGegenpol zum Growth Mindset ist das **Fixed Mindset**: die Annahme, Talent sei unveränderlich. Menschen mit Fixed Mindset meiden Herausforderungen, Menschen mit Growth Mindset suchen sie auf."
     },
     {
       "id": "ex-match-perma",
@@ -175,11 +175,11 @@
         "prompt": "Ordne jeden PERMA-Buchstaben seiner Bedeutung zu.",
         "card_ids": ["positive-emotionen", "engagement", "beziehungen-perma", "sinn-perma", "leistung-perma"],
         "pairs": [
-          { "left": "P — Positive Emotionen", "right": "Freude, Dankbarkeit, Heiterkeit" },
-          { "left": "E — Engagement", "right": "Völliges Aufgehen in einer Tätigkeit" },
-          { "left": "R — Relationships", "right": "Positive soziale Verbindungen" },
-          { "left": "M — Meaning", "right": "Teil von etwas Größerem sein" },
-          { "left": "A — Achievement", "right": "Ziele verfolgen und erreichen" }
+          { "left": "P, Positive Emotionen", "right": "Freude, Dankbarkeit, Heiterkeit" },
+          { "left": "E, Engagement", "right": "Völliges Aufgehen in einer Tätigkeit" },
+          { "left": "R, Relationships", "right": "Positive soziale Verbindungen" },
+          { "left": "M, Meaning", "right": "Teil von etwas Größerem sein" },
+          { "left": "A, Achievement", "right": "Ziele verfolgen und erreichen" }
         ],
         "direction": "target_to_source"
       }
@@ -284,13 +284,13 @@
         "prompt": "Welches Bild veranschaulicht ein Growth Mindset (dynamisches Selbstbild)?",
         "card_ids": ["growth-mindset", "fixed-mindset"],
         "images": [
-          { "src": "assets/img/growth-mindset-plant.png", "label": "Pflanze wächst durch Pflege — Fähigkeiten entwickeln sich", "is_correct": "true" },
-          { "src": "assets/img/fixed-mindset-stone.png", "label": "Stein bleibt unverändert — Talent ist unveränderlich" },
-          { "src": "assets/img/flow-surfer.png", "label": "Surfer auf optimaler Welle — Flow-Zustand" },
-          { "src": "assets/img/resilience-bounce.png", "label": "Ball prallt zurück — Resilienz" }
+          { "src": "assets/img/growth-mindset-plant.png", "label": "Pflanze wächst durch Pflege, Fähigkeiten entwickeln sich", "is_correct": "true" },
+          { "src": "assets/img/fixed-mindset-stone.png", "label": "Stein bleibt unverändert, Talent ist unveränderlich" },
+          { "src": "assets/img/flow-surfer.png", "label": "Surfer auf optimaler Welle, Flow-Zustand" },
+          { "src": "assets/img/resilience-bounce.png", "label": "Ball prallt zurück, Resilienz" }
         ],
         "hint": "Growth Mindset = Wachstum durch Anstrengung und Lernen (Dweck).",
-        "distractors": ["Stein bleibt unverändert — Fixed Mindset", "Surfer auf optimaler Welle — Flow", "Ball prallt zurück — Resilienz"],
+        "distractors": ["Stein bleibt unverändert, Fixed Mindset", "Surfer auf optimaler Welle, Flow", "Ball prallt zurück, Resilienz"],
         "direction": "target_to_source"
       }
     },

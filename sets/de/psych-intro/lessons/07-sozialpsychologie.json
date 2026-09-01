@@ -1,7 +1,7 @@
 {
   "id": "07-sozialpsychologie",
   "title": "Sozialpsychologie",
-  "description": "Konformität, Gehorsam, kognitive Dissonanz, Attributionstheorie und Gruppendenken — zentrale Phänomene der Sozialpsychologie auf Deutsch erklärt.",
+  "description": "Konformität, Gehorsam, kognitive Dissonanz, Attributionstheorie und Gruppendenken, zentrale Phänomene der Sozialpsychologie auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -28,7 +28,7 @@
       "stable_id": "card-ms942qom0728y",
       "front": "Asch-Experiment",
       "back": "Klassisches Experiment von Solomon Asch (1951), das zeigt, wie Gruppendruck die Urteile von Einzelpersonen verändert.",
-      "notes": "Probanden passten ihre offensichtlich falschen Linienurteile an die Mehrheitsmeinung an — selbst wenn die Mehrheit eindeutig falsch lag.",
+      "notes": "Probanden passten ihre offensichtlich falschen Linienurteile an die Mehrheitsmeinung an, selbst wenn die Mehrheit eindeutig falsch lag.",
       "tags": ["konformitaet", "experiment", "person"]
     },
     {
@@ -52,7 +52,7 @@
       "stable_id": "card-ms942qom075u2",
       "front": "Milgram-Experiment",
       "back": "Klassisches Experiment von Stanley Milgram (1961), das zeigt, dass Menschen unter Autoritätsdruck ethisch fragwürdige Handlungen ausführen.",
-      "notes": "Versuchspersonen glaubten, einem 'Lernenden' Stromschläge bis 450 Volt zu geben — auf Anweisung eines Versuchsleiters.",
+      "notes": "Versuchspersonen glaubten, einem 'Lernenden' Stromschläge bis 450 Volt zu geben, auf Anweisung eines Versuchsleiters.",
       "tags": ["gehorsam", "experiment", "person"]
     },
     {
@@ -68,14 +68,14 @@
       "stable_id": "card-ms942qom077hn",
       "front": "Leon Festinger",
       "back": "US-amerikanischer Sozialpsychologe; Begründer der Theorie der kognitiven Dissonanz (1957).",
-      "notes": "Studie: Probanden, die eine langweilige Aufgabe für wenig Geld lobten, fanden sie später tatsächlich interessanter — um die Dissonanz zu reduzieren.",
+      "notes": "Studie: Probanden, die eine langweilige Aufgabe für wenig Geld lobten, fanden sie später tatsächlich interessanter, um die Dissonanz zu reduzieren.",
       "tags": ["dissonanz", "person"]
     },
     {
       "id": "dissonanzreduktion",
       "stable_id": "card-ms942qom078l0",
       "front": "Dissonanzreduktion (Dissonance Reduction)",
-      "back": "Prozess, mit dem Menschen den unangenehmen Spannungszustand der kognitiven Dissonanz verringern — z. B. durch Einstellungsänderung oder Rationalisierung.",
+      "back": "Prozess, mit dem Menschen den unangenehmen Spannungszustand der kognitiven Dissonanz verringern, z. B. durch Einstellungsänderung oder Rationalisierung.",
       "notes": "Beispiel: Ein Raucher, der die Gesundheitsrisiken kennt, redet sich ein, sein Stress sei schlimmer als Rauchen.",
       "tags": ["dissonanz", "einstellung"]
     },
@@ -132,7 +132,7 @@
       "stable_id": "card-ms942qom07fcs",
       "front": "Soziale Normen (Social Norms)",
       "back": "Ungeschriebene Regeln und Erwartungen einer Gruppe, die das Verhalten ihrer Mitglieder steuern.",
-      "notes": "Wichtige Grundlage für Konformitätsdruck — wer gegen Normen verstößt, riskiert sozialen Ausschluss.",
+      "notes": "Wichtige Grundlage für Konformitätsdruck, wer gegen Normen verstößt, riskiert sozialen Ausschluss.",
       "tags": ["gruppe", "normen"]
     },
     {
@@ -140,7 +140,7 @@
       "stable_id": "card-ms942qom07grn",
       "front": "Autoritätsprinzip (Authority Principle)",
       "back": "Tendenz von Menschen, Anweisungen von Personen mit wahrgenommener Autorität (z. B. Experten, Uniformträger) zu befolgen.",
-      "notes": "Milgrams Ergebnisse zeigen, wie mächtig dieser Effekt ist — Autorität kann den moralischen Widerstand überwältigen.",
+      "notes": "Milgrams Ergebnisse zeigen, wie mächtig dieser Effekt ist, Autorität kann den moralischen Widerstand überwältigen.",
       "tags": ["gehorsam", "autoritaet"]
     }
   ],
@@ -149,19 +149,19 @@
       "id": "theory-konformitaet-gehorsam",
       "type": "theory",
       "title": "Konformität und Gehorsam",
-      "body": "## Wie Gruppen und Autoritäten unser Verhalten formen\n\n**Konformität** bezeichnet die Anpassung an Gruppenerwartungen. Im berühmten **Asch-Experiment (1951)** schätzten Versuchspersonen Linienlängen falsch ein — nur weil die Mehrheit eine falsche Antwort gab. Der Grund: **normativer Druck** (dazugehören wollen) oder **informativer Druck** (der Gruppe trauen).\n\n**Gehorsam** gegenüber Autoritäten wurde durch das **Milgram-Experiment (1961)** erschreckend deutlich: Rund zwei Drittel der Teilnehmer verabreichten scheinbar lebensgefährliche Stromschläge — auf bloße Anweisung eines Versuchsleiters. Der Schlüsselunterschied zu Konformität: Gehorsam folgt einer Direktive von oben, Konformität folgt dem Druck von Gleichgestellten."
+      "body": "## Wie Gruppen und Autoritäten unser Verhalten formen\n\n**Konformität** bezeichnet die Anpassung an Gruppenerwartungen. Im berühmten **Asch-Experiment (1951)** schätzten Versuchspersonen Linienlängen falsch ein, nur weil die Mehrheit eine falsche Antwort gab. Der Grund: **normativer Druck** (dazugehören wollen) oder **informativer Druck** (der Gruppe trauen).\n\n**Gehorsam** gegenüber Autoritäten wurde durch das **Milgram-Experiment (1961)** erschreckend deutlich: Rund zwei Drittel der Teilnehmer verabreichten scheinbar lebensgefährliche Stromschläge, auf bloße Anweisung eines Versuchsleiters. Der Schlüsselunterschied zu Konformität: Gehorsam folgt einer Direktive von oben, Konformität folgt dem Druck von Gleichgestellten."
     },
     {
       "id": "theory-dissonanz-attribution",
       "type": "theory",
       "title": "Kognitive Dissonanz und Attribution",
-      "body": "## Innere Widersprüche und Ursachensuche\n\n**Kognitive Dissonanz** (Festinger, 1957) entsteht, wenn Überzeugungen oder Verhalten sich widersprechen. Dieser Spannungszustand ist unangenehm — Menschen reduzieren ihn durch Einstellungsänderung, Rationalisierung oder Verhalten. Klassisches Beispiel: Rauchen trotz Kenntnis der Risiken.\n\nDie **Attributionstheorie** erklärt, wie wir Ursachen für Verhalten erklären:\n- **Internale Attribution** — auf Charakter oder Fähigkeiten zurückführen.\n- **Externale Attribution** — auf die Situation zurückführen.\n\nDer **Fundamentale Attributionsfehler** beschreibt die Tendenz, das Verhalten *anderer* internal (Charakter) zu erklären, das eigene Verhalten aber eher external (Situation)."
+      "body": "## Innere Widersprüche und Ursachensuche\n\n**Kognitive Dissonanz** (Festinger, 1957) entsteht, wenn Überzeugungen oder Verhalten sich widersprechen. Dieser Spannungszustand ist unangenehm, Menschen reduzieren ihn durch Einstellungsänderung, Rationalisierung oder Verhalten. Klassisches Beispiel: Rauchen trotz Kenntnis der Risiken.\n\nDie **Attributionstheorie** erklärt, wie wir Ursachen für Verhalten erklären:\n- **Internale Attribution**, auf Charakter oder Fähigkeiten zurückführen.\n- **Externale Attribution**, auf die Situation zurückführen.\n\nDer **Fundamentale Attributionsfehler** beschreibt die Tendenz, das Verhalten *anderer* internal (Charakter) zu erklären, das eigene Verhalten aber eher external (Situation)."
     },
     {
       "id": "theory-gruppendenken",
       "type": "theory",
       "title": "Gruppendenken",
-      "body": "## Wenn Gruppen schlechte Entscheidungen treffen\n\n**Gruppendenken (Groupthink)** ist ein Phänomen, das Irving Janis 1972 beschrieb: In eng zusammengeschlossenen Gruppen kann der Drang nach Einigkeit dazu führen, dass kritisches Denken unterdrückt wird. Typische Symptome:\n\n- **Illusion der Unverwundbarkeit** — übertriebener Optimismus.\n- **Kollektive Rationalisierung** — Warnzeichen werden ignoriert.\n- **Selbstzensur** — Zweifel werden nicht geäußert.\n- **Illusion der Einstimmigkeit** — Schweigen gilt als Zustimmung.\n\nJanis analysierte historische Fehlentscheidungen wie die Invasion in der Schweinebucht (1961). Gegenmaßnahmen: bewusst eine abweichende Meinung fördern (Advocatus Diaboli)."
+      "body": "## Wenn Gruppen schlechte Entscheidungen treffen\n\n**Gruppendenken (Groupthink)** ist ein Phänomen, das Irving Janis 1972 beschrieb: In eng zusammengeschlossenen Gruppen kann der Drang nach Einigkeit dazu führen, dass kritisches Denken unterdrückt wird. Typische Symptome:\n\n- **Illusion der Unverwundbarkeit**, übertriebener Optimismus.\n- **Kollektive Rationalisierung**, Warnzeichen werden ignoriert.\n- **Selbstzensur**, Zweifel werden nicht geäußert.\n- **Illusion der Einstimmigkeit**, Schweigen gilt als Zustimmung.\n\nJanis analysierte historische Fehlentscheidungen wie die Invasion in der Schweinebucht (1961). Gegenmaßnahmen: bewusst eine abweichende Meinung fördern (Advocatus Diaboli)."
     },
     {
       "id": "ex-match-experimente",
@@ -310,7 +310,7 @@
           { "accept": ["Situation", "Umstände", "äußere Umstände", "äußeren Umstände"] }
         ],
         "cloze_mode": "type",
-        "hint": "Internal vs. external — wir sehen den Charakter, übersehen aber die Lage."
+        "hint": "Internal vs. external, wir sehen den Charakter, übersehen aber die Lage."
       }
     },
     {

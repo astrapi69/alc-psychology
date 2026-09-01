@@ -1,7 +1,7 @@
 {
   "id": "68-aggression-und-prosoziales-verhalten",
   "title": "Aggression und prosoziales Verhalten",
-  "description": "Zwei gegensätzliche soziale Verhaltensweisen: die Ursachen und Theorien der Aggression (Frustrations-Aggressions-Hypothese, Modelllernen) sowie die Bedingungen prosozialen Verhaltens und Altruismus (Bystander-Effekt, Empathie-Altruismus-Hypothese) — auf Deutsch erklärt.",
+  "description": "Zwei gegensätzliche soziale Verhaltensweisen: die Ursachen und Theorien der Aggression (Frustrations-Aggressions-Hypothese, Modelllernen) sowie die Bedingungen prosozialen Verhaltens und Altruismus (Bystander-Effekt, Empathie-Altruismus-Hypothese), auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -21,8 +21,8 @@
       "id": "frustrations-aggressions-hypothese",
       "stable_id": "card-ms942qpy1barw",
       "front": "Frustrations-Aggressions-Hypothese (Frustration-Aggression Hypothesis)",
-      "back": "Von Dollard et al. (1939): Frustration — das Blockieren eines Ziels — erzeugt stets einen Antrieb zur Aggression. Überarbeitete Version (Berkowitz): Frustration führt zu negativem Affekt, der Aggression wahrscheinlich macht.",
-      "notes": "Klassische, aber vereinfachende Theorie — nicht jede Frustration mündet in Aggression.",
+      "back": "Von Dollard et al. (1939): Frustration, das Blockieren eines Ziels, erzeugt stets einen Antrieb zur Aggression. Überarbeitete Version (Berkowitz): Frustration führt zu negativem Affekt, der Aggression wahrscheinlich macht.",
+      "notes": "Klassische, aber vereinfachende Theorie, nicht jede Frustration mündet in Aggression.",
       "media_type": "text",
       "difficulty": 3,
       "hint": "Dollard: Frustration → Aggressionstrieb.",
@@ -32,7 +32,7 @@
       "id": "modelllernen-aggression",
       "stable_id": "card-ms942qpy1bbnp",
       "front": "Soziales Lernen / Modelllernen und Aggression (Social Learning, Bandura)",
-      "back": "Bandura zeigte im Bobo-Doll-Experiment, dass Kinder aggressive Verhaltensweisen durch Beobachtung eines Modells erlernen — auch ohne direkte Verstärkung (Beobachtungslernen, Lektion 4).",
+      "back": "Bandura zeigte im Bobo-Doll-Experiment, dass Kinder aggressive Verhaltensweisen durch Beobachtung eines Modells erlernen, auch ohne direkte Verstärkung (Beobachtungslernen, Lektion 4).",
       "notes": "Bezug Lektion 4: Beobachtungslernen als Sonderform des operanten Konditionierens.",
       "media_type": "text",
       "difficulty": 3,
@@ -43,7 +43,7 @@
       "stable_id": "card-ms942qpy1bcqd",
       "front": "Biologische und situative Faktoren der Aggression",
       "back": "Biologisch: Testosterone, Amygdala-Aktivierung, niedrige Serotonin-Spiegel. Situativ: Hitze erhöht Aggressivität, Schmerz und Lärm wirken als Auslöser. Alkohol hemmt Selbstkontrolle.",
-      "notes": "Aggressionsursachen sind multifaktoriell — kein einzelner Faktor erklärt alles.",
+      "notes": "Aggressionsursachen sind multifaktoriell, kein einzelner Faktor erklärt alles.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["sozial", "aggression", "biopsychologie"]
@@ -75,7 +75,7 @@
       "notes": "Auslöser: Verantwortungsdiffusion und pluralistische Ignoranz.",
       "media_type": "text",
       "difficulty": 2,
-      "hint": "Latané & Darley — mehr Zeugen, weniger Hilfe.",
+      "hint": "Latané & Darley, mehr Zeugen, weniger Hilfe.",
       "tags": ["sozial", "prosozial", "person"]
     },
     {
@@ -91,7 +91,7 @@
     {
       "id": "entscheidungsmodell",
       "stable_id": "card-ms942qpy1bhq1",
-      "front": "Entscheidungsmodell des Eingreifens — 5 Schritte (Decision Model of Helping)",
+      "front": "Entscheidungsmodell des Eingreifens, 5 Schritte (Decision Model of Helping)",
       "back": "Latané & Darley: (1) Ereignis bemerken, (2) als Notfall deuten, (3) Verantwortung übernehmen, (4) wissen, wie man helfen kann, (5) tatsächlich handeln. Scheitert eine Stufe, bleibt Hilfe aus.",
       "notes": "Jede Stufe kann durch situative Faktoren blockiert werden.",
       "media_type": "text",
@@ -134,13 +134,13 @@
       "id": "theorie-aggression",
       "type": "theory",
       "title": "Aggression: Definition und Erklärungsansätze",
-      "body": "# Aggression\n\n**Aggression** ist jedes Verhalten mit der Absicht, einer anderen Person Schaden zuzufügen. Die Schädigungsabsicht unterscheidet sie von Unfällen oder zufälligen Verletzungen.\n\n## Wichtige Theorien im Überblick\n\n| Theorie | Autor(en) | Kernaussage |\n|---|---|---|\n| **Frustrations-Aggressions-Hypothese** | Dollard et al. (1939); Berkowitz | Frustration (blockiertes Ziel) erzeugt Aggressionsdrang |\n| **Soziales Lernen / Modelllernen** | Bandura (Bobo-Doll-Exp.) | Aggression wird durch Beobachtung gelernt (→ Lektion 4) |\n| **Biologische Faktoren** | Lorenz u. a. | Hormone (Testosteron), Amygdala, Serotonin |\n| **Situative Faktoren** | diverse | Hitze, Schmerz, Lärm, Alkohol |\n\n## Das Bobo-Doll-Experiment (Bandura, 1961)\n\nKinder, die einem aggressiven Modell zusahen, ahmten dessen Verhalten an einer aufblasbaren Puppe nach — auch ohne Belohnung. Dies belegt **Beobachtungslernen** (vgl. Lektion 4) als Quelle aggressiver Verhaltensweisen.\n\n## Mediengewalt-Debatte\n\nMetaanalysen zeigen **kleine bis mittlere** Zusammenhänge zwischen Mediengewaltkonsum und Aggression. Kausalaussagen sind jedoch schwierig: Selektion (wer sucht Gewaltmedien?) und viele Drittvariablen müssen beachtet werden."
+      "body": "# Aggression\n\n**Aggression** ist jedes Verhalten mit der Absicht, einer anderen Person Schaden zuzufügen. Die Schädigungsabsicht unterscheidet sie von Unfällen oder zufälligen Verletzungen.\n\n## Wichtige Theorien im Überblick\n\n| Theorie | Autor(en) | Kernaussage |\n|---|---|---|\n| **Frustrations-Aggressions-Hypothese** | Dollard et al. (1939); Berkowitz | Frustration (blockiertes Ziel) erzeugt Aggressionsdrang |\n| **Soziales Lernen / Modelllernen** | Bandura (Bobo-Doll-Exp.) | Aggression wird durch Beobachtung gelernt (→ Lektion 4) |\n| **Biologische Faktoren** | Lorenz u. a. | Hormone (Testosteron), Amygdala, Serotonin |\n| **Situative Faktoren** | diverse | Hitze, Schmerz, Lärm, Alkohol |\n\n## Das Bobo-Doll-Experiment (Bandura, 1961)\n\nKinder, die einem aggressiven Modell zusahen, ahmten dessen Verhalten an einer aufblasbaren Puppe nach, auch ohne Belohnung. Dies belegt **Beobachtungslernen** (vgl. Lektion 4) als Quelle aggressiver Verhaltensweisen.\n\n## Mediengewalt-Debatte\n\nMetaanalysen zeigen **kleine bis mittlere** Zusammenhänge zwischen Mediengewaltkonsum und Aggression. Kausalaussagen sind jedoch schwierig: Selektion (wer sucht Gewaltmedien?) und viele Drittvariablen müssen beachtet werden."
     },
     {
       "id": "theorie-prosozial",
       "type": "theory",
       "title": "Prosoziales Verhalten: Bystander-Effekt und Entscheidungsmodell",
-      "body": "# Prosoziales Verhalten\n\n**Prosoziales Verhalten** umfasst Handlungen zum Nutzen anderer — von kleiner Hilfsbereitschaft bis zu echtem **Altruismus**.\n\n## Der Bystander-Effekt (Latané & Darley, 1968)\n\nWiederaufgriff aus Lektion 33: Je mehr Zuschauer anwesend sind, desto **seltener** greift eine Einzelperson ein. Zwei Mechanismen:\n\n- **Verantwortungsdiffusion**: Die Verantwortung wird auf alle verteilt, jede:r fühlt sich weniger zuständig.\n- **Pluralistische Ignoranz**: Alle beobachten, wie die anderen passiv bleiben, und schließen, es sei kein Notfall.\n\n## Das 5-Stufen-Entscheidungsmodell\n\n| Stufe | Frage | Typisches Hindernis |\n|---|---|---|\n| 1. Bemerken | Nehme ich etwas wahr? | Ablenkung |\n| 2. Als Notfall deuten | Ist es wirklich ein Notfall? | Pluralistische Ignoranz |\n| 3. Verantwortung übernehmen | Bin ich zuständig? | Verantwortungsdiffusion |\n| 4. Wissen wie | Kann ich helfen? | fehlende Kompetenz |\n| 5. Handeln | Handle ich? | Angst vor Blamage |\n\nScheitert eine Stufe, bleibt Hilfe aus — selbst wenn eine Person prinzipiell helfen möchte."
+      "body": "# Prosoziales Verhalten\n\n**Prosoziales Verhalten** umfasst Handlungen zum Nutzen anderer, von kleiner Hilfsbereitschaft bis zu echtem **Altruismus**.\n\n## Der Bystander-Effekt (Latané & Darley, 1968)\n\nWiederaufgriff aus Lektion 33: Je mehr Zuschauer anwesend sind, desto **seltener** greift eine Einzelperson ein. Zwei Mechanismen:\n\n- **Verantwortungsdiffusion**: Die Verantwortung wird auf alle verteilt, jede:r fühlt sich weniger zuständig.\n- **Pluralistische Ignoranz**: Alle beobachten, wie die anderen passiv bleiben, und schließen, es sei kein Notfall.\n\n## Das 5-Stufen-Entscheidungsmodell\n\n| Stufe | Frage | Typisches Hindernis |\n|---|---|---|\n| 1. Bemerken | Nehme ich etwas wahr? | Ablenkung |\n| 2. Als Notfall deuten | Ist es wirklich ein Notfall? | Pluralistische Ignoranz |\n| 3. Verantwortung übernehmen | Bin ich zuständig? | Verantwortungsdiffusion |\n| 4. Wissen wie | Kann ich helfen? | fehlende Kompetenz |\n| 5. Handeln | Handle ich? | Angst vor Blamage |\n\nScheitert eine Stufe, bleibt Hilfe aus, selbst wenn eine Person prinzipiell helfen möchte."
     },
     {
       "id": "theorie-altruismus",
