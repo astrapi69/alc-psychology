@@ -1,11 +1,11 @@
 {
   "repo": "astrapi69/alc-psychology",
-  "generated": "2026-09-01T11:11:29Z",
+  "generated": "2026-09-01T11:17:28Z",
   "schema_version": "1.0",
   "sets": [
     {
       "id": "psych-intro-from-de",
-      "name": "Psychologie, Grundlagen",
+      "name": "Psychologie - Grundlagen",
       "description": "Vollständiger Einführungskurs Psychologie auf Universitätsniveau (90 Lektionen), auf Deutsch erklärt, von den Grundlagen- und Anwendungsfächern über Psychotherapie, Forschungsmethoden und Statistik bis zu vertieften Grundlagenfächern, Geschichte, Wissenschaftstheorie, einem Spezialgebiete-Block (Psychophysik, Neuropsychologie, klinische Vertiefung, weiterführende Statistik), einem Block zu Gedächtnis, Sprache, Sinnessystemen, Evolution und Kultur, der Entscheidungspsychologie (Heuristiken, Dual-Process, Prospect Theory, Verhaltensökonomie), einem Block zu Motivation, Emotion und Wohlbefinden sowie einem Block zu Bewusstsein, Substanzen und Gehirn (Schlaf, veränderte Zustände, Psychopharmakologie, Sucht) sowie der vertieften Sozialpsychologie (Persuasion, Gruppenprozesse, Aggression und Prosozialität, Vorurteile und Intergruppenbeziehungen) sowie der Entwicklung über die Lebensspanne (von der pränatalen Phase bis ins hohe Alter) und einer Vertiefung der klinischen Psychologie (Trauma, Essstörungen, Suizidprävention, Zwangs- und Angststörungen, mit Hinweis auf professionelle Hilfe und Anlaufstellen) sowie der forensischen und Rechtspsychologie (Aussagepsychologie, Glaubhaftigkeitsbegutachtung, Schuldfähigkeit, Täterprofile und Kriminalprognose, sachlich und ohne Sensationalismus), einer Vertiefungslektion dazu (Fallanwendung und Unterscheidung statt Begriffsabfrage), sowie der Neuropsychologie (Grundlagen und Methoden, funktionelle Neuroanatomie, Störungsbilder, Gedächtnis- und Exekutivstörungen) mit einer eigenen Vertiefungslektion, der Arbeits- und Organisationspsychologie (Motivation und Zufriedenheit, Führung und Teams, Arbeitsstress und Burnout, mit Hinweis auf professionelle Hilfe) mit einer eigenen Vertiefungslektion, und der Pädagogischen Psychologie (Lernmotivation, Unterrichtsqualität, Leistungsbeurteilung und Prüfungsangst).",
       "source_language": "de",
       "target_language": "de",
@@ -29,7 +29,7 @@
         "url": "https://www.amazon.de/dp/3868943234/",
         "cover_image": null
       },
-      "updated_at": "2026-09-01T13:11:17+02:00"
+      "updated_at": "2026-09-01T13:17:17+02:00"
     },
     {
       "id": "psych-beeinflussung-from-de",
@@ -58,7 +58,7 @@
         "url": "https://www.hogrefe.com/de/shop/die-psychologie-des-ueberzeugens-91960.html",
         "cover_image": null
       },
-      "updated_at": "2026-09-01T13:07:10+02:00"
+      "updated_at": "2026-09-01T13:17:17+02:00"
     },
     {
       "id": "psych-rhetorik-from-de",
@@ -86,7 +86,7 @@
         "author": "Aristoteles",
         "url": null
       },
-      "updated_at": "2026-08-03T09:56:07+02:00"
+      "updated_at": "2026-09-01T13:17:17+02:00"
     },
     {
       "id": "psych-grundlagen-from-de",
