@@ -214,8 +214,8 @@
         "type": "word_tiles",
         "prompt": "Setze den Schlusssatz des Sets zusammen.",
         "card_ids": ["card-s-augenmass"],
-        "tiles": ["Wer", "die", "Effekte", "kennt", "kann", "sie", "auch", "erkennen"],
-        "hint": "Beginnt mit *Wer die Effekte kennt …*."
+        "tiles": ["Wer", "die", "Effekte", "kennt,", "kann", "sie", "auch", "erkennen"],
+        "hint": "Beginnt mit *Wer die Effekte kennt, …*."
       }
     }
   ]
