@@ -210,7 +210,7 @@
         "id": "ex-tiles-vier-i",
         "stable_id": "ex-ms942qqe1ruf9",
         "type": "word_tiles",
-        "prompt": "Setze eines der vier I der transformationalen Führung als Begriff zusammen.",
+        "prompt": "Setze den Merksatz zur intellektuellen Stimulierung zusammen.",
         "card_ids": ["transformationale-fuehrung"],
         "tiles": ["intellektuelle", "Stimulierung", "regt", "zum", "kritischen", "Denken", "an"],
         "hint": "Beginnt mit 'intellektuelle …' und meint das Anregen kreativen Denkens.",
