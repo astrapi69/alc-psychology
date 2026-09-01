@@ -3,7 +3,7 @@
 # Adaptive-Learner-Content-Repo für Psychologie. Drei deutschsprachige
 # Sets (domain: psychology) bilden eine aufeinander aufbauende Reihe:
 #
-#   psych-intro          Psychologie — Grundlagen        (A1, 112 Lektionen)
+#   psych-intro          Psychologie — Grundlagen        (A1, 115 Lektionen)
 #   psych-beeinflussung  Psychologie der Beeinflussung   (A2, 8 Lektionen)
 #   psych-rhetorik       Psychologie der Rhetorik        (B1, 5 Lektionen)
 #   psych-grundlagen     Psychologie: Verständnis-Grundlagen (A1, 4 Lektionen)
@@ -22,7 +22,7 @@ schema_version: '1.5'
 name: Adaptive Learner — Psychologie
 description: >-
   Psychologie-Inhalte für Adaptive Learner: ein Einführungskurs auf
-  Universitätsniveau (112 Lektionen) und ein Aufbau-Set zur
+  Universitätsniveau (115 Lektionen) und ein Aufbau-Set zur
   Psychologie der Beeinflussung, beide auf Deutsch erklärt.
 sets:
   - id: psych-intro-from-de
@@ -33,11 +33,11 @@ sets:
     domain: psychology
     level: A1
     path: sets/de/psych-intro
-    version: '1.19.0'
-    lesson_count: 112
+    version: '1.22.0'
+    lesson_count: 115
     description: >-
       Einführungskurs Psychologie auf Universitätsniveau für
-      Deutschsprachige (106 Lektionen): Grundbegriffe und
+      Deutschsprachige (115 Lektionen): Grundbegriffe und
       Geschichte, die Grundlagenfächer (Wahrnehmung, Gedächtnis,
       Lernen, Motivation/Emotion, Entwicklung, Sozial-,
       Persönlichkeits- und biologische Psychologie), klinische und
@@ -49,9 +49,12 @@ sets:
       Paradigmen, Wissenschaftstheorie und Forschungsethik sowie
       vertiefende Blöcke zur Neuropsychologie, zur Arbeits- und
       Organisationspsychologie (mit Arbeitsstress und Burnout) und
-      zur Pädagogischen Psychologie. Erklärt auf Deutsch, mit
-      englischen Originalbegriffen in Klammern. Erstes
-      Nicht-Sprachen-Set (domain: psychology).
+      zur Pädagogischen Psychologie, ergänzt um drei
+      Vertiefungslektionen (Fallanwendung und Unterscheidung statt
+      Begriffsabfrage) zur forensischen Psychologie, zur
+      Neuropsychologie und zur Arbeitspsychologie. Erklärt auf
+      Deutsch, mit englischen Originalbegriffen in Klammern.
+      Erstes Nicht-Sprachen-Set (domain: psychology).
     tags:
       - beginner
       - psychology
