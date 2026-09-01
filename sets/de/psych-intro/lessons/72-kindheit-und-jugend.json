@@ -242,7 +242,7 @@
         "card_ids": ["praefrontaler-kortex-adoleszenz"],
         "sentence": "Der ___ reift erst Mitte der 20er-Jahre vollständig und ist für Impulskontrolle und Risikoabwägung zuständig.",
         "blanks": [
-          { "accept": ["präfrontale Kortex", "Präfrontale Kortex", "präfrontaler Kortex", "Präfrontaler Kortex"] }
+          { "accept": ["präfrontale Kortex", "Präfrontale Kortex"] }
         ],
         "cloze_mode": "type",
         "hint": "Liegt im vorderen Stirnlappen; 'prä-frontal' = vor der Stirn."
