@@ -142,7 +142,7 @@
       "id": "theorie-sozial-entwicklung",
       "type": "theory",
       "title": "Sozialpsychologie und Entwicklungspsychologie vertieft",
-      "body": "## Sozialpsychologie vertieft\n\n| Konzept / Studie | Kerngedanke |\n|---|---|\n| **Einstellungen** (3 Komponenten) | Kognitiv (Gedanken) + Affektiv (Gefühle) + Behavioral (Handlung) |\n| **Kognitive Dissonanz** (Festinger) | Innerer Widerspruch → Drang zur Auflösung durch Einstellungsänderung |\n| **Konformität** (Asch) | Anpassung an die Gruppenrnorm, auch bei falschem Mehrheitsurteil |\n| **Gehorsam** (Milgram) | Autoritäten befolgen, selbst wenn es moralisch fragwürdig ist |\n| **Groupthink** | Falsche Harmonie in Gruppen → schlechte Entscheidungen |\n| **Bystander-Effekt** | Mehr Zuschauer → geringere Hilfswahrscheinlichkeit (Verantwortungsdiffusion) |\n\n## Entwicklungspsychologie vertieft\n\n| Theoretiker | Modell | Kern |\n|---|---|---|\n| **Bowlby / Ainsworth** | Bindungstheorie (Attachment Theory) | Sichere Bindung als Basis gesunder Entwicklung; drei Typen (Ainsworth) |\n| **Piaget** | Kognitive Stufen | 4 Stufen: sensomotorisch → präoperational → konkret-operational → formal-operational |\n| **Erikson** | Psychosoziale Krisen | 8 Lebensphasen mit je einer zentralen Krise (z. B. Vertrauen vs. Misstrauen) |\n| **Kohlberg** | Moralentwicklung | 3 Ebenen: präkonventionell → konventionell → postkonventionell |"
+      "body": "## Sozialpsychologie vertieft\n\n| Konzept / Studie | Kerngedanke |\n|---|---|\n| **Einstellungen** (3 Komponenten) | Kognitiv (Gedanken) + Affektiv (Gefühle) + Behavioral (Handlung) |\n| **Kognitive Dissonanz** (Festinger) | Innerer Widerspruch → Drang zur Auflösung durch Einstellungsänderung |\n| **Konformität** (Asch) | Anpassung an die Gruppennorm, auch bei falschem Mehrheitsurteil |\n| **Gehorsam** (Milgram) | Autoritäten befolgen, selbst wenn es moralisch fragwürdig ist |\n| **Groupthink** | Falsche Harmonie in Gruppen → schlechte Entscheidungen |\n| **Bystander-Effekt** | Mehr Zuschauer → geringere Hilfswahrscheinlichkeit (Verantwortungsdiffusion) |\n\n## Entwicklungspsychologie vertieft\n\n| Theoretiker | Modell | Kern |\n|---|---|---|\n| **Bowlby / Ainsworth** | Bindungstheorie (Attachment Theory) | Sichere Bindung als Basis gesunder Entwicklung; drei Typen (Ainsworth) |\n| **Piaget** | Kognitive Stufen | 4 Stufen: sensomotorisch → präoperational → konkret-operational → formal-operational |\n| **Erikson** | Psychosoziale Krisen | 8 Lebensphasen mit je einer zentralen Krise (z. B. Vertrauen vs. Misstrauen) |\n| **Kohlberg** | Moralentwicklung | 3 Ebenen: präkonventionell → konventionell → postkonventionell |"
     },
     {
       "id": "ex-match-emotionstheorien",
@@ -176,7 +176,7 @@
         "card_ids": ["cocktailparty-effekt"],
         "sentence": "Dass man im Stimmengewirr seinen eigenen Namen herausfiltern kann, nennt man den ___-Effekt.",
         "blanks": [
-          { "accept": ["Cocktailparty", "Cocktail-Party", "Cocktailparty-"] }
+          { "accept": ["Cocktailparty", "Cocktail-Party"] }
         ],
         "cloze_mode": "type",
         "hint": "Englisch für eine gesellige Party mit Getränken."
