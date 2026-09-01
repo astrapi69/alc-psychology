@@ -1,7 +1,7 @@
 {
   "id": "61-bewusstsein-und-schlaf-vertieft",
   "title": "Bewusstsein und Schlaf vertieft",
-  "description": "Die Architektur des Schlafs, die innere Uhr, Traumtheorien und Schlafstörungen — die biologische Vertiefung von Bewusstsein und Schlaf, auf Deutsch erklärt.",
+  "description": "Die Architektur des Schlafs, die innere Uhr, Traumtheorien und Schlafstörungen, die biologische Vertiefung von Bewusstsein und Schlaf, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -35,7 +35,7 @@
       "notes": "Licht auf der Netzhaut synchronisiert den SCN mit der Außenwelt.",
       "media_type": "text",
       "difficulty": 4,
-      "hint": "Liegt im Hypothalamus — die zentrale biologische Uhr.",
+      "hint": "Liegt im Hypothalamus, die zentrale biologische Uhr.",
       "tags": ["schlaf", "biologie"]
     },
     {
@@ -91,7 +91,7 @@
       "stable_id": "card-ms942qpt17uh0",
       "front": "Aktivierungs-Synthese-Hypothese",
       "back": "Träume entstehen, wenn das Gehirn zufällige Aktivierung im REM-Schlaf zu einer Geschichte zusammensetzt.",
-      "notes": "Von Hobson & McCarley — eine biologische Gegenposition zu Freuds Traumdeutung.",
+      "notes": "Von Hobson & McCarley, eine biologische Gegenposition zu Freuds Traumdeutung.",
       "media_type": "text",
       "difficulty": 4,
       "tags": ["schlaf", "traum", "theorie"]
@@ -130,7 +130,7 @@
       "id": "intro",
       "type": "theory",
       "title": "Die innere Uhr",
-      "body": "# Bewusstsein und Schlaf vertieft\n\nIn **Lektion 14** ging es um Bewusstsein und Schlaf. Hier vertiefen wir die **Biologie** dahinter.\n\n## Der zirkadiane Rhythmus\n\nUnser Körper folgt einem **zirkadianen Rhythmus** — einem inneren Takt von etwa **24 Stunden**, der Wachheit, Schlaf, Körpertemperatur und Hormone steuert.\n\nGesteuert wird er vom **suprachiasmatischen Nukleus (SCN)**, der **inneren Uhr** im **Hypothalamus**:\n\n- **Licht** auf der Netzhaut meldet dem SCN den Tag.\n- Bei **Dunkelheit** schüttet die Zirbeldrüse **Melatonin** aus — das macht müde.\n\n> Deshalb stört helles Bildschirmlicht am Abend den Schlaf: Es bremst die Melatoninausschüttung."
+      "body": "# Bewusstsein und Schlaf vertieft\n\nIn **Lektion 14** ging es um Bewusstsein und Schlaf. Hier vertiefen wir die **Biologie** dahinter.\n\n## Der zirkadiane Rhythmus\n\nUnser Körper folgt einem **zirkadianen Rhythmus**, einem inneren Takt von etwa **24 Stunden**, der Wachheit, Schlaf, Körpertemperatur und Hormone steuert.\n\nGesteuert wird er vom **suprachiasmatischen Nukleus (SCN)**, der **inneren Uhr** im **Hypothalamus**:\n\n- **Licht** auf der Netzhaut meldet dem SCN den Tag.\n- Bei **Dunkelheit** schüttet die Zirbeldrüse **Melatonin** aus, das macht müde.\n\n> Deshalb stört helles Bildschirmlicht am Abend den Schlaf: Es bremst die Melatoninausschüttung."
     },
     {
       "id": "step-schlafstadien",

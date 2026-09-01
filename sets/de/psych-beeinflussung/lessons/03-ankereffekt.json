@@ -1,6 +1,6 @@
 {
   "id": "03-ankereffekt",
-  "title": "Der Ankereffekt — die erste Zahl bleibt haften",
+  "title": "Der Ankereffekt - die erste Zahl bleibt haften",
   "description": "Der Ankereffekt beschreibt, dass eine zuerst genannte Information (oft eine Zahl) als Bezugspunkt dient und Folgeurteile in ihre Richtung zieht. Robust belegt, klassisch gezeigt von Tversky & Kahneman (1974). Mit klarer Abgrenzung zu Framing und Priming.",
   "target_language": "de",
   "source_language": "de",
@@ -21,8 +21,8 @@
       "id": "card-anpassung",
       "stable_id": "card-ms942qod00r6v",
       "front": "Unzureichende Anpassung",
-      "back": "Menschen passen ihr Urteil ausgehend vom Anker an, hören dabei aber meist zu früh auf — das Ergebnis bleibt nahe am Anker",
-      "notes": "Anchoring-and-Adjustment: das ursprüngliche Modell (Tversky & Kahneman, 1974) — die Anpassung fällt typischerweise zu gering aus.",
+      "back": "Menschen passen ihr Urteil ausgehend vom Anker an, hören dabei aber meist zu früh auf, das Ergebnis bleibt nahe am Anker",
+      "notes": "Anchoring-and-Adjustment: das ursprüngliche Modell (Tversky & Kahneman, 1974), die Anpassung fällt typischerweise zu gering aus.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["anker", "mechanismus"]
@@ -31,8 +31,8 @@
       "id": "card-selektive-verfuegbarkeit",
       "stable_id": "card-ms942qod00sru",
       "front": "Selektive Verfügbarkeit",
-      "back": "Moderne Verfeinerung (Strack & Mussweiler, 1997): Bei zufälligen, extern vorgegebenen Ankern aktiviert der Anker selektiv passende Informationen im Gedächtnis — diese werden leichter verfügbar und ziehen das Urteil in Richtung Anker",
-      "notes": "Selective Accessibility — ergänzt das ältere Anchoring-and-Adjustment-Modell, ersetzt es aber nicht. Gut erklärt für das Glücksrad-Beispiel.",
+      "back": "Moderne Verfeinerung (Strack & Mussweiler, 1997): Bei zufälligen, extern vorgegebenen Ankern aktiviert der Anker selektiv passende Informationen im Gedächtnis, diese werden leichter verfügbar und ziehen das Urteil in Richtung Anker",
+      "notes": "Selective Accessibility, ergänzt das ältere Anchoring-and-Adjustment-Modell, ersetzt es aber nicht. Gut erklärt für das Glücksrad-Beispiel.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["anker", "mechanismus"]
@@ -51,7 +51,7 @@
       "id": "card-anker-verhandlung",
       "stable_id": "card-ms942qod00upi",
       "front": "Anker in Verhandlungen",
-      "back": "Das erste Angebot setzt einen Bezugspunkt, um den herum weiterverhandelt wird — wer zuerst nennt, prägt oft den Rahmen",
+      "back": "Das erste Angebot setzt einen Bezugspunkt, um den herum weiterverhandelt wird, wer zuerst nennt, prägt oft den Rahmen",
       "notes": "Ein praktischer Anwendungsfall; trotzdem kein Garant für ein bestimmtes Ergebnis.",
       "media_type": "text",
       "difficulty": 2,
@@ -83,7 +83,7 @@
       "id": "intro",
       "type": "theory",
       "title": "Wie der Anker wirkt",
-      "body": "# Der Ankereffekt\n\nDer **Ankereffekt** beschreibt, dass eine zuerst genannte Information — oft eine Zahl — als Bezugspunkt dient und Folgeurteile in ihre Richtung zieht.\n\n## Das klassische Experiment\n\n**Tversky & Kahneman (1974)** drehten vor den Augen der Versuchspersonen ein Glücksrad, das eine Zufallszahl anzeigte. Danach sollten die Personen schätzen, wie hoch der Anteil afrikanischer Länder in der UNO sei. Obwohl die Zahl *offensichtlich zufällig* war, lagen die Schätzungen näher an einem hohen Anker, wenn das Rad eine hohe Zahl gezeigt hatte — und näher an einem niedrigen Anker bei niedriger Zahl.\n\n## Zwei Erklärungsmodelle\n\n**Ursprünglich — Anchoring and Adjustment (Tversky & Kahneman, 1974):** Menschen starten beim Anker und passen ihr Urteil an — aber sie hören dabei meist *zu früh* auf. Die Anpassung fällt zu gering aus, das Ergebnis bleibt nahe am Anker.\n\n**Moderne Verfeinerung — Selektive Verfügbarkeit (Strack & Mussweiler, 1997):** Besonders bei *zufälligen, extern vorgegebenen* Ankern (wie dem Glücksrad) passt man nicht einfach zu kurz an — der Anker *aktiviert selektiv* Informationen im Gedächtnis, die zu ihm passen. Diese bestätigenden Inhalte sind danach leichter verfügbar und verschieben das Urteil in Richtung Anker. Kurz: alt = *zu früh aufhören beim Anpassen*, neu = *das Gehirn sucht selektiv nach Infos, die zum Anker passen*. Beide Modelle stehen nebeneinander als Entwicklung der Theorie.\n\n## Augenmaß\n\nDer Ankereffekt ist robust und vielfach repliziert. Trotzdem ist er **begrenzbar**: Wer den Anker bewusst hinterfragt, Gegenargumente sucht oder über Fachwissen verfügt, reduziert seinen Einfluss. Robust heißt nicht unausweichlich."
+      "body": "# Der Ankereffekt\n\nDer **Ankereffekt** beschreibt, dass eine zuerst genannte Information, oft eine Zahl, als Bezugspunkt dient und Folgeurteile in ihre Richtung zieht.\n\n## Das klassische Experiment\n\n**Tversky & Kahneman (1974)** drehten vor den Augen der Versuchspersonen ein Glücksrad, das eine Zufallszahl anzeigte. Danach sollten die Personen schätzen, wie hoch der Anteil afrikanischer Länder in der UNO sei. Obwohl die Zahl *offensichtlich zufällig* war, lagen die Schätzungen näher an einem hohen Anker, wenn das Rad eine hohe Zahl gezeigt hatte, und näher an einem niedrigen Anker bei niedriger Zahl.\n\n## Zwei Erklärungsmodelle\n\n**Ursprünglich, Anchoring and Adjustment (Tversky & Kahneman, 1974):** Menschen starten beim Anker und passen ihr Urteil an, aber sie hören dabei meist *zu früh* auf. Die Anpassung fällt zu gering aus, das Ergebnis bleibt nahe am Anker.\n\n**Moderne Verfeinerung, Selektive Verfügbarkeit (Strack & Mussweiler, 1997):** Besonders bei *zufälligen, extern vorgegebenen* Ankern (wie dem Glücksrad) passt man nicht einfach zu kurz an, der Anker *aktiviert selektiv* Informationen im Gedächtnis, die zu ihm passen. Diese bestätigenden Inhalte sind danach leichter verfügbar und verschieben das Urteil in Richtung Anker. Kurz: alt = *zu früh aufhören beim Anpassen*, neu = *das Gehirn sucht selektiv nach Infos, die zum Anker passen*. Beide Modelle stehen nebeneinander als Entwicklung der Theorie.\n\n## Augenmaß\n\nDer Ankereffekt ist robust und vielfach repliziert. Trotzdem ist er **begrenzbar**: Wer den Anker bewusst hinterfragt, Gegenargumente sucht oder über Fachwissen verfügt, reduziert seinen Einfluss. Robust heißt nicht unausweichlich."
     },
     {
       "id": "ex-free-anker",

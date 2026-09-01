@@ -1,7 +1,7 @@
 {
   "id": "59-positive-psychologie-vertieft",
   "title": "Positive Psychologie vertieft",
-  "description": "Vertiefung der Positiven Psychologie: Seligmans PERMA-Modell, subjektives Wohlbefinden, hedonische Adaptation, Set-Point-Theorie, Resilienz, Charakterstärken (VIA) sowie wirksame Interventionen wie Dankbarkeit — sachlich erklärt, ohne Happiness-Kitsch.",
+  "description": "Vertiefung der Positiven Psychologie: Seligmans PERMA-Modell, subjektives Wohlbefinden, hedonische Adaptation, Set-Point-Theorie, Resilienz, Charakterstärken (VIA) sowie wirksame Interventionen wie Dankbarkeit, sachlich erklärt, ohne Happiness-Kitsch.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -11,7 +11,7 @@
       "id": "positive-psychologie-recap",
       "stable_id": "card-ms942qps16koq",
       "front": "Positive Psychologie (Positive Psychology)",
-      "back": "Wissenschaftlicher Zweig der Psychologie, der untersucht, was Menschen aufblühen lässt — Wohlbefinden, Stärken und erfülltes Leben —, statt sich nur auf Störungen zu konzentrieren.",
+      "back": "Wissenschaftlicher Zweig der Psychologie, der untersucht, was Menschen aufblühen lässt, Wohlbefinden, Stärken und erfülltes Leben, statt sich nur auf Störungen zu konzentrieren.",
       "notes": "Grundbegriff aus Lektion 10; hier vertiefen wir die zentralen Modelle und Befunde.",
       "media_type": "text",
       "difficulty": 1,
@@ -51,7 +51,7 @@
       "id": "hedonische-adaptation",
       "stable_id": "card-ms942qps16obv",
       "front": "Hedonische Adaptation / Hedonistische Tretmühle (Hedonic Adaptation)",
-      "back": "Die Tendenz, sich nach positiven oder negativen Ereignissen relativ schnell wieder an das gewohnte Glücksniveau anzupassen — Freude verblasst, Schmerz lässt nach.",
+      "back": "Die Tendenz, sich nach positiven oder negativen Ereignissen relativ schnell wieder an das gewohnte Glücksniveau anzupassen, Freude verblasst, Schmerz lässt nach.",
       "notes": "Auch 'hedonistische Tretmühle' (hedonic treadmill): Man läuft, ohne dauerhaft glücklicher zu werden.",
       "media_type": "text",
       "difficulty": 4,
@@ -81,7 +81,7 @@
     {
       "id": "charakterstaerken-via",
       "stable_id": "card-ms942qps16rar",
-      "front": "Charakterstärken und Tugenden — VIA-Klassifikation (VIA Classification of Character Strengths)",
+      "front": "Charakterstärken und Tugenden, VIA-Klassifikation (VIA Classification of Character Strengths)",
       "back": "Von Peterson & Seligman entwickeltes System mit 24 universellen Charakterstärken (z. B. Neugier, Tapferkeit, Dankbarkeit), geordnet unter sechs Tugenden.",
       "notes": "VIA steht für 'Values in Action'. Der VIA-Fragebogen erfasst individuelle Stärkenprofile.",
       "media_type": "text",
@@ -134,19 +134,19 @@
       "id": "step-einfuehrung-perma",
       "type": "theory",
       "title": "Seligman und das PERMA-Modell",
-      "body": "# Positive Psychologie vertieft\n\nIn **Lektion 10** haben wir die Positive Psychologie als wissenschaftlichen Zweig kennengelernt, der fragt: Was macht Menschen stark und zufrieden? Jetzt gehen wir tiefer — und knüpfen damit an ein Thema an, das den gesamten Kurs durchzieht: Was ist ein gelingendes menschliches Leben?\n\n## Martin Seligman und PERMA\n\n**Martin Seligman** startete 1998 als APA-Präsident das Forschungsprogramm der Positiven Psychologie. Sein bekanntestes Modell ist **PERMA**: fünf Säulen des Wohlbefindens (Flourishing).\n\n| Buchstabe | Begriff | Erläuterung |\n|---|---|---|\n| **P** | Positive Emotionen | Freude, Dankbarkeit, Hoffnung, Liebe — häufige positive Gefühle |\n| **E** | Engagement | Aufgehen in einer Tätigkeit, Flow-Erleben |\n| **R** | Beziehungen *(Relationships)* | Tragfähige soziale Bindungen und Zugehörigkeit |\n| **M** | Sinn *(Meaning)* | Teil von etwas Größerem sein, Lebensaufgabe |\n| **A** | Zielerreichung *(Accomplishment)* | Leistung, Kompetenz, Selbstwirksamkeit |\n\nKeines der fünf Elemente lässt sich auf ein anderes reduzieren — sie ergänzen sich.\n\n> **Hinweis:** PERMA beschreibt kein Rezept, sondern einen Rahmen, um empirisch zu untersuchen, was zu einem gelingenden Leben beiträgt."
+      "body": "# Positive Psychologie vertieft\n\nIn **Lektion 10** haben wir die Positive Psychologie als wissenschaftlichen Zweig kennengelernt, der fragt: Was macht Menschen stark und zufrieden? Jetzt gehen wir tiefer, und knüpfen damit an ein Thema an, das den gesamten Kurs durchzieht: Was ist ein gelingendes menschliches Leben?\n\n## Martin Seligman und PERMA\n\n**Martin Seligman** startete 1998 als APA-Präsident das Forschungsprogramm der Positiven Psychologie. Sein bekanntestes Modell ist **PERMA**: fünf Säulen des Wohlbefindens (Flourishing).\n\n| Buchstabe | Begriff | Erläuterung |\n|---|---|---|\n| **P** | Positive Emotionen | Freude, Dankbarkeit, Hoffnung, Liebe, häufige positive Gefühle |\n| **E** | Engagement | Aufgehen in einer Tätigkeit, Flow-Erleben |\n| **R** | Beziehungen *(Relationships)* | Tragfähige soziale Bindungen und Zugehörigkeit |\n| **M** | Sinn *(Meaning)* | Teil von etwas Größerem sein, Lebensaufgabe |\n| **A** | Zielerreichung *(Accomplishment)* | Leistung, Kompetenz, Selbstwirksamkeit |\n\nKeines der fünf Elemente lässt sich auf ein anderes reduzieren, sie ergänzen sich.\n\n> **Hinweis:** PERMA beschreibt kein Rezept, sondern einen Rahmen, um empirisch zu untersuchen, was zu einem gelingenden Leben beiträgt."
     },
     {
       "id": "step-wohlbefinden-adaptation",
       "type": "theory",
       "title": "Subjektives Wohlbefinden, hedonische Adaptation und Set-Point",
-      "body": "## Subjektives Wohlbefinden\n\n**Ed Diener** prägte den Begriff *Subjective Well-Being* (SWB). Es setzt sich zusammen aus:\n\n- **Lebenszufriedenheit** — kognitive, vergleichende Bewertung des eigenen Lebens\n- **Affektbilanz** — mehr positive als negative Emotionen im Alltag\n\n## Hedonische Adaptation\n\nEin zentraler Befund der Glücksforschung: Wir **gewöhnen uns** an Gutes und Schlechtes.\n\n> Lottogewinner sind nach etwa einem Jahr nicht glücklicher als Kontrollpersonen. Menschen, die einen Unfall erlitten, berichten nach einiger Zeit wieder ähnliche Zufriedenheitswerte wie zuvor.\n\nDieses Phänomen heißt **Hedonische Adaptation** — oder bildhaft: **Hedonistische Tretmühle** *(hedonic treadmill)*. Wir laufen, ohne dauerhaft voranzukommen.\n\n## Set-Point-Theorie\n\nLykken & Tellegen (1996) prägten die Idee, jeder Mensch habe ein genetisch mitbestimmtes **Basis-Glücksniveau (Set-Point)**, auf das das Wohlbefinden nach Ereignissen zurückpendelt.\n\n| Aspekt | Befund |\n|---|---|\n| Genetischer Anteil am SWB | ca. 40–50 % (Zwillingsstudien) |\n| Lebensumstände | erklären erstaunlich wenig (~10 %) |\n| Verhalten & Denkmuster | größter veränderbarer Anteil (~40 %) |\n\nNeuere Forschung zeigt: Der Set-Point kann sich verschieben — etwa durch anhaltende Lebensveränderungen oder gezielte psychologische Übungen."
+      "body": "## Subjektives Wohlbefinden\n\n**Ed Diener** prägte den Begriff *Subjective Well-Being* (SWB). Es setzt sich zusammen aus:\n\n- **Lebenszufriedenheit**, kognitive, vergleichende Bewertung des eigenen Lebens\n- **Affektbilanz**, mehr positive als negative Emotionen im Alltag\n\n## Hedonische Adaptation\n\nEin zentraler Befund der Glücksforschung: Wir **gewöhnen uns** an Gutes und Schlechtes.\n\n> Lottogewinner sind nach etwa einem Jahr nicht glücklicher als Kontrollpersonen. Menschen, die einen Unfall erlitten, berichten nach einiger Zeit wieder ähnliche Zufriedenheitswerte wie zuvor.\n\nDieses Phänomen heißt **Hedonische Adaptation**, oder bildhaft: **Hedonistische Tretmühle** *(hedonic treadmill)*. Wir laufen, ohne dauerhaft voranzukommen.\n\n## Set-Point-Theorie\n\nLykken & Tellegen (1996) prägten die Idee, jeder Mensch habe ein genetisch mitbestimmtes **Basis-Glücksniveau (Set-Point)**, auf das das Wohlbefinden nach Ereignissen zurückpendelt.\n\n| Aspekt | Befund |\n|---|---|\n| Genetischer Anteil am SWB | ca. 40–50 % (Zwillingsstudien) |\n| Lebensumstände | erklären erstaunlich wenig (~10 %) |\n| Verhalten & Denkmuster | größter veränderbarer Anteil (~40 %) |\n\nNeuere Forschung zeigt: Der Set-Point kann sich verschieben, etwa durch anhaltende Lebensveränderungen oder gezielte psychologische Übungen."
     },
     {
       "id": "step-resilienz-staerken-interventionen",
       "type": "theory",
       "title": "Resilienz, Charakterstärken und wirksame Interventionen",
-      "body": "## Resilienz\n\n**Resilienz** ist die psychische Widerstandsfähigkeit: die Fähigkeit, Krisen und Widrigkeiten zu bewältigen und danach wieder ins seelische Gleichgewicht zurückzufinden — oder sogar gestärkt daraus hervorzugehen (*posttraumatisches Wachstum*).\n\nSchutzfaktoren: soziale Unterstützung, **Selbstwirksamkeit**, Problemlösekompetenzen, Optimismus.\n\n## Charakterstärken und Tugenden (VIA)\n\nPeterson & Seligman entwickelten die **VIA-Klassifikation** (Values in Action): 24 **Charakterstärken** unter sechs Tugenden (Weisheit, Mut, Menschlichkeit, Gerechtigkeit, Mäßigung, Transzendenz). Jeder Mensch hat ein individuelles **Stärkenprofil**.\n\n## Wirksame Interventionen\n\n| Intervention | Kernidee |\n|---|---|\n| **Dankbarkeitsbrief** | Jemandem schriftlich danken, dem man es nie sagte |\n| **Drei-gute-Dinge** | Täglich drei positive Erlebnisse aufschreiben |\n| **Stärken-Einsatz** | Eigene Stärken bewusst in neuen Kontexten nutzen |\n| **Savoring** | Schöne Momente achtsam auskosten |\n\n## Hedonisch vs. eudaimonisch\n\n| Ansatz | Kern | Beispiel |\n|---|---|---|\n| **Hedonisch** | Maximierung von Genuss, Minimierung von Schmerz | Lust, Entspannung |\n| **Eudaimonisch** | Sinnerfülltes Leben, Tugend, Potenzialentfaltung | Aristoteles, Selbstverwirklichung |\n\nBeide Dimensionen tragen zum Wohlbefinden bei — sie schließen sich nicht aus."
+      "body": "## Resilienz\n\n**Resilienz** ist die psychische Widerstandsfähigkeit: die Fähigkeit, Krisen und Widrigkeiten zu bewältigen und danach wieder ins seelische Gleichgewicht zurückzufinden, oder sogar gestärkt daraus hervorzugehen (*posttraumatisches Wachstum*).\n\nSchutzfaktoren: soziale Unterstützung, **Selbstwirksamkeit**, Problemlösekompetenzen, Optimismus.\n\n## Charakterstärken und Tugenden (VIA)\n\nPeterson & Seligman entwickelten die **VIA-Klassifikation** (Values in Action): 24 **Charakterstärken** unter sechs Tugenden (Weisheit, Mut, Menschlichkeit, Gerechtigkeit, Mäßigung, Transzendenz). Jeder Mensch hat ein individuelles **Stärkenprofil**.\n\n## Wirksame Interventionen\n\n| Intervention | Kernidee |\n|---|---|\n| **Dankbarkeitsbrief** | Jemandem schriftlich danken, dem man es nie sagte |\n| **Drei-gute-Dinge** | Täglich drei positive Erlebnisse aufschreiben |\n| **Stärken-Einsatz** | Eigene Stärken bewusst in neuen Kontexten nutzen |\n| **Savoring** | Schöne Momente achtsam auskosten |\n\n## Hedonisch vs. eudaimonisch\n\n| Ansatz | Kern | Beispiel |\n|---|---|---|\n| **Hedonisch** | Maximierung von Genuss, Minimierung von Schmerz | Lust, Entspannung |\n| **Eudaimonisch** | Sinnerfülltes Leben, Tugend, Potenzialentfaltung | Aristoteles, Selbstverwirklichung |\n\nBeide Dimensionen tragen zum Wohlbefinden bei, sie schließen sich nicht aus."
     },
     {
       "id": "ex-match-perma",
@@ -160,11 +160,11 @@
         "prompt": "Ordne jedem PERMA-Buchstaben die passende Beschreibung zu.",
         "card_ids": ["perma-modell"],
         "pairs": [
-          { "left": "P — Positive Emotionen", "right": "Freude, Dankbarkeit und Hoffnung im Alltag" },
-          { "left": "E — Engagement", "right": "Aufgehen in einer Tätigkeit, Flow-Erleben" },
-          { "left": "R — Beziehungen", "right": "Tragfähige soziale Bindungen und Zugehörigkeit" },
-          { "left": "M — Sinn", "right": "Teil von etwas Größerem sein, Lebensaufgabe" },
-          { "left": "A — Zielerreichung", "right": "Leistung, Kompetenz, Selbstwirksamkeit" }
+          { "left": "P, Positive Emotionen", "right": "Freude, Dankbarkeit und Hoffnung im Alltag" },
+          { "left": "E, Engagement", "right": "Aufgehen in einer Tätigkeit, Flow-Erleben" },
+          { "left": "R, Beziehungen", "right": "Tragfähige soziale Bindungen und Zugehörigkeit" },
+          { "left": "M, Sinn", "right": "Teil von etwas Größerem sein, Lebensaufgabe" },
+          { "left": "A, Zielerreichung", "right": "Leistung, Kompetenz, Selbstwirksamkeit" }
         ],
         "direction": "target_to_source"
       }
@@ -234,7 +234,7 @@
         "id": "ex-free-resilienz",
         "stable_id": "ex-ms942qps170sz",
         "type": "free_text",
-        "prompt": "Wie lautet der Fachbegriff für psychische Widerstandsfähigkeit — die Fähigkeit, Krisen zu überstehen und ins Gleichgewicht zurückzufinden?",
+        "prompt": "Wie lautet der Fachbegriff für psychische Widerstandsfähigkeit, die Fähigkeit, Krisen zu überstehen und ins Gleichgewicht zurückzufinden?",
         "card_ids": ["resilienz"],
         "accept": ["Resilienz", "die Resilienz", "psychische Resilienz", "Resilience"],
         "hint": "Von lateinisch 'resilire': zurückspringen.",

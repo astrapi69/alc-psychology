@@ -1,7 +1,7 @@
 {
   "id": "25-inferenzstatistik-und-wiederholung",
   "title": "Inferenzstatistik und Wiederholung",
-  "description": "Zum Abschluss der Forschungsmethoden-Reihe: Wie schließt man von einer Stichprobe auf die Population? Nullhypothese, p-Wert und Effektstärke — plus die große Wiederholung der Lektionen 21–24.",
+  "description": "Zum Abschluss der Forschungsmethoden-Reihe: Wie schließt man von einer Stichprobe auf die Population? Nullhypothese, p-Wert und Effektstärke, plus die große Wiederholung der Lektionen 21–24.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -11,7 +11,7 @@
       "id": "nullhypothese",
       "stable_id": "card-ms942qp70od8a",
       "front": "Nullhypothese H₀ (Null Hypothesis)",
-      "back": "Die Annahme, dass es keinen Effekt oder keinen Unterschied gibt — sie wird durch den statistischen Test auf den Prüfstand gestellt.",
+      "back": "Die Annahme, dass es keinen Effekt oder keinen Unterschied gibt, sie wird durch den statistischen Test auf den Prüfstand gestellt.",
       "notes": "Merkhilfe: H₀ = 'Null Effekt'. Nur wenn die Daten sehr unwahrscheinlich unter H₀ sind, wird sie verworfen.",
       "media_type": "text",
       "difficulty": 3,
@@ -22,7 +22,7 @@
       "stable_id": "card-ms942qp70oexy",
       "front": "Alternativhypothese H₁ (Alternative Hypothesis)",
       "back": "Die Forschungshypothese: Es gibt einen Effekt oder Unterschied. H₁ wird akzeptiert, wenn H₀ verworfen wird.",
-      "notes": "H₁ entspricht meist der inhaltlichen Erwartung der Forscherin — zum Beispiel: 'Schlafentzug verschlechtert die Konzentration.'",
+      "notes": "H₁ entspricht meist der inhaltlichen Erwartung der Forscherin, zum Beispiel: 'Schlafentzug verschlechtert die Konzentration.'",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["inferenzstatistik", "hypothesen"]
@@ -31,7 +31,7 @@
       "id": "statistische-signifikanz",
       "stable_id": "card-ms942qp70ofbd",
       "front": "Statistische Signifikanz (Statistical Significance)",
-      "back": "Ein Ergebnis gilt als statistisch signifikant, wenn es unter der Nullhypothese so unwahrscheinlich ist, dass man H₀ verwirft — üblicherweise ab p < .05.",
+      "back": "Ein Ergebnis gilt als statistisch signifikant, wenn es unter der Nullhypothese so unwahrscheinlich ist, dass man H₀ verwirft, üblicherweise ab p < .05.",
       "notes": "Achtung: 'signifikant' bedeutet hier nicht 'wichtig', sondern nur 'unwahrscheinlich unter H₀'.",
       "media_type": "text",
       "difficulty": 3,
@@ -43,7 +43,7 @@
       "stable_id": "card-ms942qp70og7l",
       "front": "p-Wert (p-Value)",
       "back": "Die Wahrscheinlichkeit, das beobachtete Ergebnis (oder ein noch extremeres) zu erhalten, wenn die Nullhypothese wahr wäre. Konvention: signifikant bei p < .05.",
-      "notes": "Der p-Wert sagt nichts über die Größe oder Bedeutsamkeit eines Effekts aus — nur über die Wahrscheinlichkeit unter H₀.",
+      "notes": "Der p-Wert sagt nichts über die Größe oder Bedeutsamkeit eines Effekts aus, nur über die Wahrscheinlichkeit unter H₀.",
       "media_type": "text",
       "difficulty": 4,
       "tags": ["inferenzstatistik", "signifikanz"]
@@ -56,7 +56,7 @@
       "notes": "Beispiel: Bei n = 10 000 kann ein IQ-Unterschied von 1 Punkt statistisch signifikant werden, ist aber kaum praktisch bedeutsam.",
       "media_type": "text",
       "difficulty": 4,
-      "hint": "Stichprobengröße erhöht die Teststärke — auch triviale Effekte werden dann 'signifikant'.",
+      "hint": "Stichprobengröße erhöht die Teststärke, auch triviale Effekte werden dann 'signifikant'.",
       "tags": ["inferenzstatistik", "signifikanz", "effektstaerke"]
     },
     {
@@ -83,7 +83,7 @@
       "id": "recap-experiment-korrelation",
       "stable_id": "card-ms942qp70okh2",
       "front": "Wiederholung: Experiment vs. Korrelation",
-      "back": "Experiment: UV wird manipuliert, Randomisierung ermöglicht Kausalschlüsse. Korrelation: Zusammenhang wird gemessen (r), aber keine Manipulation — daher kein Kausalschluss möglich.",
+      "back": "Experiment: UV wird manipuliert, Randomisierung ermöglicht Kausalschlüsse. Korrelation: Zusammenhang wird gemessen (r), aber keine Manipulation, daher kein Kausalschluss möglich.",
       "notes": "Merksatz: Korrelation ≠ Kausalität. Dritte Variablen (Störvariablen) können einen Zusammenhang erklären.",
       "media_type": "text",
       "difficulty": 3,
@@ -94,7 +94,7 @@
       "stable_id": "card-ms942qp70olwi",
       "front": "Wiederholung: Gütekriterien (Quality Criteria)",
       "back": "Objektivität: Ergebnisse unabhängig vom Untersucher. Reliabilität: konsistente, stabile Messung. Validität: das Instrument misst tatsächlich das, was es messen soll.",
-      "notes": "Validität gilt als das wichtigste Gütekriterium — ohne Validität nützen Objektivität und Reliabilität wenig.",
+      "notes": "Validität gilt als das wichtigste Gütekriterium, ohne Validität nützen Objektivität und Reliabilität wenig.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["wiederholung", "guetekriterien", "lektion-23"]
@@ -102,7 +102,7 @@
     {
       "id": "recap-deskriptive-statistik",
       "stable_id": "card-ms942qp70ompi",
-      "front": "Wiederholung: Deskriptive Statistik — Lagemaße",
+      "front": "Wiederholung: Deskriptive Statistik, Lagemaße",
       "back": "Mittelwert (arithmetisches Mittel): Summe ÷ n. Median: mittlerer Wert bei sortierten Daten. Modus: häufigster Wert. Bei Normalverteilung sind alle drei gleich.",
       "notes": "Der Median ist robuster gegenüber Ausreißern als der Mittelwert.",
       "media_type": "text",
@@ -113,8 +113,8 @@
       "id": "recap-korrelation-kausalitaet",
       "stable_id": "card-ms942qp70onl0",
       "front": "Wiederholung: Korrelation ≠ Kausalität",
-      "back": "Eine Korrelation zeigt, dass zwei Variablen zusammenhängen — aber nicht, dass eine die andere verursacht. Mögliche Erklärungen: Zufall, gemeinsame Ursache (Drittvariable), umgekehrte Kausalität.",
-      "notes": "Klassisches Beispiel: Eisverkauf korreliert mit Ertrinkungsunfällen — gemeinsame Ursache ist das heiße Wetter.",
+      "back": "Eine Korrelation zeigt, dass zwei Variablen zusammenhängen, aber nicht, dass eine die andere verursacht. Mögliche Erklärungen: Zufall, gemeinsame Ursache (Drittvariable), umgekehrte Kausalität.",
+      "notes": "Klassisches Beispiel: Eisverkauf korreliert mit Ertrinkungsunfällen, gemeinsame Ursache ist das heiße Wetter.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["wiederholung", "methoden", "lektion-22", "kausalitaet"]
@@ -134,20 +134,20 @@
     {
       "id": "intro-inferenz",
       "type": "theory",
-      "title": "Von der Stichprobe zur Population — Inferenzstatistik",
-      "body": "# Inferenzstatistik und Wiederholung\n\nZum Abschluss der Methodenreihe: Wie schließt man von einer Stichprobe auf die Population? Und danach: die große Wiederholung der Lektionen 21–24.\n\n## Was ist Inferenzstatistik?\n\nDie **deskriptive Statistik** (Lektion 24) beschreibt die vorliegenden Daten. Die **Inferenzstatistik** (*Schließende Statistik*) geht weiter: Sie prüft, ob ein in der Stichprobe gefundener Effekt auch in der Population gilt — oder ob er nur durch Zufall entstanden ist.\n\n## Nullhypothese und Alternativhypothese\n\nJeder Signifikanztest beginnt mit zwei konkurrierenden Annahmen:\n\n| Hypothese | Bedeutung | Beispiel |\n|---|---|---|\n| **H₀** (Nullhypothese) | Kein Effekt / kein Unterschied | Schlafentzug hat *keinen* Einfluss auf die Konzentration |\n| **H₁** (Alternativhypothese) | Es gibt einen Effekt / Unterschied | Schlafentzug *verschlechtert* die Konzentration |\n\nDer Test prüft: Wie wahrscheinlich sind die Daten, *wenn* H₀ wahr wäre? Ist diese Wahrscheinlichkeit sehr klein, wird H₀ verworfen — und H₁ vorläufig akzeptiert."
+      "title": "Von der Stichprobe zur Population - Inferenzstatistik",
+      "body": "# Inferenzstatistik und Wiederholung\n\nZum Abschluss der Methodenreihe: Wie schließt man von einer Stichprobe auf die Population? Und danach: die große Wiederholung der Lektionen 21–24.\n\n## Was ist Inferenzstatistik?\n\nDie **deskriptive Statistik** (Lektion 24) beschreibt die vorliegenden Daten. Die **Inferenzstatistik** (*Schließende Statistik*) geht weiter: Sie prüft, ob ein in der Stichprobe gefundener Effekt auch in der Population gilt, oder ob er nur durch Zufall entstanden ist.\n\n## Nullhypothese und Alternativhypothese\n\nJeder Signifikanztest beginnt mit zwei konkurrierenden Annahmen:\n\n| Hypothese | Bedeutung | Beispiel |\n|---|---|---|\n| **H₀** (Nullhypothese) | Kein Effekt / kein Unterschied | Schlafentzug hat *keinen* Einfluss auf die Konzentration |\n| **H₁** (Alternativhypothese) | Es gibt einen Effekt / Unterschied | Schlafentzug *verschlechtert* die Konzentration |\n\nDer Test prüft: Wie wahrscheinlich sind die Daten, *wenn* H₀ wahr wäre? Ist diese Wahrscheinlichkeit sehr klein, wird H₀ verworfen, und H₁ vorläufig akzeptiert."
     },
     {
       "id": "step-pvalue-signifikanz",
       "type": "theory",
       "title": "p-Wert, Signifikanz und der wichtige Unterschied",
-      "body": "## Der p-Wert\n\nDas Ergebnis eines Signifikanztests ist der **p-Wert** (*probability*). Er gibt an:\n\n> Die Wahrscheinlichkeit, das beobachtete Ergebnis (oder ein noch extremeres) zu erhalten, **wenn H₀ wahr wäre**.\n\nKonvention: Ein Ergebnis gilt als **statistisch signifikant**, wenn **p < .05** (5 %). Das bedeutet: Unter H₀ würde man ein solches Ergebnis in weniger als 5 % aller Fälle sehen.\n\n## Signifikanz ≠ Bedeutsamkeit ⚠️\n\nDies ist einer der wichtigsten Merksätze der Methodenlehre:\n\n**Statistisch signifikant heißt nicht automatisch praktisch bedeutsam.**\n\nWarum? Bei sehr großen Stichproben werden selbst winzige Effekte signifikant — sie sind trotzdem kaum relevant.\n\n## Effektstärke\n\nDeshalb braucht man die **Effektstärke** — ein standardisiertes Maß, das die *Größe* eines Effekts angibt, unabhängig von der Stichprobengröße:\n\n| Maß | Kontext | Interpretation |\n|---|---|---|\n| **Cohens d** | Gruppenvergleiche | d = 0,2 klein · 0,5 mittel · 0,8 groß |\n| **r** | Korrelationen | r = 0,1 klein · 0,3 mittel · 0,5 groß |\n| **η²** | Varianzanalyse | ähnliche Richtwerte |\n\nEin vollständiger Befund nennt immer **p-Wert UND Effektstärke**."
+      "body": "## Der p-Wert\n\nDas Ergebnis eines Signifikanztests ist der **p-Wert** (*probability*). Er gibt an:\n\n> Die Wahrscheinlichkeit, das beobachtete Ergebnis (oder ein noch extremeres) zu erhalten, **wenn H₀ wahr wäre**.\n\nKonvention: Ein Ergebnis gilt als **statistisch signifikant**, wenn **p < .05** (5 %). Das bedeutet: Unter H₀ würde man ein solches Ergebnis in weniger als 5 % aller Fälle sehen.\n\n## Signifikanz ≠ Bedeutsamkeit ⚠️\n\nDies ist einer der wichtigsten Merksätze der Methodenlehre:\n\n**Statistisch signifikant heißt nicht automatisch praktisch bedeutsam.**\n\nWarum? Bei sehr großen Stichproben werden selbst winzige Effekte signifikant, sie sind trotzdem kaum relevant.\n\n## Effektstärke\n\nDeshalb braucht man die **Effektstärke**, ein standardisiertes Maß, das die *Größe* eines Effekts angibt, unabhängig von der Stichprobengröße:\n\n| Maß | Kontext | Interpretation |\n|---|---|---|\n| **Cohens d** | Gruppenvergleiche | d = 0,2 klein · 0,5 mittel · 0,8 groß |\n| **r** | Korrelationen | r = 0,1 klein · 0,3 mittel · 0,5 groß |\n| **η²** | Varianzanalyse | ähnliche Richtwerte |\n\nEin vollständiger Befund nennt immer **p-Wert UND Effektstärke**."
     },
     {
       "id": "step-wiederholung-21-25",
       "type": "theory",
       "title": "Überblick: die Forschungsmethoden-Reihe (Lektionen 21–25)",
-      "body": "## Die Methodenreihe im Überblick\n\n| Lektion | Thema | Kernbegriffe |\n|---|---|---|\n| **21** | Forschungsmethoden-Grundlagen | Empirische Methode · Hypothese vs. Theorie · UV / AV · Operationalisierung · Stichprobe / Population · Replikation |\n| **22** | Experiment und Korrelation | Kontrollgruppe · Randomisierung · Störvariablen · Korrelationskoeffizient r · **Korrelation ≠ Kausalität** |\n| **23** | Datenerhebung und Gütekriterien | Beobachtung · Befragung · Test · Objektivität · Reliabilität · Validität |\n| **24** | Deskriptive Statistik | Mittelwert · Median · Modus · Standardabweichung · Normalverteilung |\n| **25** | Inferenzstatistik (diese Lektion) | H₀ / H₁ · p-Wert · Signifikanz · **Signifikanz ≠ Bedeutsamkeit** · Effektstärke |\n\n### Der rote Faden\n\n1. Eine **Theorie** liefert eine **Hypothese** (L21).\n2. Man wählt ein **Design** — Experiment oder Korrelationsstudie (L22).\n3. Daten werden mit validen und reliablen Instrumenten **erhoben** (L23).\n4. Die Daten werden **beschrieben** (deskriptive Statistik, L24).\n5. Man prüft, ob ein Effekt die **Population** widerspiegelt (Inferenzstatistik, L25).\n\n> Ohne Verständnis aller fünf Schritte ist Forschungskritik kaum möglich."
+      "body": "## Die Methodenreihe im Überblick\n\n| Lektion | Thema | Kernbegriffe |\n|---|---|---|\n| **21** | Forschungsmethoden-Grundlagen | Empirische Methode · Hypothese vs. Theorie · UV / AV · Operationalisierung · Stichprobe / Population · Replikation |\n| **22** | Experiment und Korrelation | Kontrollgruppe · Randomisierung · Störvariablen · Korrelationskoeffizient r · **Korrelation ≠ Kausalität** |\n| **23** | Datenerhebung und Gütekriterien | Beobachtung · Befragung · Test · Objektivität · Reliabilität · Validität |\n| **24** | Deskriptive Statistik | Mittelwert · Median · Modus · Standardabweichung · Normalverteilung |\n| **25** | Inferenzstatistik (diese Lektion) | H₀ / H₁ · p-Wert · Signifikanz · **Signifikanz ≠ Bedeutsamkeit** · Effektstärke |\n\n### Der rote Faden\n\n1. Eine **Theorie** liefert eine **Hypothese** (L21).\n2. Man wählt ein **Design**, Experiment oder Korrelationsstudie (L22).\n3. Daten werden mit validen und reliablen Instrumenten **erhoben** (L23).\n4. Die Daten werden **beschrieben** (deskriptive Statistik, L24).\n5. Man prüft, ob ein Effekt die **Population** widerspiegelt (Inferenzstatistik, L25).\n\n> Ohne Verständnis aller fünf Schritte ist Forschungskritik kaum möglich."
     },
     {
       "id": "ex-match-hypothesen",

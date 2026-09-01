@@ -62,11 +62,11 @@ Begleitbuch: *Die Psychologie des Überzeugens* (Cialdini), siehe
 
 | # | Lesson | Titel |
 |---|--------|-------|
-| 01 | `01-ethos-pathos-logos.json` | Ethos, Pathos, Logos — die drei Überzeugungsmittel |
-| 02 | `02-ethos-glaubwuerdigkeit.json` | Ethos — Glaubwürdigkeit und Autorität |
-| 03 | `03-pathos-emotion.json` | Pathos — Emotion und Furchtappelle |
-| 04 | `04-logos-elaboration.json` | Logos — die zwei Routen der Überzeugung |
-| 05 | `05-wiederholung-rhetorik.json` | Wiederholung & Synthese — Ethos, Pathos, Logos |
+| 01 | `01-ethos-pathos-logos.json` | Ethos, Pathos, Logos, die drei Überzeugungsmittel |
+| 02 | `02-ethos-glaubwuerdigkeit.json` | Ethos, Glaubwürdigkeit und Autorität |
+| 03 | `03-pathos-emotion.json` | Pathos, Emotion und Furchtappelle |
+| 04 | `04-logos-elaboration.json` | Logos, die zwei Routen der Überzeugung |
+| 05 | `05-wiederholung-rhetorik.json` | Wiederholung & Synthese, Ethos, Pathos, Logos |
 
 Starter-Set zur *Psychologie der Rhetorik* im Anschluss an
 `psych-beeinflussung`: die drei aristotelischen Überzeugungsmittel,

@@ -1,7 +1,7 @@
 {
   "id": "66-einstellungsaenderung-und-persuasion",
   "title": "Einstellungsänderung und Persuasion",
-  "description": "Wie sich Einstellungen ändern und wie Überzeugung funktioniert: das Elaboration-Likelihood-Modell, zentrale und periphere Route sowie Cialdinis Prinzipien der Beeinflussung — auf Deutsch erklärt.",
+  "description": "Wie sich Einstellungen ändern und wie Überzeugung funktioniert: das Elaboration-Likelihood-Modell, zentrale und periphere Route sowie Cialdinis Prinzipien der Beeinflussung, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -30,7 +30,7 @@
       "id": "elm",
       "stable_id": "card-ms942qpw1a9im",
       "front": "Elaboration-Likelihood-Modell (ELM)",
-      "back": "Modell von Petty & Cacioppo: Überzeugung läuft über zwei Wege — je nachdem, wie gründlich (elaboriert) eine Botschaft verarbeitet wird.",
+      "back": "Modell von Petty & Cacioppo: Überzeugung läuft über zwei Wege, je nachdem, wie gründlich (elaboriert) eine Botschaft verarbeitet wird.",
       "notes": "ELM = Elaboration Likelihood Model.",
       "media_type": "text",
       "difficulty": 4,
@@ -117,7 +117,7 @@
       "stable_id": "card-ms942qpw1aiwn",
       "front": "Kognitive Dissonanz (Festinger)",
       "back": "Der unangenehme Spannungszustand bei widersprüchlichen Kognitionen; oft passen wir die Einstellung ans Verhalten an, um ihn aufzulösen.",
-      "notes": "Aus Lektion 33 — eine wichtige Quelle innerer Einstellungsänderung.",
+      "notes": "Aus Lektion 33, eine wichtige Quelle innerer Einstellungsänderung.",
       "media_type": "text",
       "difficulty": 4,
       "tags": ["sozial", "einstellung", "person"]
@@ -128,7 +128,7 @@
       "id": "intro",
       "type": "theory",
       "title": "Einstellungen und ihre Änderung",
-      "body": "# Einstellungsänderung und Persuasion\n\nIn **Lektion 33** hast du **Einstellungen** kennengelernt — erlernte Bewertungen mit drei Komponenten (kognitiv, affektiv, konativ). Hier geht es darum, **wie** sie sich ändern.\n\n## Zwei Quellen der Änderung\n\n- **Von innen**: durch **kognitive Dissonanz** (Festinger) — wir passen Einstellungen an unser Verhalten an, um Spannung aufzulösen.\n- **Von außen**: durch **Persuasion** — den gezielten Versuch, mit Kommunikation Einstellungen zu verändern.\n\nKlassische Faktoren wirksamer Persuasion (Hovland): **Quelle** (z. B. **Glaubwürdigkeit**), **Botschaft**, **Empfänger** und **Kanal**."
+      "body": "# Einstellungsänderung und Persuasion\n\nIn **Lektion 33** hast du **Einstellungen** kennengelernt, erlernte Bewertungen mit drei Komponenten (kognitiv, affektiv, konativ). Hier geht es darum, **wie** sie sich ändern.\n\n## Zwei Quellen der Änderung\n\n- **Von innen**: durch **kognitive Dissonanz** (Festinger), wir passen Einstellungen an unser Verhalten an, um Spannung aufzulösen.\n- **Von außen**: durch **Persuasion**, den gezielten Versuch, mit Kommunikation Einstellungen zu verändern.\n\nKlassische Faktoren wirksamer Persuasion (Hovland): **Quelle** (z. B. **Glaubwürdigkeit**), **Botschaft**, **Empfänger** und **Kanal**."
     },
     {
       "id": "step-elm",
@@ -140,7 +140,7 @@
       "id": "step-cialdini",
       "type": "theory",
       "title": "Cialdinis Prinzipien der Beeinflussung",
-      "body": "## Sechs Hebel der Überzeugung\n\nRobert **Cialdini** beschrieb wiederkehrende Prinzipien, die Zustimmung wahrscheinlicher machen:\n\n| Prinzip | Kurz |\n|---|---|\n| **Reziprozität** | Gefälligkeiten werden erwidert |\n| **Commitment/Konsistenz** | wir bleiben bei einmal Zugesagtem |\n| **soziale Bewährtheit** | wir tun, was viele tun |\n| **Sympathie** | wir sagen eher zu, wen wir mögen |\n| **Autorität** | wir folgen Expert:innen |\n| **Knappheit** | Seltenes wirkt wertvoller |\n\nAuf **Commitment/Konsistenz** beruht die **Fuß-in-der-Tür-Technik**: erst eine kleine Bitte, dann die größere.\n\n> Diese Prinzipien sind mächtig — sie zu **kennen** schützt auch davor, unbedacht beeinflusst zu werden."
+      "body": "## Sechs Hebel der Überzeugung\n\nRobert **Cialdini** beschrieb wiederkehrende Prinzipien, die Zustimmung wahrscheinlicher machen:\n\n| Prinzip | Kurz |\n|---|---|\n| **Reziprozität** | Gefälligkeiten werden erwidert |\n| **Commitment/Konsistenz** | wir bleiben bei einmal Zugesagtem |\n| **soziale Bewährtheit** | wir tun, was viele tun |\n| **Sympathie** | wir sagen eher zu, wen wir mögen |\n| **Autorität** | wir folgen Expert:innen |\n| **Knappheit** | Seltenes wirkt wertvoller |\n\nAuf **Commitment/Konsistenz** beruht die **Fuß-in-der-Tür-Technik**: erst eine kleine Bitte, dann die größere.\n\n> Diese Prinzipien sind mächtig, sie zu **kennen** schützt auch davor, unbedacht beeinflusst zu werden."
     },
     {
       "id": "ex-match-routen",

@@ -1,7 +1,7 @@
 {
   "id": "13-biologische-grundlagen",
   "title": "Biologische Grundlagen: Gehirn und Nervensystem",
-  "description": "Das Neuron, das Aktionspotential, Neurotransmitter, ZNS vs. PNS, die Großhirnrinde, die vier Hirnlappen, Amygdala, Hippocampus, Hemisphären und Neuroplastizität — auf Deutsch erklärt.",
+  "description": "Das Neuron, das Aktionspotential, Neurotransmitter, ZNS vs. PNS, die Großhirnrinde, die vier Hirnlappen, Amygdala, Hippocampus, Hemisphären und Neuroplastizität, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -21,7 +21,7 @@
       "id": "aktionspotential",
       "stable_id": "card-ms942qp00i2p4",
       "front": "Aktionspotential (Nervenimpuls)",
-      "back": "Ein kurzer elektrischer Impuls, der entlang des Axons weitergeleitet wird, sobald der Schwellenwert überschritten ist — das 'Alles-oder-nichts'-Prinzip.",
+      "back": "Ein kurzer elektrischer Impuls, der entlang des Axons weitergeleitet wird, sobald der Schwellenwert überschritten ist, das 'Alles-oder-nichts'-Prinzip.",
       "notes": "Geschwindigkeit: wenige m/s (unmyelinisiert) bis über 100 m/s (myelinisiert).",
       "media_type": "text",
       "difficulty": 2,
@@ -61,7 +61,7 @@
       "id": "zns-pns",
       "stable_id": "card-ms942qp00i68r",
       "front": "Zentralnervensystem (ZNS) vs. Peripheres Nervensystem (PNS)",
-      "back": "ZNS: Gehirn und Rückenmark — verarbeitet und integriert Informationen. PNS: alle Nerven außerhalb davon — verbindet ZNS mit Körper und Umwelt.",
+      "back": "ZNS: Gehirn und Rückenmark, verarbeitet und integriert Informationen. PNS: alle Nerven außerhalb davon, verbindet ZNS mit Körper und Umwelt.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["nervensystem", "zns", "pns", "grundlagen"]
@@ -121,7 +121,7 @@
       "id": "neuroplastizitaet",
       "stable_id": "card-ms942qp00icyq",
       "front": "Neuroplastizität (Neuroplasticity)",
-      "back": "Die Fähigkeit des Gehirns, sich durch Erfahrung, Lernen oder Verletzung strukturell und funktionell zu verändern — lebenslang.",
+      "back": "Die Fähigkeit des Gehirns, sich durch Erfahrung, Lernen oder Verletzung strukturell und funktionell zu verändern, lebenslang.",
       "notes": "Grundlage für Lernen, Rehabilitation und die Wirksamkeit von Psychotherapie.",
       "media_type": "text",
       "difficulty": 4,
@@ -134,13 +134,13 @@
       "id": "intro-neuron",
       "type": "theory",
       "title": "Das Neuron und die elektrische Signalübertragung",
-      "body": "# Biologische Grundlagen: Gehirn und Nervensystem\n\n## Das Neuron — Grundbaustein des Nervensystems\n\nDas **Neuron (Nervenzelle)** ist die elementare Informationseinheit des Gehirns. Es besteht aus:\n\n- **Dendriten** — baumartige Fortsätze, die eingehende Signale empfangen.\n- **Zellkörper (Soma)** — verarbeitet die eingehenden Signale.\n- **Axon** — langer Fortsatz, der das Signal weiterleitet.\n- **Synapse** — Verbindungsstelle zum nächsten Neuron.\n\n## Das Aktionspotential\n\nÜberschreitet die Summe der eingehenden Signale einen **Schwellenwert**, löst das Neuron ein **Aktionspotential** aus: einen kurzen elektrischen Impuls, der das Axon entlangläuft.\n\nDas Prinzip heißt **Alles oder nichts** — entweder läuft der Impuls mit voller Stärke, oder er läuft gar nicht.\n\n## Neurotransmitter an der Synapse\n\nAm Ende des Axons löst das Aktionspotential die Ausschüttung von **Neurotransmittern** aus. Diese Botenstoffe wandern über den synaptischen Spalt und binden an das nächste Neuron:\n\n- **Dopamin** — Belohnung, Motivation, Bewegungssteuerung.\n- **Serotonin** — Stimmung, Schlaf, Appetit; Mangel ist mit Depression assoziiert.\n- **Acetylcholin** — Muskelsteuerung und Gedächtnis."
+      "body": "# Biologische Grundlagen: Gehirn und Nervensystem\n\n## Das Neuron - Grundbaustein des Nervensystems\n\nDas **Neuron (Nervenzelle)** ist die elementare Informationseinheit des Gehirns. Es besteht aus:\n\n- **Dendriten**, baumartige Fortsätze, die eingehende Signale empfangen.\n- **Zellkörper (Soma)**, verarbeitet die eingehenden Signale.\n- **Axon**, langer Fortsatz, der das Signal weiterleitet.\n- **Synapse**, Verbindungsstelle zum nächsten Neuron.\n\n## Das Aktionspotential\n\nÜberschreitet die Summe der eingehenden Signale einen **Schwellenwert**, löst das Neuron ein **Aktionspotential** aus: einen kurzen elektrischen Impuls, der das Axon entlangläuft.\n\nDas Prinzip heißt **Alles oder nichts**, entweder läuft der Impuls mit voller Stärke, oder er läuft gar nicht.\n\n## Neurotransmitter an der Synapse\n\nAm Ende des Axons löst das Aktionspotential die Ausschüttung von **Neurotransmittern** aus. Diese Botenstoffe wandern über den synaptischen Spalt und binden an das nächste Neuron:\n\n- **Dopamin**, Belohnung, Motivation, Bewegungssteuerung.\n- **Serotonin**, Stimmung, Schlaf, Appetit; Mangel ist mit Depression assoziiert.\n- **Acetylcholin**, Muskelsteuerung und Gedächtnis."
     },
     {
       "id": "step-nervensystem-und-gehirn",
       "type": "theory",
       "title": "Nervensystem und Hirnstrukturen",
-      "body": "## ZNS und PNS\n\nDas Nervensystem gliedert sich in zwei große Teile:\n\n- **Zentralnervensystem (ZNS):** Gehirn + Rückenmark — verarbeitet und integriert Informationen.\n- **Peripheres Nervensystem (PNS):** alle Nerven außerhalb davon — verbindet das ZNS mit Sinnesorganen, Muskeln und inneren Organen.\n\n## Die Großhirnrinde (Cortex)\n\nDie äußerste Schicht des Großhirns ist der **Cortex** — zuständig für Wahrnehmung, Sprache, Denken und bewusstes Handeln. Er ist in **vier Lappen** unterteilt:\n\n| Lappen | Lage | Hauptfunktionen |\n|---|---|---|\n| **Frontallappen** | vorne | Planung, Entscheidung, Persönlichkeit, Motorik |\n| **Parietallappen** | oben/hinten | Tastsinn, Körperbewusstsein, Raumorientierung |\n| **Temporallappen** | seitlich | Hören, Sprachverständnis, Gedächtnis |\n| **Okzipitallappen** | ganz hinten | Sehen und visuelle Verarbeitung |\n\n## Tiefere Strukturen: limbisches System\n\n- **Amygdala (Mandelkern):** verarbeitet Angst, Bedrohung und Emotionen.\n- **Hippocampus:** essenziell für die Bildung neuer **Langzeitgedächtnisse** und räumliche Navigation.\n\n## Hemisphären und Neuroplastizität\n\nDas Großhirn ist in eine **linke** (Sprache, Logik) und eine **rechte** Hemisphäre (räumliches, kreatives Denken) geteilt — verbunden durch den **Balken (Corpus callosum)**.\n\n**Neuroplastizität** ist die Fähigkeit des Gehirns, sich durch Lernen und Erfahrung lebenslang strukturell zu verändern — die biologische Grundlage für jedes Lernen."
+      "body": "## ZNS und PNS\n\nDas Nervensystem gliedert sich in zwei große Teile:\n\n- **Zentralnervensystem (ZNS):** Gehirn + Rückenmark, verarbeitet und integriert Informationen.\n- **Peripheres Nervensystem (PNS):** alle Nerven außerhalb davon, verbindet das ZNS mit Sinnesorganen, Muskeln und inneren Organen.\n\n## Die Großhirnrinde (Cortex)\n\nDie äußerste Schicht des Großhirns ist der **Cortex**, zuständig für Wahrnehmung, Sprache, Denken und bewusstes Handeln. Er ist in **vier Lappen** unterteilt:\n\n| Lappen | Lage | Hauptfunktionen |\n|---|---|---|\n| **Frontallappen** | vorne | Planung, Entscheidung, Persönlichkeit, Motorik |\n| **Parietallappen** | oben/hinten | Tastsinn, Körperbewusstsein, Raumorientierung |\n| **Temporallappen** | seitlich | Hören, Sprachverständnis, Gedächtnis |\n| **Okzipitallappen** | ganz hinten | Sehen und visuelle Verarbeitung |\n\n## Tiefere Strukturen: limbisches System\n\n- **Amygdala (Mandelkern):** verarbeitet Angst, Bedrohung und Emotionen.\n- **Hippocampus:** essenziell für die Bildung neuer **Langzeitgedächtnisse** und räumliche Navigation.\n\n## Hemisphären und Neuroplastizität\n\nDas Großhirn ist in eine **linke** (Sprache, Logik) und eine **rechte** Hemisphäre (räumliches, kreatives Denken) geteilt, verbunden durch den **Balken (Corpus callosum)**.\n\n**Neuroplastizität** ist die Fähigkeit des Gehirns, sich durch Lernen und Erfahrung lebenslang strukturell zu verändern, die biologische Grundlage für jedes Lernen."
     },
     {
       "id": "ex-cloze-aktionspotential",

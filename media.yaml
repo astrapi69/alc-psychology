@@ -1,4 +1,4 @@
-# media.yaml — curated free supplementary media per domain (EXP-029).
+# media.yaml - curated free supplementary media per domain (EXP-029).
 #
 # Optional companion to the lesson catalogue and to books.yaml: maps a
 # content domain to a list of free, openly accessible media (videos,
@@ -55,5 +55,5 @@ psychology:
     language: de
     level: beginner
     description: >-
-      Deutschsprachiger Einstieg in die Psychologie — ergänzt das
+      Deutschsprachiger Einstieg in die Psychologie, ergänzt das
       Psychologie-Set (sets/de/psych-intro).

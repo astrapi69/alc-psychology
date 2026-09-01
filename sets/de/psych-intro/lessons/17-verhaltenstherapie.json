@@ -1,7 +1,7 @@
 {
   "id": "17-verhaltenstherapie",
   "title": "Verhaltenstherapie",
-  "description": "Die Verhaltenstherapie (VT) — lerntheoretische Grundlagen, das SORKC-Modell der Verhaltensanalyse und zentrale Techniken wie Exposition, systematische Desensibilisierung, operante Verfahren, Token-System und Shaping, auf Deutsch erklärt.",
+  "description": "Die Verhaltenstherapie (VT), lerntheoretische Grundlagen, das SORKC-Modell der Verhaltensanalyse und zentrale Techniken wie Exposition, systematische Desensibilisierung, operante Verfahren, Token-System und Shaping, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -10,7 +10,7 @@
     {
       "id": "verhaltenstherapie",
       "stable_id": "card-ms942qp20k4km",
-      "front": "Verhaltenstherapie (Behaviour Therapy / CBT — Verhaltensanteil)",
+      "front": "Verhaltenstherapie (Behaviour Therapy / CBT, Verhaltensanteil)",
       "back": "Ein psychotherapeutisches Verfahren, das auf der Annahme beruht, dass problematisches Verhalten erlernt wurde und durch gezielte Lernprozesse wieder umgelernt werden kann.",
       "notes": "Aufbauend auf Lektion 4 (klassische & operante Konditionierung) und Lektion 16 (Grundlagen der Psychotherapie).",
       "media_type": "text",
@@ -37,13 +37,13 @@
       "media_type": "text",
       "difficulty": 3,
       "tags": ["verhaltensanalyse", "sorkc", "modell"],
-      "hint": "Merke: S–O–R–K–C — jeder Buchstabe steht für eine Analyseebene."
+      "hint": "Merke: S–O–R–K–C, jeder Buchstabe steht für eine Analyseebene."
     },
     {
       "id": "exposition",
       "stable_id": "card-ms942qp20k781",
       "front": "Exposition / Konfrontation (Exposure)",
-      "back": "Eine VT-Technik, bei der Betroffene der angstauslösenden Situation direkt ausgesetzt werden — ohne dabei das Angstvermeidungsverhalten zu zeigen (Reaktionsverhinderung). Ziel: die Angstreaktion erlischt durch Habituation.",
+      "back": "Eine VT-Technik, bei der Betroffene der angstauslösenden Situation direkt ausgesetzt werden, ohne dabei das Angstvermeidungsverhalten zu zeigen (Reaktionsverhinderung). Ziel: die Angstreaktion erlischt durch Habituation.",
       "notes": "Gilt als Methode der Wahl bei Phobien und Zwangsstörungen. Kann in vivo (real) oder in sensu (in der Vorstellung) durchgeführt werden.",
       "media_type": "text",
       "difficulty": 3,
@@ -53,8 +53,8 @@
     {
       "id": "systematische-desensibilisierung",
       "stable_id": "card-ms942qp20k818",
-      "front": "Systematische Desensibilisierung (Systematic Desensitisation — Wolpe)",
-      "back": "Eine graduierte Expositionstechnik nach Joseph Wolpe: Aufbau einer Angsthierarchie (von wenig bis sehr angstauslösend), Kombinieren mit tiefer Entspannung, schrittweises Aufsteigen in der Hierarchie — Angst und Entspannung können nicht gleichzeitig bestehen (reziproke Hemmung).",
+      "front": "Systematische Desensibilisierung (Systematic Desensitisation, Wolpe)",
+      "back": "Eine graduierte Expositionstechnik nach Joseph Wolpe: Aufbau einer Angsthierarchie (von wenig bis sehr angstauslösend), Kombinieren mit tiefer Entspannung, schrittweises Aufsteigen in der Hierarchie, Angst und Entspannung können nicht gleichzeitig bestehen (reziproke Hemmung).",
       "notes": "Entwickelt von Joseph Wolpe in den 1950er Jahren. Geeignet für spezifische Phobien.",
       "media_type": "text",
       "difficulty": 4,
@@ -95,7 +95,7 @@
       "id": "shaping",
       "stable_id": "card-ms942qp20kcuu",
       "front": "Shaping (Schrittweise Annäherung / Verhaltensformung)",
-      "back": "Sukzessive Annäherung an ein Zielverhalten: Es werden zunächst nur grobe Annäherungen an das gewünschte Verhalten verstärkt, dann schrittweise immer präzisere — bis das Zielverhalten vollständig gezeigt wird.",
+      "back": "Sukzessive Annäherung an ein Zielverhalten: Es werden zunächst nur grobe Annäherungen an das gewünschte Verhalten verstärkt, dann schrittweise immer präzisere, bis das Zielverhalten vollständig gezeigt wird.",
       "notes": "Nützlich, wenn das Zielverhalten noch gar nicht im Repertoire vorhanden ist. Verwandt mit dem Prinzip der graduierten Aufgaben.",
       "media_type": "text",
       "difficulty": 4,
@@ -106,7 +106,7 @@
       "id": "angsthierarchie",
       "stable_id": "card-ms942qp20kdoj",
       "front": "Angsthierarchie (Fear Hierarchy)",
-      "back": "Eine geordnete Liste von Situationen oder Reizen, die von der Person als zunehmend angstauslösend bewertet werden — von kaum beängstigend bis zum stärksten Angstauslöser. Grundlage der systematischen Desensibilisierung.",
+      "back": "Eine geordnete Liste von Situationen oder Reizen, die von der Person als zunehmend angstauslösend bewertet werden, von kaum beängstigend bis zum stärksten Angstauslöser. Grundlage der systematischen Desensibilisierung.",
       "notes": "Wird gemeinsam von Therapeut:in und Klient:in erstellt. Typischerweise 8–12 Stufen.",
       "media_type": "text",
       "difficulty": 3,
@@ -116,7 +116,7 @@
       "id": "reaktionsverhinderung",
       "stable_id": "card-ms942qp20kesp",
       "front": "Reaktionsverhinderung (Response Prevention)",
-      "back": "Kernbestandteil der Expositionstherapie bei Zwangsstörungen: Betroffene konfrontieren sich mit dem angstauslösenden Reiz (z. B. Schmutz), führen aber die Zwangshandlung (z. B. Hände waschen) nicht aus — so kann Habituation eintreten.",
+      "back": "Kernbestandteil der Expositionstherapie bei Zwangsstörungen: Betroffene konfrontieren sich mit dem angstauslösenden Reiz (z. B. Schmutz), führen aber die Zwangshandlung (z. B. Hände waschen) nicht aus, so kann Habituation eintreten.",
       "notes": "Ohne Reaktionsverhinderung verstärkt die Zwangshandlung die Angst langfristig (operante Verstärkung durch Angstreduktion).",
       "media_type": "text",
       "difficulty": 4,
@@ -138,19 +138,19 @@
       "id": "theorie-grundlage",
       "type": "theory",
       "title": "Lerntheoretische Grundlagen der Verhaltenstherapie",
-      "body": "# Verhaltenstherapie — das Fundament\n\nIn **Lektion 4** hast du klassische und operante Konditionierung gelernt. Die Verhaltenstherapie macht genau diese Lernprinzipien **therapeutisch nutzbar**.\n\nIn **Lektion 16** (Grundlagen der Psychotherapie) hast du gesehen, dass die VT eines der vier großen, evidenzbasierten Hauptverfahren ist. Jetzt gehen wir in die Tiefe.\n\n## Die Grundannahme\n\n> **Verhalten ist erlernt — und kann umgelernt werden.**\n\nWas durch Konditionierung entstanden ist (z. B. eine Phobie), kann durch neue Lernerfahrungen wieder verändert werden. Diese optimistische Annahme unterscheidet die VT grundlegend von Ansätzen, die unveränderliche Persönlichkeitsmuster annehmen.\n\n## Lerntheoretische Wurzeln im Überblick\n\n| Lernprinzip | Begründer | Bedeutung für die VT |\n|---|---|---|\n| **Klassische Konditionierung** | Iwan Pawlow | Wie Angstreaktionen entstehen (z. B. Reiz → Angst) |\n| **Operante Konditionierung** | B. F. Skinner | Wie Verhalten durch Konsequenzen aufrechterhalten wird |\n| **Modelllernen** | Albert Bandura | Lernen durch Beobachtung — ergänzt die VT |\n\nEin Beispiel: Eine Hundephobie entstand vielleicht durch eine klassische Konditionierung (Hund → Schreck). Sie bleibt bestehen, weil Vermeidung die Angst kurzfristig reduziert — das ist **negative Verstärkung** (operante Konditionierung) und hält das Problem aufrecht."
+      "body": "# Verhaltenstherapie - das Fundament\n\nIn **Lektion 4** hast du klassische und operante Konditionierung gelernt. Die Verhaltenstherapie macht genau diese Lernprinzipien **therapeutisch nutzbar**.\n\nIn **Lektion 16** (Grundlagen der Psychotherapie) hast du gesehen, dass die VT eines der vier großen, evidenzbasierten Hauptverfahren ist. Jetzt gehen wir in die Tiefe.\n\n## Die Grundannahme\n\n> **Verhalten ist erlernt, und kann umgelernt werden.**\n\nWas durch Konditionierung entstanden ist (z. B. eine Phobie), kann durch neue Lernerfahrungen wieder verändert werden. Diese optimistische Annahme unterscheidet die VT grundlegend von Ansätzen, die unveränderliche Persönlichkeitsmuster annehmen.\n\n## Lerntheoretische Wurzeln im Überblick\n\n| Lernprinzip | Begründer | Bedeutung für die VT |\n|---|---|---|\n| **Klassische Konditionierung** | Iwan Pawlow | Wie Angstreaktionen entstehen (z. B. Reiz → Angst) |\n| **Operante Konditionierung** | B. F. Skinner | Wie Verhalten durch Konsequenzen aufrechterhalten wird |\n| **Modelllernen** | Albert Bandura | Lernen durch Beobachtung, ergänzt die VT |\n\nEin Beispiel: Eine Hundephobie entstand vielleicht durch eine klassische Konditionierung (Hund → Schreck). Sie bleibt bestehen, weil Vermeidung die Angst kurzfristig reduziert, das ist **negative Verstärkung** (operante Konditionierung) und hält das Problem aufrecht."
     },
     {
       "id": "theorie-verhaltensanalyse",
       "type": "theory",
       "title": "Die Verhaltensanalyse: das SORKC-Modell",
-      "body": "## Verhaltensanalyse — Warum tut jemand, was er tut?\n\nBevor eine Intervention geplant wird, analysiert die VT das Problemverhalten systematisch. Das wichtigste Werkzeug dafür ist das **SORKC-Modell**:\n\n| Buchstabe | Begriff | Bedeutung | Beispiel (Hundephobie) |\n|---|---|---|---|\n| **S** | Stimulus | Auslösende Situation | Hund nähert sich |\n| **O** | Organismus | Person, Biografie, Kognitionen | 'Hunde sind gefährlich' |\n| **R** | Reaktion | Gedanken, Gefühle, Verhalten | Herzrasen, Flucht |\n| **K** | Kontingenz | Wie regelmäßig folgt C auf R? | Immer sofortige Angstreduktion |\n| **C** | Consequenz | Folge des Verhaltens | Angst sinkt — Flucht wird verstärkt |\n\n## Warum ist das K so wichtig?\n\nDie **Kontingenz** beschreibt, ob die Konsequenz *immer*, *manchmal* oder *selten* auf das Verhalten folgt. Unregelmäßige Verstärkung (partiell) macht Verhalten besonders löschungsresistent — das erklärst du dir aus Lektion 4.\n\nDas SORC-Modell (ohne K) ist die ältere, einfachere Variante; SORKC ist die differenziertere klinische Version."
+      "body": "## Verhaltensanalyse - Warum tut jemand, was er tut?\n\nBevor eine Intervention geplant wird, analysiert die VT das Problemverhalten systematisch. Das wichtigste Werkzeug dafür ist das **SORKC-Modell**:\n\n| Buchstabe | Begriff | Bedeutung | Beispiel (Hundephobie) |\n|---|---|---|---|\n| **S** | Stimulus | Auslösende Situation | Hund nähert sich |\n| **O** | Organismus | Person, Biografie, Kognitionen | 'Hunde sind gefährlich' |\n| **R** | Reaktion | Gedanken, Gefühle, Verhalten | Herzrasen, Flucht |\n| **K** | Kontingenz | Wie regelmäßig folgt C auf R? | Immer sofortige Angstreduktion |\n| **C** | Consequenz | Folge des Verhaltens | Angst sinkt, Flucht wird verstärkt |\n\n## Warum ist das K so wichtig?\n\nDie **Kontingenz** beschreibt, ob die Konsequenz *immer*, *manchmal* oder *selten* auf das Verhalten folgt. Unregelmäßige Verstärkung (partiell) macht Verhalten besonders löschungsresistent, das erklärst du dir aus Lektion 4.\n\nDas SORC-Modell (ohne K) ist die ältere, einfachere Variante; SORKC ist die differenziertere klinische Version."
     },
     {
       "id": "theorie-techniken",
       "type": "theory",
       "title": "Zentrale Techniken der Verhaltenstherapie",
-      "body": "## Das therapeutische Werkzeugkoffer der VT\n\n### Expositionsbasierte Verfahren\n\nDas Herzstück der VT ist die **Exposition** (Konfrontation): Die Person begegnet dem gefürchteten Reiz, ohne das Vermeidungsverhalten zu zeigen (**Reaktionsverhinderung**). Durch anhaltenden Kontakt tritt **Habituation** (Gewöhnung) ein — die Angstreaktion löscht sich aus.\n\nDie **systematische Desensibilisierung** (Joseph Wolpe) geht graduierter vor:\n\n| Schritt | Inhalt |\n|---|---|\n| 1 | **Angsthierarchie** erstellen (von kaum bis sehr angstauslösend) |\n| 2 | **Entspannungsreaktion** einüben (z. B. progressive Muskelentspannung) |\n| 3 | Schrittweise Konfrontation mit jeder Stufe — in Vorstellung oder real |\n\n### Operante Verfahren\n\n| Technik | Prinzip | Anwendung |\n|---|---|---|\n| **Positive Verstärkung** | Erwünschtes Verhalten belohnen | Lob, Token |\n| **Token-System** | Symbole sammeln, gegen Belohnungen tauschen | Stationäre Settings, Kinder |\n| **Shaping** | Schrittweise Annäherung an Zielverhalten verstärken | Neues Verhalten aufbauen |\n\n### Typische Anwendungsfelder\n\nDie VT ist besonders wirksam bei: **Phobien** (spezifisch, sozial), **Panikstörungen**, **Zwangsstörungen** (Exposition + Reaktionsverhinderung) und **Depressionen** (Verhaltensaktivierung)."
+      "body": "## Das therapeutische Werkzeugkoffer der VT\n\n### Expositionsbasierte Verfahren\n\nDas Herzstück der VT ist die **Exposition** (Konfrontation): Die Person begegnet dem gefürchteten Reiz, ohne das Vermeidungsverhalten zu zeigen (**Reaktionsverhinderung**). Durch anhaltenden Kontakt tritt **Habituation** (Gewöhnung) ein, die Angstreaktion löscht sich aus.\n\nDie **systematische Desensibilisierung** (Joseph Wolpe) geht graduierter vor:\n\n| Schritt | Inhalt |\n|---|---|\n| 1 | **Angsthierarchie** erstellen (von kaum bis sehr angstauslösend) |\n| 2 | **Entspannungsreaktion** einüben (z. B. progressive Muskelentspannung) |\n| 3 | Schrittweise Konfrontation mit jeder Stufe, in Vorstellung oder real |\n\n### Operante Verfahren\n\n| Technik | Prinzip | Anwendung |\n|---|---|---|\n| **Positive Verstärkung** | Erwünschtes Verhalten belohnen | Lob, Token |\n| **Token-System** | Symbole sammeln, gegen Belohnungen tauschen | Stationäre Settings, Kinder |\n| **Shaping** | Schrittweise Annäherung an Zielverhalten verstärken | Neues Verhalten aufbauen |\n\n### Typische Anwendungsfelder\n\nDie VT ist besonders wirksam bei: **Phobien** (spezifisch, sozial), **Panikstörungen**, **Zwangsstörungen** (Exposition + Reaktionsverhinderung) und **Depressionen** (Verhaltensaktivierung)."
     },
     {
       "id": "ex-cloze-grundannahme",
@@ -183,11 +183,11 @@
         "prompt": "Ordne jeden Buchstaben des SORKC-Modells seinem Begriff zu.",
         "card_ids": ["sorkc-modell"],
         "pairs": [
-          { "left": "S", "right": "Stimulus — auslösende Situation" },
-          { "left": "O", "right": "Organismus — Person mit Biografie" },
-          { "left": "R", "right": "Reaktion — Verhalten und Gefühle" },
-          { "left": "K", "right": "Kontingenz — Regelmäßigkeit der Konsequenz" },
-          { "left": "C", "right": "Consequenz — Folge des Verhaltens" }
+          { "left": "S", "right": "Stimulus, auslösende Situation" },
+          { "left": "O", "right": "Organismus, Person mit Biografie" },
+          { "left": "R", "right": "Reaktion, Verhalten und Gefühle" },
+          { "left": "K", "right": "Kontingenz, Regelmäßigkeit der Konsequenz" },
+          { "left": "C", "right": "Consequenz, Folge des Verhaltens" }
         ],
         "direction": "target_to_source"
       }
@@ -257,7 +257,7 @@
         "prompt": "Nenne zwei klassische Anwendungsfelder der Verhaltenstherapie, für die sie besonders gut belegt ist.",
         "card_ids": ["anwendungsfelder-vt", "exposition"],
         "accept": ["Phobien und Zwangsstörungen", "Phobien, Zwangsstörungen", "Angststörungen und Zwangsstörungen", "Phobien und OCD", "Zwangsstörungen und Phobien"],
-        "hint": "Denke an Angst vor etwas Bestimmtem — und an Rituale, die man nicht unterlassen kann.",
+        "hint": "Denke an Angst vor etwas Bestimmtem, und an Rituale, die man nicht unterlassen kann.",
         "distractors": ["Schizophrenie", "Demenz", "Persönlichkeitsstörungen"],
         "direction": "target_to_source"
       }

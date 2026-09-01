@@ -1,7 +1,7 @@
 {
   "id": "48-wahrnehmung-visuell-auditiv",
   "title": "Wahrnehmung II: das visuelle und das auditive System",
-  "description": "Vertiefung der Sinneswahrnehmung (baut auf Lektion 2 und 41 auf): Weg des Lichts durch das Auge, Fotorezeptoren (Stäbchen und Zapfen), Transduktion, Farbwahrnehmungstheorien (Dreifarbentheorie und Gegenfarbtheorie), sowie das auditive System — Schall, Ohraufbau und Haaresellen.",
+  "description": "Vertiefung der Sinneswahrnehmung (baut auf Lektion 2 und 41 auf): Weg des Lichts durch das Auge, Fotorezeptoren (Stäbchen und Zapfen), Transduktion, Farbwahrnehmungstheorien (Dreifarbentheorie und Gegenfarbtheorie), sowie das auditive System, Schall, Ohraufbau und Haaresellen.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -51,7 +51,7 @@
       "id": "blinder-fleck",
       "stable_id": "card-ms942qpk10ss8",
       "front": "Blinder Fleck (Blind Spot)",
-      "back": "Stelle auf der Netzhaut, wo der Sehnerv (Nervus opticus) das Auge verlässt — hier gibt es keine Fotorezeptoren, also keine Wahrnehmung.",
+      "back": "Stelle auf der Netzhaut, wo der Sehnerv (Nervus opticus) das Auge verlässt, hier gibt es keine Fotorezeptoren, also keine Wahrnehmung.",
       "notes": "Normalerweise füllt das Gehirn den fehlenden Bereich aus (Completion).",
       "media_type": "text",
       "difficulty": 3,
@@ -134,13 +134,13 @@
       "id": "theorie-visuelles-system",
       "type": "theory",
       "title": "Das visuelle System: Auge und Fotorezeptoren",
-      "body": "# Wahrnehmung II: das visuelle System\n\nDiese Lektion vertieft die Inhalte aus **Lektion 2** (Wahrnehmung) und **Lektion 41** (Psychophysik und Schwellen).\n\n## Weg des Lichts\n\nLicht gelangt durch: **Hornhaut** → **Pupille** → **Linse** → **Netzhaut (Retina)**.\nDie Linse fokussiert das Bild durch **Akkommodation** (Formveränderung) auf die Retina.\n\n## Fotorezeptoren: Stäbchen vs. Zapfen\n\n| Merkmal | **Stäbchen (Rods)** | **Zapfen (Cones)** |\n|---|---|---|\n| Anzahl | ~120 Millionen | ~6 Millionen |\n| Licht | Dämmerung, schwaches Licht | Tageslicht |\n| Funktion | Hell-Dunkel-Sehen | Farbsehen, Sehschärfe |\n| Lage | Peripherie der Netzhaut | Fovea (Netzhautmitte) |\n| Farbtypen | 1 (kein Farbsehen) | 3 (kurz-, mittel-, langwellig) |\n\n## Transduktion und der blinde Fleck\n\n**Transduktion** (Umwandlung von Reiz in Nervenimpuls) findet in den Fotorezeptoren statt: Licht verändert das Fotopigment, was einen elektrischen Impuls auslöst.\n\nAm **blinden Fleck** verlässt der Sehnerv das Auge — dort fehlen Fotorezeptoren, weshalb kein Bild registriert werden kann. Das Gehirn füllt diese Lücke normalerweise unauffällig aus."
+      "body": "# Wahrnehmung II: das visuelle System\n\nDiese Lektion vertieft die Inhalte aus **Lektion 2** (Wahrnehmung) und **Lektion 41** (Psychophysik und Schwellen).\n\n## Weg des Lichts\n\nLicht gelangt durch: **Hornhaut** → **Pupille** → **Linse** → **Netzhaut (Retina)**.\nDie Linse fokussiert das Bild durch **Akkommodation** (Formveränderung) auf die Retina.\n\n## Fotorezeptoren: Stäbchen vs. Zapfen\n\n| Merkmal | **Stäbchen (Rods)** | **Zapfen (Cones)** |\n|---|---|---|\n| Anzahl | ~120 Millionen | ~6 Millionen |\n| Licht | Dämmerung, schwaches Licht | Tageslicht |\n| Funktion | Hell-Dunkel-Sehen | Farbsehen, Sehschärfe |\n| Lage | Peripherie der Netzhaut | Fovea (Netzhautmitte) |\n| Farbtypen | 1 (kein Farbsehen) | 3 (kurz-, mittel-, langwellig) |\n\n## Transduktion und der blinde Fleck\n\n**Transduktion** (Umwandlung von Reiz in Nervenimpuls) findet in den Fotorezeptoren statt: Licht verändert das Fotopigment, was einen elektrischen Impuls auslöst.\n\nAm **blinden Fleck** verlässt der Sehnerv das Auge, dort fehlen Fotorezeptoren, weshalb kein Bild registriert werden kann. Das Gehirn füllt diese Lücke normalerweise unauffällig aus."
     },
     {
       "id": "theorie-farbwahrnehmung",
       "type": "theory",
       "title": "Farbwahrnehmung: zwei sich ergänzende Theorien",
-      "body": "## Farbwahrnehmung\n\nFarben sehen ist kein einfacher Prozess — zwei Theorien erklären zusammen, wie es funktioniert.\n\n### Dreifarbentheorie / Trichromatische Theorie (Young-Helmholtz)\n\nDrei Zapfentypen reagieren bevorzugt auf **rotes**, **grünes** oder **blaues** Licht. Jede andere Farbe entsteht durch Überlagerung dieser drei Grundsignale (additiver Farbmix).\n\n### Gegenfarbtheorie (Hering)\n\nAuf der nächsten Verarbeitungsstufe (Sehnerv, Thalamus) werden Farben in **antagonistischen Paaren** kodiert:\n\n| Paar | Wirkung |\n|---|---|\n| **Rot — Grün** | gegenseitige Hemmung |\n| **Blau — Gelb** | gegenseitige Hemmung |\n| **Schwarz — Weiß** | Helligkeit (Luminanz) |\n\n**Erklärung von Nachbildern**: Nach langem Betrachten von Grün sieht man ein rotes Nachbild — weil die Rot-Grün-Zellen nach Erschöpfung des Grün-Signals ein Überschusssignal für Rot erzeugen.\n\n### Farbenfehlsichtigkeit\n\nFehlt oder ist ein Zapfentyp verändert, entsteht **Farbenfehlsichtigkeit** (z. B. Rot-Grün-Schwäche). Sie wird X-chromosomal vererbt und betrifft Männer häufiger.\n\n> **Merksatz**: Die Dreifarbentheorie beschreibt die *Rezeptoren* (Zapfen); die Gegenfarbtheorie beschreibt die *Weiterverarbeitung* im Sehnerv und Thalamus."
+      "body": "## Farbwahrnehmung\n\nFarben sehen ist kein einfacher Prozess, zwei Theorien erklären zusammen, wie es funktioniert.\n\n### Dreifarbentheorie / Trichromatische Theorie (Young-Helmholtz)\n\nDrei Zapfentypen reagieren bevorzugt auf **rotes**, **grünes** oder **blaues** Licht. Jede andere Farbe entsteht durch Überlagerung dieser drei Grundsignale (additiver Farbmix).\n\n### Gegenfarbtheorie (Hering)\n\nAuf der nächsten Verarbeitungsstufe (Sehnerv, Thalamus) werden Farben in **antagonistischen Paaren** kodiert:\n\n| Paar | Wirkung |\n|---|---|\n| **Rot, Grün** | gegenseitige Hemmung |\n| **Blau, Gelb** | gegenseitige Hemmung |\n| **Schwarz, Weiß** | Helligkeit (Luminanz) |\n\n**Erklärung von Nachbildern**: Nach langem Betrachten von Grün sieht man ein rotes Nachbild, weil die Rot-Grün-Zellen nach Erschöpfung des Grün-Signals ein Überschusssignal für Rot erzeugen.\n\n### Farbenfehlsichtigkeit\n\nFehlt oder ist ein Zapfentyp verändert, entsteht **Farbenfehlsichtigkeit** (z. B. Rot-Grün-Schwäche). Sie wird X-chromosomal vererbt und betrifft Männer häufiger.\n\n> **Merksatz**: Die Dreifarbentheorie beschreibt die *Rezeptoren* (Zapfen); die Gegenfarbtheorie beschreibt die *Weiterverarbeitung* im Sehnerv und Thalamus."
     },
     {
       "id": "theorie-auditives-system",
@@ -234,7 +234,7 @@
         "id": "ex-free-blinder-fleck",
         "stable_id": "ex-ms942qpk114gy",
         "type": "free_text",
-        "prompt": "Warum gibt es auf der Netzhaut eine Stelle ohne Fotorezeptoren — wie heißt diese Stelle?",
+        "prompt": "Warum gibt es auf der Netzhaut eine Stelle ohne Fotorezeptoren, wie heißt diese Stelle?",
         "card_ids": ["blinder-fleck"],
         "accept": ["blinder Fleck", "der blinde Fleck", "Blind Spot", "blinde Fleck"],
         "hint": "Hier verlässt der Sehnerv das Auge.",

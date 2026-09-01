@@ -1,6 +1,6 @@
 {
   "id": "08-wiederholung-beeinflussung",
-  "title": "Wiederholung & Synthese — die Effekte der Beeinflussung",
+  "title": "Wiederholung & Synthese - die Effekte der Beeinflussung",
   "description": "Abschließende Wiederholung aller behandelten Effekte: Priming, Framing, Ankereffekt, kognitive Dissonanz, Reziprozität, soziale Bewährtheit und Foot-in-the-door. Mit Querverbindungen, Beispiel-Zuordnungen und einem zusammenfassenden Augenmaß-Schritt.",
   "target_language": "de",
   "source_language": "de",
@@ -21,7 +21,7 @@
       "id": "card-s-framing",
       "stable_id": "card-ms942qog028ae",
       "front": "Framing (Kurzform)",
-      "back": "Gleiche Information, andere Verpackung führt zu anderer Bewertung — ein Einfluss, keine Determinante",
+      "back": "Gleiche Information, andere Verpackung führt zu anderer Bewertung, ein Einfluss, keine Determinante",
       "notes": "Tversky & Kahneman (1981).",
       "media_type": "text",
       "difficulty": 2,
@@ -81,7 +81,7 @@
       "id": "card-s-augenmass",
       "stable_id": "card-ms942qog02e04",
       "front": "Gemeinsames Augenmaß",
-      "back": "Alle diese Effekte sind belegte Tendenzen, keine garantierten Hebel — Effektstärken nicht aufblasen, Studien korrekt zuordnen",
+      "back": "Alle diese Effekte sind belegte Tendenzen, keine garantierten Hebel, Effektstärken nicht aufblasen, Studien korrekt zuordnen",
       "notes": "Der rote Faden des gesamten Sets.",
       "media_type": "text",
       "difficulty": 3,
@@ -93,7 +93,7 @@
       "id": "intro",
       "type": "theory",
       "title": "Die sieben Effekte im Überblick",
-      "body": "# Wiederholung: Effekte der Beeinflussung\n\nIn diesem Set hast du sieben Effekte kennengelernt. Hier noch einmal im Überblick:\n\n| Effekt | Kern | Augenmaß |\n| --- | --- | --- |\n| **Priming** | vorgeschalteter Reiz bahnt Assoziationen | robust nur semantisch/perzeptuell; behavioral umstritten |\n| **Framing** | gleiche Information, andere Verpackung | Einfluss, keine Determinante |\n| **Ankereffekt** | erste Zahl prägt Folgeurteile | robust, aber durch Hinterfragen begrenzbar |\n| **Kognitive Dissonanz** | Spannung Haltung/Handlung | Auflösungsrichtung nicht festgelegt |\n| **Reziprozität** | Geben erzeugt Verpflichtung | Tendenz, kein Automatismus |\n| **Soziale Bewährtheit** | andere als Orientierung | Mehrheit hat nicht automatisch recht |\n| **Foot-in-the-door** | kleine Zusage öffnet große | moderat, nicht garantiert |\n\n## Der rote Faden\n\nAlle diese Effekte sind **empirisch belegte Tendenzen**, keine garantierten Hebel. Sie beschreiben, was *im Schnitt wahrscheinlicher* wird — nicht, was sicher passiert. Wer sie kennt, kann sie erkennen, wenn andere sie einsetzen, und seine eigenen Urteile bewusster prüfen."
+      "body": "# Wiederholung: Effekte der Beeinflussung\n\nIn diesem Set hast du sieben Effekte kennengelernt. Hier noch einmal im Überblick:\n\n| Effekt | Kern | Augenmaß |\n| --- | --- | --- |\n| **Priming** | vorgeschalteter Reiz bahnt Assoziationen | robust nur semantisch/perzeptuell; behavioral umstritten |\n| **Framing** | gleiche Information, andere Verpackung | Einfluss, keine Determinante |\n| **Ankereffekt** | erste Zahl prägt Folgeurteile | robust, aber durch Hinterfragen begrenzbar |\n| **Kognitive Dissonanz** | Spannung Haltung/Handlung | Auflösungsrichtung nicht festgelegt |\n| **Reziprozität** | Geben erzeugt Verpflichtung | Tendenz, kein Automatismus |\n| **Soziale Bewährtheit** | andere als Orientierung | Mehrheit hat nicht automatisch recht |\n| **Foot-in-the-door** | kleine Zusage öffnet große | moderat, nicht garantiert |\n\n## Der rote Faden\n\nAlle diese Effekte sind **empirisch belegte Tendenzen**, keine garantierten Hebel. Sie beschreiben, was *im Schnitt wahrscheinlicher* wird, nicht, was sicher passiert. Wer sie kennt, kann sie erkennen, wenn andere sie einsetzen, und seine eigenen Urteile bewusster prüfen."
     },
     {
       "id": "ex-match-effekt-kern",

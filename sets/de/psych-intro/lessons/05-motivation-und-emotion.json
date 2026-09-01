@@ -1,7 +1,7 @@
 {
   "id": "05-motivation-und-emotion",
   "title": "Motivation und Emotion",
-  "description": "Bedürfnispyramide, intrinsische/extrinsische Motivation, Basisemotionen und Emotionstheorien — auf Deutsch erklärt.",
+  "description": "Bedürfnispyramide, intrinsische/extrinsische Motivation, Basisemotionen und Emotionstheorien, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -20,7 +20,7 @@
       "stable_id": "card-ms942qok05j4u",
       "front": "Intrinsische Motivation",
       "back": "Antrieb aus der Tätigkeit selbst (Interesse, Neugier, Spaß).",
-      "notes": "Beispiel: jemand lernt Gitarre, weil es ihm Freude macht — ohne Belohnung von außen.",
+      "notes": "Beispiel: jemand lernt Gitarre, weil es ihm Freude macht, ohne Belohnung von außen.",
       "tags": ["motivation"]
     },
     {
@@ -43,7 +43,7 @@
       "id": "physiologische-beduerfnisse",
       "stable_id": "card-ms942qok05mmk",
       "front": "Physiologische Bedürfnisse (Physiological Needs)",
-      "back": "Grundlegende körperliche Bedürfnisse: Essen, Trinken, Schlafen, Atmung — Basis der Bedürfnispyramide.",
+      "back": "Grundlegende körperliche Bedürfnisse: Essen, Trinken, Schlafen, Atmung, Basis der Bedürfnispyramide.",
       "notes": "Ohne Befriedigung dieser Basis ist kein anderes Bedürfnis relevant.",
       "tags": ["motivation", "maslow"]
     },
@@ -51,7 +51,7 @@
       "id": "sicherheitsbeduerfnisse",
       "stable_id": "card-ms942qok05n8z",
       "front": "Sicherheitsbedürfnisse (Safety Needs)",
-      "back": "Bedürfnis nach körperlicher Sicherheit, Stabilität, Ordnung und Schutz vor Gefahren — zweite Ebene der Pyramide.",
+      "back": "Bedürfnis nach körperlicher Sicherheit, Stabilität, Ordnung und Schutz vor Gefahren, zweite Ebene der Pyramide.",
       "notes": "Beispiel: sichere Wohnung, fester Arbeitsplatz.",
       "tags": ["motivation", "maslow"]
     },
@@ -59,7 +59,7 @@
       "id": "soziale-beduerfnisse",
       "stable_id": "card-ms942qok05olp",
       "front": "Soziale Bedürfnisse / Zugehörigkeit (Belongingness Needs)",
-      "back": "Bedürfnis nach Zugehörigkeit, Liebe und sozialen Beziehungen — dritte Ebene der Pyramide.",
+      "back": "Bedürfnis nach Zugehörigkeit, Liebe und sozialen Beziehungen, dritte Ebene der Pyramide.",
       "notes": "Erfüllt durch Freundschaft, Familie und Gemeinschaft.",
       "tags": ["motivation", "maslow"]
     },
@@ -67,7 +67,7 @@
       "id": "wertschaetzung",
       "stable_id": "card-ms942qok05p8d",
       "front": "Wertschätzungsbedürfnisse (Esteem Needs)",
-      "back": "Bedürfnis nach Anerkennung, Selbstachtung und Status — vierte Ebene der Pyramide.",
+      "back": "Bedürfnis nach Anerkennung, Selbstachtung und Status, vierte Ebene der Pyramide.",
       "notes": "Unterschieden: Selbstachtung (intern) und Anerkennung durch andere (extern).",
       "tags": ["motivation", "maslow"]
     },
@@ -75,7 +75,7 @@
       "id": "selbstverwirklichung",
       "stable_id": "card-ms942qok05qnm",
       "front": "Selbstverwirklichung (Self-Actualization)",
-      "back": "Streben nach Entfaltung des eigenen Potenzials — höchste Ebene der Bedürfnispyramide.",
+      "back": "Streben nach Entfaltung des eigenen Potenzials, höchste Ebene der Bedürfnispyramide.",
       "notes": "Maslow beschrieb diese Ebene als selten vollständig erreicht.",
       "tags": ["motivation", "maslow"]
     },
@@ -91,8 +91,8 @@
       "id": "james-lange",
       "stable_id": "card-ms942qok05sdb",
       "front": "James-Lange-Theorie",
-      "back": "Emotionstheorie: körperliche Reaktion geht dem Gefühl voraus — wir fühlen Angst, weil wir zittern.",
-      "notes": "Beispiel: 'Ich weine, also bin ich traurig' — nicht umgekehrt.",
+      "back": "Emotionstheorie: körperliche Reaktion geht dem Gefühl voraus, wir fühlen Angst, weil wir zittern.",
+      "notes": "Beispiel: 'Ich weine, also bin ich traurig', nicht umgekehrt.",
       "tags": ["emotion", "theorie"]
     },
     {
@@ -149,19 +149,19 @@
       "id": "theo-motivation",
       "type": "theory",
       "title": "Motivation: intrinsisch und extrinsisch",
-      "body": "# Motivation\n\n**Motivation** ist der innere Antrieb, der Verhalten aktiviert und auf ein Ziel ausrichtet. Man unterscheidet zwei Formen:\n\n- **Intrinsische Motivation** — der Antrieb kommt von innen: Interesse, Neugier, Freude an der Sache selbst. Kein äußerer Anreiz nötig.\n- **Extrinsische Motivation** — der Antrieb kommt von außen: Geld, Noten, Lob oder Strafe.\n\nForschung zeigt: zu viel extrinsische Belohnung kann intrinsische Motivation *untergraben* (Korrumpierungseffekt). Wenn man für eine zuvor genossene Tätigkeit plötzlich Geld bekommt, sinkt die innere Freude daran."
+      "body": "# Motivation\n\n**Motivation** ist der innere Antrieb, der Verhalten aktiviert und auf ein Ziel ausrichtet. Man unterscheidet zwei Formen:\n\n- **Intrinsische Motivation**, der Antrieb kommt von innen: Interesse, Neugier, Freude an der Sache selbst. Kein äußerer Anreiz nötig.\n- **Extrinsische Motivation**, der Antrieb kommt von außen: Geld, Noten, Lob oder Strafe.\n\nForschung zeigt: zu viel extrinsische Belohnung kann intrinsische Motivation *untergraben* (Korrumpierungseffekt). Wenn man für eine zuvor genossene Tätigkeit plötzlich Geld bekommt, sinkt die innere Freude daran."
     },
     {
       "id": "theo-maslow",
       "type": "theory",
       "title": "Maslows Bedürfnispyramide",
-      "body": "## Bedürfnispyramide (Maslow, 1943)\n\nAbraham Maslow ordnete menschliche Bedürfnisse in einer Hierarchie an — von der Basis bis zur Spitze:\n\n| Ebene | Bedürfnis |\n|---|---|\n| 1 (Basis) | Physiologische Bedürfnisse (Essen, Schlafen) |\n| 2 | Sicherheit (Schutz, Stabilität) |\n| 3 | Zugehörigkeit (Liebe, soziale Bindungen) |\n| 4 | Wertschätzung (Anerkennung, Selbstachtung) |\n| 5 (Spitze) | Selbstverwirklichung |\n\nLaut Maslow werden höhere Bedürfnisse erst relevant, wenn niedrigere ausreichend befriedigt sind. Die Pyramide ist ein einflussreiches, aber vereinfachtes Modell."
+      "body": "## Bedürfnispyramide (Maslow, 1943)\n\nAbraham Maslow ordnete menschliche Bedürfnisse in einer Hierarchie an, von der Basis bis zur Spitze:\n\n| Ebene | Bedürfnis |\n|---|---|\n| 1 (Basis) | Physiologische Bedürfnisse (Essen, Schlafen) |\n| 2 | Sicherheit (Schutz, Stabilität) |\n| 3 | Zugehörigkeit (Liebe, soziale Bindungen) |\n| 4 | Wertschätzung (Anerkennung, Selbstachtung) |\n| 5 (Spitze) | Selbstverwirklichung |\n\nLaut Maslow werden höhere Bedürfnisse erst relevant, wenn niedrigere ausreichend befriedigt sind. Die Pyramide ist ein einflussreiches, aber vereinfachtes Modell."
     },
     {
       "id": "theo-emotionstheorien",
       "type": "theory",
       "title": "Emotionstheorien: James-Lange, Cannon-Bard, Schachter-Singer",
-      "body": "## Drei Emotionstheorien im Überblick\n\n**Emotion** ist eine komplexe Reaktion aus körperlicher Erregung, Erleben und Ausdruck.\n\n- **James-Lange**: Die Körperreaktion kommt *zuerst* — das Gefühl entsteht danach. »Ich weine, *also* bin ich traurig.«\n- **Cannon-Bard**: Körperreaktion und Gefühl entstehen *gleichzeitig* und unabhängig voneinander.\n- **Schachter-Singer (Zwei-Faktoren)**: Emotion = körperliche Erregung + *kognitive Bewertung* der Situation. Gleiche Erregung kann je nach Kontext Freude oder Angst erzeugen.\n\nEkman identifizierte **sechs Basisemotionen**: Freude, Trauer, Wut, Angst, Ekel, Überraschung — kulturübergreifend erkennbar."
+      "body": "## Drei Emotionstheorien im Überblick\n\n**Emotion** ist eine komplexe Reaktion aus körperlicher Erregung, Erleben und Ausdruck.\n\n- **James-Lange**: Die Körperreaktion kommt *zuerst*, das Gefühl entsteht danach. »Ich weine, *also* bin ich traurig.«\n- **Cannon-Bard**: Körperreaktion und Gefühl entstehen *gleichzeitig* und unabhängig voneinander.\n- **Schachter-Singer (Zwei-Faktoren)**: Emotion = körperliche Erregung + *kognitive Bewertung* der Situation. Gleiche Erregung kann je nach Kontext Freude oder Angst erzeugen.\n\nEkman identifizierte **sechs Basisemotionen**: Freude, Trauer, Wut, Angst, Ekel, Überraschung, kulturübergreifend erkennbar."
     },
     {
       "id": "ex-match-maslow",
@@ -175,7 +175,7 @@
         "prompt": "Ordne jede Maslow-Ebene ihrer Beschreibung zu.",
         "card_ids": ["physiologische-beduerfnisse", "sicherheitsbeduerfnisse", "soziale-beduerfnisse", "wertschaetzung", "selbstverwirklichung"],
         "pairs": [
-          { "left": "Physiologische Bedürfnisse", "right": "Essen, Trinken, Schlafen — Basis" },
+          { "left": "Physiologische Bedürfnisse", "right": "Essen, Trinken, Schlafen, Basis" },
           { "left": "Sicherheitsbedürfnisse", "right": "Schutz, Stabilität, Ordnung" },
           { "left": "Soziale Bedürfnisse", "right": "Zugehörigkeit, Liebe, Freundschaft" },
           { "left": "Wertschätzung", "right": "Anerkennung, Selbstachtung, Status" },
@@ -234,10 +234,10 @@
         "id": "ex-free-intrinsisch",
         "stable_id": "ex-ms942qok062rp",
         "type": "free_text",
-        "prompt": "Jemand malt, weil es ihm Freude macht — ganz ohne Belohnung von außen. Welche Motivationsart liegt vor?",
+        "prompt": "Jemand malt, weil es ihm Freude macht, ganz ohne Belohnung von außen. Welche Motivationsart liegt vor?",
         "card_ids": ["intrinsische-motivation"],
         "accept": ["Intrinsische Motivation", "intrinsische Motivation", "intrinsisch", "Intrinsisch"],
-        "hint": "Der Antrieb kommt von innen — aus der Tätigkeit selbst.",
+        "hint": "Der Antrieb kommt von innen, aus der Tätigkeit selbst.",
         "distractors": ["Extrinsische Motivation", "Extrinsisch", "Selbstverwirklichung"],
         "direction": "target_to_source"
       }
@@ -290,7 +290,7 @@
           { "accept": ["Reaktion", "Körperreaktion"] }
         ],
         "cloze_mode": "type",
-        "hint": "Was kommt zuerst — das Zittern oder die Angst?"
+        "hint": "Was kommt zuerst, das Zittern oder die Angst?"
       }
     },
     {

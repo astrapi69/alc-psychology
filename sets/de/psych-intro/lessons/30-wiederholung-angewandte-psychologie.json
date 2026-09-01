@@ -1,7 +1,7 @@
 {
   "id": "30-wiederholung-angewandte-psychologie",
   "title": "Wiederholung: Angewandte Psychologie und Diagnostik",
-  "description": "Große Wiederholung der Lektionen 26–29: Pädagogische Psychologie, Arbeits- und Organisationspsychologie, Gesundheitspsychologie und Psychologische Diagnostik — gemischt und kompakt zusammengefasst.",
+  "description": "Große Wiederholung der Lektionen 26–29: Pädagogische Psychologie, Arbeits- und Organisationspsychologie, Gesundheitspsychologie und Psychologische Diagnostik, gemischt und kompakt zusammengefasst.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -11,17 +11,17 @@
       "id": "selbstwirksamkeit-review",
       "stable_id": "card-ms942qpa0r190",
       "front": "Selbstwirksamkeit (Self-Efficacy)",
-      "back": "Die Überzeugung, eine Aufgabe aus eigener Kraft bewältigen zu können — nach Albert Bandura ein zentraler Prädiktor für Lernausdauer und Leistung.",
+      "back": "Die Überzeugung, eine Aufgabe aus eigener Kraft bewältigen zu können, nach Albert Bandura ein zentraler Prädiktor für Lernausdauer und Leistung.",
       "notes": "Lektion 26 (Pädagogische Psychologie). Gegensatz: Hilflosigkeit.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["paedagogische-psychologie", "motivation", "person"],
-      "hint": "Bandura — 'Ich schaffe das.'"
+      "hint": "Bandura, 'Ich schaffe das.'"
     },
     {
       "id": "selbstbestimmungstheorie-review",
       "stable_id": "card-ms942qpa0r2wl",
-      "front": "Selbstbestimmungstheorie — drei Grundbedürfnisse",
+      "front": "Selbstbestimmungstheorie, drei Grundbedürfnisse",
       "back": "Deci und Ryan: Motivation gedeiht, wenn Autonomie (selbst entscheiden), Kompetenz (sich fähig fühlen) und soziale Eingebundenheit (dazugehören) erfüllt sind.",
       "notes": "Lektion 26. Werden alle drei Bedürfnisse befriedigt, entsteht intrinsische Motivation.",
       "media_type": "text",
@@ -62,7 +62,7 @@
       "id": "burnout-review",
       "stable_id": "card-ms942qpa0r6vg",
       "front": "Burnout",
-      "back": "Zustand chronischer Erschöpfung, Zynismus und reduzierter Leistungsfähigkeit infolge anhaltender Arbeitsbelastung — zentrales Thema der Arbeits- und Gesundheitspsychologie.",
+      "back": "Zustand chronischer Erschöpfung, Zynismus und reduzierter Leistungsfähigkeit infolge anhaltender Arbeitsbelastung, zentrales Thema der Arbeits- und Gesundheitspsychologie.",
       "notes": "Lektion 27. Maslach identifizierte drei Dimensionen: emotionale Erschöpfung, Depersonalisation, reduzierte Leistung.",
       "media_type": "text",
       "difficulty": 3,
@@ -82,7 +82,7 @@
       "id": "salutogenese-review",
       "stable_id": "card-ms942qpa0r888",
       "front": "Salutogenese (Antonovsky)",
-      "back": "Fragt nicht 'Warum werden Menschen krank?', sondern 'Was hält Menschen gesund?' — Kohärenzgefühl (Verstehbarkeit, Handhabbarkeit, Bedeutsamkeit) als zentraler Schutzfaktor.",
+      "back": "Fragt nicht 'Warum werden Menschen krank?', sondern 'Was hält Menschen gesund?', Kohärenzgefühl (Verstehbarkeit, Handhabbarkeit, Bedeutsamkeit) als zentraler Schutzfaktor.",
       "notes": "Lektion 28. Gegenbegriff: Pathogenese.",
       "media_type": "text",
       "difficulty": 3,
@@ -144,19 +144,19 @@
       "id": "intro-wiederholung",
       "type": "theory",
       "title": "Übersicht: Vier angewandte Bereiche der Psychologie",
-      "body": "# Große Wiederholung: Angewandte Psychologie und Diagnostik\n\nZeit für die große Wiederholung: In den Lektionen 26–29 hast du vier angewandte Bereiche der Psychologie kennengelernt. Diese Lektion mischt alles.\n\n## Die vier Anwendungsfelder im Überblick\n\n| Lektion | Anwendungsfeld | Kerngedanke | Typische Begriffe |\n|---|---|---|---|\n| 26 | **Pädagogische Psychologie** | Lernen, Lehren und Entwicklung in Bildungskontexten wissenschaftlich verstehen | Selbstwirksamkeit, Selbstbestimmungstheorie, Scaffolding, ZPD, Pygmalion-Effekt |\n| 27 | **Arbeits- und Organisationspsychologie** | Verhalten und Erleben in Arbeitssituationen analysieren und verbessern | Herzberg, Führungsstile, soziales Faulenzen, Eignungsdiagnostik, Burnout |\n| 28 | **Gesundheitspsychologie** | Gesundheitsförderung, Krankheitsprävention und Rehabilitation auf psychologischer Basis | biopsychosoziales Modell, Salutogenese, Prävention, Coping, Adhärenz |\n| 29 | **Psychologische Diagnostik** | Psychologische Merkmale von Personen reliabel und valide erfassen | Gütekriterien, Validitätsarten, Bezugsnormen, klassische Testtheorie |\n\n> **Gemeinsamkeit aller vier Felder:** Sie wenden Grundlagenwissen der Psychologie auf konkrete Praxisprobleme an — in Schule, Betrieb, Klinik oder Beratung."
+      "body": "# Große Wiederholung: Angewandte Psychologie und Diagnostik\n\nZeit für die große Wiederholung: In den Lektionen 26–29 hast du vier angewandte Bereiche der Psychologie kennengelernt. Diese Lektion mischt alles.\n\n## Die vier Anwendungsfelder im Überblick\n\n| Lektion | Anwendungsfeld | Kerngedanke | Typische Begriffe |\n|---|---|---|---|\n| 26 | **Pädagogische Psychologie** | Lernen, Lehren und Entwicklung in Bildungskontexten wissenschaftlich verstehen | Selbstwirksamkeit, Selbstbestimmungstheorie, Scaffolding, ZPD, Pygmalion-Effekt |\n| 27 | **Arbeits- und Organisationspsychologie** | Verhalten und Erleben in Arbeitssituationen analysieren und verbessern | Herzberg, Führungsstile, soziales Faulenzen, Eignungsdiagnostik, Burnout |\n| 28 | **Gesundheitspsychologie** | Gesundheitsförderung, Krankheitsprävention und Rehabilitation auf psychologischer Basis | biopsychosoziales Modell, Salutogenese, Prävention, Coping, Adhärenz |\n| 29 | **Psychologische Diagnostik** | Psychologische Merkmale von Personen reliabel und valide erfassen | Gütekriterien, Validitätsarten, Bezugsnormen, klassische Testtheorie |\n\n> **Gemeinsamkeit aller vier Felder:** Sie wenden Grundlagenwissen der Psychologie auf konkrete Praxisprobleme an, in Schule, Betrieb, Klinik oder Beratung."
     },
     {
       "id": "step-paed-ao",
       "type": "theory",
       "title": "Pädagogische und Arbeitspsychologie: Motivation im Mittelpunkt",
-      "body": "## Pädagogische Psychologie (Lektion 26)\n\n**Lernmotivation** ist der Dreh- und Angelpunkt:\n\n- *Intrinsisch* = Antrieb aus der Tätigkeit selbst; *extrinsisch* = durch äußere Anreize.\n- **Selbstwirksamkeit** (Bandura): Wer glaubt, es zu schaffen, strengt sich mehr an.\n- **Selbstbestimmungstheorie** (Deci & Ryan): Drei Grundbedürfnisse — Autonomie, Kompetenz, Eingebundenheit.\n- **Scaffolding** & **ZPD** (Wygotski): Unterstützung im Bereich zwischen dem, was allein und was mit Hilfe möglich ist.\n\n## Arbeits- und Organisationspsychologie (Lektion 27)\n\n**Arbeitsmotivation und -zufriedenheit** stehen im Zentrum:\n\n| Konzept | Kernaussage |\n|---|---|\n| **Herzbergs Zwei-Faktoren-Theorie** | Hygienefaktoren verhindern Unzufriedenheit; Motivatoren schaffen Zufriedenheit |\n| **Führungsstile** | autoritär ↔ demokratisch ↔ laissez-faire; Situationale Führung |\n| **Soziales Faulenzen** | Geringere Einzelleistung in Gruppen wegen reduzierter Zurechenbarkeit |\n| **Burnout** | Chronische Erschöpfung durch anhaltende Überlastung |\n\nBotschaft: Arbeitsmotivation folgt ähnlichen Prinzipien wie Lernmotivation — innere Anreize und Autonomie sind entscheidend."
+      "body": "## Pädagogische Psychologie (Lektion 26)\n\n**Lernmotivation** ist der Dreh- und Angelpunkt:\n\n- *Intrinsisch* = Antrieb aus der Tätigkeit selbst; *extrinsisch* = durch äußere Anreize.\n- **Selbstwirksamkeit** (Bandura): Wer glaubt, es zu schaffen, strengt sich mehr an.\n- **Selbstbestimmungstheorie** (Deci & Ryan): Drei Grundbedürfnisse, Autonomie, Kompetenz, Eingebundenheit.\n- **Scaffolding** & **ZPD** (Wygotski): Unterstützung im Bereich zwischen dem, was allein und was mit Hilfe möglich ist.\n\n## Arbeits- und Organisationspsychologie (Lektion 27)\n\n**Arbeitsmotivation und -zufriedenheit** stehen im Zentrum:\n\n| Konzept | Kernaussage |\n|---|---|\n| **Herzbergs Zwei-Faktoren-Theorie** | Hygienefaktoren verhindern Unzufriedenheit; Motivatoren schaffen Zufriedenheit |\n| **Führungsstile** | autoritär ↔ demokratisch ↔ laissez-faire; Situationale Führung |\n| **Soziales Faulenzen** | Geringere Einzelleistung in Gruppen wegen reduzierter Zurechenbarkeit |\n| **Burnout** | Chronische Erschöpfung durch anhaltende Überlastung |\n\nBotschaft: Arbeitsmotivation folgt ähnlichen Prinzipien wie Lernmotivation, innere Anreize und Autonomie sind entscheidend."
     },
     {
       "id": "step-gesundheit-diagnostik",
       "type": "theory",
       "title": "Gesundheitspsychologie und Diagnostik: Messen und Schützen",
-      "body": "## Gesundheitspsychologie (Lektion 28)\n\nDas **biopsychosoziale Modell** (Engel) ersetzt die rein biomedizinische Sicht: Gesundheit entsteht durch das Zusammenspiel biologischer, psychologischer und sozialer Faktoren.\n\n**Salutogenese** (Antonovsky) fragt: *Was hält Menschen gesund?* — das **Kohärenzgefühl** (Sense of Coherence) ist der Schlüssel.\n\nPräventionsstufen:\n\n| Stufe | Zeitpunkt | Ziel |\n|---|---|---|\n| Primär | vor der Erkrankung | Risikofaktoren reduzieren |\n| Sekundär | Frühstadium | Früherkennung, Frühbehandlung |\n| Tertiär | nach der Erkrankung | Rückfall und Folgeschäden verhindern |\n\n## Psychologische Diagnostik (Lektion 29)\n\nJeder psychologische Test muss drei **Hauptgütekriterien** erfüllen:\n\n1. **Objektivität** — Ergebnis ist unabhängig vom Testleiter.\n2. **Reliabilität** — Test misst konsistent und zuverlässig.\n3. **Validität** — Test misst tatsächlich das, was er messen soll.\n\nDie **klassische Testtheorie** modelliert: beobachteter Wert = wahrer Wert + Messfehler (*X = T + E*).\n\n**Bezugsnormen** bestimmen, womit ein Testwert verglichen wird: mit einer Normgruppe (sozial), einem Kriterium (sachlich) oder der eigenen Vorleistung (individuell)."
+      "body": "## Gesundheitspsychologie (Lektion 28)\n\nDas **biopsychosoziale Modell** (Engel) ersetzt die rein biomedizinische Sicht: Gesundheit entsteht durch das Zusammenspiel biologischer, psychologischer und sozialer Faktoren.\n\n**Salutogenese** (Antonovsky) fragt: *Was hält Menschen gesund?*, das **Kohärenzgefühl** (Sense of Coherence) ist der Schlüssel.\n\nPräventionsstufen:\n\n| Stufe | Zeitpunkt | Ziel |\n|---|---|---|\n| Primär | vor der Erkrankung | Risikofaktoren reduzieren |\n| Sekundär | Frühstadium | Früherkennung, Frühbehandlung |\n| Tertiär | nach der Erkrankung | Rückfall und Folgeschäden verhindern |\n\n## Psychologische Diagnostik (Lektion 29)\n\nJeder psychologische Test muss drei **Hauptgütekriterien** erfüllen:\n\n1. **Objektivität**, Ergebnis ist unabhängig vom Testleiter.\n2. **Reliabilität**, Test misst konsistent und zuverlässig.\n3. **Validität**, Test misst tatsächlich das, was er messen soll.\n\nDie **klassische Testtheorie** modelliert: beobachteter Wert = wahrer Wert + Messfehler (*X = T + E*).\n\n**Bezugsnormen** bestimmen, womit ein Testwert verglichen wird: mit einer Normgruppe (sozial), einem Kriterium (sachlich) oder der eigenen Vorleistung (individuell)."
     },
     {
       "id": "ex-match-felder",
@@ -194,7 +194,7 @@
           { "accept": ["Messfehler", "dem Messfehler", "E", "Fehler"] }
         ],
         "cloze_mode": "type",
-        "hint": "Der zufällige Anteil des Messergebnisses — abgekürzt E."
+        "hint": "Der zufällige Anteil des Messergebnisses, abgekürzt E."
       }
     },
     {
@@ -245,7 +245,7 @@
         "prompt": "Wie heißt das Phänomen, bei dem Einzelpersonen in Gruppen weniger Leistung erbringen, weil ihr individueller Beitrag weniger sichtbar ist?",
         "card_ids": ["soziales-faulenzen-review"],
         "accept": ["Soziales Faulenzen", "soziales Faulenzen", "Social Loafing", "Ringelman-Effekt", "Ringelmann-Effekt"],
-        "hint": "Auf Englisch 'Social Loafing' — der Einzelne versteckt sich in der Masse.",
+        "hint": "Auf Englisch 'Social Loafing', der Einzelne versteckt sich in der Masse.",
         "distractors": ["Groupthink", "Burnout", "sozialer Vergleich"],
         "direction": "target_to_source"
       }
@@ -277,12 +277,12 @@
         "type": "cloze",
         "prompt": "Ergänze den Namen des Konzepts, das beschreibt, wo Scaffolding am wirksamsten ist.",
         "card_ids": ["scaffolding-zpd-review"],
-        "sentence": "Scaffolding wirkt am besten in der Zone der ___ Entwicklung — dem Bereich zwischen allein Möglichem und mit Hilfe Erreichbarem.",
+        "sentence": "Scaffolding wirkt am besten in der Zone der ___ Entwicklung, dem Bereich zwischen allein Möglichem und mit Hilfe Erreichbarem.",
         "blanks": [
           { "accept": ["nächsten", "nächsten (proximalen)", "proximalen"] }
         ],
         "cloze_mode": "type",
-        "hint": "Wygotskis Konzept — 'nächst…' deutet auf das, was gleich erreichbar ist."
+        "hint": "Wygotskis Konzept, 'nächst…' deutet auf das, was gleich erreichbar ist."
       }
     }
   ]

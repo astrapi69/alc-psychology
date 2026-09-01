@@ -1,7 +1,7 @@
 {
   "id": "16-psychotherapie-grundlagen",
   "title": "Grundlagen der Psychotherapie",
-  "description": "Was Psychotherapie ist, das Setting, die wichtigsten Wirkfaktoren und die therapeutische Beziehung — als Einstieg in die Psychotherapieverfahren, auf Deutsch erklärt.",
+  "description": "Was Psychotherapie ist, das Setting, die wichtigsten Wirkfaktoren und die therapeutische Beziehung, als Einstieg in die Psychotherapieverfahren, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -11,7 +11,7 @@
       "id": "psychotherapie",
       "stable_id": "card-ms942qp20jlya",
       "front": "Psychotherapie (Psychotherapy)",
-      "back": "Die geplante, wissenschaftlich fundierte Behandlung psychischer Störungen und Leiden mit psychologischen Mitteln — also durch Gespräch, Übung und Beziehung statt durch Medikamente.",
+      "back": "Die geplante, wissenschaftlich fundierte Behandlung psychischer Störungen und Leiden mit psychologischen Mitteln, also durch Gespräch, Übung und Beziehung statt durch Medikamente.",
       "notes": "Abzugrenzen von der **Pharmakotherapie** (Behandlung mit Medikamenten). Beide können kombiniert werden.",
       "media_type": "text",
       "difficulty": 1,
@@ -45,14 +45,14 @@
       "notes": "Auch 'therapeutische Allianz' genannt. Wichtiger als die Frage, welches einzelne Verfahren genau angewendet wird.",
       "media_type": "text",
       "difficulty": 3,
-      "hint": "Englisch: alliance — eine Art Bündnis.",
+      "hint": "Englisch: alliance, eine Art Bündnis.",
       "tags": ["wirkfaktor", "beziehung"]
     },
     {
       "id": "wirkfaktoren",
       "stable_id": "card-ms942qp20jp63",
       "front": "Allgemeine Wirkfaktoren (Common Factors)",
-      "back": "Heilsame Elemente, die fast allen Therapieformen gemeinsam sind — z. B. die therapeutische Beziehung, Hoffnung, ein nachvollziehbares Erklärungsmodell und das Üben neuer Erfahrungen.",
+      "back": "Heilsame Elemente, die fast allen Therapieformen gemeinsam sind, z. B. die therapeutische Beziehung, Hoffnung, ein nachvollziehbares Erklärungsmodell und das Üben neuer Erfahrungen.",
       "notes": "Nach Klaus Grawe u. a. Sie erklären, warum verschiedene Verfahren oft ähnlich gut wirken.",
       "media_type": "text",
       "difficulty": 4,
@@ -73,7 +73,7 @@
       "stable_id": "card-ms942qp20jrju",
       "front": "Indikation",
       "back": "Die begründete Entscheidung, welches Verfahren für welche Person und welche Störung geeignet ist ('Was hilft wem?').",
-      "notes": "Gegenteil: Kontraindikation — Gründe, die gegen eine bestimmte Behandlung sprechen.",
+      "notes": "Gegenteil: Kontraindikation, Gründe, die gegen eine bestimmte Behandlung sprechen.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["grundlagen", "indikation"]
@@ -135,19 +135,19 @@
       "id": "intro",
       "type": "theory",
       "title": "Was ist Psychotherapie?",
-      "body": "# Grundlagen der Psychotherapie\n\n**Psychotherapie** ist die *geplante und wissenschaftlich fundierte Behandlung psychischer Störungen mit psychologischen Mitteln* — also durch **Gespräch, Übung und Beziehung**, nicht durch Medikamente.\n\nIn **Lektion 9** hast du psychische Störungen kennengelernt. Psychotherapie ist eine der zentralen Wege, sie zu behandeln.\n\n## Abgrenzung\n\n| Behandlungsform | Mittel |\n|---|---|\n| **Psychotherapie** | Gespräch, Übungen, Beziehung |\n| **Pharmakotherapie** | Medikamente (z. B. Antidepressiva) |\n\nBeide schließen sich nicht aus — bei manchen Störungen wirkt die **Kombination** am besten.\n\n## Der äußere Rahmen: das Setting\n\nDas **Setting** beschreibt den organisatorischen Rahmen: Einzel-, Paar- oder Gruppentherapie, die Dauer einer Sitzung (oft 50 Minuten) und wie häufig man sich trifft. Am Anfang stehen meist die **Anamnese** (Erhebung der Vorgeschichte) und das Vereinbaren von **Therapiezielen**."
+      "body": "# Grundlagen der Psychotherapie\n\n**Psychotherapie** ist die *geplante und wissenschaftlich fundierte Behandlung psychischer Störungen mit psychologischen Mitteln*, also durch **Gespräch, Übung und Beziehung**, nicht durch Medikamente.\n\nIn **Lektion 9** hast du psychische Störungen kennengelernt. Psychotherapie ist eine der zentralen Wege, sie zu behandeln.\n\n## Abgrenzung\n\n| Behandlungsform | Mittel |\n|---|---|\n| **Psychotherapie** | Gespräch, Übungen, Beziehung |\n| **Pharmakotherapie** | Medikamente (z. B. Antidepressiva) |\n\nBeide schließen sich nicht aus, bei manchen Störungen wirkt die **Kombination** am besten.\n\n## Der äußere Rahmen: das Setting\n\nDas **Setting** beschreibt den organisatorischen Rahmen: Einzel-, Paar- oder Gruppentherapie, die Dauer einer Sitzung (oft 50 Minuten) und wie häufig man sich trifft. Am Anfang stehen meist die **Anamnese** (Erhebung der Vorgeschichte) und das Vereinbaren von **Therapiezielen**."
     },
     {
       "id": "step-wirkfaktoren",
       "type": "theory",
       "title": "Warum Therapie wirkt: die Wirkfaktoren",
-      "body": "## Allgemeine Wirkfaktoren\n\nVerschiedene Verfahren wirken oft **ähnlich gut**. Das liegt an den **allgemeinen Wirkfaktoren** — heilsamen Elementen, die fast allen Therapien gemeinsam sind. Der Psychotherapieforscher **Klaus Grawe** beschrieb vier davon:\n\n| Wirkfaktor | Worum es geht |\n|---|---|\n| **Therapeutische Beziehung** | tragfähiges, vertrauensvolles Bündnis |\n| **Ressourcenaktivierung** | Stärken und Fähigkeiten nutzen |\n| **Problemaktualisierung** | das Problem im Hier und Jetzt erlebbar machen |\n| **Klärung & Bewältigung** | verstehen *und* konkret bewältigen |\n\n> Die **therapeutische Beziehung** (auch *therapeutische Allianz*) gilt als einer der **stärksten** Vorhersagefaktoren für den Erfolg — oft wichtiger als die Wahl des konkreten Verfahrens.\n\nGetragen wird diese Beziehung u. a. von der **Schweigepflicht**: Nur wer sicher sein kann, dass alles vertraulich bleibt, spricht wirklich offen."
+      "body": "## Allgemeine Wirkfaktoren\n\nVerschiedene Verfahren wirken oft **ähnlich gut**. Das liegt an den **allgemeinen Wirkfaktoren**, heilsamen Elementen, die fast allen Therapien gemeinsam sind. Der Psychotherapieforscher **Klaus Grawe** beschrieb vier davon:\n\n| Wirkfaktor | Worum es geht |\n|---|---|\n| **Therapeutische Beziehung** | tragfähiges, vertrauensvolles Bündnis |\n| **Ressourcenaktivierung** | Stärken und Fähigkeiten nutzen |\n| **Problemaktualisierung** | das Problem im Hier und Jetzt erlebbar machen |\n| **Klärung & Bewältigung** | verstehen *und* konkret bewältigen |\n\n> Die **therapeutische Beziehung** (auch *therapeutische Allianz*) gilt als einer der **stärksten** Vorhersagefaktoren für den Erfolg, oft wichtiger als die Wahl des konkreten Verfahrens.\n\nGetragen wird diese Beziehung u. a. von der **Schweigepflicht**: Nur wer sicher sein kann, dass alles vertraulich bleibt, spricht wirklich offen."
     },
     {
       "id": "step-verfahren-ueberblick",
       "type": "theory",
       "title": "Die vier Hauptverfahren im Überblick",
-      "body": "## Was kommt in den nächsten Lektionen?\n\nEs gibt vier große, anerkannte Therapierichtungen. Welche zum Einsatz kommt, ist eine Frage der **Indikation** ('Was hilft wem?') und sollte **evidenzbasiert** sein — also durch Studien belegt.\n\n| Verfahren | Kerngedanke | Lektion |\n|---|---|---|\n| **Verhaltenstherapie** | Verhalten ist erlernt und kann umgelernt werden | 17 |\n| **Kognitive Verhaltenstherapie** | Gedanken beeinflussen Gefühle und Verhalten | 18 |\n| **Psychodynamische Verfahren** | unbewusste Konflikte aus der Vergangenheit wirken nach | 19 |\n| **Humanistische Verfahren** | der Mensch wächst in einer akzeptierenden Beziehung | 19 |\n\nDiese Lektion liefert das **Fundament**; die folgenden gehen jeweils in die Tiefe."
+      "body": "## Was kommt in den nächsten Lektionen?\n\nEs gibt vier große, anerkannte Therapierichtungen. Welche zum Einsatz kommt, ist eine Frage der **Indikation** ('Was hilft wem?') und sollte **evidenzbasiert** sein, also durch Studien belegt.\n\n| Verfahren | Kerngedanke | Lektion |\n|---|---|---|\n| **Verhaltenstherapie** | Verhalten ist erlernt und kann umgelernt werden | 17 |\n| **Kognitive Verhaltenstherapie** | Gedanken beeinflussen Gefühle und Verhalten | 18 |\n| **Psychodynamische Verfahren** | unbewusste Konflikte aus der Vergangenheit wirken nach | 19 |\n| **Humanistische Verfahren** | der Mensch wächst in einer akzeptierenden Beziehung | 19 |\n\nDiese Lektion liefert das **Fundament**; die folgenden gehen jeweils in die Tiefe."
     },
     {
       "id": "ex-cloze-mittel",
@@ -200,7 +200,7 @@
         "prompt": "Wie heißt das vertrauensvolle Arbeitsbündnis zwischen Therapeut:in und Klient:in, das den Erfolg stark vorhersagt?",
         "card_ids": ["therapeutische-beziehung"],
         "accept": ["therapeutische Beziehung", "die therapeutische Beziehung", "therapeutische Allianz", "therapeutische Beziehung (Allianz)"],
-        "hint": "Auch 'Allianz' genannt — ein Bündnis.",
+        "hint": "Auch 'Allianz' genannt, ein Bündnis.",
         "distractors": ["Schweigepflicht", "Setting", "Indikation"],
         "direction": "target_to_source"
       }

@@ -1,7 +1,7 @@
 {
   "id": "42-neuropsychologie-und-bildgebung",
   "title": "Neuropsychologie und bildgebende Verfahren",
-  "description": "Was ist Neuropsychologie, wie werden Gehirnfunktionen mit bildgebenden Verfahren untersucht, was lehren uns Sprachareale und Split-Brain-Studien — auf Deutsch erklärt.",
+  "description": "Was ist Neuropsychologie, wie werden Gehirnfunktionen mit bildgebenden Verfahren untersucht, was lehren uns Sprachareale und Split-Brain-Studien, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -11,7 +11,7 @@
       "id": "neuropsychologie",
       "stable_id": "card-ms942qph0xi61",
       "front": "Neuropsychologie (Neuropsychology)",
-      "back": "Teilgebiet, das den Zusammenhang zwischen Gehirnstruktur und -funktion einerseits und Verhalten sowie Kognition andererseits untersucht — häufig bei Patientinnen und Patienten mit Hirnschädigungen.",
+      "back": "Teilgebiet, das den Zusammenhang zwischen Gehirnstruktur und -funktion einerseits und Verhalten sowie Kognition andererseits untersucht, häufig bei Patientinnen und Patienten mit Hirnschädigungen.",
       "notes": "Baut auf Lektion 13 (Biologische Grundlagen) und 37 (Biopsychologie) auf.",
       "media_type": "text",
       "difficulty": 2,
@@ -22,7 +22,7 @@
       "stable_id": "card-ms942qph0xjdz",
       "front": "Läsionsmethode (Lesion Method)",
       "back": "Forschungsansatz, bei dem aus dem Ausfall bestimmter Funktionen nach einer Hirnschädigung auf die Funktion des betroffenen Areals geschlossen wird.",
-      "notes": "Klassisches Beispiel: Phineas Gage — nach Unfall im Frontallappen veränderte sich seine Persönlichkeit drastisch.",
+      "notes": "Klassisches Beispiel: Phineas Gage, nach Unfall im Frontallappen veränderte sich seine Persönlichkeit drastisch.",
       "media_type": "text",
       "difficulty": 3,
       "hint": "Wo etwas ausfällt, wird normalerweise etwas geleistet.",
@@ -41,7 +41,7 @@
     {
       "id": "eeg",
       "stable_id": "card-ms942qph0xljm",
-      "front": "EEG — Elektroenzephalografie (Electroencephalography)",
+      "front": "EEG, Elektroenzephalografie (Electroencephalography)",
       "back": "Messverfahren, das elektrische Aktivität des Gehirns über Elektroden auf der Kopfhaut aufzeichnet; sehr hohe zeitliche Auflösung, aber geringe räumliche Auflösung.",
       "notes": "Nützlich zur Untersuchung von Schlafphasen, Anfällen (Epilepsie) und schnellen Reaktionen (EKP).",
       "media_type": "text",
@@ -51,18 +51,18 @@
     {
       "id": "fmrt",
       "stable_id": "card-ms942qph0xmud",
-      "front": "fMRT — funktionelle Magnetresonanztomografie (fMRI)",
+      "front": "fMRT, funktionelle Magnetresonanztomografie (fMRI)",
       "back": "Bildgebendes Verfahren, das über Veränderungen der Durchblutung (BOLD-Signal) aktive Hirnregionen sichtbar macht; hohe räumliche Auflösung, aber vergleichsweise geringe zeitliche Auflösung.",
       "notes": "BOLD = Blood-Oxygen-Level-Dependent. Misst nicht direkt elektrische Aktivität, sondern Sauerstoffverbrauch.",
       "media_type": "text",
       "difficulty": 4,
-      "hint": "Räumlich präzise — wo im Gehirn passiert etwas?",
+      "hint": "Räumlich präzise, wo im Gehirn passiert etwas?",
       "tags": ["bildgebung", "methode", "fmrt", "funktionell"]
     },
     {
       "id": "pet",
       "stable_id": "card-ms942qph0xnzs",
-      "front": "PET — Positronenemissionstomografie (Positron Emission Tomography)",
+      "front": "PET, Positronenemissionstomografie (Positron Emission Tomography)",
       "back": "Funktionelles Bildgebungsverfahren, das radioaktiv markierte Substanzen (Tracer) nutzt, um Stoffwechselaktivität und Durchblutung im Gehirn sichtbar zu machen.",
       "notes": "Strahlenbelastung durch radioaktiven Tracer; mittlere räumliche und geringe zeitliche Auflösung.",
       "media_type": "text",
@@ -72,8 +72,8 @@
     {
       "id": "mrt-ct-struktur",
       "stable_id": "card-ms942qph0xo90",
-      "front": "MRT und CT — Strukturbildgebung",
-      "back": "MRT (Magnetresonanztomografie) und CT (Computertomografie) liefern detaillierte anatomische Bilder des Gehirns, zeigen aber keine Aktivität — sie sind Strukturbildgebungsverfahren.",
+      "front": "MRT und CT, Strukturbildgebung",
+      "back": "MRT (Magnetresonanztomografie) und CT (Computertomografie) liefern detaillierte anatomische Bilder des Gehirns, zeigen aber keine Aktivität, sie sind Strukturbildgebungsverfahren.",
       "notes": "MRT ohne Strahlung, hohe Kontraste für Weichgewebe; CT schneller, aber mit Röntgenstrahlung.",
       "media_type": "text",
       "difficulty": 3,
@@ -123,8 +123,8 @@
     {
       "id": "neuroplastizitaet-rekapitulation",
       "stable_id": "card-ms942qph0xt5v",
-      "front": "Neuroplastizität (Neural Plasticity) — Rekapitulation",
-      "back": "Die Fähigkeit des Gehirns, seine Struktur und Verschaltung in Reaktion auf Erfahrungen, Lernen oder nach Verletzungen zu verändern — Grundlage für Rehabilitation nach Hirnschädigungen.",
+      "front": "Neuroplastizität (Neural Plasticity), Rekapitulation",
+      "back": "Die Fähigkeit des Gehirns, seine Struktur und Verschaltung in Reaktion auf Erfahrungen, Lernen oder nach Verletzungen zu verändern, Grundlage für Rehabilitation nach Hirnschädigungen.",
       "notes": "Vertieft aus Lektion 13. Neuroplastizität ermöglicht, dass gesunde Areale Funktionen geschädigter Areale teilweise übernehmen können.",
       "media_type": "text",
       "difficulty": 3,
@@ -136,19 +136,19 @@
       "id": "intro-neuropsychologie",
       "type": "theory",
       "title": "Was ist Neuropsychologie?",
-      "body": "# Neuropsychologie und bildgebende Verfahren\n\nDiese Lektion baut auf **Lektion 13** (Biologische Grundlagen: Gehirn und Nervensystem) und **Lektion 37** (Biopsychologie vertieft) auf. Nun rücken klinische und kognitive Methoden in den Mittelpunkt.\n\n## Definition\n\n**Neuropsychologie** untersucht, wie Gehirnstruktur und -funktion mit Verhalten und Kognition zusammenhängen — oft anhand von Patientinnen und Patienten mit Hirnschädigungen.\n\n## Die Läsionsmethode\n\nDas älteste und einflussreichste Werkzeug der Neuropsychologie ist die **Läsionsmethode**: Wo eine Hirnschädigung (Läsion) eine spezifische Funktion ausfallen lässt, schließt man auf die Funktion des betroffenen Areals.\n\n### Klassisches Fallbeispiel: Phineas Gage\n\n| Merkmal | Detail |\n|---|---|\n| **Jahr** | 1848 |\n| **Ereignis** | Eisenstange durchbohrte den Frontallappen |\n| **Überlebte?** | Ja |\n| **Folgen** | Drastische Persönlichkeitsveränderung: impulsiv, unzuverlässig |\n| **Erkenntnis** | Der **präfrontale Kortex** ist zentral für Persönlichkeit und soziales Verhalten |\n\n## Neuroplastizität\n\nGehirn und Nervensystem sind nicht starr: **Neuroplastizität** bezeichnet die Fähigkeit des Gehirns, sich strukturell und funktional an Erfahrungen und nach Verletzungen anzupassen. Das ist die Grundlage jeder neurologischen Rehabilitation."
+      "body": "# Neuropsychologie und bildgebende Verfahren\n\nDiese Lektion baut auf **Lektion 13** (Biologische Grundlagen: Gehirn und Nervensystem) und **Lektion 37** (Biopsychologie vertieft) auf. Nun rücken klinische und kognitive Methoden in den Mittelpunkt.\n\n## Definition\n\n**Neuropsychologie** untersucht, wie Gehirnstruktur und -funktion mit Verhalten und Kognition zusammenhängen, oft anhand von Patientinnen und Patienten mit Hirnschädigungen.\n\n## Die Läsionsmethode\n\nDas älteste und einflussreichste Werkzeug der Neuropsychologie ist die **Läsionsmethode**: Wo eine Hirnschädigung (Läsion) eine spezifische Funktion ausfallen lässt, schließt man auf die Funktion des betroffenen Areals.\n\n### Klassisches Fallbeispiel: Phineas Gage\n\n| Merkmal | Detail |\n|---|---|\n| **Jahr** | 1848 |\n| **Ereignis** | Eisenstange durchbohrte den Frontallappen |\n| **Überlebte?** | Ja |\n| **Folgen** | Drastische Persönlichkeitsveränderung: impulsiv, unzuverlässig |\n| **Erkenntnis** | Der **präfrontale Kortex** ist zentral für Persönlichkeit und soziales Verhalten |\n\n## Neuroplastizität\n\nGehirn und Nervensystem sind nicht starr: **Neuroplastizität** bezeichnet die Fähigkeit des Gehirns, sich strukturell und funktional an Erfahrungen und nach Verletzungen anzupassen. Das ist die Grundlage jeder neurologischen Rehabilitation."
     },
     {
       "id": "step-bildgebung",
       "type": "theory",
       "title": "Bildgebende und Messverfahren",
-      "body": "## Struktur- vs. Funktionsbildgebung\n\nBildgebende Verfahren lassen sich in zwei Kategorien einteilen:\n\n- **Strukturbildgebung** zeigt die Anatomie des Gehirns (aber keine Aktivität).\n- **Funktionsbildgebung** macht Hirnaktivität sichtbar.\n\n## Überblick der Verfahren\n\n| Verfahren | Typ | Zeitliche Auflösung | Räumliche Auflösung | Prinzip |\n|---|---|---|---|---|\n| **EEG** | Funktion | sehr hoch (Millisekunden) | gering | elektrische Aktivität an der Kopfhaut |\n| **fMRT** | Funktion | gering (Sekunden) | sehr hoch | Durchblutung / BOLD-Signal |\n| **PET** | Funktion | mittel | mittel | radioaktiver Tracer, Stoffwechsel |\n| **MRT** | Struktur | — | sehr hoch | Magnetresonanz, Gewebekontrast |\n| **CT** | Struktur | — | hoch | Röntgenstrahlung, Dichte |\n\n### Merkhilfe\n\n- **EEG** = *schnell aber ungenau* (wann, aber nicht genau wo)\n- **fMRT** = *langsam aber präzise* (genau wo, aber nicht wann)\n- **PET** = dazwischen, benötigt radioaktiven Tracer"
+      "body": "## Struktur- vs. Funktionsbildgebung\n\nBildgebende Verfahren lassen sich in zwei Kategorien einteilen:\n\n- **Strukturbildgebung** zeigt die Anatomie des Gehirns (aber keine Aktivität).\n- **Funktionsbildgebung** macht Hirnaktivität sichtbar.\n\n## Überblick der Verfahren\n\n| Verfahren | Typ | Zeitliche Auflösung | Räumliche Auflösung | Prinzip |\n|---|---|---|---|---|\n| **EEG** | Funktion | sehr hoch (Millisekunden) | gering | elektrische Aktivität an der Kopfhaut |\n| **fMRT** | Funktion | gering (Sekunden) | sehr hoch | Durchblutung / BOLD-Signal |\n| **PET** | Funktion | mittel | mittel | radioaktiver Tracer, Stoffwechsel |\n| **MRT** | Struktur | - | sehr hoch | Magnetresonanz, Gewebekontrast |\n| **CT** | Struktur | - | hoch | Röntgenstrahlung, Dichte |\n\n### Merkhilfe\n\n- **EEG** = *schnell aber ungenau* (wann, aber nicht genau wo)\n- **fMRT** = *langsam aber präzise* (genau wo, aber nicht wann)\n- **PET** = dazwischen, benötigt radioaktiven Tracer"
     },
     {
       "id": "step-sprache-lateralisierung",
       "type": "theory",
       "title": "Sprachareale, Split-Brain und Hemisphärenlateralisierung",
-      "body": "## Sprachareale und Aphasien\n\nBei den meisten Menschen liegen die zentralen Sprachareale in der **linken Hemisphäre**. Schäden dort führen zu **Aphasien** (Sprachstörungen).\n\n| Aphasie | Geschädigtes Areal | Produktion | Verständnis |\n|---|---|---|---|\n| **Broca-Aphasie** | Broca-Areal (linker Frontallappen) | stark gestört, mühsam, agrammatisch | weitgehend erhalten |\n| **Wernicke-Aphasie** | Wernicke-Areal (linker Temporallappen) | fließend, aber inhaltlich sinnlos | stark gestört |\n\n## Hemisphärenlateralisierung und Split-Brain\n\n**Roger Sperry** untersuchte Patientinnen und Patienten, bei denen der **Balken (Corpus callosum)** — die Hauptverbindung zwischen den Hemisphären — chirurgisch durchtrennt worden war (**Split-Brain**).\n\nErkenntnisse:\n- Jede Hemisphäre nimmt unabhängig wahr und handelt.\n- Die **linke Hemisphäre** ist bei den meisten Menschen für Sprache zuständig.\n- Die **rechte Hemisphäre** ist stärker für räumlich-visuelle Verarbeitung spezialisiert.\n- Normalerweise koordiniert der Balken beide Hälften nahtlos.\n\nDiese Befunde bestätigen die **Hemisphärenlateralisierung** und zeigen gleichzeitig die **Neuroplastizität**: Unter bestimmten Bedingungen kann eine Hemisphäre Funktionen der anderen teilweise übernehmen."
+      "body": "## Sprachareale und Aphasien\n\nBei den meisten Menschen liegen die zentralen Sprachareale in der **linken Hemisphäre**. Schäden dort führen zu **Aphasien** (Sprachstörungen).\n\n| Aphasie | Geschädigtes Areal | Produktion | Verständnis |\n|---|---|---|---|\n| **Broca-Aphasie** | Broca-Areal (linker Frontallappen) | stark gestört, mühsam, agrammatisch | weitgehend erhalten |\n| **Wernicke-Aphasie** | Wernicke-Areal (linker Temporallappen) | fließend, aber inhaltlich sinnlos | stark gestört |\n\n## Hemisphärenlateralisierung und Split-Brain\n\n**Roger Sperry** untersuchte Patientinnen und Patienten, bei denen der **Balken (Corpus callosum)**, die Hauptverbindung zwischen den Hemisphären, chirurgisch durchtrennt worden war (**Split-Brain**).\n\nErkenntnisse:\n- Jede Hemisphäre nimmt unabhängig wahr und handelt.\n- Die **linke Hemisphäre** ist bei den meisten Menschen für Sprache zuständig.\n- Die **rechte Hemisphäre** ist stärker für räumlich-visuelle Verarbeitung spezialisiert.\n- Normalerweise koordiniert der Balken beide Hälften nahtlos.\n\nDiese Befunde bestätigen die **Hemisphärenlateralisierung** und zeigen gleichzeitig die **Neuroplastizität**: Unter bestimmten Bedingungen kann eine Hemisphäre Funktionen der anderen teilweise übernehmen."
     },
     {
       "id": "ex-cloze-laesion",
@@ -166,7 +166,7 @@
           { "accept": ["Läsionsmethode"] }
         ],
         "cloze_mode": "type",
-        "hint": "Kommt von 'Läsion' — lateinisch für Verletzung/Schädigung."
+        "hint": "Kommt von 'Läsion', lateinisch für Verletzung/Schädigung."
       }
     },
     {

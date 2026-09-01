@@ -1,7 +1,7 @@
 {
   "id": "89-hochbegabung-und-lernstoerungen",
   "title": "Hochbegabung und Lernstörungen",
-  "description": "Die beiden Enden des Intelligenzspektrums und besondere Lernprofile: Hochbegabung (mit Mythen und dem Renzulli-Modell), Intelligenzminderung (ressourcenorientiert), Legasthenie und Dyskalkulie — auf Deutsch erklärt. Wissensvermittlung; Diagnosen obliegen Fachleuten.",
+  "description": "Die beiden Enden des Intelligenzspektrums und besondere Lernprofile: Hochbegabung (mit Mythen und dem Renzulli-Modell), Intelligenzminderung (ressourcenorientiert), Legasthenie und Dyskalkulie, auf Deutsch erklärt. Wissensvermittlung; Diagnosen obliegen Fachleuten.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -10,8 +10,8 @@
     {
       "id": "hinweis-diagnose",
       "stable_id": "card-ms942qq91mhez",
-      "front": "Hinweis: Wissensvermittlung — keine Selbstdiagnose",
-      "back": "Diese Lektion vermittelt wissenschaftliches Grundlagenwissen. Diagnosen (z. B. Hochbegabung, Lernstörungen) können nur von qualifizierten Fachleuten (Psychologin/Psychologe, Ärztin/Arzt) gestellt werden — bitte keine Selbstdiagnose auf Basis dieser Inhalte.",
+      "front": "Hinweis: Wissensvermittlung, keine Selbstdiagnose",
+      "back": "Diese Lektion vermittelt wissenschaftliches Grundlagenwissen. Diagnosen (z. B. Hochbegabung, Lernstörungen) können nur von qualifizierten Fachleuten (Psychologin/Psychologe, Ärztin/Arzt) gestellt werden, bitte keine Selbstdiagnose auf Basis dieser Inhalte.",
       "media_type": "text",
       "difficulty": 1,
       "tags": ["hinweis", "grundlagen"]
@@ -20,7 +20,7 @@
       "id": "hochbegabung-definition",
       "stable_id": "card-ms942qq91mizs",
       "front": "Hochbegabung (Giftedness)",
-      "back": "Deutlich überdurchschnittliche kognitive Fähigkeit — per Konvention oft ab einem IQ-Wert von ~130 (etwa 2 % der Bevölkerung). Ein IQ-Wert allein reicht aber nicht; viele Fachleute betonen zusätzliche Merkmale wie Kreativität und Motivation.",
+      "back": "Deutlich überdurchschnittliche kognitive Fähigkeit, per Konvention oft ab einem IQ-Wert von ~130 (etwa 2 % der Bevölkerung). Ein IQ-Wert allein reicht aber nicht; viele Fachleute betonen zusätzliche Merkmale wie Kreativität und Motivation.",
       "notes": "Baut auf der IQ-Verteilung aus Lektion 87 auf: IQ 130 liegt ~2 Standardabweichungen über dem Mittelwert von 100.",
       "media_type": "text",
       "difficulty": 2,
@@ -30,7 +30,7 @@
       "id": "hochbegabung-mythen",
       "stable_id": "card-ms942qq91mj9x",
       "front": "Mythen über Hochbegabung",
-      "back": "Verbreitete Irrtümer: Hochbegabte sind automatisch erfolgreich, sozial isoliert, 'Nerds' oder haben es leicht. Die Forschung zeigt: Hochbegabung garantiert keinen Erfolg — Förderung, Motivation und soziale Einbindung sind entscheidend.",
+      "back": "Verbreitete Irrtümer: Hochbegabte sind automatisch erfolgreich, sozial isoliert, 'Nerds' oder haben es leicht. Die Forschung zeigt: Hochbegabung garantiert keinen Erfolg, Förderung, Motivation und soziale Einbindung sind entscheidend.",
       "notes": "Underachievement (Begabung ohne entsprechende Leistung) ist bei Hochbegabten keine Seltenheit.",
       "media_type": "text",
       "difficulty": 3,
@@ -79,7 +79,7 @@
       "id": "spezifische-lernstörung",
       "stable_id": "card-ms942qq91mob1",
       "front": "Spezifische Lernstörung (Specific Learning Disorder)",
-      "back": "Umschriebene Schwierigkeiten in einem bestimmten schulischen Bereich (z. B. Lesen, Schreiben, Rechnen) bei insgesamt normaler allgemeiner Intelligenz. KEINE Frage von Faulheit oder geringer Intelligenz — sie haben eine neurobiologische Grundlage.",
+      "back": "Umschriebene Schwierigkeiten in einem bestimmten schulischen Bereich (z. B. Lesen, Schreiben, Rechnen) bei insgesamt normaler allgemeiner Intelligenz. KEINE Frage von Faulheit oder geringer Intelligenz, sie haben eine neurobiologische Grundlage.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["lernstörungen", "grundlagen"]
@@ -89,7 +89,7 @@
       "stable_id": "card-ms942qq91mpug",
       "front": "Legasthenie / Lese-Rechtschreib-Störung (Dyslexie)",
       "back": "Anhaltende Schwierigkeiten mit dem genauen und flüssigen Lesen oder Schreiben, trotz normaler Intelligenz und ausreichender Beschulung. Neurobiologische Ursache (u. a. phonologische Verarbeitung). Nachteilsausgleich und gezielte Förderung helfen.",
-      "notes": "Dyslexie ist die häufigste spezifische Lernstörung — betrifft schätzungsweise 5–10 % der Bevölkerung.",
+      "notes": "Dyslexie ist die häufigste spezifische Lernstörung, betrifft schätzungsweise 5–10 % der Bevölkerung.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["lernstörungen", "legasthenie"]
@@ -117,7 +117,7 @@
       "id": "lernstörung-nicht-intelligenz",
       "stable_id": "card-ms942qq91msvo",
       "front": "Lernstörung ≠ geringe Intelligenz",
-      "back": "Spezifische Lernstörungen (wie Legasthenie oder Dyskalkulie) sind klar abzugrenzen von allgemeiner Intelligenzminderung. Betroffene haben eine normale bis überdurchschnittliche Intelligenz — die Schwierigkeit ist bereichsspezifisch.",
+      "back": "Spezifische Lernstörungen (wie Legasthenie oder Dyskalkulie) sind klar abzugrenzen von allgemeiner Intelligenzminderung. Betroffene haben eine normale bis überdurchschnittliche Intelligenz, die Schwierigkeit ist bereichsspezifisch.",
       "media_type": "text",
       "difficulty": 3,
       "hint": "Bereichsspezifisch, nicht allgemein.",
@@ -129,19 +129,19 @@
       "id": "theory-hochbegabung",
       "type": "theory",
       "title": "Hochbegabung: Begriff, Mythen und Förderung",
-      "body": "# Hochbegabung und Lernstörungen\n\n> **Hinweis:** Diese Lektion vermittelt Grundlagenwissen. Diagnosen — ob Hochbegabung oder Lernstörung — obliegen qualifizierten Fachleuten. Keine Selbstdiagnose auf Basis dieser Inhalte.\n\nIn **Lektion 87** hast du die IQ-Verteilung kennengelernt. Hier betrachten wir die besonderen Profile an beiden Enden und in der Mitte des Spektrums.\n\n## Begriff\n\n**Hochbegabung (Giftedness)** bezeichnet eine deutlich überdurchschnittliche kognitive Fähigkeit — per Konvention oft ab einem IQ von **~130** (etwa die oberen 2 %). Ein einziger Zahlenwert reicht aber nicht.\n\n## Renzullis Drei-Ringe-Modell\n\nNach **Joseph Renzulli** entsteht Hochbegabung aus dem Zusammenspiel:\n\n| Ring | Bedeutung |\n|---|---|\n| **Überdurchschnittliche Fähigkeit** | Kognitive Kapazität (z. B. IQ) |\n| **Kreativität** | Neuartige Ideen und flexible Denkweise |\n| **Aufgabenengagement (Task Commitment)** | Ausdauer, Motivation, Einsatz |\n\nAlle drei müssen zusammenwirken — Fähigkeit allein genügt nicht.\n\n## Mythen und Fakten\n\n| Mythos | Fakt |\n|---|---|\n| Hochbegabte sind automatisch erfolgreich | Begabung garantiert keinen Erfolg — Förderung zählt |\n| Hochbegabte sind sozial isoliert oder 'Nerds' | Kein typisches Muster; soziale Kompetenz ist individuell |\n| Hochbegabte brauchen keine Förderung | Ohne Förderung häufig **Underachievement** |\n| Hochbegabung ist leicht zu erkennen | Oft übersehen, besonders bei Mädchen und bestimmten Gruppen |\n\n## Underachievement\n\n**Underachievement** (Minderleistung bei Begabung) tritt auf, wenn Potenzial aus Mangel an Förderung, Motivation oder passenden Rahmenbedingungen nicht ausgeschöpft wird. Vgl. **Lektion 56** (Motivationstheorien) und **Lektion 26** (Pädagogische Psychologie) für Förderansätze."
+      "body": "# Hochbegabung und Lernstörungen\n\n> **Hinweis:** Diese Lektion vermittelt Grundlagenwissen. Diagnosen, ob Hochbegabung oder Lernstörung, obliegen qualifizierten Fachleuten. Keine Selbstdiagnose auf Basis dieser Inhalte.\n\nIn **Lektion 87** hast du die IQ-Verteilung kennengelernt. Hier betrachten wir die besonderen Profile an beiden Enden und in der Mitte des Spektrums.\n\n## Begriff\n\n**Hochbegabung (Giftedness)** bezeichnet eine deutlich überdurchschnittliche kognitive Fähigkeit, per Konvention oft ab einem IQ von **~130** (etwa die oberen 2 %). Ein einziger Zahlenwert reicht aber nicht.\n\n## Renzullis Drei-Ringe-Modell\n\nNach **Joseph Renzulli** entsteht Hochbegabung aus dem Zusammenspiel:\n\n| Ring | Bedeutung |\n|---|---|\n| **Überdurchschnittliche Fähigkeit** | Kognitive Kapazität (z. B. IQ) |\n| **Kreativität** | Neuartige Ideen und flexible Denkweise |\n| **Aufgabenengagement (Task Commitment)** | Ausdauer, Motivation, Einsatz |\n\nAlle drei müssen zusammenwirken, Fähigkeit allein genügt nicht.\n\n## Mythen und Fakten\n\n| Mythos | Fakt |\n|---|---|\n| Hochbegabte sind automatisch erfolgreich | Begabung garantiert keinen Erfolg, Förderung zählt |\n| Hochbegabte sind sozial isoliert oder 'Nerds' | Kein typisches Muster; soziale Kompetenz ist individuell |\n| Hochbegabte brauchen keine Förderung | Ohne Förderung häufig **Underachievement** |\n| Hochbegabung ist leicht zu erkennen | Oft übersehen, besonders bei Mädchen und bestimmten Gruppen |\n\n## Underachievement\n\n**Underachievement** (Minderleistung bei Begabung) tritt auf, wenn Potenzial aus Mangel an Förderung, Motivation oder passenden Rahmenbedingungen nicht ausgeschöpft wird. Vgl. **Lektion 56** (Motivationstheorien) und **Lektion 26** (Pädagogische Psychologie) für Förderansätze."
     },
     {
       "id": "theory-intelligenzminderung",
       "type": "theory",
       "title": "Intelligenzminderung: Stärken, Teilhabe, Unterstützung",
-      "body": "## Intelligenzminderung — ressourcenorientiert betrachtet\n\n**Intelligenzminderung (Intellectual Disability)** bezeichnet deutlich unterdurchschnittliche kognitive *und* adaptive Fähigkeiten (z. B. alltägliches Problemlösen, soziale Kompetenz), die sich vor dem 18. Lebensjahr zeigen.\n\n> Frühere, abwertende Begriffe werden in der modernen Psychologie nicht mehr verwendet. Die ICD-11 spricht von **'Störungen der intellektuellen Entwicklung'**.\n\n### Was zählt: Stärken, nicht Defizite\n\nDer moderne Ansatz betont:\n- **Stärkenorientierung:** Was kann die Person? Was sind ihre Ressourcen?\n- **Teilhabe (Participation):** Ziel ist volle gesellschaftliche Einbindung, nicht Ausgrenzung.\n- **Individuelle Unterstützung:** Assistenz und Förderung orientieren sich am Bedarf der Person.\n\n| Altes Modell | Modernes Modell |\n|---|---|\n| Defizit-Fixierung (Was fehlt?) | Ressourcenorientierung (Was ist da?) |\n| Fürsorge als Schwerpunkt | Selbstbestimmung und Teilhabe |\n| Separation | Inklusion |\n\nDieser Perspektivwechsel ist nicht nur ethisch geboten, sondern empirisch wirksamer für Wohlbefinden und Entwicklung."
+      "body": "## Intelligenzminderung - ressourcenorientiert betrachtet\n\n**Intelligenzminderung (Intellectual Disability)** bezeichnet deutlich unterdurchschnittliche kognitive *und* adaptive Fähigkeiten (z. B. alltägliches Problemlösen, soziale Kompetenz), die sich vor dem 18. Lebensjahr zeigen.\n\n> Frühere, abwertende Begriffe werden in der modernen Psychologie nicht mehr verwendet. Die ICD-11 spricht von **'Störungen der intellektuellen Entwicklung'**.\n\n### Was zählt: Stärken, nicht Defizite\n\nDer moderne Ansatz betont:\n- **Stärkenorientierung:** Was kann die Person? Was sind ihre Ressourcen?\n- **Teilhabe (Participation):** Ziel ist volle gesellschaftliche Einbindung, nicht Ausgrenzung.\n- **Individuelle Unterstützung:** Assistenz und Förderung orientieren sich am Bedarf der Person.\n\n| Altes Modell | Modernes Modell |\n|---|---|\n| Defizit-Fixierung (Was fehlt?) | Ressourcenorientierung (Was ist da?) |\n| Fürsorge als Schwerpunkt | Selbstbestimmung und Teilhabe |\n| Separation | Inklusion |\n\nDieser Perspektivwechsel ist nicht nur ethisch geboten, sondern empirisch wirksamer für Wohlbefinden und Entwicklung."
     },
     {
       "id": "theory-lernstoerungen",
       "type": "theory",
       "title": "Spezifische Lernstörungen: Legasthenie und Dyskalkulie",
-      "body": "## Spezifische Lernstörungen — bereichsspezifisch, nicht allgemein\n\n**Spezifische Lernstörungen (Specific Learning Disorders)** sind umschriebene Schwierigkeiten in einem bestimmten Bereich (Lesen, Schreiben, Rechnen) bei **normaler allgemeiner Intelligenz**.\n\n> Wichtig: Lernstörungen sind **keine Frage von Faulheit oder Intelligenz** — sie haben eine neurobiologische Grundlage.\n\n### Die wichtigsten spezifischen Lernstörungen im Überblick\n\n| Störung | Bereich | Häufigkeit | Ursache (vereinfacht) |\n|---|---|---|---|\n| **Legasthenie / Dyslexie** | Lesen und Schreiben | ~5–10 % | Phonologische Verarbeitungsschwäche |\n| **Dyskalkulie** | Rechnen und Zahlenverständnis | ~3–7 % | Beeinträchtigte Zahlenverarbeitung im Gehirn |\n\n### Abgrenzung zu allgemeiner Intelligenzminderung\n\nEin Kind mit Legasthenie oder Dyskalkulie kann **gleichzeitig hochbegabt** sein ('twice exceptional'). Die Schwierigkeit ist **bereichsspezifisch**, nicht allgemein — das ist der entscheidende Unterschied.\n\n### Was hilft?\n\n- **Nachteilsausgleich (Accommodations):** z. B. Zeitzugaben, alternative Prüfungsformate — stellt Chancengleichheit her.\n- **Gezielte Förderung:** strukturierte, explizite Lernmethoden.\n- **Entstigmatisierung:** Das Umfeld verstehen, dass Lernstörungen keine Willensfrage sind."
+      "body": "## Spezifische Lernstörungen - bereichsspezifisch, nicht allgemein\n\n**Spezifische Lernstörungen (Specific Learning Disorders)** sind umschriebene Schwierigkeiten in einem bestimmten Bereich (Lesen, Schreiben, Rechnen) bei **normaler allgemeiner Intelligenz**.\n\n> Wichtig: Lernstörungen sind **keine Frage von Faulheit oder Intelligenz**, sie haben eine neurobiologische Grundlage.\n\n### Die wichtigsten spezifischen Lernstörungen im Überblick\n\n| Störung | Bereich | Häufigkeit | Ursache (vereinfacht) |\n|---|---|---|---|\n| **Legasthenie / Dyslexie** | Lesen und Schreiben | ~5–10 % | Phonologische Verarbeitungsschwäche |\n| **Dyskalkulie** | Rechnen und Zahlenverständnis | ~3–7 % | Beeinträchtigte Zahlenverarbeitung im Gehirn |\n\n### Abgrenzung zu allgemeiner Intelligenzminderung\n\nEin Kind mit Legasthenie oder Dyskalkulie kann **gleichzeitig hochbegabt** sein ('twice exceptional'). Die Schwierigkeit ist **bereichsspezifisch**, nicht allgemein, das ist der entscheidende Unterschied.\n\n### Was hilft?\n\n- **Nachteilsausgleich (Accommodations):** z. B. Zeitzugaben, alternative Prüfungsformate, stellt Chancengleichheit her.\n- **Gezielte Förderung:** strukturierte, explizite Lernmethoden.\n- **Entstigmatisierung:** Das Umfeld verstehen, dass Lernstörungen keine Willensfrage sind."
     },
     {
       "id": "ex-matching-mythen",
@@ -155,9 +155,9 @@
         "prompt": "Ordne jedem Mythos über Hochbegabung den korrekten Fakt zu.",
         "card_ids": ["hochbegabung-mythen", "underachievement"],
         "pairs": [
-          { "left": "Hochbegabte sind automatisch erfolgreich", "right": "Falsch — Förderung und Motivation sind entscheidend" },
-          { "left": "Hochbegabte brauchen keine Förderung", "right": "Falsch — ohne Förderung droht Underachievement" },
-          { "left": "Hochbegabte sind immer sozial isoliert", "right": "Falsch — soziale Kompetenz ist individuell sehr verschieden" }
+          { "left": "Hochbegabte sind automatisch erfolgreich", "right": "Falsch, Förderung und Motivation sind entscheidend" },
+          { "left": "Hochbegabte brauchen keine Förderung", "right": "Falsch, ohne Förderung droht Underachievement" },
+          { "left": "Hochbegabte sind immer sozial isoliert", "right": "Falsch, soziale Kompetenz ist individuell sehr verschieden" }
         ],
         "direction": "target_to_source"
       }

@@ -1,9 +1,9 @@
-# Wurzel-Manifest von alc-psychology — die Psychologie-Reihe.
+# Wurzel-Manifest von alc-psychology - die Psychologie-Reihe.
 #
 # Adaptive-Learner-Content-Repo für Psychologie. Drei deutschsprachige
 # Sets (domain: psychology) bilden eine aufeinander aufbauende Reihe:
 #
-#   psych-intro          Psychologie — Grundlagen        (A1, 115 Lektionen)
+#   psych-intro          Psychologie - Grundlagen        (A1, 115 Lektionen)
 #   psych-beeinflussung  Psychologie der Beeinflussung   (A2, 8 Lektionen)
 #   psych-rhetorik       Psychologie der Rhetorik        (B1, 5 Lektionen)
 #   psych-grundlagen     Psychologie: Verständnis-Grundlagen (A1, 4 Lektionen)
@@ -19,15 +19,15 @@
 #
 # Anleitung: docs/GETTING-STARTED.md
 schema_version: '1.5'
-name: Adaptive Learner — Psychologie
+name: Adaptive Learner - Psychologie
 description: >-
   Psychologie-Inhalte für Adaptive Learner: ein Einführungskurs auf
   Universitätsniveau (115 Lektionen) und ein Aufbau-Set zur
   Psychologie der Beeinflussung, beide auf Deutsch erklärt.
 sets:
   - id: psych-intro-from-de
-    title: Psychologie — Grundlagen
-    title_native: Psychologia — Fundamenta
+    title: Psychologie - Grundlagen
+    title_native: Psychologia - Fundamenta
     target_language: de
     source_language: de
     domain: psychology
@@ -110,7 +110,7 @@ sets:
       Deutsch erklärt, im thematischen Anschluss an das Set zur
       Beeinflussung: die drei aristotelischen Überzeugungsmittel Ethos,
       Pathos und Logos im Überblick sowie je eine Vertiefung mit der
-      modernen Überzeugungspsychologie — Ethos (Quellenglaubwürdigkeit
+      modernen Überzeugungspsychologie, Ethos (Quellenglaubwürdigkeit
       nach Hovland & Weiss, Sleeper-Effekt), Pathos (Furchtappelle und
       das Extended Parallel Process Model von Witte) und Logos (die zwei
       Routen des Elaboration-Likelihood-Modells von Petty & Cacioppo),

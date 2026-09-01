@@ -1,7 +1,7 @@
 {
   "id": "43-klinische-psychologie-vertieft",
   "title": "Klinische Psychologie vertieft: Klassifikation und Störungsbilder",
-  "description": "Vertiefung der klinischen Psychologie aus Lektion 9: Klassifikationssysteme ICD-11 und DSM-5, Komorbidität, wichtige Störungsbilder (Angststörungen, Depression, bipolare Störung, Zwangsstörung, PTBS, Schizophrenie, Persönlichkeitsstörungen) und das Vulnerabilitäts-Stress-Modell — sachlich und bildungsorientiert auf Deutsch erklärt.",
+  "description": "Vertiefung der klinischen Psychologie aus Lektion 9: Klassifikationssysteme ICD-11 und DSM-5, Komorbidität, wichtige Störungsbilder (Angststörungen, Depression, bipolare Störung, Zwangsstörung, PTBS, Schizophrenie, Persönlichkeitsstörungen) und das Vulnerabilitäts-Stress-Modell, sachlich und bildungsorientiert auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -125,7 +125,7 @@
       "stable_id": "card-ms942qph0yc39",
       "front": "Vulnerabilitäts-Stress-Modell (Diathese-Stress-Modell)",
       "back": "Entstehungsmodell psychischer Störungen: Eine biologische oder psychologische Disposition (Vulnerabilität) führt nur bei ausreichend großem Stress zur Störung.",
-      "notes": "Vulnerabilität allein reicht nicht aus — erst Stress löst die Störung aus. Umgekehrt kann großer Stress auch bei geringer Vulnerabilität problematisch werden. Integriert Anlage und Umwelt.",
+      "notes": "Vulnerabilität allein reicht nicht aus, erst Stress löst die Störung aus. Umgekehrt kann großer Stress auch bei geringer Vulnerabilität problematisch werden. Integriert Anlage und Umwelt.",
       "media_type": "text",
       "difficulty": 4,
       "hint": "Diathese = Anfälligkeit; Stress = auslösender Belastungsfaktor.",
@@ -137,19 +137,19 @@
       "id": "intro-klassifikation",
       "type": "theory",
       "title": "Klassifikationssysteme: ICD-11 und DSM-5",
-      "body": "# Klinische Psychologie vertieft\n\n**Lektion 9** hat gezeigt, was eine psychische Störung ist und welche grundlegenden Kategorien es gibt. Lektionen 16–20 haben bereits die wichtigsten **Therapieverfahren** behandelt. Diese Lektion vertieft die **Klassifikation** und die wichtigsten **Störungsbilder**.\n\n## Warum klassifizieren?\n\nKlassifikationssysteme ermöglichen **einheitliche Diagnosen** — unabhängig davon, in welchem Land oder an welcher Klinik eine Person behandelt wird. Nur mit gemeinsamer Sprache können Forschung, Behandlung und Versicherung funktionieren.\n\n## ICD-11 versus DSM-5\n\n| Merkmal | **ICD-11** | **DSM-5** |\n|---|---|---|\n| Herausgeber | Weltgesundheitsorganisation (WHO) | American Psychiatric Association (APA) |\n| Geltungsbereich | International (alle Krankheiten) | Primär USA; international in der Forschung |\n| Psychische Störungen | Kapitel 6 (Mental, behavioural and neurodevelopmental disorders) | Gesamtes Werk |\n| Gültig seit | 2022 (offiziell) | 2013 |\n| Verwendung | Abrechnung, Statistik, Klinik | Klinische Forschung, Diagnostik |\n\nBeide Systeme orientieren sich an **deskriptiven Kriterien** (Symptome, Dauer, Beeinträchtigung) — nicht an Ursachen."
+      "body": "# Klinische Psychologie vertieft\n\n**Lektion 9** hat gezeigt, was eine psychische Störung ist und welche grundlegenden Kategorien es gibt. Lektionen 16–20 haben bereits die wichtigsten **Therapieverfahren** behandelt. Diese Lektion vertieft die **Klassifikation** und die wichtigsten **Störungsbilder**.\n\n## Warum klassifizieren?\n\nKlassifikationssysteme ermöglichen **einheitliche Diagnosen**, unabhängig davon, in welchem Land oder an welcher Klinik eine Person behandelt wird. Nur mit gemeinsamer Sprache können Forschung, Behandlung und Versicherung funktionieren.\n\n## ICD-11 versus DSM-5\n\n| Merkmal | **ICD-11** | **DSM-5** |\n|---|---|---|\n| Herausgeber | Weltgesundheitsorganisation (WHO) | American Psychiatric Association (APA) |\n| Geltungsbereich | International (alle Krankheiten) | Primär USA; international in der Forschung |\n| Psychische Störungen | Kapitel 6 (Mental, behavioural and neurodevelopmental disorders) | Gesamtes Werk |\n| Gültig seit | 2022 (offiziell) | 2013 |\n| Verwendung | Abrechnung, Statistik, Klinik | Klinische Forschung, Diagnostik |\n\nBeide Systeme orientieren sich an **deskriptiven Kriterien** (Symptome, Dauer, Beeinträchtigung), nicht an Ursachen."
     },
     {
       "id": "step-störungsbilder",
       "type": "theory",
       "title": "Wichtige Störungsbilder im Überblick",
-      "body": "## Kernmerkmale ausgewählter Störungsgruppen\n\n| Störungsgruppe | Wichtige Beispiele | Kernmerkmale |\n|---|---|---|\n| **Angststörungen** | Panikstörung, spezifische Phobie, GAD | Übermäßige, anhaltende Angst; Vermeidungsverhalten |\n| **Affektive Störungen** | Major Depression, bipolare Störung | Gedrückte Stimmung / Stimmungsschwankungen; Antriebsstörung |\n| **Zwangsstörung (OCD)** | — | Obsessionen (Zwangsgedanken) + Kompulsionen (Zwangshandlungen) |\n| **PTBS** | — | Intrusionen (Flashbacks), Vermeidung, Hyperarousal nach Trauma |\n| **Schizophrenie** | — | Positivsymptome (Wahn, Halluzination) + Negativsymptome (Affektverflachung, Antriebsarmut) |\n| **Persönlichkeitsstörungen** | Borderline | Stabile Muster, die deutlich von sozialen Erwartungen abweichen |\n\n## Komorbidität\n\n**Komorbidität** bedeutet, dass zwei oder mehr Störungen gleichzeitig vorliegen (z. B. Depression **und** Angststörung). Das ist klinisch eher die Regel als die Ausnahme und erschwert sowohl Diagnostik als auch Behandlung."
+      "body": "## Kernmerkmale ausgewählter Störungsgruppen\n\n| Störungsgruppe | Wichtige Beispiele | Kernmerkmale |\n|---|---|---|\n| **Angststörungen** | Panikstörung, spezifische Phobie, GAD | Übermäßige, anhaltende Angst; Vermeidungsverhalten |\n| **Affektive Störungen** | Major Depression, bipolare Störung | Gedrückte Stimmung / Stimmungsschwankungen; Antriebsstörung |\n| **Zwangsstörung (OCD)** | - | Obsessionen (Zwangsgedanken) + Kompulsionen (Zwangshandlungen) |\n| **PTBS** | - | Intrusionen (Flashbacks), Vermeidung, Hyperarousal nach Trauma |\n| **Schizophrenie** | - | Positivsymptome (Wahn, Halluzination) + Negativsymptome (Affektverflachung, Antriebsarmut) |\n| **Persönlichkeitsstörungen** | Borderline | Stabile Muster, die deutlich von sozialen Erwartungen abweichen |\n\n## Komorbidität\n\n**Komorbidität** bedeutet, dass zwei oder mehr Störungen gleichzeitig vorliegen (z. B. Depression **und** Angststörung). Das ist klinisch eher die Regel als die Ausnahme und erschwert sowohl Diagnostik als auch Behandlung."
     },
     {
       "id": "step-vulnerabilität",
       "type": "theory",
       "title": "Das Vulnerabilitäts-Stress-Modell",
-      "body": "## Wie entstehen psychische Störungen?\n\nDas **Vulnerabilitäts-Stress-Modell** (auch **Diathese-Stress-Modell**) ist heute das wichtigste allgemeine Entstehungsmodell:\n\n1. **Vulnerabilität (Diathese)** — eine vorhandene biologische oder psychologische Anfälligkeit (z. B. genetische Faktoren, frühe ungünstige Erfahrungen, neuronale Besonderheiten).\n2. **Stress** — ein belastender Auslöser (z. B. Verlust, Trauma, chronische Belastung).\n3. **Interaktion** — Störung entsteht, wenn **Stress + Vulnerabilität** zusammen eine kritische Schwelle überschreiten.\n\n| Vulnerabilität | Stress | Ergebnis |\n|---|---|---|\n| hoch | gering | Störung möglich |\n| gering | sehr hoch | Störung möglich |\n| gering | gering | keine Störung |\n| hoch | hoch | Störung wahrscheinlich |\n\n> Das Modell integriert **biologische Anlage** und **Umweltfaktoren** — und erklärt, warum nicht alle Menschen auf gleiche Belastungen gleich reagieren. Es ist Grundlage für viele moderne Behandlungsansätze.\n\n**Wichtig:** Dieses Wissen dient dem Verständnis — nicht der Selbstdiagnose. Diagnosen werden von Fachleuten gestellt."
+      "body": "## Wie entstehen psychische Störungen?\n\nDas **Vulnerabilitäts-Stress-Modell** (auch **Diathese-Stress-Modell**) ist heute das wichtigste allgemeine Entstehungsmodell:\n\n1. **Vulnerabilität (Diathese)**, eine vorhandene biologische oder psychologische Anfälligkeit (z. B. genetische Faktoren, frühe ungünstige Erfahrungen, neuronale Besonderheiten).\n2. **Stress**, ein belastender Auslöser (z. B. Verlust, Trauma, chronische Belastung).\n3. **Interaktion**, Störung entsteht, wenn **Stress + Vulnerabilität** zusammen eine kritische Schwelle überschreiten.\n\n| Vulnerabilität | Stress | Ergebnis |\n|---|---|---|\n| hoch | gering | Störung möglich |\n| gering | sehr hoch | Störung möglich |\n| gering | gering | keine Störung |\n| hoch | hoch | Störung wahrscheinlich |\n\n> Das Modell integriert **biologische Anlage** und **Umweltfaktoren**, und erklärt, warum nicht alle Menschen auf gleiche Belastungen gleich reagieren. Es ist Grundlage für viele moderne Behandlungsansätze.\n\n**Wichtig:** Dieses Wissen dient dem Verständnis, nicht der Selbstdiagnose. Diagnosen werden von Fachleuten gestellt."
     },
     {
       "id": "ex-match-klassifikation",
@@ -265,7 +265,7 @@
       "id": "ex-cloze-bipolar",
       "type": "exercise",
       "theory_ref": "step-st\u00f6rungsbilder",
-      "title": "Bipolare Störung — die zwei Pole",
+      "title": "Bipolare Störung - die zwei Pole",
       "exercise": {
         "id": "ex-cloze-bipolar",
         "stable_id": "ex-ms942qph0yj5o",

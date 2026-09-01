@@ -1,4 +1,4 @@
-# books.yaml — recommended reading per domain.
+# books.yaml - recommended reading per domain.
 #
 # Optional companion to the lesson catalogue: maps a content domain to a list
 # of books the app can surface as further reading. Not a content set, so it is
@@ -18,5 +18,5 @@ domains:
         isbn: "978-3456860350"
         url: "https://www.hogrefe.com/de/shop/die-psychologie-des-ueberzeugens-91960.html"
         language: "de"
-        description: "Der Klassiker zu den Prinzipien der Beeinflussung — Begleitbuch zum Set „Psychologie der Beeinflussung“."
+        description: "Der Klassiker zu den Prinzipien der Beeinflussung, Begleitbuch zum Set „Psychologie der Beeinflussung“."
         tags: ["psychologie", "beeinflussung", "sozialpsychologie"]

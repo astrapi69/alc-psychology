@@ -1,7 +1,7 @@
 {
   "id": "24-deskriptive-statistik",
   "title": "Deskriptive Statistik",
-  "description": "Wie man Daten zusammenfasst: Maße der zentralen Tendenz (Mittelwert, Median, Modus), Streuungsmaße (Spannweite, Varianz, Standardabweichung), die Normalverteilung und der Umgang mit Ausreißern — auf Deutsch erklärt.",
+  "description": "Wie man Daten zusammenfasst: Maße der zentralen Tendenz (Mittelwert, Median, Modus), Streuungsmaße (Spannweite, Varianz, Standardabweichung), die Normalverteilung und der Umgang mit Ausreißern, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -11,7 +11,7 @@
       "id": "deskriptive-statistik",
       "stable_id": "card-ms942qp60nu22",
       "front": "Deskriptive Statistik (Descriptive Statistics)",
-      "back": "Der Teil der Statistik, der Daten übersichtlich zusammenfasst und beschreibt — durch Kennzahlen wie Mittelwert oder Streuung, ohne über die Stichprobe hinaus zu schließen.",
+      "back": "Der Teil der Statistik, der Daten übersichtlich zusammenfasst und beschreibt, durch Kennzahlen wie Mittelwert oder Streuung, ohne über die Stichprobe hinaus zu schließen.",
       "notes": "In Lektion 21 hast du quantitative Forschung kennengelernt. Wenn Zahlen vorliegen, fasst man sie mit deskriptiver Statistik zusammen.",
       "media_type": "text",
       "difficulty": 1,
@@ -22,7 +22,7 @@
       "stable_id": "card-ms942qp60nvm9",
       "front": "Mittelwert (Arithmetisches Mittel / Mean)",
       "back": "Die Summe aller Werte geteilt durch die Anzahl der Werte. Beispiel: (2+3+3+4+8) ÷ 5 = 4.",
-      "notes": "Der Mittelwert reagiert empfindlich auf Ausreißer — ein extrem hoher oder niedriger Wert zieht ihn stark in seine Richtung.",
+      "notes": "Der Mittelwert reagiert empfindlich auf Ausreißer, ein extrem hoher oder niedriger Wert zieht ihn stark in seine Richtung.",
       "media_type": "text",
       "difficulty": 1,
       "hint": "Summe ÷ Anzahl.",
@@ -63,7 +63,7 @@
       "id": "varianz",
       "stable_id": "card-ms942qp60nzyx",
       "front": "Varianz (Variance)",
-      "back": "Das durchschnittliche quadratische Abweichungsquadrat vom Mittelwert — ein Maß dafür, wie weit die Werte um den Mittelwert streuen. Je größer die Varianz, desto heterogener die Daten.",
+      "back": "Das durchschnittliche quadratische Abweichungsquadrat vom Mittelwert, ein Maß dafür, wie weit die Werte um den Mittelwert streuen. Je größer die Varianz, desto heterogener die Daten.",
       "notes": "Die Varianz wird quadriert, damit sich positive und negative Abweichungen nicht aufheben. Die Standardabweichung ist die Quadratwurzel der Varianz.",
       "media_type": "text",
       "difficulty": 3,
@@ -73,7 +73,7 @@
       "id": "standardabweichung",
       "stable_id": "card-ms942qp60o0ui",
       "front": "Standardabweichung (Standard Deviation, SD)",
-      "back": "Die Quadratwurzel der Varianz — gibt die mittlere Abweichung der Werte vom Mittelwert in der Originaleinheit an. Je kleiner die SD, desto enger liegen die Werte zusammen.",
+      "back": "Die Quadratwurzel der Varianz, gibt die mittlere Abweichung der Werte vom Mittelwert in der Originaleinheit an. Je kleiner die SD, desto enger liegen die Werte zusammen.",
       "notes": "Bei der Normalverteilung liegen ca. 68 % aller Werte innerhalb von ±1 Standardabweichung vom Mittelwert.",
       "media_type": "text",
       "difficulty": 3,
@@ -95,7 +95,7 @@
       "stable_id": "card-ms942qp60o2u9",
       "front": "Ausreißer (Outlier)",
       "back": "Ein Datenwert, der weit außerhalb des typischen Bereichs der übrigen Werte liegt. Ausreißer verzerren den Mittelwert stark, haben aber kaum Einfluss auf den Median.",
-      "notes": "Beispiel: In der Reihe 2, 3, 3, 4, 100 zieht der Ausreißer 100 den Mittelwert auf 22,4 — während der Median bei 3 bleibt.",
+      "notes": "Beispiel: In der Reihe 2, 3, 3, 4, 100 zieht der Ausreißer 100 den Mittelwert auf 22,4, während der Median bei 3 bleibt.",
       "media_type": "text",
       "difficulty": 3,
       "hint": "Ein extremer Wert, der den Mittelwert, aber kaum den Median verändert.",
@@ -136,7 +136,7 @@
       "id": "theory-zentrale-tendenz",
       "type": "theory",
       "title": "Maße der zentralen Tendenz",
-      "body": "# Deskriptive Statistik: Daten zusammenfassen\n\nIn **Lektion 21** hast du quantitative Forschung kennengelernt. Wenn Zahlen vorliegen, fasst man sie mit **deskriptiver Statistik** zusammen — sie *beschreibt* die Daten, ohne über die Stichprobe hinaus zu schließen.\n\n## Drei Maße der zentralen Tendenz\n\nAlle drei versuchen, einen *typischen* Wert zu benennen:\n\n| Maß | Berechnung | Beispiel (2, 3, 3, 4, 8) |\n|---|---|---|\n| **Mittelwert** (Mean) | Summe ÷ Anzahl | (2+3+3+4+8) ÷ 5 = **4** |\n| **Median** | mittlerer Wert der geordneten Reihe | 2, 3, **3**, 4, 8 → **3** |\n| **Modus** | häufigster Wert | 3 kommt zweimal vor → **3** |\n\n> Bei diesem Datensatz fallen Median und Modus zusammen (3), während der Mittelwert (4) durch den hohen Wert 8 nach oben gezogen wird."
+      "body": "# Deskriptive Statistik: Daten zusammenfassen\n\nIn **Lektion 21** hast du quantitative Forschung kennengelernt. Wenn Zahlen vorliegen, fasst man sie mit **deskriptiver Statistik** zusammen, sie *beschreibt* die Daten, ohne über die Stichprobe hinaus zu schließen.\n\n## Drei Maße der zentralen Tendenz\n\nAlle drei versuchen, einen *typischen* Wert zu benennen:\n\n| Maß | Berechnung | Beispiel (2, 3, 3, 4, 8) |\n|---|---|---|\n| **Mittelwert** (Mean) | Summe ÷ Anzahl | (2+3+3+4+8) ÷ 5 = **4** |\n| **Median** | mittlerer Wert der geordneten Reihe | 2, 3, **3**, 4, 8 → **3** |\n| **Modus** | häufigster Wert | 3 kommt zweimal vor → **3** |\n\n> Bei diesem Datensatz fallen Median und Modus zusammen (3), während der Mittelwert (4) durch den hohen Wert 8 nach oben gezogen wird."
     },
     {
       "id": "theory-streuung",
@@ -234,10 +234,10 @@
         "id": "ex-free-ausreisser",
         "stable_id": "ex-ms942qp60oaxn",
         "type": "free_text",
-        "prompt": "Welches Lagemaß ist robuster gegenüber Ausreißern — Mittelwert oder Median?",
+        "prompt": "Welches Lagemaß ist robuster gegenüber Ausreißern, Mittelwert oder Median?",
         "card_ids": ["ausreisser", "robustheit-median"],
         "accept": ["Median", "der Median", "Der Median ist robuster", "der Median ist robuster"],
-        "hint": "Der Mittelwert wird stark von extremen Werten beeinflusst — das andere Maß kaum.",
+        "hint": "Der Mittelwert wird stark von extremen Werten beeinflusst, das andere Maß kaum.",
         "distractors": ["Mittelwert", "Modus", "Spannweite"],
         "direction": "target_to_source"
       }
@@ -258,7 +258,7 @@
           { "accept": ["68", "68 %", "68%"] }
         ],
         "cloze_mode": "type",
-        "hint": "Die 68-95-99,7-Regel — welcher Wert gilt für ±1 SD?"
+        "hint": "Die 68-95-99,7-Regel, welcher Wert gilt für ±1 SD?"
       }
     },
     {

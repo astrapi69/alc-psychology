@@ -1,7 +1,7 @@
 {
   "id": "103-instruktion-und-unterrichtsqualitaet",
   "title": "Instruktion und Unterrichtsqualität",
-  "description": "Wie wird gut gelehrt? Diese Lektion behandelt direkte Instruktion und entdeckende Ansätze, cognitive apprenticeship, Scaffolding und die Zone der nächsten Entwicklung, die Cognitive Load Theory, die drei Basisdimensionen der Unterrichtsqualität, empirische Befunde nach Hattie, formatives vs. summatives Feedback sowie die Klassenführung nach Kounin — auf Deutsch erklärt, mit den Fachbegriffen.",
+  "description": "Wie wird gut gelehrt? Diese Lektion behandelt direkte Instruktion und entdeckende Ansätze, cognitive apprenticeship, Scaffolding und die Zone der nächsten Entwicklung, die Cognitive Load Theory, die drei Basisdimensionen der Unterrichtsqualität, empirische Befunde nach Hattie, formatives vs. summatives Feedback sowie die Klassenführung nach Kounin, auf Deutsch erklärt, mit den Fachbegriffen.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -91,7 +91,7 @@
       "id": "kognitive-aktivierung",
       "stable_id": "card-ms942qos0bte0",
       "front": "Kognitive Aktivierung",
-      "back": "Basisdimension, die Lernende zu vertieftem, eigenständigem Denken anregt: durch herausfordernde Aufgaben, das Anknüpfen an Vorwissen, Begründungen und das Diskutieren unterschiedlicher Lösungswege — statt bloßem Reproduzieren.",
+      "back": "Basisdimension, die Lernende zu vertieftem, eigenständigem Denken anregt: durch herausfordernde Aufgaben, das Anknüpfen an Vorwissen, Begründungen und das Diskutieren unterschiedlicher Lösungswege, statt bloßem Reproduzieren.",
       "notes": "Englisch: cognitive activation. Oft als wichtigste der drei Dimensionen für den Wissensaufbau betrachtet.",
       "media_type": "text",
       "difficulty": 3,
@@ -133,7 +133,7 @@
       "id": "intro",
       "type": "theory",
       "title": "Lehren: geführt oder entdeckend",
-      "body": "# Instruktion und Unterrichtsqualität\n\nWie lehrt man wirksam? Zwei Pole strukturieren die Diskussion:\n\n- **Direkte Instruktion** (*direct instruction*): stark strukturiert, lehrergesteuert, mit klaren Zielen, schrittweiser Einführung und viel geführtem Üben. Sie ist *nicht* dasselbe wie passiver Frontalunterricht.\n- **Entdeckendes/konstruktivistisches Lernen** (*discovery learning*): Lernende erarbeiten Wissen möglichst selbstständig.\n\n> Befundlage: Reines, ungeleitetes Entdecken ist für Anfänger oft wenig effektiv. Entdeckendes Lernen wirkt vor allem **angeleitet** (*guided discovery*) und bei vorhandenem Vorwissen.\n\n## Vom Modell zur Selbstständigkeit\n\nDie **Cognitive Apprenticeship** verbindet beide Welten nach dem Vorbild der Handwerkslehre: *modeling* (Denken sichtbar machen), *coaching* (begleiten), *fading* (Hilfe zurücknehmen), *articulation* und *reflection*.\n\nDazu passt das **Scaffolding** (Gerüst): vorübergehende, dosierte Hilfe, die genau in der **Zone der nächsten Entwicklung** (Wygotski) ansetzt — dem Bereich zwischen dem, was jemand allein kann, und dem, was er mit Unterstützung schon leistet (Querverweis: Entwicklungspsychologie)."
+      "body": "# Instruktion und Unterrichtsqualität\n\nWie lehrt man wirksam? Zwei Pole strukturieren die Diskussion:\n\n- **Direkte Instruktion** (*direct instruction*): stark strukturiert, lehrergesteuert, mit klaren Zielen, schrittweiser Einführung und viel geführtem Üben. Sie ist *nicht* dasselbe wie passiver Frontalunterricht.\n- **Entdeckendes/konstruktivistisches Lernen** (*discovery learning*): Lernende erarbeiten Wissen möglichst selbstständig.\n\n> Befundlage: Reines, ungeleitetes Entdecken ist für Anfänger oft wenig effektiv. Entdeckendes Lernen wirkt vor allem **angeleitet** (*guided discovery*) und bei vorhandenem Vorwissen.\n\n## Vom Modell zur Selbstständigkeit\n\nDie **Cognitive Apprenticeship** verbindet beide Welten nach dem Vorbild der Handwerkslehre: *modeling* (Denken sichtbar machen), *coaching* (begleiten), *fading* (Hilfe zurücknehmen), *articulation* und *reflection*.\n\nDazu passt das **Scaffolding** (Gerüst): vorübergehende, dosierte Hilfe, die genau in der **Zone der nächsten Entwicklung** (Wygotski) ansetzt, dem Bereich zwischen dem, was jemand allein kann, und dem, was er mit Unterstützung schon leistet (Querverweis: Entwicklungspsychologie)."
     },
     {
       "id": "cognitive-load",
@@ -145,7 +145,7 @@
       "id": "qualitaet-empirie",
       "type": "theory",
       "title": "Unterrichtsqualität, Befunde und Feedback",
-      "body": "## Die drei Basisdimensionen\n\nGuter Unterricht lässt sich an drei **Tiefenmerkmalen** festmachen:\n\n1. **Klassenführung** (*classroom management*): effiziente Nutzung der Lernzeit.\n2. **Konstruktive Unterstützung**: wertschätzendes, hilfreiches Lernklima.\n3. **Kognitive Aktivierung**: herausfordernde, denkfördernde Aufgaben.\n\n> Diese Tiefenmerkmale wirken stärker als Oberflächenmerkmale wie die bloße Methodenwahl.\n\n## Was die Empirie nahelegt\n\nHatties **Visible Learning** fasst viele Metaanalysen zusammen und ordnet Faktoren nach **Effektstärken**. Besonders günstig erscheinen u. a. **klares, zeitnahes Feedback** und die **Klarheit der Lehrperson**. Diese Rangordnungen sind methodisch jedoch umstritten und sollten **vorsichtig** gelesen werden.\n\nBeim Feedback hilft die Unterscheidung:\n\n- **formativ**: begleitet den Lernprozess, zeigt den nächsten Schritt — besonders wirksam.\n- **summativ**: bilanziert ein Ergebnis am Ende (z. B. eine Note).\n\n## Klassenführung nach Kounin\n\n**Kounin** nannte zwei Kernmerkmale: die **Allgegenwärtigkeit** (*withitness* — die Lehrperson hat alles im Blick) und die **Reibungslosigkeit** (*smoothness/momentum* — Unterricht ohne unnötige Unterbrechungen). Beides schafft mehr aktive Lernzeit."
+      "body": "## Die drei Basisdimensionen\n\nGuter Unterricht lässt sich an drei **Tiefenmerkmalen** festmachen:\n\n1. **Klassenführung** (*classroom management*): effiziente Nutzung der Lernzeit.\n2. **Konstruktive Unterstützung**: wertschätzendes, hilfreiches Lernklima.\n3. **Kognitive Aktivierung**: herausfordernde, denkfördernde Aufgaben.\n\n> Diese Tiefenmerkmale wirken stärker als Oberflächenmerkmale wie die bloße Methodenwahl.\n\n## Was die Empirie nahelegt\n\nHatties **Visible Learning** fasst viele Metaanalysen zusammen und ordnet Faktoren nach **Effektstärken**. Besonders günstig erscheinen u. a. **klares, zeitnahes Feedback** und die **Klarheit der Lehrperson**. Diese Rangordnungen sind methodisch jedoch umstritten und sollten **vorsichtig** gelesen werden.\n\nBeim Feedback hilft die Unterscheidung:\n\n- **formativ**: begleitet den Lernprozess, zeigt den nächsten Schritt, besonders wirksam.\n- **summativ**: bilanziert ein Ergebnis am Ende (z. B. eine Note).\n\n## Klassenführung nach Kounin\n\n**Kounin** nannte zwei Kernmerkmale: die **Allgegenwärtigkeit** (*withitness*, die Lehrperson hat alles im Blick) und die **Reibungslosigkeit** (*smoothness/momentum*, Unterricht ohne unnötige Unterbrechungen). Beides schafft mehr aktive Lernzeit."
     },
     {
       "id": "ex-match-ansaetze",

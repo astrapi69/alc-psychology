@@ -1,7 +1,7 @@
 {
   "id": "91-grundlagen-der-neuropsychologie",
   "title": "Grundlagen der Neuropsychologie",
-  "description": "Die Neuropsychologie untersucht den Zusammenhang zwischen Gehirn und Verhalten/Erleben. Diese Lektion klärt Gegenstand, Methoden (Läsionsmethode, bildgebende Verfahren), die Debatte Lokalisation versus Plastizität und die Abgrenzung zur Neurologie — auf Deutsch erklärt, mit den Fachbegriffen.",
+  "description": "Die Neuropsychologie untersucht den Zusammenhang zwischen Gehirn und Verhalten/Erleben. Diese Lektion klärt Gegenstand, Methoden (Läsionsmethode, bildgebende Verfahren), die Debatte Lokalisation versus Plastizität und die Abgrenzung zur Neurologie, auf Deutsch erklärt, mit den Fachbegriffen.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -21,7 +21,7 @@
       "id": "gehirn-verhalten",
       "stable_id": "card-ms942qqa1nl04",
       "front": "Gehirn-Verhalten-Beziehung",
-      "back": "Leitfrage der Neuropsychologie: Welche Strukturen und Prozesse des Gehirns liegen welchen psychischen Leistungen zugrunde? Verändert sich das Gehirn, verändert sich oft auch das Verhalten — und umgekehrt formt Erfahrung das Gehirn.",
+      "back": "Leitfrage der Neuropsychologie: Welche Strukturen und Prozesse des Gehirns liegen welchen psychischen Leistungen zugrunde? Verändert sich das Gehirn, verändert sich oft auch das Verhalten, und umgekehrt formt Erfahrung das Gehirn.",
       "notes": "Englisch: brain-behavior relationship.",
       "media_type": "text",
       "difficulty": 2,
@@ -61,7 +61,7 @@
       "id": "struktur-funktionell",
       "stable_id": "card-ms942qqa1np5n",
       "front": "Strukturelle vs. funktionelle Bildgebung",
-      "back": "Strukturelle Verfahren (z. B. MRT) zeigen den Aufbau des Gehirns (Form, Schädigungen). Funktionelle Verfahren (z. B. fMRT, EEG) zeigen Aktivität während einer Aufgabe — also, welche Areale gerade arbeiten.",
+      "back": "Strukturelle Verfahren (z. B. MRT) zeigen den Aufbau des Gehirns (Form, Schädigungen). Funktionelle Verfahren (z. B. fMRT, EEG) zeigen Aktivität während einer Aufgabe, also, welche Areale gerade arbeiten.",
       "notes": "Merkhilfe: Struktur = Bauplan, Funktion = Betrieb.",
       "media_type": "text",
       "difficulty": 3,
@@ -133,19 +133,19 @@
       "id": "intro",
       "type": "theory",
       "title": "Was die Neuropsychologie untersucht",
-      "body": "# Grundlagen der Neuropsychologie\n\nDie **Neuropsychologie** (englisch: *neuropsychology*) fragt, wie das **Gehirn** psychisches Erleben und Verhalten hervorbringt: Wahrnehmung, Aufmerksamkeit, Gedächtnis, Sprache, Denken und Handeln.\n\nSie ist zugleich\n\n- ein **Grundlagenfach** — sie will verstehen, wie die gesunde Kognition aufgebaut ist, und\n- ein **Anwendungsfach** — die *klinische Neuropsychologie* untersucht und behandelt die Folgen von Hirnschädigungen.\n\n## Die Leitfrage\n\nIm Zentrum steht die **Gehirn-Verhalten-Beziehung** (*brain-behavior relationship*): Welche Strukturen und Prozesse liegen welchen Leistungen zugrunde? Verändert sich das Gehirn — durch Verletzung, Krankheit oder Lernen —, verändert sich oft auch das Verhalten."
+      "body": "# Grundlagen der Neuropsychologie\n\nDie **Neuropsychologie** (englisch: *neuropsychology*) fragt, wie das **Gehirn** psychisches Erleben und Verhalten hervorbringt: Wahrnehmung, Aufmerksamkeit, Gedächtnis, Sprache, Denken und Handeln.\n\nSie ist zugleich\n\n- ein **Grundlagenfach**, sie will verstehen, wie die gesunde Kognition aufgebaut ist, und\n- ein **Anwendungsfach**, die *klinische Neuropsychologie* untersucht und behandelt die Folgen von Hirnschädigungen.\n\n## Die Leitfrage\n\nIm Zentrum steht die **Gehirn-Verhalten-Beziehung** (*brain-behavior relationship*): Welche Strukturen und Prozesse liegen welchen Leistungen zugrunde? Verändert sich das Gehirn, durch Verletzung, Krankheit oder Lernen, verändert sich oft auch das Verhalten."
     },
     {
       "id": "methoden",
       "type": "theory",
       "title": "Wie man Gehirn und Verhalten verknüpft",
-      "body": "## Die Methoden\n\n**1. Die Läsionsmethode** (*lesion method*). Aus dem **Ausfall** einer Funktion nach Schädigung eines Areals wird auf dessen Beteiligung geschlossen. Der historische Fall **Phineas Gage** (1848) lieferte ein frühes Indiz für die Rolle des Frontallappens bei Planung und sozialem Verhalten.\n\n> Vorsicht: Ein Ausfall belegt **Beteiligung**, nicht zwingend den alleinigen Sitz einer Funktion.\n\n**2. Bildgebende Verfahren** (*neuroimaging*). Man unterscheidet\n\n| Art | Frage | Beispiele |\n|---|---|---|\n| strukturell | Wie ist das Gehirn gebaut? | CT, MRT |\n| funktionell | Welche Areale arbeiten gerade? | fMRT, PET, EEG, MEG |\n\n**3. Die doppelte Dissoziation** (*double dissociation*). Kann Patient A Funktion 1, aber nicht Funktion 2 — und Patient B genau umgekehrt —, dann sind beide Funktionen vermutlich **unabhängig**. Das ist der stärkste Beleg der **kognitiven Neuropsychologie**."
+      "body": "## Die Methoden\n\n**1. Die Läsionsmethode** (*lesion method*). Aus dem **Ausfall** einer Funktion nach Schädigung eines Areals wird auf dessen Beteiligung geschlossen. Der historische Fall **Phineas Gage** (1848) lieferte ein frühes Indiz für die Rolle des Frontallappens bei Planung und sozialem Verhalten.\n\n> Vorsicht: Ein Ausfall belegt **Beteiligung**, nicht zwingend den alleinigen Sitz einer Funktion.\n\n**2. Bildgebende Verfahren** (*neuroimaging*). Man unterscheidet\n\n| Art | Frage | Beispiele |\n|---|---|---|\n| strukturell | Wie ist das Gehirn gebaut? | CT, MRT |\n| funktionell | Welche Areale arbeiten gerade? | fMRT, PET, EEG, MEG |\n\n**3. Die doppelte Dissoziation** (*double dissociation*). Kann Patient A Funktion 1, aber nicht Funktion 2, und Patient B genau umgekehrt, dann sind beide Funktionen vermutlich **unabhängig**. Das ist der stärkste Beleg der **kognitiven Neuropsychologie**."
     },
     {
       "id": "lokalisation-plastizitaet",
       "type": "theory",
       "title": "Lokalisation, Netzwerke und Plastizität",
-      "body": "## Wo sitzt eine Funktion?\n\nDer **Lokalisationismus** nahm an, dass Funktionen an umschriebene Areale gebunden sind (etwa Sprachproduktion an das Broca-Areal). Das ist historisch wichtig, in reiner Form aber zu einfach.\n\nDie **moderne Sicht** verbindet zwei Ideen:\n\n- Komplexe Leistungen entstehen in **verteilten Netzwerken**, nicht in einem einzigen Punkt.\n- Das Gehirn ist **plastisch** (*Neuroplastizität*): Es kann sich umorganisieren — entscheidend für die **Rehabilitation** nach einer Schädigung.\n\n## Abgrenzung\n\nDie **Neurologie** ist ein medizinisches Fach und behandelt Erkrankungen des Nervensystems. Die **Neuropsychologie** beschreibt deren **psychische Folgen** und unterstützt die Wiederherstellung von Funktionen. Beide arbeiten eng zusammen."
+      "body": "## Wo sitzt eine Funktion?\n\nDer **Lokalisationismus** nahm an, dass Funktionen an umschriebene Areale gebunden sind (etwa Sprachproduktion an das Broca-Areal). Das ist historisch wichtig, in reiner Form aber zu einfach.\n\nDie **moderne Sicht** verbindet zwei Ideen:\n\n- Komplexe Leistungen entstehen in **verteilten Netzwerken**, nicht in einem einzigen Punkt.\n- Das Gehirn ist **plastisch** (*Neuroplastizität*): Es kann sich umorganisieren, entscheidend für die **Rehabilitation** nach einer Schädigung.\n\n## Abgrenzung\n\nDie **Neurologie** ist ein medizinisches Fach und behandelt Erkrankungen des Nervensystems. Die **Neuropsychologie** beschreibt deren **psychische Folgen** und unterstützt die Wiederherstellung von Funktionen. Beide arbeiten eng zusammen."
     },
     {
       "id": "ex-match-methoden",
@@ -193,7 +193,7 @@
         "id": "ex-free-dissoziation",
         "stable_id": "ex-ms942qqa1ny0g",
         "type": "free_text",
-        "prompt": "Wie heißt das Muster, bei dem Patient A Funktion 1 (nicht 2) und Patient B Funktion 2 (nicht 1) zeigt — der stärkste Beleg für die Unabhängigkeit zweier Funktionen?",
+        "prompt": "Wie heißt das Muster, bei dem Patient A Funktion 1 (nicht 2) und Patient B Funktion 2 (nicht 1) zeigt, der stärkste Beleg für die Unabhängigkeit zweier Funktionen?",
         "card_ids": ["doppelte-dissoziation"],
         "accept": ["doppelte Dissoziation", "Doppelte Dissoziation", "double dissociation", "die doppelte Dissoziation"],
         "hint": "Zwei Patienten, spiegelbildliche Ausfälle.",

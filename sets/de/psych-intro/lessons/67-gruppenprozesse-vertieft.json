@@ -1,7 +1,7 @@
 {
   "id": "67-gruppenprozesse-vertieft",
   "title": "Gruppenprozesse vertieft",
-  "description": "Vertiefung der Gruppenpsychologie: soziale Erleichterung und Hemmung, soziales Faulenzen, Deindividuation, Gruppenpolarisierung, Groupthink (Janis) und Führung in Gruppen — auf Deutsch erklärt mit Anknüpfung an Lektionen 7, 27 und 33.",
+  "description": "Vertiefung der Gruppenpsychologie: soziale Erleichterung und Hemmung, soziales Faulenzen, Deindividuation, Gruppenpolarisierung, Groupthink (Janis) und Führung in Gruppen, auf Deutsch erklärt mit Anknüpfung an Lektionen 7, 27 und 33.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -25,7 +25,7 @@
       "stable_id": "card-ms942qpx1arxd",
       "front": "Soziale Hemmung (Social Inhibition)",
       "back": "Die Anwesenheit anderer verschlechtert die Leistung bei schwierigen oder neuen Aufgaben. Dieselbe Aktivierung, die einfache Aufgaben fördert, stört das Lernen unbekannter Inhalte.",
-      "notes": "Kehrseite der sozialen Erleichterung — ebenfalls Teil von Zajoncs Aktivierungstheorie.",
+      "notes": "Kehrseite der sozialen Erleichterung, ebenfalls Teil von Zajoncs Aktivierungstheorie.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["sozial", "gruppe", "leistung"]
@@ -54,7 +54,7 @@
       "id": "gruppenpolarisierung",
       "stable_id": "card-ms942qpx1aufx",
       "front": "Gruppenpolarisierung (Group Polarization)",
-      "back": "Nach einer Gruppendiskussion fallen Entscheidungen extremer aus als die anfänglichen Einzelmeinungen — in die Richtung, zu der die Mehrheit bereits tendierte.",
+      "back": "Nach einer Gruppendiskussion fallen Entscheidungen extremer aus als die anfänglichen Einzelmeinungen, in die Richtung, zu der die Mehrheit bereits tendierte.",
       "notes": "Erklärt durch soziale Vergleichsprozesse und informationalen Einfluss: Argumente werden überwiegend in eine Richtung ausgetauscht.",
       "media_type": "text",
       "difficulty": 4,
@@ -68,7 +68,7 @@
       "notes": "Analysiert anhand historischer Fehlentscheidungen wie der Invasion in der Schweinebucht (1961) und der Challenger-Katastrophe (1986).",
       "media_type": "text",
       "difficulty": 4,
-      "hint": "Janis — Kohäsion als Hindernis für gute Entscheidungen.",
+      "hint": "Janis, Kohäsion als Hindernis für gute Entscheidungen.",
       "tags": ["sozial", "gruppe", "entscheidung", "person"]
     },
     {
@@ -121,7 +121,7 @@
       "id": "individuelle-erkennbarkeit",
       "stable_id": "card-ms942qpx1b1gy",
       "front": "Individuelle Erkennbarkeit (Identifiability)",
-      "back": "Wenn die Beiträge einzelner Gruppenmitglieder sichtbar und zurechenbar sind, sinkt soziales Faulenzen erheblich — die Person fühlt sich persönlich verantwortlich.",
+      "back": "Wenn die Beiträge einzelner Gruppenmitglieder sichtbar und zurechenbar sind, sinkt soziales Faulenzen erheblich, die Person fühlt sich persönlich verantwortlich.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["sozial", "gruppe", "motivation", "anwendung"]
@@ -132,13 +132,13 @@
       "id": "intro-gruppen",
       "type": "theory",
       "title": "Soziale Erleichterung, Hemmung und Faulenzen",
-      "body": "# Gruppenprozesse vertieft\n\nIn **Lektion 7** (Sozialpsychologie) und **Lektion 33** (Sozialpsychologie vertieft) hast du grundlegende Phänomene der Gruppenpsychologie kennengelernt — u. a. Konformität, Gehorsamkeit und Groupthink. **Lektion 27** (Arbeits- und Organisationspsychologie) vertiefte soziales Faulenzen und Führung im Arbeitskontext. Diese Lektion baut darauf auf.\n\n## Soziale Erleichterung und Hemmung\n\nRobert **Zajonc** (1965) vereinte beide Phänomene in einer Theorie: Die bloße Anwesenheit anderer erhöht die **physiologische Aktivierung** und stärkt die **dominante Reaktion** — also die am besten geübte Antwort auf eine Situation.\n\n| Aufgabentyp | Effekt der Anwesenheit | Beispiel |\n|---|---|---|\n| **einfach / gut geübt** | Leistung **steigt** → soziale Erleichterung | Radfahren vor Zuschauern |\n| **schwierig / neu** | Leistung **sinkt** → soziale Hemmung | Neues Schachproblem vor Publikum |\n\n## Soziales Faulenzen (Social Loafing)\n\nLatané, Williams & Harkins (1979) zeigten: In Gruppen, wo **individuelle Beiträge nicht erkennbar** sind, sinkt die Anstrengung jedes Einzelnen. Dies ist das Gegenteil von sozialer Erleichterung.\n\n**Gegenmaßnahmen** (aus Lektion 27): individuelle Erkennbarkeit, persönliche Verantwortung, sinnvolle Teilaufgaben."
+      "body": "# Gruppenprozesse vertieft\n\nIn **Lektion 7** (Sozialpsychologie) und **Lektion 33** (Sozialpsychologie vertieft) hast du grundlegende Phänomene der Gruppenpsychologie kennengelernt, u. a. Konformität, Gehorsamkeit und Groupthink. **Lektion 27** (Arbeits- und Organisationspsychologie) vertiefte soziales Faulenzen und Führung im Arbeitskontext. Diese Lektion baut darauf auf.\n\n## Soziale Erleichterung und Hemmung\n\nRobert **Zajonc** (1965) vereinte beide Phänomene in einer Theorie: Die bloße Anwesenheit anderer erhöht die **physiologische Aktivierung** und stärkt die **dominante Reaktion**, also die am besten geübte Antwort auf eine Situation.\n\n| Aufgabentyp | Effekt der Anwesenheit | Beispiel |\n|---|---|---|\n| **einfach / gut geübt** | Leistung **steigt** → soziale Erleichterung | Radfahren vor Zuschauern |\n| **schwierig / neu** | Leistung **sinkt** → soziale Hemmung | Neues Schachproblem vor Publikum |\n\n## Soziales Faulenzen (Social Loafing)\n\nLatané, Williams & Harkins (1979) zeigten: In Gruppen, wo **individuelle Beiträge nicht erkennbar** sind, sinkt die Anstrengung jedes Einzelnen. Dies ist das Gegenteil von sozialer Erleichterung.\n\n**Gegenmaßnahmen** (aus Lektion 27): individuelle Erkennbarkeit, persönliche Verantwortung, sinnvolle Teilaufgaben."
     },
     {
       "id": "deindividuation-und-polarisierung",
       "type": "theory",
       "title": "Deindividuation und Gruppenpolarisierung",
-      "body": "## Deindividuation\n\nAnonymität in der Gruppe — durch Uniformen, Masken oder Online-Pseudonyme — senkt das **Selbstbewusstsein** und die **Selbstkontrolle**. Die Folge: Hemmschwellen sinken, impulsives oder normverletzendes Verhalten nimmt zu.\n\n> Philip Zimbardo demonstrierte dies experimentell mit maskierten Versuchspersonen, die deutlich mehr Schocks verabreichten als nicht-maskierte.\n\n## Gruppenpolarisierung\n\nNach einer Diskussion in der Gruppe fallen Entscheidungen **extremer** aus als die anfänglichen Einzelmeinungen — und zwar in die Richtung, zu der die Mehrheit bereits neigte.\n\n| Mechanismus | Erklärung |\n|---|---|\n| **Informationaler Einfluss** | Argumente werden überwiegend in Richtung der Mehrheitsmeinung ausgetauscht |\n| **Sozialer Vergleich** | Mitglieder wollen extremer erscheinen als der Durchschnitt |\n\n**Beispiel:** Eine Gruppe, die eher für ein Risiko ist, wird nach Diskussion noch riskantere Entscheidungen treffen (*risky shift*)."
+      "body": "## Deindividuation\n\nAnonymität in der Gruppe, durch Uniformen, Masken oder Online-Pseudonyme, senkt das **Selbstbewusstsein** und die **Selbstkontrolle**. Die Folge: Hemmschwellen sinken, impulsives oder normverletzendes Verhalten nimmt zu.\n\n> Philip Zimbardo demonstrierte dies experimentell mit maskierten Versuchspersonen, die deutlich mehr Schocks verabreichten als nicht-maskierte.\n\n## Gruppenpolarisierung\n\nNach einer Diskussion in der Gruppe fallen Entscheidungen **extremer** aus als die anfänglichen Einzelmeinungen, und zwar in die Richtung, zu der die Mehrheit bereits neigte.\n\n| Mechanismus | Erklärung |\n|---|---|\n| **Informationaler Einfluss** | Argumente werden überwiegend in Richtung der Mehrheitsmeinung ausgetauscht |\n| **Sozialer Vergleich** | Mitglieder wollen extremer erscheinen als der Durchschnitt |\n\n**Beispiel:** Eine Gruppe, die eher für ein Risiko ist, wird nach Diskussion noch riskantere Entscheidungen treffen (*risky shift*)."
     },
     {
       "id": "groupthink-und-fuehrung",
@@ -201,7 +201,7 @@
           { "accept": ["Aktivierung", "Erregung", "Arousal"] }
         ],
         "cloze_mode": "type",
-        "hint": "Englisch: arousal — ein physiologischer Zustand erhöhter Bereitschaft."
+        "hint": "Englisch: arousal, ein physiologischer Zustand erhöhter Bereitschaft."
       }
     },
     {
@@ -216,7 +216,7 @@
         "prompt": "Wie nennt man das Phänomen, bei dem individuelle Anstrengung in Gruppen sinkt, weil Beiträge nicht erkennbar sind?",
         "card_ids": ["soziales-faulenzen"],
         "accept": ["Soziales Faulenzen", "Social Loafing", "soziales Faulenzen"],
-        "hint": "Englisch: Social Loafing — Latané et al. (1979).",
+        "hint": "Englisch: Social Loafing, Latané et al. (1979).",
         "distractors": ["Soziale Erleichterung", "Deindividuation", "Gruppenpolarisierung"],
         "direction": "target_to_source"
       }

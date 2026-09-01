@@ -1,7 +1,7 @@
 {
   "id": "73-erwachsenenalter",
   "title": "Entwicklung im Erwachsenenalter",
-  "description": "Vom jungen bis ins mittlere Erwachsenenalter: Eriksons Stufen (Intimität, Generativität), Arnetts Emerging Adulthood, kristalline vs. fluide Intelligenz, die soziale Uhr, Midlife-Crisis als Mythos und das Reifungsprinzip der Persönlichkeit — auf Deutsch erklärt.",
+  "description": "Vom jungen bis ins mittlere Erwachsenenalter: Eriksons Stufen (Intimität, Generativität), Arnetts Emerging Adulthood, kristalline vs. fluide Intelligenz, die soziale Uhr, Midlife-Crisis als Mythos und das Reifungsprinzip der Persönlichkeit, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -21,7 +21,7 @@
       "id": "mittleres-erwachsenenalter-erikson",
       "stable_id": "card-ms942qq11dytp",
       "front": "Erikson: Generativität vs. Stagnation (Generativity vs. Stagnation)",
-      "back": "Die psychosoziale Krise des mittleren Erwachsenenalters (ca. 40–65 Jahre): Generativität bedeutet, etwas an die nächste Generation weiterzugeben — durch Kinder, Beruf oder gesellschaftliches Engagement. Fehlt dies, entsteht Stagnation.",
+      "back": "Die psychosoziale Krise des mittleren Erwachsenenalters (ca. 40–65 Jahre): Generativität bedeutet, etwas an die nächste Generation weiterzugeben, durch Kinder, Beruf oder gesellschaftliches Engagement. Fehlt dies, entsteht Stagnation.",
       "notes": "Generativität umfasst Fürsorge, Mentoring und kreatives Schaffen.",
       "media_type": "text",
       "difficulty": 3,
@@ -31,7 +31,7 @@
       "id": "emerging-adulthood",
       "stable_id": "card-ms942qq11dzwy",
       "front": "Emerging Adulthood (verlängerte Übergangsphase)",
-      "back": "Konzept von Jeffrey Arnett: die Phase zwischen 18 und 25 Jahren, in der Identitätserkundung, Instabilität und Selbstfokus kennzeichnend sind — weder Jugend noch vollwertiges Erwachsensein.",
+      "back": "Konzept von Jeffrey Arnett: die Phase zwischen 18 und 25 Jahren, in der Identitätserkundung, Instabilität und Selbstfokus kennzeichnend sind, weder Jugend noch vollwertiges Erwachsensein.",
       "notes": "Besonders ausgeprägt in Industriegesellschaften mit langen Bildungswegen.",
       "media_type": "text",
       "difficulty": 3,
@@ -41,7 +41,7 @@
       "id": "kristalline-intelligenz",
       "stable_id": "card-ms942qq11e0us",
       "front": "Kristalline Intelligenz (Crystallized Intelligence)",
-      "back": "Angesammeltes Wissen, Vokabular und erlernte Fertigkeiten — bleibt im Erwachsenenalter stabil oder nimmt sogar leicht zu.",
+      "back": "Angesammeltes Wissen, Vokabular und erlernte Fertigkeiten, bleibt im Erwachsenenalter stabil oder nimmt sogar leicht zu.",
       "notes": "Wiederaufgriff aus Lektion 11. Profitiert von Bildung und Lebenserfahrung.",
       "media_type": "text",
       "difficulty": 3,
@@ -51,7 +51,7 @@
       "id": "fluide-intelligenz",
       "stable_id": "card-ms942qq11e14i",
       "front": "Fluide Intelligenz (Fluid Intelligence)",
-      "back": "Die Fähigkeit, neue Probleme flexibel zu lösen, logisch zu schlussfolgern und schnell zu verarbeiten — nimmt ab dem mittleren Erwachsenenalter langsam ab.",
+      "back": "Die Fähigkeit, neue Probleme flexibel zu lösen, logisch zu schlussfolgern und schnell zu verarbeiten, nimmt ab dem mittleren Erwachsenenalter langsam ab.",
       "notes": "Wiederaufgriff aus Lektion 11. Hängt stärker von der biologischen Hirnreife ab.",
       "media_type": "text",
       "difficulty": 3,
@@ -69,7 +69,7 @@
     {
       "id": "midlife-crisis",
       "stable_id": "card-ms942qq11e39v",
-      "front": "Midlife-Crisis — Mythos oder Realität?",
+      "front": "Midlife-Crisis, Mythos oder Realität?",
       "back": "Empirisch betrachtet ist eine ausgeprägte Midlife-Crisis eher selten: Nur etwa 10–25 % der Menschen berichten davon. Die Mehrheit erlebt das mittlere Erwachsenenalter als stabile Phase.",
       "notes": "Populärer Begriff, der in der Forschung kaum Bestätigung findet.",
       "media_type": "text",
@@ -80,7 +80,7 @@
       "id": "reifungsprinzip",
       "stable_id": "card-ms942qq11e4gu",
       "front": "Reifungsprinzip der Persönlichkeit (Maturity Principle)",
-      "back": "Mit dem Alter werden Menschen im Durchschnitt gewissenhafter und verträglicher (Big Five). Diese Veränderung ist graduell und universell — die Persönlichkeit verändert sich, bleibt aber auch stabil.",
+      "back": "Mit dem Alter werden Menschen im Durchschnitt gewissenhafter und verträglicher (Big Five). Diese Veränderung ist graduell und universell, die Persönlichkeit verändert sich, bleibt aber auch stabil.",
       "notes": "Belegt durch Längsschnittstudien (z. B. Roberts et al.).",
       "media_type": "text",
       "difficulty": 4,
@@ -118,7 +118,7 @@
       "id": "stabilität-wandel-persoenlichkeit",
       "stable_id": "card-ms942qq11e8ut",
       "front": "Stabilität und Wandel der Persönlichkeit im Erwachsenenalter",
-      "back": "Persönlichkeit ist nicht statisch: Relative Rangordnungen der Eigenschaften bleiben stabil (Stabilität), doch die mittleren Ausprägungen verschieben sich — Gewissenhaftigkeit und Verträglichkeit nehmen zu (Wandel).",
+      "back": "Persönlichkeit ist nicht statisch: Relative Rangordnungen der Eigenschaften bleiben stabil (Stabilität), doch die mittleren Ausprägungen verschieben sich, Gewissenhaftigkeit und Verträglichkeit nehmen zu (Wandel).",
       "media_type": "text",
       "difficulty": 4,
       "tags": ["persoenlichkeit", "big-five", "entwicklung"]
@@ -129,7 +129,7 @@
       "id": "intro-erikson-erwachsen",
       "type": "theory",
       "title": "Eriksons Stufen im Erwachsenenalter",
-      "body": "# Entwicklung im Erwachsenenalter\n\nIn **Lektion 34** haben wir Eriksons Stufenmodell der psychosozialen Entwicklung kennengelernt. Jetzt vertiefen wir die **drei Erwachsenenstufen** und ergänzen neuere Konzepte.\n\n## Eriksons psychosoziale Krisen im Erwachsenenalter\n\n| Lebensphase | Psychosoziale Krise | Zentrale Frage |\n|---|---|---|\n| **Junges Erwachsenenalter** (ca. 20–40 J.) | Intimität vs. Isolation | Kann ich eine enge Beziehung eingehen? |\n| **Mittleres Erwachsenenalter** (ca. 40–65 J.) | Generativität vs. Stagnation | Gebe ich etwas weiter? |\n| **Hohes Alter** (ab ca. 65 J.) | Integrität vs. Verzweiflung | War mein Leben sinnvoll? |\n\n## Intimität vs. Isolation\n\nIm jungen Erwachsenenalter geht es darum, **enge Partnerschaften und Freundschaften** aufzubauen. Wer scheitert, erlebt **Isolation** und Einsamkeit. Voraussetzung ist eine gefestigte Identität aus der Adoleszenz.\n\n## Generativität vs. Stagnation\n\nIm mittleren Erwachsenenalter steht die Frage im Vordergrund, ob man **etwas hinterlässt** — durch Kinder, Beruf, Mentoring oder gesellschaftliches Engagement. Wer sich darauf nicht einlässt, verharrt in **Stagnation** und Selbstbezogenheit."
+      "body": "# Entwicklung im Erwachsenenalter\n\nIn **Lektion 34** haben wir Eriksons Stufenmodell der psychosozialen Entwicklung kennengelernt. Jetzt vertiefen wir die **drei Erwachsenenstufen** und ergänzen neuere Konzepte.\n\n## Eriksons psychosoziale Krisen im Erwachsenenalter\n\n| Lebensphase | Psychosoziale Krise | Zentrale Frage |\n|---|---|---|\n| **Junges Erwachsenenalter** (ca. 20–40 J.) | Intimität vs. Isolation | Kann ich eine enge Beziehung eingehen? |\n| **Mittleres Erwachsenenalter** (ca. 40–65 J.) | Generativität vs. Stagnation | Gebe ich etwas weiter? |\n| **Hohes Alter** (ab ca. 65 J.) | Integrität vs. Verzweiflung | War mein Leben sinnvoll? |\n\n## Intimität vs. Isolation\n\nIm jungen Erwachsenenalter geht es darum, **enge Partnerschaften und Freundschaften** aufzubauen. Wer scheitert, erlebt **Isolation** und Einsamkeit. Voraussetzung ist eine gefestigte Identität aus der Adoleszenz.\n\n## Generativität vs. Stagnation\n\nIm mittleren Erwachsenenalter steht die Frage im Vordergrund, ob man **etwas hinterlässt**, durch Kinder, Beruf, Mentoring oder gesellschaftliches Engagement. Wer sich darauf nicht einlässt, verharrt in **Stagnation** und Selbstbezogenheit."
     },
     {
       "id": "theory-emerging-adulthood",
@@ -141,7 +141,7 @@
       "id": "theory-intelligenz-persoenlichkeit",
       "type": "theory",
       "title": "Intelligenz und Persönlichkeit im Erwachsenenalter",
-      "body": "## Kristalline vs. fluide Intelligenz im Lebensverlauf\n\nIn **Lektion 11** haben wir die beiden Intelligenztypen eingeführt. Im Erwachsenenalter entwickeln sie sich unterschiedlich:\n\n| Intelligenzart | Verlauf im Erwachsenenalter | Beispiel |\n|---|---|---|\n| **Kristalline Intelligenz** | Stabil bis leicht steigend | Wortschatz, Allgemeinwissen, Expertise |\n| **Fluide Intelligenz** | Langsam sinkend (ab ~30 J.) | Schnelles Schlussfolgern, neue Probleme |\n\nDieses Muster erklärt, warum ältere Erwachsene bei **Erfahrungsaufgaben** punkten, bei **Schnelligkeitsaufgaben** aber schwächer abschneiden.\n\n## Midlife-Crisis — kritische Betrachtung\n\nDer populäre Begriff der **Midlife-Crisis** lässt sich empirisch kaum belegen. Studien zeigen: Nur **10–25 %** erleben eine ausgeprägte Krisenepisode. Die meisten Menschen berichten im mittleren Erwachsenenalter von **Stabilität und Lebenszufriedenheit**.\n\n## Das Reifungsprinzip der Persönlichkeit\n\nLängsschnittstudien (Big Five) zeigen: Mit dem Alter werden Menschen im Durchschnitt\n\n- **gewissenhafter** (zuverlässiger, organisierter)\n- **verträglicher** (kooperativer, mitfühlender)\n\nDies nennt man das **Reifungsprinzip** (*Maturity Principle*). Die **relative Rangordnung** der Eigenschaften bleibt dabei stabil — wer jung vergleichsweise gewissenhaft war, ist es im Alter auch noch."
+      "body": "## Kristalline vs. fluide Intelligenz im Lebensverlauf\n\nIn **Lektion 11** haben wir die beiden Intelligenztypen eingeführt. Im Erwachsenenalter entwickeln sie sich unterschiedlich:\n\n| Intelligenzart | Verlauf im Erwachsenenalter | Beispiel |\n|---|---|---|\n| **Kristalline Intelligenz** | Stabil bis leicht steigend | Wortschatz, Allgemeinwissen, Expertise |\n| **Fluide Intelligenz** | Langsam sinkend (ab ~30 J.) | Schnelles Schlussfolgern, neue Probleme |\n\nDieses Muster erklärt, warum ältere Erwachsene bei **Erfahrungsaufgaben** punkten, bei **Schnelligkeitsaufgaben** aber schwächer abschneiden.\n\n## Midlife-Crisis - kritische Betrachtung\n\nDer populäre Begriff der **Midlife-Crisis** lässt sich empirisch kaum belegen. Studien zeigen: Nur **10–25 %** erleben eine ausgeprägte Krisenepisode. Die meisten Menschen berichten im mittleren Erwachsenenalter von **Stabilität und Lebenszufriedenheit**.\n\n## Das Reifungsprinzip der Persönlichkeit\n\nLängsschnittstudien (Big Five) zeigen: Mit dem Alter werden Menschen im Durchschnitt\n\n- **gewissenhafter** (zuverlässiger, organisierter)\n- **verträglicher** (kooperativer, mitfühlender)\n\nDies nennt man das **Reifungsprinzip** (*Maturity Principle*). Die **relative Rangordnung** der Eigenschaften bleibt dabei stabil, wer jung vergleichsweise gewissenhaft war, ist es im Alter auch noch."
     },
     {
       "id": "ex-match-erikson-erwachsen",

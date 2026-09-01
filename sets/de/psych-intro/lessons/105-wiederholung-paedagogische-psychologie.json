@@ -1,7 +1,7 @@
 {
   "id": "105-wiederholung-paedagogische-psychologie",
   "title": "Wiederholung: Pädagogische Psychologie",
-  "description": "Abschluss von Block 21: Diese Wiederholungslektion fasst die Pädagogische Psychologie (Lektionen 101-104) kompakt zusammen — Gegenstand und Angebots-Nutzungs-Modell, Lernmotivation und selbstreguliertes Lernen, Instruktion und Unterrichtsqualität, Leistungsbeurteilung und Prüfungsangst. Zum Schluss verknüpft ein Gesamtüberblick die drei neuen Blöcke (Neuropsychologie, Arbeits-/Organisationspsychologie, Pädagogische Psychologie, Lektionen 91-105).",
+  "description": "Abschluss von Block 21: Diese Wiederholungslektion fasst die Pädagogische Psychologie (Lektionen 101-104) kompakt zusammen, Gegenstand und Angebots-Nutzungs-Modell, Lernmotivation und selbstreguliertes Lernen, Instruktion und Unterrichtsqualität, Leistungsbeurteilung und Prüfungsangst. Zum Schluss verknüpft ein Gesamtüberblick die drei neuen Blöcke (Neuropsychologie, Arbeits-/Organisationspsychologie, Pädagogische Psychologie, Lektionen 91-105).",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -22,7 +22,7 @@
       "stable_id": "card-ms942qot0cquo",
       "front": "Angebots-Nutzungs-Modell",
       "back": "Rahmenmodell der Unterrichtsforschung (Helmke): Unterricht ist ein Angebot, dessen Wirkung von der Nutzung durch die Lernenden abhängt. Wirkfaktoren sind u. a. Lehrkraft, Unterrichtsqualität, Lernpotenzial der Schülerinnen und Schüler, Kontext und der Lernprozess (Mediation).",
-      "notes": "Kernidee: Gutes Angebot wirkt nicht automatisch — die Lernenden müssen es aktiv nutzen. Englisch: supply-use model.",
+      "notes": "Kernidee: Gutes Angebot wirkt nicht automatisch, die Lernenden müssen es aktiv nutzen. Englisch: supply-use model.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["paedagogische-psychologie", "modell", "wiederholung"]
@@ -41,7 +41,7 @@
       "id": "zielorientierung",
       "stable_id": "card-ms942qot0cs8g",
       "front": "Zielorientierung",
-      "back": "Persönliche Ausrichtung beim Lernen: Lernzielorientierung (Ziel ist Kompetenzzuwachs, Verstehen) versus Leistungszielorientierung (Ziel ist, gut auszusehen bzw. schlechtes Abschneiden zu vermeiden — Annäherung vs. Vermeidung).",
+      "back": "Persönliche Ausrichtung beim Lernen: Lernzielorientierung (Ziel ist Kompetenzzuwachs, Verstehen) versus Leistungszielorientierung (Ziel ist, gut auszusehen bzw. schlechtes Abschneiden zu vermeiden, Annäherung vs. Vermeidung).",
       "notes": "Englisch: goal orientation (mastery vs. performance goals). Lernziele begünstigen tiefes Lernen und Ausdauer.",
       "media_type": "text",
       "difficulty": 3,
@@ -61,7 +61,7 @@
       "id": "selbstwirksamkeit-mindset",
       "stable_id": "card-ms942qot0cub7",
       "front": "Selbstwirksamkeit und Mindset",
-      "back": "Selbstwirksamkeitserwartung (Bandura): die Überzeugung, eine Aufgabe durch eigenes Handeln bewältigen zu können — sie steigert Anstrengung und Ausdauer. Mindset (Dweck): die Annahme, Fähigkeiten seien veränderbar (dynamisches/Growth Mindset) oder feststehend (statisches/Fixed Mindset).",
+      "back": "Selbstwirksamkeitserwartung (Bandura): die Überzeugung, eine Aufgabe durch eigenes Handeln bewältigen zu können, sie steigert Anstrengung und Ausdauer. Mindset (Dweck): die Annahme, Fähigkeiten seien veränderbar (dynamisches/Growth Mindset) oder feststehend (statisches/Fixed Mindset).",
       "notes": "Growth Mindset und hohe Selbstwirksamkeit fördern Lernzielorientierung und günstige Attributionen. Englisch: self-efficacy, mindset.",
       "media_type": "text",
       "difficulty": 3,
@@ -133,19 +133,19 @@
       "id": "rekap-grundlagen-motivation",
       "type": "theory",
       "title": "Gegenstand, Modell und Lernmotivation",
-      "body": "# Wiederholung: Pädagogische Psychologie\n\nDie **Pädagogische Psychologie** (*educational psychology*) untersucht **Lernen, Lehren, Erziehung und Entwicklung** in pädagogischen Situationen — und will Bildungsprozesse nicht nur erklären, sondern wirksam **gestalten**.\n\n## Das Rahmenmodell\n\nDas **Angebots-Nutzungs-Modell** (Helmke) fasst alles zusammen: Unterricht ist ein **Angebot**, das nur wirkt, wenn die Lernenden es aktiv **nutzen**. Dazwischen steht der **Lernprozess** (Mediation), beeinflusst von Lehrkraft, Unterrichtsqualität, Lernpotenzial und Kontext.\n\n> Merksatz: Ein gutes Angebot allein genügt nicht — entscheidend ist die Nutzung.\n\n## Lernmotivation\n\n| Begriff | Kern |\n|---|---|\n| intrinsisch / extrinsisch | um der Sache willen / wegen der Folgen |\n| Zielorientierung | Lernziel (Verstehen) vs. Leistungsziel (gut dastehen) |\n| Attribution (Weiner) | Ursachen auf Lokation, Stabilität, Kontrollierbarkeit |\n| Selbstwirksamkeit (Bandura) | Ich kann diese Aufgabe schaffen |\n| Mindset (Dweck) | Fähigkeiten veränderbar (dynamisch) vs. fest (statisch) |\n\nGünstig ist es, **Misserfolg** auf **variable, kontrollierbare** Ursachen wie **Anstrengung** zu attribuieren — das passt zu hoher Selbstwirksamkeit und einem **dynamischen Mindset**."
+      "body": "# Wiederholung: Pädagogische Psychologie\n\nDie **Pädagogische Psychologie** (*educational psychology*) untersucht **Lernen, Lehren, Erziehung und Entwicklung** in pädagogischen Situationen, und will Bildungsprozesse nicht nur erklären, sondern wirksam **gestalten**.\n\n## Das Rahmenmodell\n\nDas **Angebots-Nutzungs-Modell** (Helmke) fasst alles zusammen: Unterricht ist ein **Angebot**, das nur wirkt, wenn die Lernenden es aktiv **nutzen**. Dazwischen steht der **Lernprozess** (Mediation), beeinflusst von Lehrkraft, Unterrichtsqualität, Lernpotenzial und Kontext.\n\n> Merksatz: Ein gutes Angebot allein genügt nicht, entscheidend ist die Nutzung.\n\n## Lernmotivation\n\n| Begriff | Kern |\n|---|---|\n| intrinsisch / extrinsisch | um der Sache willen / wegen der Folgen |\n| Zielorientierung | Lernziel (Verstehen) vs. Leistungsziel (gut dastehen) |\n| Attribution (Weiner) | Ursachen auf Lokation, Stabilität, Kontrollierbarkeit |\n| Selbstwirksamkeit (Bandura) | Ich kann diese Aufgabe schaffen |\n| Mindset (Dweck) | Fähigkeiten veränderbar (dynamisch) vs. fest (statisch) |\n\nGünstig ist es, **Misserfolg** auf **variable, kontrollierbare** Ursachen wie **Anstrengung** zu attribuieren, das passt zu hoher Selbstwirksamkeit und einem **dynamischen Mindset**."
     },
     {
       "id": "rekap-lernen-instruktion-diagnostik",
       "type": "theory",
       "title": "Selbstreguliertes Lernen, Instruktion und Beurteilung",
-      "body": "## Selbstreguliertes Lernen\n\nNach **Zimmerman** steuern Lernende ihr Lernen in drei Phasen, die sich zyklisch ergänzen:\n\n1. **Planung** — Ziele setzen, Strategien wählen, Selbstwirksamkeit aufbauen.\n2. **Durchführung** — Selbstkontrolle und Selbstbeobachtung.\n3. **Selbstreflexion** — Selbstbewertung und Ursachenzuschreibung (wirkt auf die nächste Planung).\n\nDabei helfen **Lernstrategien**: kognitive (Wiederholen, *Elaborieren*, Organisieren), metakognitive (Planen, Überwachen, Bewerten) und Ressourcenstrategien (Zeit, Umgebung, Hilfe suchen).\n\n## Instruktion und Unterrichtsqualität\n\n- **Direkte Instruktion**: klar strukturiert, mit Demonstration, geführtem Üben und Feedback.\n- **Scaffolding** in der **Zone der nächsten Entwicklung** (Wygotski): Hilfe geben und schrittweise abbauen (*Fading*).\n- **Cognitive Load**: das Arbeitsgedächtnis nicht mit unnötiger Last überfrachten.\n- **Drei Basisdimensionen**: Klassenführung, konstruktive Unterstützung, kognitive Aktivierung.\n- **Hattie**: Das *Wie* zählt — besonders gutes **Feedback** (*feed up / back / forward*).\n\n## Leistungsbeurteilung und Prüfungsangst\n\n| Thema | Kern |\n|---|---|\n| Bezugsnormen | sozial / kriterial / individuell |\n| Gütekriterien | Objektivität, Reliabilität, Validität |\n| Beurteilungsfehler | Halo, Milde/Strenge, **Pygmalion-Effekt** |\n| Prüfungsangst | Besorgnis (kognitiv) + Emotionalität (körperlich) |\n| Yerkes-Dodson | mittlere Erregung = beste Leistung (umgekehrtes U) |"
+      "body": "## Selbstreguliertes Lernen\n\nNach **Zimmerman** steuern Lernende ihr Lernen in drei Phasen, die sich zyklisch ergänzen:\n\n1. **Planung**, Ziele setzen, Strategien wählen, Selbstwirksamkeit aufbauen.\n2. **Durchführung**, Selbstkontrolle und Selbstbeobachtung.\n3. **Selbstreflexion**, Selbstbewertung und Ursachenzuschreibung (wirkt auf die nächste Planung).\n\nDabei helfen **Lernstrategien**: kognitive (Wiederholen, *Elaborieren*, Organisieren), metakognitive (Planen, Überwachen, Bewerten) und Ressourcenstrategien (Zeit, Umgebung, Hilfe suchen).\n\n## Instruktion und Unterrichtsqualität\n\n- **Direkte Instruktion**: klar strukturiert, mit Demonstration, geführtem Üben und Feedback.\n- **Scaffolding** in der **Zone der nächsten Entwicklung** (Wygotski): Hilfe geben und schrittweise abbauen (*Fading*).\n- **Cognitive Load**: das Arbeitsgedächtnis nicht mit unnötiger Last überfrachten.\n- **Drei Basisdimensionen**: Klassenführung, konstruktive Unterstützung, kognitive Aktivierung.\n- **Hattie**: Das *Wie* zählt, besonders gutes **Feedback** (*feed up / back / forward*).\n\n## Leistungsbeurteilung und Prüfungsangst\n\n| Thema | Kern |\n|---|---|\n| Bezugsnormen | sozial / kriterial / individuell |\n| Gütekriterien | Objektivität, Reliabilität, Validität |\n| Beurteilungsfehler | Halo, Milde/Strenge, **Pygmalion-Effekt** |\n| Prüfungsangst | Besorgnis (kognitiv) + Emotionalität (körperlich) |\n| Yerkes-Dodson | mittlere Erregung = beste Leistung (umgekehrtes U) |"
     },
     {
       "id": "rueckblick-drei-bloecke",
       "type": "theory",
       "title": "Gesamtüberblick: die drei neuen Blöcke (91-105)",
-      "body": "## Rückblick auf drei Blöcke\n\nDie Lektionen 91-105 haben drei Anwendungsfelder erschlossen. Sie betrachten denselben Menschen aus verschiedenen Blickwinkeln:\n\n| Block | Leitfrage | Schlüsselbegriffe |\n|---|---|---|\n| **Neuropsychologie** (91-95) | Wie bringt das Gehirn Erleben und Verhalten hervor? | Gehirn-Verhalten-Beziehung, Läsionsmethode, Bildgebung, Plastizität, doppelte Dissoziation |\n| **Arbeits- & Organisationspsychologie** (96-100) | Wie erleben und gestalten Menschen Arbeit? | Arbeitsmotivation, Arbeitszufriedenheit, Führung, Teamarbeit, Stress und Burnout |\n| **Pädagogische Psychologie** (101-105) | Wie gelingt Lernen und Lehren? | Angebots-Nutzungs-Modell, Lernmotivation, selbstreguliertes Lernen, Unterrichtsqualität, Beurteilung |\n\n## Querbezüge\n\nDie Blöcke greifen ineinander:\n\n- **Motivation** taucht dreifach auf — als Lernmotivation (Pädagogische), als Arbeitsmotivation (A&O) und gestützt auf **Selbstwirksamkeit** (Bandura), die in beiden Feldern wirkt.\n- **Gedächtnis und Aufmerksamkeit** verbinden Neuropsychologie und Lernen: Die *Cognitive-Load*-Idee setzt am begrenzten **Arbeitsgedächtnis** an, das die Neuropsychologie untersucht.\n- **Stress und Erregung** folgen demselben Prinzip wie Prüfungsangst: das **Yerkes-Dodson-Gesetz** (umgekehrtes U) gilt für Arbeitsstress wie für Prüfungssituationen.\n\n> Roter Faden: Psychologie wird hier *angewandt* — auf Gehirn, Arbeit und Bildung."
+      "body": "## Rückblick auf drei Blöcke\n\nDie Lektionen 91-105 haben drei Anwendungsfelder erschlossen. Sie betrachten denselben Menschen aus verschiedenen Blickwinkeln:\n\n| Block | Leitfrage | Schlüsselbegriffe |\n|---|---|---|\n| **Neuropsychologie** (91-95) | Wie bringt das Gehirn Erleben und Verhalten hervor? | Gehirn-Verhalten-Beziehung, Läsionsmethode, Bildgebung, Plastizität, doppelte Dissoziation |\n| **Arbeits- & Organisationspsychologie** (96-100) | Wie erleben und gestalten Menschen Arbeit? | Arbeitsmotivation, Arbeitszufriedenheit, Führung, Teamarbeit, Stress und Burnout |\n| **Pädagogische Psychologie** (101-105) | Wie gelingt Lernen und Lehren? | Angebots-Nutzungs-Modell, Lernmotivation, selbstreguliertes Lernen, Unterrichtsqualität, Beurteilung |\n\n## Querbezüge\n\nDie Blöcke greifen ineinander:\n\n- **Motivation** taucht dreifach auf, als Lernmotivation (Pädagogische), als Arbeitsmotivation (A&O) und gestützt auf **Selbstwirksamkeit** (Bandura), die in beiden Feldern wirkt.\n- **Gedächtnis und Aufmerksamkeit** verbinden Neuropsychologie und Lernen: Die *Cognitive-Load*-Idee setzt am begrenzten **Arbeitsgedächtnis** an, das die Neuropsychologie untersucht.\n- **Stress und Erregung** folgen demselben Prinzip wie Prüfungsangst: das **Yerkes-Dodson-Gesetz** (umgekehrtes U) gilt für Arbeitsstress wie für Prüfungssituationen.\n\n> Roter Faden: Psychologie wird hier *angewandt*, auf Gehirn, Arbeit und Bildung."
     },
     {
       "id": "ex-match-motivation",
@@ -247,7 +247,7 @@
         "id": "ex-free-yerkes-dodson",
         "stable_id": "ex-ms942qot0d6uu",
         "type": "free_text",
-        "prompt": "Wie heißt das Gesetz (umgekehrtes U), nach dem mittlere Erregung zur besten Leistung führt — es erklärt sowohl Prüfungsangst als auch Arbeitsstress?",
+        "prompt": "Wie heißt das Gesetz (umgekehrtes U), nach dem mittlere Erregung zur besten Leistung führt, es erklärt sowohl Prüfungsangst als auch Arbeitsstress?",
         "card_ids": ["leistungsbeurteilung-pruefungsangst"],
         "accept": ["Yerkes-Dodson-Gesetz", "Yerkes-Dodson", "das Yerkes-Dodson-Gesetz", "Yerkes Dodson Gesetz"],
         "hint": "Zwei Forschernamen mit Bindestrich; Kurve in Form eines umgekehrten U.",
@@ -301,7 +301,7 @@
         "sentence": "Günstig ist es, Misserfolg auf variable, kontrollierbare Ursachen wie mangelnde ___ zu attribuieren.",
         "blanks": [{"accept": ["Anstrengung", "Mühe", "Bemühung"]}],
         "cloze_mode": "type",
-        "hint": "Internal und variabel — etwas, das man beim nächsten Mal erhöhen kann."
+        "hint": "Internal und variabel, etwas, das man beim nächsten Mal erhöhen kann."
       }
     }
   ]

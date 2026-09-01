@@ -1,6 +1,6 @@
 {
   "id": "01-priming",
-  "title": "Priming — und warum man es nicht überschätzen darf",
+  "title": "Priming - und warum man es nicht überschätzen darf",
   "description": "Priming bezeichnet die Bahnung: ein vorgeschalteter Reiz aktiviert unbewusst bestimmte Assoziationen und beeinflusst die Folgereaktion. Diese Lektion unterscheidet sauber zwischen robust abgesichertem semantischem/perzeptuellem Priming und dem umstrittenen *social/behavioral Priming*, das die Replikationskrise schwer getroffen hat.",
   "target_language": "de",
   "source_language": "de",
@@ -42,7 +42,7 @@
       "stable_id": "card-ms942qoa004qi",
       "front": "Social/Behavioral Priming",
       "back": "Die umstrittene Annahme, beiläufige Reize (etwa Wörter zum Thema *alt*) veränderten direkt komplexes Verhalten",
-      "notes": "Viele dieser Studien ließen sich nicht reproduzieren — hier ist Vorsicht geboten.",
+      "notes": "Viele dieser Studien ließen sich nicht reproduzieren, hier ist Vorsicht geboten.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["priming", "umstritten", "kritik"]
@@ -71,7 +71,7 @@
       "id": "card-priming-grenze",
       "stable_id": "card-ms942qoa0070n",
       "front": "Wie stark ist Priming wirklich?",
-      "back": "Semantisches und perzeptuelles Priming sind robust; behaviorales Priming ist klein, fragil und nicht garantiert — kein allmächtiger Steuerungsmechanismus",
+      "back": "Semantisches und perzeptuelles Priming sind robust; behaviorales Priming ist klein, fragil und nicht garantiert, kein allmächtiger Steuerungsmechanismus",
       "notes": "Im Zweifel zurückhaltend formulieren statt Effektstärken aufzublasen.",
       "media_type": "text",
       "difficulty": 3,
@@ -82,8 +82,8 @@
     {
       "id": "intro",
       "type": "theory",
-      "title": "Was Priming ist — und was nicht",
-      "body": "# Priming (Bahnung)\n\n**Priming** bedeutet: ein vorgeschalteter Reiz aktiviert unbewusst bestimmte Assoziationen und macht passende Inhalte danach leichter verfügbar. Wer kurz das Wort *Krankenschwester* liest, erkennt anschließend das Wort *Arzt* schneller.\n\nWichtig ist eine saubere Unterscheidung, denn *Priming* ist nicht gleich *Priming*:\n\n- **Semantisches Priming** (bedeutungsverwandte Wörter) und **perzeptuelles Priming** (leichteres Wiedererkennen) sind **robust** und vielfach repliziert. Klassisch gezeigt wurde semantisches Priming in Lexical-Decision-Aufgaben (Meyer & Schvaneveldt, 1971).\n- **Social/Behavioral Priming** — die Idee, beiläufige Reize steuerten direkt komplexes Verhalten — ist dagegen **umstritten**.\n\n## Die Replikationskrise\n\nSeit den frühen 2010er-Jahren zeigte sich, dass sich viele klassische Studien nicht reproduzieren ließen. Den Anstoß gaben um 2011 erste Zweifel am social Priming (begleitet vom Betrugsfall Stapel); breit rezipiert wurde die Krise dann mit dem großen Replikationsreport 2015 (Open Science Collaboration) als Wendepunkt. Besonders betroffen war das behaviorale Priming. Das bekannteste Beispiel: Bargh, Chen & Burrows (1996) berichteten, dass Versuchspersonen nach *Alters*-Wörtern langsamer gingen; Doyen et al. (2012) konnten diesen Effekt unter kontrollierten Bedingungen **nicht** sauber bestätigen.\n\n**Fazit:** Priming ist real, aber kein allmächtiger Hebel. Wo der Effekt robust ist (semantisch, perzeptuell), darf man ihn ernst nehmen; wo er fragil ist (behavioral), sollte man ihn nicht überverkaufen."
+      "title": "Was Priming ist - und was nicht",
+      "body": "# Priming (Bahnung)\n\n**Priming** bedeutet: ein vorgeschalteter Reiz aktiviert unbewusst bestimmte Assoziationen und macht passende Inhalte danach leichter verfügbar. Wer kurz das Wort *Krankenschwester* liest, erkennt anschließend das Wort *Arzt* schneller.\n\nWichtig ist eine saubere Unterscheidung, denn *Priming* ist nicht gleich *Priming*:\n\n- **Semantisches Priming** (bedeutungsverwandte Wörter) und **perzeptuelles Priming** (leichteres Wiedererkennen) sind **robust** und vielfach repliziert. Klassisch gezeigt wurde semantisches Priming in Lexical-Decision-Aufgaben (Meyer & Schvaneveldt, 1971).\n- **Social/Behavioral Priming**, die Idee, beiläufige Reize steuerten direkt komplexes Verhalten, ist dagegen **umstritten**.\n\n## Die Replikationskrise\n\nSeit den frühen 2010er-Jahren zeigte sich, dass sich viele klassische Studien nicht reproduzieren ließen. Den Anstoß gaben um 2011 erste Zweifel am social Priming (begleitet vom Betrugsfall Stapel); breit rezipiert wurde die Krise dann mit dem großen Replikationsreport 2015 (Open Science Collaboration) als Wendepunkt. Besonders betroffen war das behaviorale Priming. Das bekannteste Beispiel: Bargh, Chen & Burrows (1996) berichteten, dass Versuchspersonen nach *Alters*-Wörtern langsamer gingen; Doyen et al. (2012) konnten diesen Effekt unter kontrollierten Bedingungen **nicht** sauber bestätigen.\n\n**Fazit:** Priming ist real, aber kein allmächtiger Hebel. Wo der Effekt robust ist (semantisch, perzeptuell), darf man ihn ernst nehmen; wo er fragil ist (behavioral), sollte man ihn nicht überverkaufen."
     },
     {
       "id": "ex-free-priming",

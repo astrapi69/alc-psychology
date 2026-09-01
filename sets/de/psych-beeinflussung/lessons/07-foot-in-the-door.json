@@ -1,6 +1,6 @@
 {
   "id": "07-foot-in-the-door",
-  "title": "Foot-in-the-door — die kleine Zusage zuerst",
+  "title": "Foot-in-the-door - die kleine Zusage zuerst",
   "description": "Die Foot-in-the-door-Technik: Wer zuerst einer kleinen Bitte zustimmt, sagt später eher auch zu einer größeren Ja. Klassisch gezeigt von Freedman & Fraser (1966), erklärt über Selbstwahrnehmung. Mit Abgrenzung zu Door-in-the-face und realistischer Einordnung der Effektstärke.",
   "target_language": "de",
   "source_language": "de",
@@ -31,7 +31,7 @@
       "id": "card-selbstwahrnehmung",
       "stable_id": "card-ms942qof01znw",
       "front": "Selbstwahrnehmung als Erklärung",
-      "back": "Nach der ersten Zusage sieht man sich selbst als hilfsbereite, engagierte Person — und handelt danach konsistent weiter",
+      "back": "Nach der ersten Zusage sieht man sich selbst als hilfsbereite, engagierte Person, und handelt danach konsistent weiter",
       "notes": "Anknüpfend an die Selbstwahrnehmungstheorie (Bem, 1972) und an das Konsistenzstreben.",
       "media_type": "text",
       "difficulty": 3,
@@ -63,7 +63,7 @@
       "id": "intro",
       "type": "theory",
       "title": "Erst klein, dann groß",
-      "body": "# Foot-in-the-door\n\nDie **Foot-in-the-door**-Technik (wörtlich *Fuß in der Tür*) beschreibt: Wer zuerst einer **kleinen** Bitte zustimmt, willigt anschließend mit höherer Wahrscheinlichkeit auch in eine **größere** Bitte ein.\n\n## Das klassische Experiment\n\n**Freedman & Fraser (1966)** baten Hausbesitzer zunächst um eine Kleinigkeit (etwa, einen kleinen Aufkleber anzubringen oder eine kurze Petition zu unterschreiben). Einige Tage später fragten sie, ob man ein großes, unschönes Verkehrssicherheits-Schild im Vorgarten aufstellen dürfe. Wer zuvor der kleinen Bitte zugestimmt hatte, sagte **deutlich häufiger** auch zur großen zu.\n\n## Warum das wirkt\n\nEine verbreitete Erklärung ist die **Selbstwahrnehmung**: Nach der ersten Zusage sieht man sich selbst als hilfsbereite, engagierte Person — und handelt danach **konsistent** weiter. Das knüpft an das menschliche Konsistenzstreben an.\n\nWichtig ist die Abgrenzung zu **Door-in-the-face**, das genau umgekehrt vorgeht (erst eine überzogene, dann eine kleinere Bitte) und über Reziprozität wirkt.\n\n## Augenmaß\n\nDer Effekt ist real, aber **moderat und nicht garantiert**. Er hängt von Kontext, Größe der Bitten und davon ab, ob die erste Zusage *freiwillig* erfolgte. Eine belegte Tendenz — kein sicherer Hebel."
+      "body": "# Foot-in-the-door\n\nDie **Foot-in-the-door**-Technik (wörtlich *Fuß in der Tür*) beschreibt: Wer zuerst einer **kleinen** Bitte zustimmt, willigt anschließend mit höherer Wahrscheinlichkeit auch in eine **größere** Bitte ein.\n\n## Das klassische Experiment\n\n**Freedman & Fraser (1966)** baten Hausbesitzer zunächst um eine Kleinigkeit (etwa, einen kleinen Aufkleber anzubringen oder eine kurze Petition zu unterschreiben). Einige Tage später fragten sie, ob man ein großes, unschönes Verkehrssicherheits-Schild im Vorgarten aufstellen dürfe. Wer zuvor der kleinen Bitte zugestimmt hatte, sagte **deutlich häufiger** auch zur großen zu.\n\n## Warum das wirkt\n\nEine verbreitete Erklärung ist die **Selbstwahrnehmung**: Nach der ersten Zusage sieht man sich selbst als hilfsbereite, engagierte Person, und handelt danach **konsistent** weiter. Das knüpft an das menschliche Konsistenzstreben an.\n\nWichtig ist die Abgrenzung zu **Door-in-the-face**, das genau umgekehrt vorgeht (erst eine überzogene, dann eine kleinere Bitte) und über Reziprozität wirkt.\n\n## Augenmaß\n\nDer Effekt ist real, aber **moderat und nicht garantiert**. Er hängt von Kontext, Größe der Bitten und davon ab, ob die erste Zusage *freiwillig* erfolgte. Eine belegte Tendenz, kein sicherer Hebel."
     },
     {
       "id": "ex-free-fitd",

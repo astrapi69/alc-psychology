@@ -1,4 +1,4 @@
-# Psychologie der Rhetorik (für Deutschsprachige) — Set-Manifest.
+# Psychologie der Rhetorik (für Deutschsprachige) - Set-Manifest.
 #
 # Aufbauendes Nicht-Sprachen-Set (``domain: psychology``) im
 # thematischen Anschluss an das Set psych-beeinflussung. Material und
@@ -8,7 +8,7 @@
 # ``metadata.lessons`` für die Dateiliste.
 #
 # v0.2.0 (schema v1.4): Starter-Set mit fünf Lektionen zur
-# psychologischen Grundlage der Rhetorik — die drei aristotelischen
+# psychologischen Grundlage der Rhetorik, die drei aristotelischen
 # Überzeugungsmittel Ethos, Pathos und Logos, jeweils vertieft durch
 # die moderne Überzeugungspsychologie (Quellenglaubwürdigkeit nach
 # Hovland, Furchtappelle nach Witte, das Elaboration-Likelihood-Modell
@@ -26,7 +26,7 @@ description: >-
   Ein deutsches Aufbau-Set zur Psychologie der Rhetorik im Anschluss an
   das Set zur Beeinflussung: die drei aristotelischen Überzeugungsmittel
   Ethos, Pathos und Logos, gedeutet mit der modernen
-  Überzeugungspsychologie. Fachlich mit Augenmaß erklärt — rhetorische
+  Überzeugungspsychologie. Fachlich mit Augenmaß erklärt, rhetorische
   Mittel als empirisch untersuchte Wirkungstendenzen, nicht als
   garantierte Überredungs-Hebel; genannte Studien sind real und korrekt
   zugeordnet.

@@ -1,7 +1,7 @@
 {
   "id": "74-alter-und-gerontopsychologie",
   "title": "Alter und Gerontopsychologie",
-  "description": "Psychologie des Alterns: kognitives Altern, Demenz und Alzheimer, Eriksons letzte Stufe, sozioemotionale Selektivitätstheorie, erfolgreiches Altern (SOK-Modell) sowie Sterben und Trauer nach Kübler-Ross — auf Deutsch erklärt.",
+  "description": "Psychologie des Alterns: kognitives Altern, Demenz und Alzheimer, Eriksons letzte Stufe, sozioemotionale Selektivitätstheorie, erfolgreiches Altern (SOK-Modell) sowie Sterben und Trauer nach Kübler-Ross, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -11,7 +11,7 @@
       "id": "gerontopsychologie",
       "stable_id": "card-ms942qq11egik",
       "front": "Gerontopsychologie (Psychology of Aging)",
-      "back": "Teilgebiet der Psychologie, das die psychischen Veränderungen im höheren Erwachsenenalter untersucht — Kognition, Persönlichkeit, soziale Beziehungen und psychische Gesundheit im Alter.",
+      "back": "Teilgebiet der Psychologie, das die psychischen Veränderungen im höheren Erwachsenenalter untersucht, Kognition, Persönlichkeit, soziale Beziehungen und psychische Gesundheit im Alter.",
       "notes": "Baut auf der Lebensspannenperspektive auf (vgl. Lektion 34 und 71).",
       "media_type": "text",
       "difficulty": 2,
@@ -21,7 +21,7 @@
       "id": "kognitives-altern",
       "stable_id": "card-ms942qq11ehlq",
       "front": "Kognitives Altern (Cognitive Aging)",
-      "back": "Im Alter nehmen die Verarbeitungsgeschwindigkeit und die fluide Intelligenz (fluid intelligence) ab; das kristalline Wissen (crystallized intelligence) — also Wortschatz, Weltwissen und Erfahrung — bleibt hingegen weitgehend stabil.",
+      "back": "Im Alter nehmen die Verarbeitungsgeschwindigkeit und die fluide Intelligenz (fluid intelligence) ab; das kristalline Wissen (crystallized intelligence), also Wortschatz, Weltwissen und Erfahrung, bleibt hingegen weitgehend stabil.",
       "notes": "Wiederaufgriff Lektion 11 (Intelligenz und Denken): Cattells Unterscheidung fluide vs. kristalline Intelligenz.",
       "media_type": "text",
       "difficulty": 3,
@@ -41,7 +41,7 @@
       "id": "demenz-normales-altern",
       "stable_id": "card-ms942qq11ejok",
       "front": "Demenz vs. normales Altern",
-      "back": "Normales Altern: leichtes Nachlassen von Gedächtnis und Tempo, aber alltägliche Selbstständigkeit bleibt erhalten. Demenz (dementia): fortschreitender Verlust von Gedächtnis, Sprache, Orientierung und Alltagskompetenz — über das normale Maß hinaus und durch Hirnerkrankung verursacht.",
+      "back": "Normales Altern: leichtes Nachlassen von Gedächtnis und Tempo, aber alltägliche Selbstständigkeit bleibt erhalten. Demenz (dementia): fortschreitender Verlust von Gedächtnis, Sprache, Orientierung und Alltagskompetenz, über das normale Maß hinaus und durch Hirnerkrankung verursacht.",
       "notes": "Abgrenzung ist klinisch wichtig: Vergesslichkeit allein ist keine Demenz.",
       "media_type": "text",
       "difficulty": 3,
@@ -61,7 +61,7 @@
       "id": "erikson-integritaet-vs-verzweiflung",
       "stable_id": "card-ms942qq11elze",
       "front": "Eriksons achte Stufe: Integrität vs. Verzweiflung (Integrity vs. Despair)",
-      "back": "Im hohen Erwachsenenalter bilanziert der Mensch sein Leben (Lebensrückblick). Gelingt dies — wurde das Leben als sinnvoll und gelebt empfunden — entsteht Ich-Integrität (ego integrity). Überwiegen Reue und Enttäuschung, entsteht Verzweiflung.",
+      "back": "Im hohen Erwachsenenalter bilanziert der Mensch sein Leben (Lebensrückblick). Gelingt dies, wurde das Leben als sinnvoll und gelebt empfunden, entsteht Ich-Integrität (ego integrity). Überwiegen Reue und Enttäuschung, entsteht Verzweiflung.",
       "notes": "Letzte Stufe in Eriksons Theorie psychosozialer Entwicklung (vgl. Lektion 34). Tugend dieser Stufe: Weisheit.",
       "media_type": "text",
       "difficulty": 3,
@@ -71,7 +71,7 @@
       "id": "sozioemotionale-selektivitaetstheorie",
       "stable_id": "card-ms942qq11emh6",
       "front": "Sozioemotionale Selektivitätstheorie (Socioemotional Selectivity Theory)",
-      "back": "Theorie von Laura Carstensen: Mit zunehmendem Alter und bewusster Begrenztheit der verbleibenden Zeit verlagern Menschen ihre Ziele — weg von Informationssuche und Erweiterung des Netzwerks, hin zu emotional bedeutsamen, engen Beziehungen und dem Genuss des Hier-und-Jetzt.",
+      "back": "Theorie von Laura Carstensen: Mit zunehmendem Alter und bewusster Begrenztheit der verbleibenden Zeit verlagern Menschen ihre Ziele, weg von Informationssuche und Erweiterung des Netzwerks, hin zu emotional bedeutsamen, engen Beziehungen und dem Genuss des Hier-und-Jetzt.",
       "notes": "Erklärt, warum ältere Erwachsene weniger, aber tiefere Freundschaften pflegen und emotionale Inhalte besser erinnern als negative.",
       "media_type": "text",
       "difficulty": 4,
@@ -90,7 +90,7 @@
     {
       "id": "sok-modell",
       "stable_id": "card-ms942qq11eori",
-      "front": "SOK-Modell (SOC-Modell — Selektion, Optimierung, Kompensation)",
+      "front": "SOK-Modell (SOC-Modell, Selektion, Optimierung, Kompensation)",
       "back": "Modell von Paul Baltes: Erfolgreiches Altern gelingt durch **Selektion** (Konzentration auf wichtige Ziele), **Optimierung** (Einsatz vorhandener Ressourcen) und **Kompensation** (Nutzung von Hilfsmitteln oder Strategien, wenn Fähigkeiten nachlassen).",
       "notes": "Beispiel: Ein älterer Pianist spielt weniger Stücke (S), übt diese intensiver (O) und beginnt langsamer (K).",
       "media_type": "text",
@@ -101,7 +101,7 @@
       "id": "kuebler-ross-phasen",
       "stable_id": "card-ms942qq11epes",
       "front": "Kübler-Ross: Fünf Phasen des Sterbens",
-      "back": "Elisabeth Kübler-Ross beschrieb fünf emotionale Phasen angesichts des eigenen Todes oder schwerer Verluste: 1. Verleugnung, 2. Wut, 3. Verhandeln (Bargaining), 4. Depression, 5. Akzeptanz. Wichtig: Diese Phasen sind nicht starr oder linear — Menschen durchlaufen sie individuell und in beliebiger Reihenfolge.",
+      "back": "Elisabeth Kübler-Ross beschrieb fünf emotionale Phasen angesichts des eigenen Todes oder schwerer Verluste: 1. Verleugnung, 2. Wut, 3. Verhandeln (Bargaining), 4. Depression, 5. Akzeptanz. Wichtig: Diese Phasen sind nicht starr oder linear, Menschen durchlaufen sie individuell und in beliebiger Reihenfolge.",
       "notes": "Aus dem Buch 'On Death and Dying' (1969). Das Modell wurde erweitert auf Trauerprozesse allgemein.",
       "media_type": "text",
       "difficulty": 3,
@@ -133,25 +133,25 @@
       "id": "step-kognitives-altern",
       "type": "theory",
       "title": "Kognitives Altern und Gerontopsychologie",
-      "body": "# Alter und Gerontopsychologie\n\nIn **Lektion 34** lernten wir Eriksons Stufenmodell kennen; **Lektion 11** behandelte fluide und kristalline Intelligenz. Nun betrachten wir das **höhere Erwachsenenalter** mit den Augen der **Gerontopsychologie** — der Psychologie des Alterns.\n\n## Was sich verändert und was bleibt\n\nNicht alles lässt im Alter nach. Die folgende Tabelle fasst zusammen:\n\n| Bereich | Verlauf im Alter |\n|---|---|\n| **Verarbeitungsgeschwindigkeit** | nimmt ab (ab ~30 Jahren graduell) |\n| **Fluide Intelligenz** (Problemlösung, Arbeitsgedächtnis) | nimmt ab |\n| **Kristalline Intelligenz** (Wortschatz, Weltwissen) | bleibt stabil oder steigt leicht |\n| **Emotionale Regulationsfähigkeit** | bleibt stabil oder verbessert sich |\n| **Langzeitgedächtnis für Fakten** | weitgehend erhalten |\n| **Prospektives Gedächtnis** (Termine) | kann nachlassen |\n\n## Normales Altern vs. Demenz\n\nEin gelegentlicher Wortfindungsfehler ist **normal**. **Demenz** hingegen ist eine klinisch relevante, fortschreitende Beeinträchtigung von Gedächtnis, Sprache und Alltagskompetenz — verursacht durch Hirnerkrankung. Die häufigste Form ist die **Alzheimer-Krankheit** (ca. 60–70 % aller Demenzen)."
+      "body": "# Alter und Gerontopsychologie\n\nIn **Lektion 34** lernten wir Eriksons Stufenmodell kennen; **Lektion 11** behandelte fluide und kristalline Intelligenz. Nun betrachten wir das **höhere Erwachsenenalter** mit den Augen der **Gerontopsychologie**, der Psychologie des Alterns.\n\n## Was sich verändert und was bleibt\n\nNicht alles lässt im Alter nach. Die folgende Tabelle fasst zusammen:\n\n| Bereich | Verlauf im Alter |\n|---|---|\n| **Verarbeitungsgeschwindigkeit** | nimmt ab (ab ~30 Jahren graduell) |\n| **Fluide Intelligenz** (Problemlösung, Arbeitsgedächtnis) | nimmt ab |\n| **Kristalline Intelligenz** (Wortschatz, Weltwissen) | bleibt stabil oder steigt leicht |\n| **Emotionale Regulationsfähigkeit** | bleibt stabil oder verbessert sich |\n| **Langzeitgedächtnis für Fakten** | weitgehend erhalten |\n| **Prospektives Gedächtnis** (Termine) | kann nachlassen |\n\n## Normales Altern vs. Demenz\n\nEin gelegentlicher Wortfindungsfehler ist **normal**. **Demenz** hingegen ist eine klinisch relevante, fortschreitende Beeinträchtigung von Gedächtnis, Sprache und Alltagskompetenz, verursacht durch Hirnerkrankung. Die häufigste Form ist die **Alzheimer-Krankheit** (ca. 60–70 % aller Demenzen)."
     },
     {
       "id": "step-theorien-alter",
       "type": "theory",
       "title": "Psychosoziale Theorien des Alterns",
-      "body": "## Eriksons letzte Stufe: Integrität vs. Verzweiflung\n\nIn **Lektion 34** sahen wir Eriksons acht psychosoziale Stufen. Die achte und letzte — das hohe Alter — dreht sich um den **Lebensrückblick**: Wer das eigene Leben als sinnvoll und gelebt empfindet, erreicht **Ich-Integrität** (Tugend: Weisheit). Wer Reue und unerfüllte Wünsche überwiegen lässt, erlebt **Verzweiflung**.\n\n## Sozioemotionale Selektivitätstheorie (Carstensen)\n\nLaura Carstensen stellte fest: Je kürzer die gefühlte Lebenszeit, desto mehr konzentrieren sich Menschen auf **emotional bedeutsame Beziehungen** und das **Hier-und-Jetzt** — statt auf Informationssuche und Netzwerkerweiterung.\n\n| Jüngeres Erwachsenenalter | Höheres Erwachsenenalter |\n|---|---|\n| Viele, auch oberflächliche Kontakte | Wenige, aber tiefe Beziehungen |\n| Ziel: Wissen und neue Erfahrungen | Ziel: emotionale Erfüllung |\n| Zukunftsorientiert | Gegenwartsorientiert |\n\nDaraus folgt das sogenannte **Positivity Effect** (Positivisierungseffekt): Ältere erinnern und beachten positive Informationen stärker als negative."
+      "body": "## Eriksons letzte Stufe: Integrität vs. Verzweiflung\n\nIn **Lektion 34** sahen wir Eriksons acht psychosoziale Stufen. Die achte und letzte, das hohe Alter, dreht sich um den **Lebensrückblick**: Wer das eigene Leben als sinnvoll und gelebt empfindet, erreicht **Ich-Integrität** (Tugend: Weisheit). Wer Reue und unerfüllte Wünsche überwiegen lässt, erlebt **Verzweiflung**.\n\n## Sozioemotionale Selektivitätstheorie (Carstensen)\n\nLaura Carstensen stellte fest: Je kürzer die gefühlte Lebenszeit, desto mehr konzentrieren sich Menschen auf **emotional bedeutsame Beziehungen** und das **Hier-und-Jetzt**, statt auf Informationssuche und Netzwerkerweiterung.\n\n| Jüngeres Erwachsenenalter | Höheres Erwachsenenalter |\n|---|---|\n| Viele, auch oberflächliche Kontakte | Wenige, aber tiefe Beziehungen |\n| Ziel: Wissen und neue Erfahrungen | Ziel: emotionale Erfüllung |\n| Zukunftsorientiert | Gegenwartsorientiert |\n\nDaraus folgt das sogenannte **Positivity Effect** (Positivisierungseffekt): Ältere erinnern und beachten positive Informationen stärker als negative."
     },
     {
       "id": "step-erfolgreiches-altern-und-tod",
       "type": "theory",
       "title": "Erfolgreiches Altern, Sterben und Trauer",
-      "body": "## Erfolgreiches Altern: das SOK-Modell (Baltes)\n\nPaul Baltes beschreibt mit dem **SOK-Modell** drei Strategien, mit Einschränkungen im Alter umzugehen:\n\n| Strategie | Bedeutung | Beispiel |\n|---|---|---|\n| **S**elektion | Ziele auf das Wesentliche beschränken | Nur noch liebste Stücke spielen |\n| **O**ptimierung | Vorhandene Stärken gezielt einsetzen | Diese Stücke intensiv üben |\n| **K**ompensation | Hilfsmittel und Strategien nutzen | Metronom benutzen, wenn Tempo nachlässt |\n\nWeitere Schutzfaktoren: **körperliche Aktivität**, **soziale Einbindung** und **geistige Stimulation**.\n\n## Tod, Sterben und Trauer: Kübler-Ross\n\nElisabeth Kübler-Ross beschrieb fünf emotionale **Phasen** beim Umgang mit dem eigenen Tod oder schwerem Verlust:\n\n1. **Verleugnung** — \"Das kann nicht wahr sein.\"\n2. **Wut** — \"Warum ich?\"\n3. **Verhandeln** (Bargaining) — \"Wenn ich nur noch…\"\n4. **Depression** — Tiefe Trauer, Rückzug\n5. **Akzeptanz** — Annahme der Realität\n\n> **Wichtig:** Diese Phasen sind **nicht linear** und **nicht universell** — Menschen durchlaufen sie in individueller Reihenfolge, manche überspringen Phasen, andere kehren zurück."
+      "body": "## Erfolgreiches Altern: das SOK-Modell (Baltes)\n\nPaul Baltes beschreibt mit dem **SOK-Modell** drei Strategien, mit Einschränkungen im Alter umzugehen:\n\n| Strategie | Bedeutung | Beispiel |\n|---|---|---|\n| **S**elektion | Ziele auf das Wesentliche beschränken | Nur noch liebste Stücke spielen |\n| **O**ptimierung | Vorhandene Stärken gezielt einsetzen | Diese Stücke intensiv üben |\n| **K**ompensation | Hilfsmittel und Strategien nutzen | Metronom benutzen, wenn Tempo nachlässt |\n\nWeitere Schutzfaktoren: **körperliche Aktivität**, **soziale Einbindung** und **geistige Stimulation**.\n\n## Tod, Sterben und Trauer: Kübler-Ross\n\nElisabeth Kübler-Ross beschrieb fünf emotionale **Phasen** beim Umgang mit dem eigenen Tod oder schwerem Verlust:\n\n1. **Verleugnung**, \"Das kann nicht wahr sein.\"\n2. **Wut**, \"Warum ich?\"\n3. **Verhandeln** (Bargaining), \"Wenn ich nur noch…\"\n4. **Depression**, Tiefe Trauer, Rückzug\n5. **Akzeptanz**, Annahme der Realität\n\n> **Wichtig:** Diese Phasen sind **nicht linear** und **nicht universell**, Menschen durchlaufen sie in individueller Reihenfolge, manche überspringen Phasen, andere kehren zurück."
     },
     {
       "id": "ex-match-kognitives-altern",
       "type": "exercise",
       "theory_ref": "step-kognitives-altern",
-      "title": "Was nimmt ab — was bleibt?",
+      "title": "Was nimmt ab - was bleibt?",
       "exercise": {
         "id": "ex-match-kognitives-altern",
         "stable_id": "ex-ms942qq11esiz",
@@ -239,7 +239,7 @@
           { "accept": ["Selektivitätstheorie", "Selektivitaetstheorie"] }
         ],
         "cloze_mode": "type",
-        "hint": "Das Adjektiv 'sozioemotional' steht davor — gesucht wird das Substantiv."
+        "hint": "Das Adjektiv 'sozioemotional' steht davor, gesucht wird das Substantiv."
       }
     },
     {

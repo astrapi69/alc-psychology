@@ -1,7 +1,7 @@
 {
   "id": "57-emotion-und-emotionsregulation",
   "title": "Emotion und Emotionsregulation vertieft",
-  "description": "Komponenten und Funktionen von Emotionen, Stimmung vs. Emotion, das Prozessmodell von James Gross mit den fünf Regulationsstrategien sowie emotionale Intelligenz und psychische Gesundheit — auf Deutsch erklärt.",
+  "description": "Komponenten und Funktionen von Emotionen, Stimmung vs. Emotion, das Prozessmodell von James Gross mit den fünf Regulationsstrategien sowie emotionale Intelligenz und psychische Gesundheit, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -52,7 +52,7 @@
       "stable_id": "card-ms942qpq15md6",
       "front": "Prozessmodell der Emotionsregulation (Gross)",
       "back": "James Gross beschreibt fünf Strategien entlang der Zeitachse einer Emotion: Situationsauswahl, Situationsmodifikation, Aufmerksamkeitslenkung, kognitive Neubewertung und Reaktionsmodulation.",
-      "notes": "Die Strategien setzen zu unterschiedlichen Zeitpunkten an — von der frühen Situationsauswahl bis zur späten Reaktionsunterdrückung.",
+      "notes": "Die Strategien setzen zu unterschiedlichen Zeitpunkten an, von der frühen Situationsauswahl bis zur späten Reaktionsunterdrückung.",
       "media_type": "text",
       "difficulty": 4,
       "hint": "Zeitachse: Je früher die Strategie einsetzt, desto mehr gilt sie als antezedenzfokussiert.",
@@ -92,7 +92,7 @@
       "id": "reappraisal",
       "stable_id": "card-ms942qpq15qcz",
       "front": "Kognitive Neubewertung (Reappraisal)",
-      "back": "Eine Situation oder deren Bedeutung umdeuten, um die emotionale Reaktion zu verändern — gilt als besonders gesunde und wirksame Regulationsstrategie.",
+      "back": "Eine Situation oder deren Bedeutung umdeuten, um die emotionale Reaktion zu verändern, gilt als besonders gesunde und wirksame Regulationsstrategie.",
       "notes": "Beispiel: Eine Prüfung als Chance sehen statt als Bedrohung. Günstiger als Suppression: weniger physiologischer Stress, bessere Erinnerungsleistung.",
       "media_type": "text",
       "difficulty": 4,
@@ -103,7 +103,7 @@
       "id": "suppression",
       "stable_id": "card-ms942qpq15r9m",
       "front": "Reaktionsmodulation / Unterdrückung (Suppression)",
-      "back": "Den emotionalen Ausdruck oder die körperliche Reaktion unterdrücken, nachdem die Emotion bereits ausgelöst wurde — gilt als weniger günstige Strategie.",
+      "back": "Den emotionalen Ausdruck oder die körperliche Reaktion unterdrücken, nachdem die Emotion bereits ausgelöst wurde, gilt als weniger günstige Strategie.",
       "notes": "Späteste Strategie im Gross-Modell. Langfristig kostspielig: erhöhter physiologischer Stress, schlechteres Wohlbefinden, soziale Nachteile.",
       "media_type": "text",
       "difficulty": 4,
@@ -136,19 +136,19 @@
       "id": "step-emotion-grundlagen",
       "type": "theory",
       "title": "Was ist eine Emotion? Komponenten und Funktionen",
-      "body": "# Emotion und Emotionsregulation vertieft\n\nIn **Lektion 5** (Motivation und Emotion) und **Lektion 31** (Emotionstheorien) haben wir Emotionen kennengelernt. Jetzt vertiefen wir: Was genau *ist* eine Emotion, und wozu dient sie?\n\n## Die vier Komponenten einer Emotion\n\n| Komponente | Beschreibung | Beispiel (Angst) |\n|---|---|---|\n| **Subjektives Erleben** | das innere Gefühl, das wir bewusst wahrnehmen | 'Ich habe Angst' |\n| **Körperliche Erregung** | physiologische Aktivierung (Herzrate, Hormone) | Herzklopfen, Schwitzen |\n| **Ausdruck** | expressiv-motorische Reaktion (Mimik, Gestik, Stimme) | aufgerissene Augen, Erstarren |\n| **Handlungstendenz** | motivationaler Impuls zu einer bestimmten Reaktion | Flucht oder Einfrieren |\n\n## Funktionen von Emotionen\n\nEmotionen sind **adaptiv** — sie erfüllen drei Kernfunktionen:\n\n- **Bewertung (Appraisal):** Situationen werden blitzschnell als relevant, bedrohlich oder angenehm eingeschätzt.\n- **Handlungsvorbereitung:** Jede Emotion bereitet den Körper auf eine typische Reaktion vor (Wut → Angriff, Angst → Flucht).\n- **Kommunikation:** Der emotionale Ausdruck signalisiert anderen unseren inneren Zustand — wichtig für soziale Koordination.\n\n## Stimmung vs. Emotion\n\n| Merkmal | Emotion | Stimmung (Mood) |\n|---|---|---|\n| Dauer | kurzfristig (Sekunden–Minuten) | länger anhaltend (Stunden–Tage) |\n| Gerichtetheit | auf konkretes Objekt/Ereignis | diffus, ohne klaren Auslöser |\n| Intensität | meist intensiver | meist schwächer |\n\n> **Merksatz:** Emotion = kurz und gerichtet; Stimmung = lang und diffus."
+      "body": "# Emotion und Emotionsregulation vertieft\n\nIn **Lektion 5** (Motivation und Emotion) und **Lektion 31** (Emotionstheorien) haben wir Emotionen kennengelernt. Jetzt vertiefen wir: Was genau *ist* eine Emotion, und wozu dient sie?\n\n## Die vier Komponenten einer Emotion\n\n| Komponente | Beschreibung | Beispiel (Angst) |\n|---|---|---|\n| **Subjektives Erleben** | das innere Gefühl, das wir bewusst wahrnehmen | 'Ich habe Angst' |\n| **Körperliche Erregung** | physiologische Aktivierung (Herzrate, Hormone) | Herzklopfen, Schwitzen |\n| **Ausdruck** | expressiv-motorische Reaktion (Mimik, Gestik, Stimme) | aufgerissene Augen, Erstarren |\n| **Handlungstendenz** | motivationaler Impuls zu einer bestimmten Reaktion | Flucht oder Einfrieren |\n\n## Funktionen von Emotionen\n\nEmotionen sind **adaptiv**, sie erfüllen drei Kernfunktionen:\n\n- **Bewertung (Appraisal):** Situationen werden blitzschnell als relevant, bedrohlich oder angenehm eingeschätzt.\n- **Handlungsvorbereitung:** Jede Emotion bereitet den Körper auf eine typische Reaktion vor (Wut → Angriff, Angst → Flucht).\n- **Kommunikation:** Der emotionale Ausdruck signalisiert anderen unseren inneren Zustand, wichtig für soziale Koordination.\n\n## Stimmung vs. Emotion\n\n| Merkmal | Emotion | Stimmung (Mood) |\n|---|---|---|\n| Dauer | kurzfristig (Sekunden–Minuten) | länger anhaltend (Stunden–Tage) |\n| Gerichtetheit | auf konkretes Objekt/Ereignis | diffus, ohne klaren Auslöser |\n| Intensität | meist intensiver | meist schwächer |\n\n> **Merksatz:** Emotion = kurz und gerichtet; Stimmung = lang und diffus."
     },
     {
       "id": "step-gross-modell",
       "type": "theory",
       "title": "Das Prozessmodell der Emotionsregulation (Gross)",
-      "body": "## Emotionsregulation — was ist das?\n\n**Emotionsregulation** umfasst alle Strategien, mit denen wir das Auftreten, die Intensität, die Dauer oder den Ausdruck von Emotionen beeinflussen — bewusst oder unbewusst.\n\n## Das Prozessmodell von James Gross\n\nGross ordnet fünf Strategien entlang der **Zeitachse** einer Emotion:\n\n| Zeitpunkt | Strategie | Kernidee |\n|---|---|---|\n| 1. sehr früh | **Situationsauswahl** | Situationen suchen oder meiden |\n| 2. früh | **Situationsmodifikation** | die Situation aktiv verändern |\n| 3. mittel | **Aufmerksamkeitslenkung** | Fokus innerhalb der Situation steuern |\n| 4. spät | **Kognitive Neubewertung (Reappraisal)** | Bedeutung der Situation umdeuten |\n| 5. sehr spät | **Reaktionsmodulation / Unterdrückung (Suppression)** | emotionale Reaktion unterdrücken |\n\nDie ersten vier Strategien heißen **antezedenzfokussiert** (setzen vor der vollständigen Reaktion an); Suppression ist **reaktionsfokussiert** (setzt nach Entstehung der Emotion an).\n\n> Die Strategien schließen sich nicht gegenseitig aus — im Alltag kombinieren wir sie."
+      "body": "## Emotionsregulation - was ist das?\n\n**Emotionsregulation** umfasst alle Strategien, mit denen wir das Auftreten, die Intensität, die Dauer oder den Ausdruck von Emotionen beeinflussen, bewusst oder unbewusst.\n\n## Das Prozessmodell von James Gross\n\nGross ordnet fünf Strategien entlang der **Zeitachse** einer Emotion:\n\n| Zeitpunkt | Strategie | Kernidee |\n|---|---|---|\n| 1. sehr früh | **Situationsauswahl** | Situationen suchen oder meiden |\n| 2. früh | **Situationsmodifikation** | die Situation aktiv verändern |\n| 3. mittel | **Aufmerksamkeitslenkung** | Fokus innerhalb der Situation steuern |\n| 4. spät | **Kognitive Neubewertung (Reappraisal)** | Bedeutung der Situation umdeuten |\n| 5. sehr spät | **Reaktionsmodulation / Unterdrückung (Suppression)** | emotionale Reaktion unterdrücken |\n\nDie ersten vier Strategien heißen **antezedenzfokussiert** (setzen vor der vollständigen Reaktion an); Suppression ist **reaktionsfokussiert** (setzt nach Entstehung der Emotion an).\n\n> Die Strategien schließen sich nicht gegenseitig aus, im Alltag kombinieren wir sie."
     },
     {
       "id": "step-reappraisal-ei",
       "type": "theory",
       "title": "Neubewertung vs. Unterdrückung und emotionale Intelligenz",
-      "body": "## Warum ist Neubewertung günstiger als Unterdrückung?\n\nEin zentraler Befund der Emotionsforschung (Gross & John, 2003):\n\n| Kriterium | Neubewertung (Reappraisal) | Unterdrückung (Suppression) |\n|---|---|---|\n| Einsatzzeitpunkt | früh (kognitiv, vor Reaktion) | spät (nach Reaktionsbeginn) |\n| Subjektives Erleben | wird reduziert | bleibt bestehen |\n| Physiologische Erregung | wird reduziert | bleibt erhöht oder steigt |\n| Gedächtnisleistung | kaum beeinträchtigt | verschlechtert |\n| Wohlbefinden langfristig | besser | schlechter |\n| Soziale Wirkung | authentischer | wirkt distanziert |\n\n**Kurzformel:** Neubewertung ändert die *Bewertung* der Situation — das Problem löst sich kognitiv. Unterdrückung verbirgt nur die Reaktion, der innere Stress bleibt.\n\n## Emotionale Intelligenz (EI)\n\nVertieft aus **Lektion 11**: **Emotionale Intelligenz** (Mayer, Salovey & Caruso) umfasst vier Fähigkeiten:\n\n1. Emotionen **wahrnehmen** (bei sich und anderen)\n2. Emotionen zur **Denkunterstützung nutzen**\n3. Emotionen **verstehen** (Ursachen, Verläufe)\n4. Emotionen **regulieren** (bei sich und anderen)\n\nHohe EI ist mit besserer **psychischer Gesundheit**, tieferen sozialen Beziehungen und höherer Lebenszufriedenheit verbunden — wer Emotionen gut reguliert (besonders durch Reappraisal), leidet seltener an Depression und Angststörungen."
+      "body": "## Warum ist Neubewertung günstiger als Unterdrückung?\n\nEin zentraler Befund der Emotionsforschung (Gross & John, 2003):\n\n| Kriterium | Neubewertung (Reappraisal) | Unterdrückung (Suppression) |\n|---|---|---|\n| Einsatzzeitpunkt | früh (kognitiv, vor Reaktion) | spät (nach Reaktionsbeginn) |\n| Subjektives Erleben | wird reduziert | bleibt bestehen |\n| Physiologische Erregung | wird reduziert | bleibt erhöht oder steigt |\n| Gedächtnisleistung | kaum beeinträchtigt | verschlechtert |\n| Wohlbefinden langfristig | besser | schlechter |\n| Soziale Wirkung | authentischer | wirkt distanziert |\n\n**Kurzformel:** Neubewertung ändert die *Bewertung* der Situation, das Problem löst sich kognitiv. Unterdrückung verbirgt nur die Reaktion, der innere Stress bleibt.\n\n## Emotionale Intelligenz (EI)\n\nVertieft aus **Lektion 11**: **Emotionale Intelligenz** (Mayer, Salovey & Caruso) umfasst vier Fähigkeiten:\n\n1. Emotionen **wahrnehmen** (bei sich und anderen)\n2. Emotionen zur **Denkunterstützung nutzen**\n3. Emotionen **verstehen** (Ursachen, Verläufe)\n4. Emotionen **regulieren** (bei sich und anderen)\n\nHohe EI ist mit besserer **psychischer Gesundheit**, tieferen sozialen Beziehungen und höherer Lebenszufriedenheit verbunden, wer Emotionen gut reguliert (besonders durch Reappraisal), leidet seltener an Depression und Angststörungen."
     },
     {
       "id": "ex-match-gross-strategien",
@@ -219,7 +219,7 @@
         "id": "ex-free-suppression-nachteile",
         "stable_id": "ex-ms942qpq15xh4",
         "type": "free_text",
-        "prompt": "Welche Strategie gilt laut Gross als weniger günstig — weil sie die Emotion nur verbirgt, aber physiologischen Stress erhöht?",
+        "prompt": "Welche Strategie gilt laut Gross als weniger günstig, weil sie die Emotion nur verbirgt, aber physiologischen Stress erhöht?",
         "card_ids": ["suppression", "reappraisal-vs-suppression"],
         "accept": ["Unterdrückung", "Suppression", "Reaktionsmodulation", "Reaktionsunterdrückung"],
         "hint": "Späteste Strategie im Prozessmodell; englisch: Suppression.",
@@ -276,7 +276,7 @@
           { "accept": ["Situationsauswahl", "Situationsselection", "Situation Selection"] }
         ],
         "cloze_mode": "type",
-        "hint": "Noch bevor man in der Situation ist — man wählt sie aus."
+        "hint": "Noch bevor man in der Situation ist, man wählt sie aus."
       }
     }
   ]

@@ -1,7 +1,7 @@
 {
   "id": "85-wiederholung-forensische-psychologie",
   "title": "Wiederholung: Forensische Psychologie",
-  "description": "Große Wiederholung der forensisch-psychologischen Grundlagen aus den Lektionen 81–84: Aussagepsychologie und Augenzeugen, Glaubhaftigkeitsbegutachtung, Schuldfähigkeit sowie Täterprofile und Kriminalprognose — sachlich, mit Blick auf die Grenzen der Methoden.",
+  "description": "Große Wiederholung der forensisch-psychologischen Grundlagen aus den Lektionen 81–84: Aussagepsychologie und Augenzeugen, Glaubhaftigkeitsbegutachtung, Schuldfähigkeit sowie Täterprofile und Kriminalprognose, sachlich, mit Blick auf die Grenzen der Methoden.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -11,7 +11,7 @@
       "id": "augenzeugen-recap",
       "stable_id": "card-ms942qq71kca8",
       "front": "Unzuverlässigkeit von Augenzeugen",
-      "back": "Augenzeugenaussagen wirken oft überzeugend, sind aber häufig fehlerhaft — Fehlidentifikationen zählen zu den Hauptursachen von Fehlurteilen (z. B. belegt durch das Innocence Project).",
+      "back": "Augenzeugenaussagen wirken oft überzeugend, sind aber häufig fehlerhaft, Fehlidentifikationen zählen zu den Hauptursachen von Fehlurteilen (z. B. belegt durch das Innocence Project).",
       "notes": "Lektion 81. Überzeugend wirkend ≠ korrekt.",
       "media_type": "text",
       "difficulty": 2,
@@ -21,7 +21,7 @@
       "id": "misinformation-recap",
       "stable_id": "card-ms942qq71kdeo",
       "front": "Misinformationseffekt (Misinformation Effect)",
-      "back": "Nachträgliche, irreführende Informationen — z. B. durch die Wortwahl einer Frage — verändern die Erinnerung an ein erlebtes Ereignis. Klassisch untersucht von Elizabeth Loftus.",
+      "back": "Nachträgliche, irreführende Informationen, z. B. durch die Wortwahl einer Frage, verändern die Erinnerung an ein erlebtes Ereignis. Klassisch untersucht von Elizabeth Loftus.",
       "notes": "Lektion 81. Schon 'raste' statt 'fuhr' verändert Schätzungen.",
       "media_type": "text",
       "difficulty": 3,
@@ -41,7 +41,7 @@
       "id": "kognitives-interview-recap",
       "stable_id": "card-ms942qq71kfyf",
       "front": "Kognitives Interview (Cognitive Interview)",
-      "back": "Eine wissenschaftlich fundierte Befragungstechnik: Kontext gedanklich wiederherstellen, frei erzählen lassen, offene Fragen stellen — gewinnt mehr korrekte Details ohne Suggestion.",
+      "back": "Eine wissenschaftlich fundierte Befragungstechnik: Kontext gedanklich wiederherstellen, frei erzählen lassen, offene Fragen stellen, gewinnt mehr korrekte Details ohne Suggestion.",
       "notes": "Lektion 81. Gegenentwurf zur suggestiven Befragung.",
       "media_type": "text",
       "difficulty": 3,
@@ -51,7 +51,7 @@
       "id": "undeutsch-hypothese",
       "stable_id": "card-ms942qq71kgsh",
       "front": "Undeutsch-Hypothese",
-      "back": "Erlebte Ereignisse unterscheiden sich in ihrer Aussagequalität systematisch von erfundenen — diese Prämisse bildet die Grundlage der kriterienbasierten Inhaltsanalyse (CBCA).",
+      "back": "Erlebte Ereignisse unterscheiden sich in ihrer Aussagequalität systematisch von erfundenen, diese Prämisse bildet die Grundlage der kriterienbasierten Inhaltsanalyse (CBCA).",
       "notes": "Lektion 82. Benannt nach Udo Undeutsch.",
       "media_type": "text",
       "difficulty": 3,
@@ -60,7 +60,7 @@
     {
       "id": "cbca",
       "stable_id": "card-ms942qq71kh12",
-      "front": "CBCA — Kriterienbasierte Inhaltsanalyse (Criteria-Based Content Analysis)",
+      "front": "CBCA, Kriterienbasierte Inhaltsanalyse (Criteria-Based Content Analysis)",
       "back": "Ein systematisches Verfahren zur Aussageanalyse: Es prüft anhand von Realkennzeichen (z. B. Detailreichtum, Schilderung eigener Gefühle, unerwartete Komplikationen), ob eine Aussage eher erlebnisbasiert wirkt.",
       "notes": "Lektion 82. Teil des SVA-Rahmens (Statement Validity Assessment).",
       "media_type": "text",
@@ -71,7 +71,7 @@
       "id": "glaubhaftigkeit-vs-glaubwuerdigkeit",
       "stable_id": "card-ms942qq71kiiz",
       "front": "Glaubhaftigkeit der Aussage ≠ Glaubwürdigkeit der Person",
-      "back": "Gutachten bewerten stets die Aussage (Inhalt, Entstehung, Qualität) — nicht die allgemeine Vertrauenswürdigkeit der Person. Kein Gutachten kann über 'Lügen' im Allgemeinen urteilen.",
+      "back": "Gutachten bewerten stets die Aussage (Inhalt, Entstehung, Qualität), nicht die allgemeine Vertrauenswürdigkeit der Person. Kein Gutachten kann über 'Lügen' im Allgemeinen urteilen.",
       "notes": "Lektion 82. Grundprinzip forensisch-psychologischer Gutachten.",
       "media_type": "text",
       "difficulty": 4,
@@ -81,7 +81,7 @@
       "id": "paragraph-20-21",
       "stable_id": "card-ms942qq71kjks",
       "front": "§ 20 Schuldunfähigkeit vs. § 21 verminderte Schuldfähigkeit (StGB)",
-      "back": "§ 20: Vollständige Schuldunfähigkeit — Einsichts- oder Steuerungsfähigkeit war zur Tatzeit aufgehoben. § 21: Verminderte Schuldfähigkeit — diese Fähigkeit war erheblich vermindert, aber nicht aufgehoben.",
+      "back": "§ 20: Vollständige Schuldunfähigkeit, Einsichts- oder Steuerungsfähigkeit war zur Tatzeit aufgehoben. § 21: Verminderte Schuldfähigkeit, diese Fähigkeit war erheblich vermindert, aber nicht aufgehoben.",
       "notes": "Lektion 83. Entscheidung trifft das Gericht, nicht der Sachverständige.",
       "media_type": "text",
       "difficulty": 4,
@@ -91,7 +91,7 @@
       "id": "eingangsmerkmale",
       "stable_id": "card-ms942qq71kkph",
       "front": "Vier Eingangsmerkmale (§ 20 StGB)",
-      "back": "Krankhafte seelische Störung, tiefgreifende Bewusstseinsstörung, Intelligenzminderung (früher: Schwachsinn), schwere andere seelische Störung — nur wenn eines vorliegt, folgt die zweistufige Prüfung der Einsichts- und Steuerungsfähigkeit.",
+      "back": "Krankhafte seelische Störung, tiefgreifende Bewusstseinsstörung, Intelligenzminderung (früher: Schwachsinn), schwere andere seelische Störung, nur wenn eines vorliegt, folgt die zweistufige Prüfung der Einsichts- und Steuerungsfähigkeit.",
       "notes": "Lektion 83. Zweistufige Prüfung: erst Eingangsmerkmal, dann Auswirkung auf die Fähigkeiten.",
       "media_type": "text",
       "difficulty": 4,
@@ -100,7 +100,7 @@
     {
       "id": "profiling-umstritten",
       "stable_id": "card-ms942qq71kla2",
-      "front": "Täterprofil (Offender Profiling) — wissenschaftlich umstritten",
+      "front": "Täterprofil (Offender Profiling), wissenschaftlich umstritten",
       "back": "Das FBI-typologische Profiling (z. B. organized/disorganized) entbehrt einer robusten empirischen Basis. Die statistische Investigative Psychologie liefert fundiertere, aber immer noch begrenzte Vorhersagen.",
       "notes": "Lektion 84. Profiling ≠ zuverlässige Identifikation.",
       "media_type": "text",
@@ -111,7 +111,7 @@
       "id": "aktuarische-prognose",
       "stable_id": "card-ms942qq71kmd7",
       "front": "Aktuarische Prognose (Actuarial Risk Assessment)",
-      "back": "Risikoeinschätzung auf Basis statistisch validierter Faktoren (z. B. Alter bei Ersttat, frühere Delikte) — überlegen gegenüber der unstrukturierten klinischen Einschätzung, aber keine Einzelfallvorhersage.",
+      "back": "Risikoeinschätzung auf Basis statistisch validierter Faktoren (z. B. Alter bei Ersttat, frühere Delikte), überlegen gegenüber der unstrukturierten klinischen Einschätzung, aber keine Einzelfallvorhersage.",
       "notes": "Lektion 84. Kriminalprognose schätzt Gruppenrisiken, keine individuellen Gewissheiten.",
       "media_type": "text",
       "difficulty": 4,
@@ -120,7 +120,7 @@
     {
       "id": "sachverstaendiger-gericht",
       "stable_id": "card-ms942qq71kn9i",
-      "front": "Sachverständiger berät — Gericht entscheidet",
+      "front": "Sachverständiger berät, Gericht entscheidet",
       "back": "Der psychologische oder psychiatrische Sachverständige legt seine Befunde dar; die rechtliche Entscheidung über Schuldfähigkeit, Maßregelvollzug usw. liegt allein beim Gericht.",
       "notes": "Lektion 83. Klare Rollentrennung zwischen Wissenschaft und Rechtsprechung.",
       "media_type": "text",
@@ -143,19 +143,19 @@
       "id": "intro-wiederholung",
       "type": "theory",
       "title": "Überblick: Forensische Psychologie (Lektionen 81–84)",
-      "body": "# Wiederholung: Forensische Psychologie\n\nZeit für die große Wiederholung: In den Lektionen 81–84 ging es um Aussagepsychologie und Augenzeugen, Glaubhaftigkeitsbegutachtung, Schuldfähigkeit sowie Täterprofile und Kriminalprognose. Diese Lektion mischt alles — sachlich und mit Blick auf die Grenzen der Methoden.\n\n## Vier Themenfelder im Überblick\n\n| Lektion | Thema | Kernbefund |\n|---|---|---|\n| **81** | Aussagepsychologie & Augenzeugen | Augenzeugen sind fehleranfällig; rekonstruktives Gedächtnis, Misinformationseffekt, Confidence-Accuracy-Problem |\n| **82** | Glaubhaftigkeitsbegutachtung | Undeutsch-Hypothese, CBCA/Realkennzeichen, Nullhypothese; Aussage ≠ Person |\n| **83** | Schuldfähigkeit & Zurechnungsfähigkeit | § 20/§ 21 StGB, vier Eingangsmerkmale, zweistufige Prüfung; Sachverständiger berät, Gericht entscheidet |\n| **84** | Täterprofile & Kriminalprognose | Profiling wissenschaftlich begrenzt; aktuarische Prognose besser als klinisch-unstrukturiert, aber keine Einzelfallgewissheit |\n\n> **Roter Faden**: In jedem dieser Felder liefert die Psychologie wertvolle wissenschaftliche Erkenntnisse — und zeigt zugleich deren **Grenzen** klar auf. Das ist keine Schwäche, sondern wissenschaftliche Redlichkeit."
+      "body": "# Wiederholung: Forensische Psychologie\n\nZeit für die große Wiederholung: In den Lektionen 81–84 ging es um Aussagepsychologie und Augenzeugen, Glaubhaftigkeitsbegutachtung, Schuldfähigkeit sowie Täterprofile und Kriminalprognose. Diese Lektion mischt alles, sachlich und mit Blick auf die Grenzen der Methoden.\n\n## Vier Themenfelder im Überblick\n\n| Lektion | Thema | Kernbefund |\n|---|---|---|\n| **81** | Aussagepsychologie & Augenzeugen | Augenzeugen sind fehleranfällig; rekonstruktives Gedächtnis, Misinformationseffekt, Confidence-Accuracy-Problem |\n| **82** | Glaubhaftigkeitsbegutachtung | Undeutsch-Hypothese, CBCA/Realkennzeichen, Nullhypothese; Aussage ≠ Person |\n| **83** | Schuldfähigkeit & Zurechnungsfähigkeit | § 20/§ 21 StGB, vier Eingangsmerkmale, zweistufige Prüfung; Sachverständiger berät, Gericht entscheidet |\n| **84** | Täterprofile & Kriminalprognose | Profiling wissenschaftlich begrenzt; aktuarische Prognose besser als klinisch-unstrukturiert, aber keine Einzelfallgewissheit |\n\n> **Roter Faden**: In jedem dieser Felder liefert die Psychologie wertvolle wissenschaftliche Erkenntnisse, und zeigt zugleich deren **Grenzen** klar auf. Das ist keine Schwäche, sondern wissenschaftliche Redlichkeit."
     },
     {
       "id": "step-aussage-glaubhaftigkeit",
       "type": "theory",
       "title": "Aussagepsychologie und Glaubhaftigkeitsbegutachtung",
-      "body": "## Lektionen 81 & 82 — Zeugenaussagen und ihre Bewertung\n\n### Warum Gedächtnis täuscht\n\nErinnern ist **Rekonstruktion**, kein Abspielen einer Aufnahme. Drei klassische Fehlerquellen:\n\n- **Misinformationseffekt**: Nachträgliche Informationen — schon durch Frageformulierung — können Erinnerungen verändern (Loftus).\n- **Waffenfokus-Effekt**: Aufmerksamkeit konzentriert sich auf die Waffe → Tätergesicht schlechter kodiert.\n- **Confidence-Accuracy-Problem**: Hohes Sicherheitsgefühl des Zeugen sagt Korrektheit nur schwach voraus.\n\n### Die bessere Befragung\n\nDas **kognitive Interview** (Kontext wiederherstellen, frei erzählen lassen, offene Fragen) und **faire Gegenüberstellungen** (sequenziell, doppelblind, neutral instruiert) reduzieren Fehler.\n\n### Glaubhaftigkeitsbegutachtung\n\nDie **Undeutsch-Hypothese** bildet das Fundament: erlebte Aussagen unterscheiden sich systematisch von erfundenen. Die **CBCA** prüft anhand von Realkennzeichen. Immer gilt die **Nullhypothese**: Ausgangspunkt ist, dass die Aussage *nicht* erlebnisbasiert ist — erst wenn diese Annahme nicht widerlegt werden kann, gilt die Aussage als glaubhaft.\n\n> Wichtige Unterscheidung: Das Gutachten bewertet die **Aussage**, nicht die Person. Ein **Lügendetektor** (Polygraf) hat in Deutschland keine forensische Zulassung."
+      "body": "## Lektionen 81 & 82 - Zeugenaussagen und ihre Bewertung\n\n### Warum Gedächtnis täuscht\n\nErinnern ist **Rekonstruktion**, kein Abspielen einer Aufnahme. Drei klassische Fehlerquellen:\n\n- **Misinformationseffekt**: Nachträgliche Informationen, schon durch Frageformulierung, können Erinnerungen verändern (Loftus).\n- **Waffenfokus-Effekt**: Aufmerksamkeit konzentriert sich auf die Waffe → Tätergesicht schlechter kodiert.\n- **Confidence-Accuracy-Problem**: Hohes Sicherheitsgefühl des Zeugen sagt Korrektheit nur schwach voraus.\n\n### Die bessere Befragung\n\nDas **kognitive Interview** (Kontext wiederherstellen, frei erzählen lassen, offene Fragen) und **faire Gegenüberstellungen** (sequenziell, doppelblind, neutral instruiert) reduzieren Fehler.\n\n### Glaubhaftigkeitsbegutachtung\n\nDie **Undeutsch-Hypothese** bildet das Fundament: erlebte Aussagen unterscheiden sich systematisch von erfundenen. Die **CBCA** prüft anhand von Realkennzeichen. Immer gilt die **Nullhypothese**: Ausgangspunkt ist, dass die Aussage *nicht* erlebnisbasiert ist, erst wenn diese Annahme nicht widerlegt werden kann, gilt die Aussage als glaubhaft.\n\n> Wichtige Unterscheidung: Das Gutachten bewertet die **Aussage**, nicht die Person. Ein **Lügendetektor** (Polygraf) hat in Deutschland keine forensische Zulassung."
     },
     {
       "id": "step-schuld-prognose",
       "type": "theory",
       "title": "Schuldfähigkeit und Kriminalprognose",
-      "body": "## Lektionen 83 & 84 — Rechtliche Einschätzungen und ihre Grenzen\n\n### Schuldfähigkeit (§§ 20, 21 StGB)\n\nDie zweistufige Prüfung folgt einem festen Schema:\n\n1. **Eingangsmerkmal** vorhanden? — krankhafte seelische Störung, tiefgreifende Bewusstseinsstörung, Intelligenzminderung oder schwere andere seelische Störung.\n2. **Auswirkung** auf Einsichts- oder Steuerungsfähigkeit? — aufgehoben (§ 20) oder erheblich vermindert (§ 21)?\n\nDer **Sachverständige** erläutert den Befund; das **Gericht** fällt die Entscheidung. Bei Schuldunfähigkeit kann der Maßregelvollzug angeordnet werden.\n\n### Täterprofiling und Kriminalprognose\n\n| Ansatz | Stärke | Schwäche |\n|---|---|---|\n| FBI-Profiling (typologisch) | anschaulich | kaum empirisch validiert |\n| Investigative Psychologie (statistisch) | evidenzbasierter | begrenzte Vorhersagekraft |\n| Unstrukturierte klinische Prognose | individuell | weniger valide als aktuarische Verfahren |\n| Aktuarische Prognose | statistisch robust | schätzt Gruppenrisiken, keine Einzelfallgewissheit |\n\n> Kriminalprognose und Profiling sind wissenschaftliche Hilfsmittel mit klar definierten Grenzen — sie ersetzen keine richterliche Entscheidung und liefern keine Gewissheit über Einzelpersonen."
+      "body": "## Lektionen 83 & 84 - Rechtliche Einschätzungen und ihre Grenzen\n\n### Schuldfähigkeit (§§ 20, 21 StGB)\n\nDie zweistufige Prüfung folgt einem festen Schema:\n\n1. **Eingangsmerkmal** vorhanden?, krankhafte seelische Störung, tiefgreifende Bewusstseinsstörung, Intelligenzminderung oder schwere andere seelische Störung.\n2. **Auswirkung** auf Einsichts- oder Steuerungsfähigkeit?, aufgehoben (§ 20) oder erheblich vermindert (§ 21)?\n\nDer **Sachverständige** erläutert den Befund; das **Gericht** fällt die Entscheidung. Bei Schuldunfähigkeit kann der Maßregelvollzug angeordnet werden.\n\n### Täterprofiling und Kriminalprognose\n\n| Ansatz | Stärke | Schwäche |\n|---|---|---|\n| FBI-Profiling (typologisch) | anschaulich | kaum empirisch validiert |\n| Investigative Psychologie (statistisch) | evidenzbasierter | begrenzte Vorhersagekraft |\n| Unstrukturierte klinische Prognose | individuell | weniger valide als aktuarische Verfahren |\n| Aktuarische Prognose | statistisch robust | schätzt Gruppenrisiken, keine Einzelfallgewissheit |\n\n> Kriminalprognose und Profiling sind wissenschaftliche Hilfsmittel mit klar definierten Grenzen, sie ersetzen keine richterliche Entscheidung und liefern keine Gewissheit über Einzelpersonen."
     },
     {
       "id": "ex-match-themenfelder",
@@ -193,7 +193,7 @@
           { "accept": ["Nullhypothese", "Annahme", "Ausgangshypothese"] }
         ],
         "cloze_mode": "type",
-        "hint": "Der wissenschaftliche Ausgangspunkt, der widerlegt werden muss — die …"
+        "hint": "Der wissenschaftliche Ausgangspunkt, der widerlegt werden muss, die …"
       }
     },
     {
@@ -236,7 +236,7 @@
       "id": "ex-cloze-paragraph20",
       "type": "exercise",
       "theory_ref": "intro-wiederholung",
-      "title": "§ 20 StGB — Schuldunfähigkeit",
+      "title": "§ 20 StGB - Schuldunfähigkeit",
       "exercise": {
         "id": "ex-cloze-paragraph20",
         "stable_id": "ex-ms942qq71kta8",
@@ -271,7 +271,7 @@
       "id": "ex-free-eingangsmerkmale",
       "type": "exercise",
       "theory_ref": "intro-wiederholung",
-      "title": "Eingangsmerkmale — wie viele?",
+      "title": "Eingangsmerkmale - wie viele?",
       "exercise": {
         "id": "ex-free-eingangsmerkmale",
         "stable_id": "ex-ms942qq71kvqs",
@@ -279,7 +279,7 @@
         "prompt": "Wie viele Eingangsmerkmale kennt § 20 StGB, die die zweistufige Prüfung der Schuldfähigkeit auslösen?",
         "card_ids": ["eingangsmerkmale"],
         "accept": ["vier", "4", "vier Eingangsmerkmale"],
-        "hint": "Krankhafte seelische Störung, tiefgreifende Bewusstseinsstörung, Intelligenzminderung, schwere andere seelische Störung — das sind … Eingangsmerkmale.",
+        "hint": "Krankhafte seelische Störung, tiefgreifende Bewusstseinsstörung, Intelligenzminderung, schwere andere seelische Störung, das sind … Eingangsmerkmale.",
         "distractors": ["drei", "fünf", "zwei"],
         "direction": "target_to_source"
       }

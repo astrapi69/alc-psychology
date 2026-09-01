@@ -1,7 +1,7 @@
 {
   "id": "36-persoenlichkeit-vertieft",
   "title": "Persönlichkeit und differentielle Psychologie vertieft",
-  "description": "Das Eigenschaftsparadigma, die Big Five (OCEAN) im Detail, Eysencks PEN-Modell, Temperament, die Person-Situation-Debatte und die Messung von Persönlichkeit über Fragebögen — auf Deutsch erklärt.",
+  "description": "Das Eigenschaftsparadigma, die Big Five (OCEAN) im Detail, Eysencks PEN-Modell, Temperament, die Person-Situation-Debatte und die Messung von Persönlichkeit über Fragebögen, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -11,7 +11,7 @@
       "id": "eigenschaftsparadigma",
       "stable_id": "card-ms942qpd0u84p",
       "front": "Eigenschaftsparadigma (Trait-Ansatz)",
-      "back": "Theoretischer Rahmen der Persönlichkeitspsychologie, der annimmt, Persönlichkeit lasse sich durch stabile, messbare Eigenschaften (Traits) beschreiben — statt durch diskrete Typen.",
+      "back": "Theoretischer Rahmen der Persönlichkeitspsychologie, der annimmt, Persönlichkeit lasse sich durch stabile, messbare Eigenschaften (Traits) beschreiben, statt durch diskrete Typen.",
       "notes": "Vertiefung zu Lektion 8 (Persönlichkeit): dort wurden die Big Five eingeführt; hier vertiefen wir den theoretischen Rahmen dahinter.",
       "media_type": "text",
       "difficulty": 2,
@@ -30,7 +30,7 @@
     {
       "id": "big-five-ocean",
       "stable_id": "card-ms942qpd0uaw7",
-      "front": "Big Five / OCEAN — Überblick",
+      "front": "Big Five / OCEAN, Überblick",
       "back": "Die fünf faktorenanalytisch gewonnenen Persönlichkeitsdimensionen: Offenheit (Openness), Gewissenhaftigkeit (Conscientiousness), Extraversion (Extraversion), Verträglichkeit (Agreeableness), Neurotizismus (Neuroticism). Jede ist ein Kontinuum, kein Typ.",
       "notes": "Akronym OCEAN. In Lektion 8 bereits eingeführt; hier wird jeder Faktor detailliert betrachtet.",
       "media_type": "text",
@@ -40,7 +40,7 @@
     {
       "id": "offenheit-detail",
       "stable_id": "card-ms942qpd0ubcq",
-      "front": "Offenheit für Erfahrungen (Openness) — vertieft",
+      "front": "Offenheit für Erfahrungen (Openness), vertieft",
       "back": "Hohe Ausprägung: kreativ, neugierig, kunstinteressiert, offen für neue Ideen. Niedrige Ausprägung: konventionell, pragmatisch, routineorientiert.",
       "notes": "O in OCEAN. Sagt kreative Berufsleistung und intellektuelle Interessen voraus.",
       "media_type": "text",
@@ -50,7 +50,7 @@
     {
       "id": "gewissenhaftigkeit-detail",
       "stable_id": "card-ms942qpd0ucwh",
-      "front": "Gewissenhaftigkeit (Conscientiousness) — vertieft",
+      "front": "Gewissenhaftigkeit (Conscientiousness), vertieft",
       "back": "Hohe Ausprägung: diszipliniert, zuverlässig, planvoll, leistungsorientiert. Niedrige Ausprägung: impulsiv, unorganisiert, nachlässig.",
       "notes": "C in OCEAN. Stärkster Big-Five-Prädiktor für beruflichen Erfolg und Gesundheitsverhalten.",
       "media_type": "text",
@@ -80,7 +80,7 @@
     {
       "id": "psychotizismus",
       "stable_id": "card-ms942qpd0ufi0",
-      "front": "Psychotizismus (Psychoticism) — Eysenck",
+      "front": "Psychotizismus (Psychoticism), Eysenck",
       "back": "Dritte Dimension in Eysencks PEN-Modell: Neigung zu Kälte, Impulsivität, Feindseligkeit und fehlendem Mitgefühl. Hohe Ausprägung ist ein Risikofaktor für psychotische Störungen.",
       "notes": "Steht dem Konstrukt Verträglichkeit und Gewissenhaftigkeit der Big Five konzeptuell gegenüber.",
       "media_type": "text",
@@ -91,7 +91,7 @@
       "id": "temperament",
       "stable_id": "card-ms942qpd0ughq",
       "front": "Temperament (Temperament)",
-      "back": "Frühe, biologisch fundierte Grundlagen der Persönlichkeit, die bereits im Säuglings- und Kleinkindalter sichtbar sind — z. B. Reaktivität, Selbstregulation und Annäherung vs. Rückzug.",
+      "back": "Frühe, biologisch fundierte Grundlagen der Persönlichkeit, die bereits im Säuglings- und Kleinkindalter sichtbar sind, z. B. Reaktivität, Selbstregulation und Annäherung vs. Rückzug.",
       "notes": "Temperament gilt als Vorläufer der späteren Persönlichkeit; es ist stark genetisch mitbestimmt.",
       "media_type": "text",
       "difficulty": 3,
@@ -111,7 +111,7 @@
       "id": "interaktionismus",
       "stable_id": "card-ms942qpd0uizz",
       "front": "Interaktionismus (Interactionism)",
-      "back": "Lösung der Person-Situation-Debatte: Verhalten entsteht aus dem Zusammenspiel von stabilen Eigenschaften (Traits) und situativen Einflüssen — weder Person noch Situation allein reicht.",
+      "back": "Lösung der Person-Situation-Debatte: Verhalten entsteht aus dem Zusammenspiel von stabilen Eigenschaften (Traits) und situativen Einflüssen, weder Person noch Situation allein reicht.",
       "notes": "Moderne Persönlichkeitspsychologie folgt weitgehend dem interaktionistischen Standpunkt.",
       "media_type": "text",
       "difficulty": 4,
@@ -133,19 +133,19 @@
       "id": "theory-eigenschaft-big-five",
       "type": "theory",
       "title": "Das Eigenschaftsparadigma und die Big Five im Detail",
-      "body": "# Persönlichkeit vertieft: Das Eigenschaftsparadigma\n\n**Aufbauend auf Lektion 8** (Persönlichkeit) vertiefen wir den theoretischen Rahmen hinter den Big Five.\n\n## Traits statt Typen\n\nDas **Eigenschaftsparadigma (Trait-Ansatz)** nimmt an, dass Persönlichkeit aus stabilen, messbaren Eigenschaften besteht — keine diskreten Typen (z. B. ‚Introvertierter'), sondern kontinuierliche Dimensionen.\n\n## Die Big Five — faktorenanalytisch gewonnen\n\nDie **Big Five** wurden durch **Faktorenanalyse** (vgl. Lektion 29 Diagnostik) aus Tausenden von Eigenschaftswörtern extrahiert. Das Akronym **OCEAN** fasst sie zusammen:\n\n| Faktor | Deutsch | Hohe Ausprägung | Niedrige Ausprägung |\n|---|---|---|---|\n| **O** | Offenheit für Erfahrungen | kreativ, neugierig, kunstinteressiert | konventionell, pragmatisch |\n| **C** | Gewissenhaftigkeit | diszipliniert, zuverlässig, planvoll | impulsiv, unorganisiert |\n| **E** | Extraversion | gesellig, redselig, energiegeladen | zurückhaltend, ruhebedürftig |\n| **A** | Verträglichkeit | kooperativ, empathisch, hilfsbereit | misstrauisch, wettbewerbsorientiert |\n| **N** | Neurotizismus | ängstlich, reizbar, emotional instabil | ruhig, emotional stabil |\n\n> **Merke:** Jede Dimension ist ein **Kontinuum** — kein Mensch ist rein extrovertiert oder rein introvertiert."
+      "body": "# Persönlichkeit vertieft: Das Eigenschaftsparadigma\n\n**Aufbauend auf Lektion 8** (Persönlichkeit) vertiefen wir den theoretischen Rahmen hinter den Big Five.\n\n## Traits statt Typen\n\nDas **Eigenschaftsparadigma (Trait-Ansatz)** nimmt an, dass Persönlichkeit aus stabilen, messbaren Eigenschaften besteht, keine diskreten Typen (z. B. ‚Introvertierter'), sondern kontinuierliche Dimensionen.\n\n## Die Big Five - faktorenanalytisch gewonnen\n\nDie **Big Five** wurden durch **Faktorenanalyse** (vgl. Lektion 29 Diagnostik) aus Tausenden von Eigenschaftswörtern extrahiert. Das Akronym **OCEAN** fasst sie zusammen:\n\n| Faktor | Deutsch | Hohe Ausprägung | Niedrige Ausprägung |\n|---|---|---|---|\n| **O** | Offenheit für Erfahrungen | kreativ, neugierig, kunstinteressiert | konventionell, pragmatisch |\n| **C** | Gewissenhaftigkeit | diszipliniert, zuverlässig, planvoll | impulsiv, unorganisiert |\n| **E** | Extraversion | gesellig, redselig, energiegeladen | zurückhaltend, ruhebedürftig |\n| **A** | Verträglichkeit | kooperativ, empathisch, hilfsbereit | misstrauisch, wettbewerbsorientiert |\n| **N** | Neurotizismus | ängstlich, reizbar, emotional instabil | ruhig, emotional stabil |\n\n> **Merke:** Jede Dimension ist ein **Kontinuum**, kein Mensch ist rein extrovertiert oder rein introvertiert."
     },
     {
       "id": "theory-eysenck-temperament",
       "type": "theory",
       "title": "Eysencks PEN-Modell und Temperament",
-      "body": "## Eysencks PEN-Modell\n\n**Hans Eysenck** entwickelte ein biologisch fundiertes Drei-Dimensionen-Modell der Persönlichkeit:\n\n| Dimension | Beschreibung | Biologische Basis |\n|---|---|---|\n| **P** — Psychotizismus | Kälte, Impulsivität, Feindseligkeit | niedriger Serotoninspiegel |\n| **E** — Extraversion | Geselligkeit vs. Rückzug | kortikales Erregungsniveau (Arousal) |\n| **N** — Neurotizismus | emotionale Instabilität vs. Stabilität | Reaktivität des limbischen Systems |\n\nEysenck erklärte **Introversion** durch ein höheres kortikales Grundniveau: Introvertierte sind bereits intern gut erregt und meiden weitere Stimulation.\n\n## Temperament\n\n**Temperament** bezeichnet frühe, biologisch fundierte Grundlagen der Persönlichkeit, die schon im Säuglingsalter erkennbar sind — z. B. Reaktivität, Annäherung vs. Rückzug und Selbstregulation. Es gilt als **Vorläufer** der späteren Persönlichkeit und ist stark genetisch mitbestimmt."
+      "body": "## Eysencks PEN-Modell\n\n**Hans Eysenck** entwickelte ein biologisch fundiertes Drei-Dimensionen-Modell der Persönlichkeit:\n\n| Dimension | Beschreibung | Biologische Basis |\n|---|---|---|\n| **P**, Psychotizismus | Kälte, Impulsivität, Feindseligkeit | niedriger Serotoninspiegel |\n| **E**, Extraversion | Geselligkeit vs. Rückzug | kortikales Erregungsniveau (Arousal) |\n| **N**, Neurotizismus | emotionale Instabilität vs. Stabilität | Reaktivität des limbischen Systems |\n\nEysenck erklärte **Introversion** durch ein höheres kortikales Grundniveau: Introvertierte sind bereits intern gut erregt und meiden weitere Stimulation.\n\n## Temperament\n\n**Temperament** bezeichnet frühe, biologisch fundierte Grundlagen der Persönlichkeit, die schon im Säuglingsalter erkennbar sind, z. B. Reaktivität, Annäherung vs. Rückzug und Selbstregulation. Es gilt als **Vorläufer** der späteren Persönlichkeit und ist stark genetisch mitbestimmt."
     },
     {
       "id": "theory-person-situation",
       "type": "theory",
       "title": "Person-Situation-Debatte und Messung",
-      "body": "## Die Person-Situation-Debatte\n\n**Walter Mischel** (1968) stellte in seiner einflussreichen Kritik fest, dass Persönlichkeitskoeffizienten (Korrelationen zwischen Trait-Maßen und Verhalten) selten über **0,30** liegen — er schloss daraus, Situationen seien mächtiger als Eigenschaften.\n\n**Reaktion und Lösung:** Neuere Forschung zeigt durch *Aggregation* (viele Verhaltensmessungen zusammenfassen) deutlich höhere Konsistenzen. Der moderne **Interaktionismus** lautet:\n\n> Verhalten = Person × Situation\n\n| Standpunkt | Position |\n|---|---|\n| **Trait-Ansatz** | stabile Eigenschaften bestimmen Verhalten |\n| **Situationismus** (Mischel) | Situation bestimmt Verhalten |\n| **Interaktionismus** | Person und Situation wirken zusammen |\n\n## Messung über Fragebögen\n\nPersönlichkeit wird am häufigsten mit **Fragebögen** (Selbstauskunft) erfasst — z. B. **NEO-FFI** für die Big Five. Wie in **Lektion 29 (Diagnostik)** gilt: Reliabilität, Validität und Objektivität sind die zentralen Gütekriterien."
+      "body": "## Die Person-Situation-Debatte\n\n**Walter Mischel** (1968) stellte in seiner einflussreichen Kritik fest, dass Persönlichkeitskoeffizienten (Korrelationen zwischen Trait-Maßen und Verhalten) selten über **0,30** liegen, er schloss daraus, Situationen seien mächtiger als Eigenschaften.\n\n**Reaktion und Lösung:** Neuere Forschung zeigt durch *Aggregation* (viele Verhaltensmessungen zusammenfassen) deutlich höhere Konsistenzen. Der moderne **Interaktionismus** lautet:\n\n> Verhalten = Person × Situation\n\n| Standpunkt | Position |\n|---|---|\n| **Trait-Ansatz** | stabile Eigenschaften bestimmen Verhalten |\n| **Situationismus** (Mischel) | Situation bestimmt Verhalten |\n| **Interaktionismus** | Person und Situation wirken zusammen |\n\n## Messung über Fragebögen\n\nPersönlichkeit wird am häufigsten mit **Fragebögen** (Selbstauskunft) erfasst, z. B. **NEO-FFI** für die Big Five. Wie in **Lektion 29 (Diagnostik)** gilt: Reliabilität, Validität und Objektivität sind die zentralen Gütekriterien."
     },
     {
       "id": "ex-match-ocean-detail",
@@ -191,7 +191,7 @@
       "id": "ex-match-person-situation",
       "type": "exercise",
       "theory_ref": "theory-person-situation",
-      "title": "Person-Situation-Debatte — Standpunkte zuordnen",
+      "title": "Person-Situation-Debatte - Standpunkte zuordnen",
       "exercise": {
         "id": "ex-match-person-situation",
         "stable_id": "ex-ms942qpd0umm1",
@@ -210,7 +210,7 @@
       "id": "ex-cloze-faktorenanalyse",
       "type": "exercise",
       "theory_ref": "theory-eigenschaft-big-five",
-      "title": "Big Five — Entstehung ergänzen",
+      "title": "Big Five - Entstehung ergänzen",
       "exercise": {
         "id": "ex-cloze-faktorenanalyse",
         "stable_id": "ex-ms942qpd0uny0",
@@ -241,7 +241,7 @@
           { "accept": ["Erregungsniveau", "Grunderregungsniveau", "Arousal"] }
         ],
         "cloze_mode": "type",
-        "hint": "Englisch: Arousal — das Niveau der inneren Aktivierung."
+        "hint": "Englisch: Arousal, das Niveau der inneren Aktivierung."
       }
     },
     {
@@ -256,7 +256,7 @@
         "prompt": "Wie heißt der theoretische Rahmen, der Persönlichkeit durch stabile Eigenschaften (statt Typen) beschreibt?",
         "card_ids": ["eigenschaftsparadigma"],
         "accept": ["Eigenschaftsparadigma", "Trait-Ansatz", "das Eigenschaftsparadigma", "der Trait-Ansatz", "Eigenschaftstheorie"],
-        "hint": "Aus 'Eigenschaft' + 'Paradigma' — oder englisch 'Trait-Ansatz'.",
+        "hint": "Aus 'Eigenschaft' + 'Paradigma', oder englisch 'Trait-Ansatz'.",
         "distractors": ["Typentheorie", "Situationismus", "Instanzenmodell"],
         "direction": "target_to_source"
       }
@@ -273,7 +273,7 @@
         "prompt": "Wie nennt man die frühen, biologisch fundierten Grundlagen der Persönlichkeit, die bereits im Säuglingsalter sichtbar sind?",
         "card_ids": ["temperament"],
         "accept": ["Temperament", "das Temperament", "Temperamentsmerkmal", "Temperamentsgrundlage"],
-        "hint": "Von lateinisch 'temperamentum' — das Mischungsverhältnis.",
+        "hint": "Von lateinisch 'temperamentum', das Mischungsverhältnis.",
         "distractors": ["Charakter", "Einstellung", "Selbstkonzept"],
         "direction": "target_to_source"
       }

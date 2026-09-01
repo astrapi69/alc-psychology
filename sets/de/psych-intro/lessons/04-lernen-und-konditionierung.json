@@ -1,7 +1,7 @@
 {
   "id": "04-lernen-und-konditionierung",
   "title": "Lernen und Konditionierung",
-  "description": "Klassische und operante Konditionierung, Verstärkungspläne und Beobachtungslernen — auf Deutsch erklärt.",
+  "description": "Klassische und operante Konditionierung, Verstärkungspläne und Beobachtungslernen, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -87,7 +87,7 @@
       "stable_id": "card-ms942qoj051bx",
       "front": "Negative Verstärkung",
       "back": "Verhalten wird häufiger, weil ein unangenehmer Reiz ENTFERNT wird (z. B. Kopfschmerz verschwindet nach Tablette).",
-      "notes": "Achtung: Negative Verstärkung ist KEINE Bestrafung — das Verhalten nimmt zu!",
+      "notes": "Achtung: Negative Verstärkung ist KEINE Bestrafung, das Verhalten nimmt zu!",
       "tags": ["operante-konditionierung", "verstaerkung"]
     },
     {
@@ -110,7 +110,7 @@
       "id": "verstaerkungsplan",
       "stable_id": "card-ms942qoj054m5",
       "front": "Verstärkungsplan (Reinforcement Schedule)",
-      "back": "Regel, nach der Verstärkungen gegeben werden — kontinuierlich (jedes Mal) oder intermittierend (gelegentlich).",
+      "back": "Regel, nach der Verstärkungen gegeben werden, kontinuierlich (jedes Mal) oder intermittierend (gelegentlich).",
       "notes": "Intermittierende Pläne erzeugen robusteres Verhalten (löschungsresistenter).",
       "tags": ["operante-konditionierung", "verstaerkungsplan"]
     },
@@ -119,7 +119,7 @@
       "stable_id": "card-ms942qoj055zz",
       "front": "Quotenplan (Ratio Schedule)",
       "back": "Verstärkung erfolgt nach einer bestimmten Anzahl von Reaktionen (fest oder variabel).",
-      "notes": "Beispiel variabler Quotenplan: Spielautomaten — auszahlen nach unvorhergesehener Zahl von Versuchen.",
+      "notes": "Beispiel variabler Quotenplan: Spielautomaten, auszahlen nach unvorhergesehener Zahl von Versuchen.",
       "tags": ["operante-konditionierung", "verstaerkungsplan"]
     },
     {
@@ -135,14 +135,14 @@
       "stable_id": "card-ms942qoj0576y",
       "front": "Albert Bandura",
       "back": "Psychologe, der das Beobachtungslernen systematisch erforschte; bekannt für das Bobo-Doll-Experiment.",
-      "notes": "Banduras Theorie zeigt: Lernen braucht keine direkte Verstärkung — Beobachten genügt.",
+      "notes": "Banduras Theorie zeigt: Lernen braucht keine direkte Verstärkung, Beobachten genügt.",
       "tags": ["beobachtungslernen", "bandura", "person"]
     },
     {
       "id": "pawlow",
       "stable_id": "card-ms942qoj0582i",
       "front": "Iwan Pawlow (Ivan Pavlov)",
-      "back": "Russischer Physiologe, der die klassische Konditionierung entdeckte — bekannt für das Hundeexperiment mit Glockenton und Futter.",
+      "back": "Russischer Physiologe, der die klassische Konditionierung entdeckte, bekannt für das Hundeexperiment mit Glockenton und Futter.",
       "notes": "Erhielt 1904 den Nobelpreis für Medizin (ursprünglich für Verdauungsforschung).",
       "tags": ["klassische-konditionierung", "pawlow", "person"]
     }
@@ -164,7 +164,7 @@
       "id": "theory-beobachtung",
       "type": "theory",
       "title": "Beobachtungslernen (Bandura)",
-      "body": "# Beobachtungslernen\n\nAlbert **Bandura** zeigte: Menschen lernen auch *ohne* direkte Verstärkung — allein durch Beobachten.\n\n**Bobo-Doll-Experiment (1961):** Kinder sahen einen Erwachsenen, der eine Bobo-Puppe aggressiv behandelte. Danach zeigten die Kinder ähnliches aggressives Verhalten — selbst ohne Belohnung.\n\n**Vier Schritte des Modelllernens:**\n1. **Aufmerksamkeit** — das Modell beachten\n2. **Behalten** — die Handlung im Gedächtnis speichern\n3. **Reproduktion** — die Handlung ausführen können\n4. **Motivation** — bereit sein, das Verhalten zu zeigen\n\nBanduras Arbeit verband Behaviorismus und Kognitionspsychologie."
+      "body": "# Beobachtungslernen\n\nAlbert **Bandura** zeigte: Menschen lernen auch *ohne* direkte Verstärkung, allein durch Beobachten.\n\n**Bobo-Doll-Experiment (1961):** Kinder sahen einen Erwachsenen, der eine Bobo-Puppe aggressiv behandelte. Danach zeigten die Kinder ähnliches aggressives Verhalten, selbst ohne Belohnung.\n\n**Vier Schritte des Modelllernens:**\n1. **Aufmerksamkeit**, das Modell beachten\n2. **Behalten**, die Handlung im Gedächtnis speichern\n3. **Reproduktion**, die Handlung ausführen können\n4. **Motivation**, bereit sein, das Verhalten zu zeigen\n\nBanduras Arbeit verband Behaviorismus und Kognitionspsychologie."
     },
     {
       "id": "ex-match-pawlow",
@@ -285,7 +285,7 @@
         "id": "ex-picture-konditionierung-typ",
         "stable_id": "ex-ms942qoj05ewq",
         "type": "picture_choice",
-        "prompt": "Ein Hund speichelt beim Hören einer Glocke — noch bevor Futter erscheint. Welche Lernform zeigt das Bild?",
+        "prompt": "Ein Hund speichelt beim Hören einer Glocke, noch bevor Futter erscheint. Welche Lernform zeigt das Bild?",
         "card_ids": ["klassische-konditionierung", "operante-konditionierung", "beobachtungslernen", "konditionierte-reaktion"],
         "images": [
           { "src": "assets/img/classical-conditioning.png", "label": "Klassische Konditionierung", "is_correct": "true" },
@@ -293,7 +293,7 @@
           { "src": "assets/img/observational-learning.png", "label": "Beobachtungslernen" },
           { "src": "assets/img/habituation.png", "label": "Habituation" }
         ],
-        "hint": "Pawlow, Hund, Glocke — neutraler Reiz wird konditioniert.",
+        "hint": "Pawlow, Hund, Glocke, neutraler Reiz wird konditioniert.",
         "distractors": ["Operante Konditionierung", "Beobachtungslernen", "Habituation"],
         "direction": "target_to_source"
       }
@@ -326,8 +326,8 @@
         "prompt": "Ordne den Verstärkungsplan seinem Merkmal zu.",
         "card_ids": ["verstaerkungsplan", "quotenplan"],
         "pairs": [
-          { "left": "Kontinuierlicher Plan", "right": "Verstärkung nach JEDER Reaktion — schnelles Lernen, schnelle Löschung" },
-          { "left": "Variabler Quotenplan", "right": "Verstärkung nach unvorhersehbarer Anzahl — sehr löschungsresistent (z. B. Spielautomat)" },
+          { "left": "Kontinuierlicher Plan", "right": "Verstärkung nach JEDER Reaktion, schnelles Lernen, schnelle Löschung" },
+          { "left": "Variabler Quotenplan", "right": "Verstärkung nach unvorhersehbarer Anzahl, sehr löschungsresistent (z. B. Spielautomat)" },
           { "left": "Fester Quotenplan", "right": "Verstärkung nach fester Anzahl von Reaktionen" }
         ],
         "direction": "target_to_source"
@@ -337,7 +337,7 @@
       "id": "ex-free-bobo",
       "type": "exercise",
       "theory_ref": "theory-beobachtung",
-      "title": "Beobachtungslernen — Banduras Experiment",
+      "title": "Beobachtungslernen - Banduras Experiment",
       "exercise": {
         "id": "ex-free-bobo",
         "stable_id": "ex-ms942qoj05hph",

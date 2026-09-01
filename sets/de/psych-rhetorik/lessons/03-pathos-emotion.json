@@ -1,6 +1,6 @@
 {
   "id": "03-pathos-emotion",
-  "title": "Pathos — Emotion und Furchtappelle",
+  "title": "Pathos - Emotion und Furchtappelle",
   "description": "Pathos überzeugt über die Gefühle des Publikums. Am besten untersucht sind Furchtappelle: Nach dem Extended Parallel Process Model (Witte, 1992) wirken sie nur, wenn zur Bedrohung auch ein gangbarer Ausweg (Wirksamkeit) kommt. Emotion verstärkt, ersetzt aber kein Argument.",
   "target_language": "de",
   "source_language": "de",
@@ -12,7 +12,7 @@
       "stable_id": "card-msa1vhyq00psh",
       "front": "Pathos als emotionale Überzeugung",
       "back": "Pathos wirkt, indem es das Publikum in eine bestimmte Gefühlslage versetzt, die das Urteil färbt",
-      "notes": "Emotionen lenken Aufmerksamkeit und Bewertung — sie sind ein Verstärker, kein Ersatz für Gründe.",
+      "notes": "Emotionen lenken Aufmerksamkeit und Bewertung, sie sind ein Verstärker, kein Ersatz für Gründe.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["pathos", "hauptbegriff"]
@@ -32,7 +32,7 @@
       "stable_id": "card-msa1vhyq00roh",
       "front": "Furchtappell",
       "back": "Eine Botschaft, die durch das Aufzeigen einer Bedrohung zum Handeln bewegen soll (z. B. in der Gesundheitswerbung)",
-      "notes": "Das am besten untersuchte Pathos-Werkzeug — mit klaren Bedingungen für seine Wirkung.",
+      "notes": "Das am besten untersuchte Pathos-Werkzeug, mit klaren Bedingungen für seine Wirkung.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["pathos", "begriff"]
@@ -51,7 +51,7 @@
       "id": "card-abwehr",
       "stable_id": "card-msa1vhyq00t6u",
       "front": "Furchtkontrolle statt Gefahrenkontrolle",
-      "back": "Ist die Angst hoch, aber der Ausweg fehlt, bekämpft man das Gefühl statt der Gefahr — durch Verdrängen, Verleugnen oder Kleinreden",
+      "back": "Ist die Angst hoch, aber der Ausweg fehlt, bekämpft man das Gefühl statt der Gefahr, durch Verdrängen, Verleugnen oder Kleinreden",
       "notes": "Erklärt, warum reine Schockbotschaften oft nach hinten losgehen.",
       "media_type": "text",
       "difficulty": 4,
@@ -73,7 +73,7 @@
       "id": "intro",
       "type": "theory",
       "title": "Wie Emotion überzeugt",
-      "body": "# Pathos: Emotion und Furchtappelle\n\n**Pathos** überzeugt über die **Gefühle** des Publikums. Aristoteles wusste schon, dass wir anders urteilen, je nachdem, ob wir wohlwollend oder verärgert, zuversichtlich oder ängstlich sind.\n\n## Gefühl als Information\n\nEin Grund dafür: Menschen nutzen ihre momentane Stimmung als **Hinweis** für ihr Urteil — *Wie fühle ich mich dabei?* (**Affect-as-information**, Schwarz & Clore, 1983). Die Stimmung wird dann leicht dem Gegenstand zugeschrieben, um den es gerade geht.\n\n## Der Furchtappell — und seine Bedingung\n\nAm besten untersucht ist das **Furchtappell**: eine Botschaft, die über eine **Bedrohung** zum Handeln bewegen will (Gesundheits- und Sicherheitskampagnen leben davon). Lange dachte man: je mehr Angst, desto besser. Das stimmt nicht.\n\nNach dem **Extended Parallel Process Model** (Witte, **1992**) wirkt ein Furchtappell nur, wenn **zwei** Dinge zusammenkommen:\n\n1. **Bedrohung** — *Das betrifft mich, und es ist ernst.*\n2. **Wirksamkeit** — *Ich kann etwas dagegen tun, und es hilft.*\n\n## Wenn der Ausweg fehlt\n\nIst die Angst hoch, aber ein Ausweg fehlt, kippt die Wirkung: Menschen bekämpfen dann das **Gefühl** statt der **Gefahr** — sie verdrängen, verleugnen oder reden die Bedrohung klein (**Furchtkontrolle statt Gefahrenkontrolle**). Das erklärt, warum reine Schockbotschaften oft nach hinten losgehen.\n\n## Augenmaß\n\nEmotion ist ein **Verstärker, kein Ersatz** für Gründe. Ohne gangbaren Weg oder tragfähiges Argument verpufft Pathos — oder kehrt sich um. Pathos und Logos ergänzen sich."
+      "body": "# Pathos: Emotion und Furchtappelle\n\n**Pathos** überzeugt über die **Gefühle** des Publikums. Aristoteles wusste schon, dass wir anders urteilen, je nachdem, ob wir wohlwollend oder verärgert, zuversichtlich oder ängstlich sind.\n\n## Gefühl als Information\n\nEin Grund dafür: Menschen nutzen ihre momentane Stimmung als **Hinweis** für ihr Urteil, *Wie fühle ich mich dabei?* (**Affect-as-information**, Schwarz & Clore, 1983). Die Stimmung wird dann leicht dem Gegenstand zugeschrieben, um den es gerade geht.\n\n## Der Furchtappell - und seine Bedingung\n\nAm besten untersucht ist das **Furchtappell**: eine Botschaft, die über eine **Bedrohung** zum Handeln bewegen will (Gesundheits- und Sicherheitskampagnen leben davon). Lange dachte man: je mehr Angst, desto besser. Das stimmt nicht.\n\nNach dem **Extended Parallel Process Model** (Witte, **1992**) wirkt ein Furchtappell nur, wenn **zwei** Dinge zusammenkommen:\n\n1. **Bedrohung**, *Das betrifft mich, und es ist ernst.*\n2. **Wirksamkeit**, *Ich kann etwas dagegen tun, und es hilft.*\n\n## Wenn der Ausweg fehlt\n\nIst die Angst hoch, aber ein Ausweg fehlt, kippt die Wirkung: Menschen bekämpfen dann das **Gefühl** statt der **Gefahr**, sie verdrängen, verleugnen oder reden die Bedrohung klein (**Furchtkontrolle statt Gefahrenkontrolle**). Das erklärt, warum reine Schockbotschaften oft nach hinten losgehen.\n\n## Augenmaß\n\nEmotion ist ein **Verstärker, kein Ersatz** für Gründe. Ohne gangbaren Weg oder tragfähiges Argument verpufft Pathos, oder kehrt sich um. Pathos und Logos ergänzen sich."
     },
     {
       "id": "ex-free-pathos",
@@ -117,7 +117,7 @@
           {"accept": ["Wirksamkeit", "wirksamkeit", "Selbstwirksamkeit"]}
         ],
         "cloze_mode": "type",
-        "hint": "Erst die Gefahr — dann ein gangbarer Ausweg."
+        "hint": "Erst die Gefahr, dann ein gangbarer Ausweg."
       }
     },
     {
@@ -190,7 +190,7 @@
           "Weil hohe Angst ohne Wirksamkeit zu Verdrängen und Kleinreden führt",
           "Weil ohne gangbaren Weg Furchtkontrolle statt Gefahrenkontrolle einsetzt"
         ],
-        "hint": "Was bekämpft man, wenn ein Ausweg fehlt — die Gefahr oder das Gefühl?",
+        "hint": "Was bekämpft man, wenn ein Ausweg fehlt, die Gefahr oder das Gefühl?",
         "distractors": [
           "Weil Angst grundsätzlich keine Wirkung auf Menschen hat",
           "Weil die Botschaft dann als zu logisch empfunden wird",

@@ -1,7 +1,7 @@
 {
   "id": "55-wiederholung-urteilen-entscheiden",
   "title": "Wiederholung: Urteilen und Entscheiden",
-  "description": "Die große Wiederholung der Lektionen 51–54: Heuristiken und Urteilsfehler (Kahneman/Tversky), Dual-Process-Theorie (System 1 und 2), Prospect Theory und Verhaltensökonomie/Nudging — alles kompakt auf Deutsch.",
+  "description": "Die große Wiederholung der Lektionen 51–54: Heuristiken und Urteilsfehler (Kahneman/Tversky), Dual-Process-Theorie (System 1 und 2), Prospect Theory und Verhaltensökonomie/Nudging, alles kompakt auf Deutsch.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -21,7 +21,7 @@
       "id": "ankerheuristik-recap",
       "stable_id": "card-ms942qpp14hay",
       "front": "Ankerheuristik (Anchoring)",
-      "back": "Eine zuerst genannte Zahl (der Anker) beeinflusst die nachfolgende Schätzung — selbst wenn sie willkürlich ist.",
+      "back": "Eine zuerst genannte Zahl (der Anker) beeinflusst die nachfolgende Schätzung, selbst wenn sie willkürlich ist.",
       "notes": "Kernbegriff aus Lektion 51.",
       "media_type": "text",
       "difficulty": 2,
@@ -81,7 +81,7 @@
       "id": "framing-effekt-recap",
       "stable_id": "card-ms942qpp14ny1",
       "front": "Framing-Effekt (Framing Effect)",
-      "back": "Wie eine Information sprachlich verpackt wird (als Gewinn oder Verlust), beeinflusst die Entscheidung — obwohl der sachliche Inhalt identisch ist.",
+      "back": "Wie eine Information sprachlich verpackt wird (als Gewinn oder Verlust), beeinflusst die Entscheidung, obwohl der sachliche Inhalt identisch ist.",
       "notes": "Kernbegriff aus Lektion 53.",
       "media_type": "text",
       "difficulty": 3,
@@ -133,19 +133,19 @@
       "id": "intro-wiederholung",
       "type": "theory",
       "title": "Die große Wiederholung: Urteilen und Entscheiden",
-      "body": "# Wiederholung: Urteilen und Entscheiden\n\nZeit für die große Wiederholung: In den Lektionen 51–54 ging es um Heuristiken, die zwei Denksysteme, Entscheidungen unter Risiko und die Verhaltensökonomie. Diese Lektion mischt alles.\n\n## Überblick: Die vier Lektionen auf einen Blick\n\n| Lektion | Thema | Schlüsselbegriffe |\n|---|---|---|\n| **51** | Heuristiken und Urteilsfehler | Verfügbarkeit, Repräsentativität, Anker, Hindsight Bias, Overconfidence |\n| **52** | Dual-Process-Theorie | System 1 (intuitiv), System 2 (analytisch), kognitiver Geizhals, CRT |\n| **53** | Prospect Theory | Referenzpunkt, Verlustaversion, S-Kurve, Framing-Effekt, Endowment-Effekt |\n| **54** | Verhaltensökonomie & Nudging | Bounded Rationality, Satisficing, Nudge, Default-Effekt, Sunk-Cost-Fehler |\n\n> **Roter Faden**: Alle vier Themen zeigen, dass menschliches Urteilen und Entscheiden **systematisch** von rationalem Kalkül abweicht — und dass diese Abweichungen **vorhersehbar** sind."
+      "body": "# Wiederholung: Urteilen und Entscheiden\n\nZeit für die große Wiederholung: In den Lektionen 51–54 ging es um Heuristiken, die zwei Denksysteme, Entscheidungen unter Risiko und die Verhaltensökonomie. Diese Lektion mischt alles.\n\n## Überblick: Die vier Lektionen auf einen Blick\n\n| Lektion | Thema | Schlüsselbegriffe |\n|---|---|---|\n| **51** | Heuristiken und Urteilsfehler | Verfügbarkeit, Repräsentativität, Anker, Hindsight Bias, Overconfidence |\n| **52** | Dual-Process-Theorie | System 1 (intuitiv), System 2 (analytisch), kognitiver Geizhals, CRT |\n| **53** | Prospect Theory | Referenzpunkt, Verlustaversion, S-Kurve, Framing-Effekt, Endowment-Effekt |\n| **54** | Verhaltensökonomie & Nudging | Bounded Rationality, Satisficing, Nudge, Default-Effekt, Sunk-Cost-Fehler |\n\n> **Roter Faden**: Alle vier Themen zeigen, dass menschliches Urteilen und Entscheiden **systematisch** von rationalem Kalkül abweicht, und dass diese Abweichungen **vorhersehbar** sind."
     },
     {
       "id": "theory-systeme-heuristiken",
       "type": "theory",
-      "title": "Zwei Systeme — viele Heuristiken",
-      "body": "## Dual-Process: System 1 und System 2\n\n| Merkmal | System 1 | System 2 |\n|---|---|---|\n| Geschwindigkeit | schnell, automatisch | langsam, bewusst |\n| Aufwand | mühelos | anstrengend |\n| Fehleranfälligkeit | hoch (Heuristiken) | niedrig, aber selten genutzt |\n| Beispiel | Gesicht erkennen | Rechenaufgabe lösen |\n\nDer **kognitive Geizhals**: Da System 2 teuer ist, delegiert das Gehirn möglichst viel an System 1 — mit den Folgen der Lektionen 51–54.\n\n## Die drei Klassiker (Lektion 51)\n\n- **Verfügbarkeitsheuristik**: Häufigkeit ≈ Erinnerbarkeit → spektakuläre Risiken werden überschätzt.\n- **Repräsentativitätsheuristik**: Wahrscheinlichkeit ≈ Prototypähnlichkeit → Basisraten werden ignoriert.\n- **Ankerheuristik**: Schätzung ≈ erster Zahlenwert → Verhandlungen werden durch Eröffnungsgebote verzerrt.\n\n### Weitere Urteilsfehler\n\n| Fehler | Kurzformel |\n|---|---|\n| Hindsight Bias | 'Das war doch klar.' — aber erst hinterher |\n| Overconfidence | Eigene Treffsicherheit überschätzen |\n| Spielerfehlschluss | 'Ausgleich' beim unabhängigen Zufall erwarten |\n| Konjunktionsfehler | Kombination für wahrscheinlicher halten als Einzelbedingung |"
+      "title": "Zwei Systeme - viele Heuristiken",
+      "body": "## Dual-Process: System 1 und System 2\n\n| Merkmal | System 1 | System 2 |\n|---|---|---|\n| Geschwindigkeit | schnell, automatisch | langsam, bewusst |\n| Aufwand | mühelos | anstrengend |\n| Fehleranfälligkeit | hoch (Heuristiken) | niedrig, aber selten genutzt |\n| Beispiel | Gesicht erkennen | Rechenaufgabe lösen |\n\nDer **kognitive Geizhals**: Da System 2 teuer ist, delegiert das Gehirn möglichst viel an System 1, mit den Folgen der Lektionen 51–54.\n\n## Die drei Klassiker (Lektion 51)\n\n- **Verfügbarkeitsheuristik**: Häufigkeit ≈ Erinnerbarkeit → spektakuläre Risiken werden überschätzt.\n- **Repräsentativitätsheuristik**: Wahrscheinlichkeit ≈ Prototypähnlichkeit → Basisraten werden ignoriert.\n- **Ankerheuristik**: Schätzung ≈ erster Zahlenwert → Verhandlungen werden durch Eröffnungsgebote verzerrt.\n\n### Weitere Urteilsfehler\n\n| Fehler | Kurzformel |\n|---|---|\n| Hindsight Bias | 'Das war doch klar.', aber erst hinterher |\n| Overconfidence | Eigene Treffsicherheit überschätzen |\n| Spielerfehlschluss | 'Ausgleich' beim unabhängigen Zufall erwarten |\n| Konjunktionsfehler | Kombination für wahrscheinlicher halten als Einzelbedingung |"
     },
     {
       "id": "theory-prospect-nudge",
       "type": "theory",
       "title": "Prospect Theory und Verhaltensökonomie",
-      "body": "## Prospect Theory (Lektion 53)\n\nKahneman und Tversky zeigten: Wir urteilen nicht über absolute Ergebnisse, sondern über **Abweichungen vom Referenzpunkt**.\n\n- **Verlustaversion**: Ein Verlust von 100 € schmerzt etwa doppelt so stark, wie ein Gewinn von 100 € erfreut.\n- **S-förmige Wertfunktion**: Im Gewinnbereich risikoscheu; im Verlustbereich risikofreudig.\n- **Framing-Effekt**: Dieselbe Information als Gewinn oder Verlust gerahmt → unterschiedliche Entscheidungen.\n- **Endowment-Effekt**: Besitzende Dinge werden höher bewertet als nicht besessene.\n\n## Verhaltensökonomie und Nudging (Lektion 54)\n\n| Begriff | Bedeutung |\n|---|---|\n| Bounded Rationality (Simon) | Menschen entscheiden unter begrenzter Zeit, Information und Rechenkapazität |\n| Satisficing | Man wählt die erste 'gut genug'-Option, nicht das Optimum |\n| Nudge (Thaler) | Sanfter Anreiz durch Gestaltung der Entscheidungsarchitektur |\n| Default-Effekt | Voreingestellte Optionen werden überproportional häufig beibehalten |\n| Hyperbolische Diskontierung | Nahe Belohnungen werden gegenüber fernen stark bevorzugt |\n| Sunk-Cost-Fehler | Bereits verlorene Kosten beeinflussen (irrationaler Weise) künftige Entscheidungen |\n\n> **Merke**: Nudges nutzen Verhaltensverzerrungen gezielt — z. B. setzt ein Opt-out-System bei der Organspende auf den Default-Effekt."
+      "body": "## Prospect Theory (Lektion 53)\n\nKahneman und Tversky zeigten: Wir urteilen nicht über absolute Ergebnisse, sondern über **Abweichungen vom Referenzpunkt**.\n\n- **Verlustaversion**: Ein Verlust von 100 € schmerzt etwa doppelt so stark, wie ein Gewinn von 100 € erfreut.\n- **S-förmige Wertfunktion**: Im Gewinnbereich risikoscheu; im Verlustbereich risikofreudig.\n- **Framing-Effekt**: Dieselbe Information als Gewinn oder Verlust gerahmt → unterschiedliche Entscheidungen.\n- **Endowment-Effekt**: Besitzende Dinge werden höher bewertet als nicht besessene.\n\n## Verhaltensökonomie und Nudging (Lektion 54)\n\n| Begriff | Bedeutung |\n|---|---|\n| Bounded Rationality (Simon) | Menschen entscheiden unter begrenzter Zeit, Information und Rechenkapazität |\n| Satisficing | Man wählt die erste 'gut genug'-Option, nicht das Optimum |\n| Nudge (Thaler) | Sanfter Anreiz durch Gestaltung der Entscheidungsarchitektur |\n| Default-Effekt | Voreingestellte Optionen werden überproportional häufig beibehalten |\n| Hyperbolische Diskontierung | Nahe Belohnungen werden gegenüber fernen stark bevorzugt |\n| Sunk-Cost-Fehler | Bereits verlorene Kosten beeinflussen (irrationaler Weise) künftige Entscheidungen |\n\n> **Merke**: Nudges nutzen Verhaltensverzerrungen gezielt, z. B. setzt ein Opt-out-System bei der Organspende auf den Default-Effekt."
     },
     {
       "id": "ex-match-lektionen",

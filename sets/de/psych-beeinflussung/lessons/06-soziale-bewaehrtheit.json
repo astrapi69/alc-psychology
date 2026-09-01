@@ -1,6 +1,6 @@
 {
   "id": "06-soziale-bewaehrtheit",
-  "title": "Soziale Bewährtheit — sich an anderen orientieren",
+  "title": "Soziale Bewährtheit - sich an anderen orientieren",
   "description": "Soziale Bewährtheit (social proof): Bei Unsicherheit nehmen Menschen das Verhalten anderer als Hinweis darauf, was richtig ist. Ein Cialdini-Prinzip, gestützt auf informationalen sozialen Einfluss. Mit dem Feldexperiment von Goldstein, Cialdini & Griskevicius (2008) und klarer Einordnung.",
   "target_language": "de",
   "source_language": "de",
@@ -11,7 +11,7 @@
       "id": "card-soziale-bewaehrtheit",
       "stable_id": "card-ms942qof01nr2",
       "front": "Soziale Bewährtheit",
-      "back": "Menschen orientieren sich am Verhalten anderer, um zu entscheiden, was richtig ist — besonders in unsicheren oder mehrdeutigen Situationen",
+      "back": "Menschen orientieren sich am Verhalten anderer, um zu entscheiden, was richtig ist, besonders in unsicheren oder mehrdeutigen Situationen",
       "notes": "Englisch *social proof*; eines der Einflussprinzipien nach Cialdini.",
       "media_type": "text",
       "difficulty": 2,
@@ -21,7 +21,7 @@
       "id": "card-informationaler-einfluss",
       "stable_id": "card-ms942qof01o60",
       "front": "Informationaler sozialer Einfluss",
-      "back": "Das Verhalten anderer wird als Information über die Wirklichkeit genutzt — man nimmt an, dass die vielen schon wissen werden, was richtig ist",
+      "back": "Das Verhalten anderer wird als Information über die Wirklichkeit genutzt, man nimmt an, dass die vielen schon wissen werden, was richtig ist",
       "notes": "Abgegrenzt vom normativen Einfluss (Dazugehören-Wollen). Deutsch & Gerard (1955).",
       "media_type": "text",
       "difficulty": 3,
@@ -41,7 +41,7 @@
       "id": "card-unsicherheit-aehnlichkeit",
       "stable_id": "card-ms942qof01q4s",
       "front": "Wann wirkt soziale Bewährtheit stärker?",
-      "back": "Vor allem bei Unsicherheit und wenn die anderen einem ähnlich sind — dann ist ihr Verhalten ein besonders überzeugender Hinweis",
+      "back": "Vor allem bei Unsicherheit und wenn die anderen einem ähnlich sind, dann ist ihr Verhalten ein besonders überzeugender Hinweis",
       "notes": "Zwei Verstärker des Effekts.",
       "media_type": "text",
       "difficulty": 3,
@@ -63,7 +63,7 @@
       "id": "intro",
       "type": "theory",
       "title": "Die anderen als Wegweiser",
-      "body": "# Soziale Bewährtheit\n\n**Soziale Bewährtheit** (englisch *social proof*) beschreibt, dass Menschen sich am Verhalten anderer orientieren, um zu entscheiden, was richtig ist — besonders in **unsicheren oder mehrdeutigen** Situationen. Sie ist eines der Einflussprinzipien nach **Cialdini**.\n\n## Warum das funktioniert\n\nDahinter steht der **informationale soziale Einfluss** (Deutsch & Gerard, 1955): Das Verhalten der vielen wird als *Information* über die Wirklichkeit gelesen — *die werden schon wissen, was richtig ist*. Das unterscheidet sich vom *normativen* Einfluss, bei dem es ums Dazugehören geht.\n\n## Ein Feldexperiment\n\n**Goldstein, Cialdini & Griskevicius (2008)** testeten Hinweisschilder in Hotels. Schilder mit dem Hinweis, dass *die meisten Gäste* ihre Handtücher wiederverwenden, steigerten die Wiederverwendung stärker als ein reiner Umwelt-Appell. Der Effekt war **messbar, aber moderat** — nicht dramatisch.\n\n## Augenmaß\n\nSoziale Bewährtheit wirkt **stärker bei Unsicherheit** und wenn die anderen einem **ähnlich** sind. Aber: Das Verhalten der Mehrheit ist nicht automatisch richtig. Wer über klare eigene Information oder Fachwissen verfügt, folgt der Masse seltener."
+      "body": "# Soziale Bewährtheit\n\n**Soziale Bewährtheit** (englisch *social proof*) beschreibt, dass Menschen sich am Verhalten anderer orientieren, um zu entscheiden, was richtig ist, besonders in **unsicheren oder mehrdeutigen** Situationen. Sie ist eines der Einflussprinzipien nach **Cialdini**.\n\n## Warum das funktioniert\n\nDahinter steht der **informationale soziale Einfluss** (Deutsch & Gerard, 1955): Das Verhalten der vielen wird als *Information* über die Wirklichkeit gelesen, *die werden schon wissen, was richtig ist*. Das unterscheidet sich vom *normativen* Einfluss, bei dem es ums Dazugehören geht.\n\n## Ein Feldexperiment\n\n**Goldstein, Cialdini & Griskevicius (2008)** testeten Hinweisschilder in Hotels. Schilder mit dem Hinweis, dass *die meisten Gäste* ihre Handtücher wiederverwenden, steigerten die Wiederverwendung stärker als ein reiner Umwelt-Appell. Der Effekt war **messbar, aber moderat**, nicht dramatisch.\n\n## Augenmaß\n\nSoziale Bewährtheit wirkt **stärker bei Unsicherheit** und wenn die anderen einem **ähnlich** sind. Aber: Das Verhalten der Mehrheit ist nicht automatisch richtig. Wer über klare eigene Information oder Fachwissen verfügt, folgt der Masse seltener."
     },
     {
       "id": "ex-free-bewaehrtheit",

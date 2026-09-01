@@ -1,7 +1,7 @@
 {
   "id": "82-glaubhaftigkeitsbegutachtung",
   "title": "Glaubhaftigkeitsbegutachtung",
-  "description": "Was eine aussagepsychologische Glaubhaftigkeitsbegutachtung ist, wie die Undeutsch-Hypothese und die kriterienbasierte Inhaltsanalyse (CBCA) funktionieren — und warum das Verfahren kein Lügendetektor ist.",
+  "description": "Was eine aussagepsychologische Glaubhaftigkeitsbegutachtung ist, wie die Undeutsch-Hypothese und die kriterienbasierte Inhaltsanalyse (CBCA) funktionieren, und warum das Verfahren kein Lügendetektor ist.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -11,7 +11,7 @@
       "id": "glaubhaftigkeitsbegutachtung",
       "stable_id": "card-ms942qq51iro3",
       "front": "Glaubhaftigkeitsbegutachtung (Credibility Assessment)",
-      "back": "Ein wissenschaftliches Gutachten, das prüft, ob eine konkrete Aussage erlebnisbasiert ist — also ob sie auf einem tatsächlich erlebten Ereignis beruht.",
+      "back": "Ein wissenschaftliches Gutachten, das prüft, ob eine konkrete Aussage erlebnisbasiert ist, also ob sie auf einem tatsächlich erlebten Ereignis beruht.",
       "notes": "Baut auf Lektion 81 (Aussagepsychologie) auf. Die zentrale Frage lautet nicht 'Lügt die Person?' sondern 'Hat die Aussage Merkmale erlebten Geschehens?'",
       "media_type": "text",
       "difficulty": 2,
@@ -31,7 +31,7 @@
       "id": "erlebnisbasiert",
       "stable_id": "card-ms942qq51itps",
       "front": "Erlebnisbasierte Aussage",
-      "back": "Eine Aussage, die auf einem tatsächlich wahrgenommenen Ereignis beruht — im Gegensatz zu einer erfundenen, suggerierten oder angeleiteten Aussage.",
+      "back": "Eine Aussage, die auf einem tatsächlich wahrgenommenen Ereignis beruht, im Gegensatz zu einer erfundenen, suggerierten oder angeleiteten Aussage.",
       "media_type": "text",
       "difficulty": 2,
       "tags": ["forensik", "grundlagen"]
@@ -39,7 +39,7 @@
     {
       "id": "cbca",
       "stable_id": "card-ms942qq51iuox",
-      "front": "Kriterienbasierte Inhaltsanalyse (CBCA — Criteria-Based Content Analysis)",
+      "front": "Kriterienbasierte Inhaltsanalyse (CBCA, Criteria-Based Content Analysis)",
       "back": "Ein strukturiertes Analyseverfahren, das Aussagen anhand von Realkennzeichen bewertet, um einzuschätzen, ob eine Aussage erlebnisbasiert ist.",
       "notes": "CBCA ist Teil der umfassenderen Statement Validity Assessment (SVA). Erfordert geschulte Sachverständige.",
       "media_type": "text",
@@ -50,7 +50,7 @@
       "id": "realkennzeichen",
       "stable_id": "card-ms942qq51ivt0",
       "front": "Realkennzeichen",
-      "back": "Inhaltliche und qualitative Merkmale einer Aussage, die bei erlebnisbasierten Berichten häufiger vorkommen — z. B. logische Konsistenz, raumzeitliche Verknüpfungen und ungewöhnliche Details.",
+      "back": "Inhaltliche und qualitative Merkmale einer Aussage, die bei erlebnisbasierten Berichten häufiger vorkommen, z. B. logische Konsistenz, raumzeitliche Verknüpfungen und ungewöhnliche Details.",
       "notes": "Realkennzeichen sind kein Checklisten-Werkzeug für Laien; ihre Bewertung setzt Sachverstand und systematische Schulung voraus.",
       "media_type": "text",
       "difficulty": 4,
@@ -60,7 +60,7 @@
       "id": "logische-konsistenz",
       "stable_id": "card-ms942qq51iwb0",
       "front": "Logische Konsistenz (als Realkennzeichen)",
-      "back": "Die Aussage enthält keine inneren Widersprüche und ist in sich schlüssig — ein Merkmal, das bei erlebnisbasierten Schilderungen tendenziell stärker ausgeprägt ist.",
+      "back": "Die Aussage enthält keine inneren Widersprüche und ist in sich schlüssig, ein Merkmal, das bei erlebnisbasierten Schilderungen tendenziell stärker ausgeprägt ist.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["forensik", "cbca"]
@@ -90,7 +90,7 @@
       "id": "glaubhaftigkeit-vs-glaubwuerdigkeit",
       "stable_id": "card-ms942qq51izn6",
       "front": "Glaubhaftigkeit der Aussage vs. Glaubwürdigkeit der Person",
-      "back": "Das Gutachten bewertet die Qualität der Aussage, nicht den Charakter der aussagenden Person. Eine Aussage kann glaubhaft sein, auch wenn die Person als unzuverlässig gilt — und umgekehrt.",
+      "back": "Das Gutachten bewertet die Qualität der Aussage, nicht den Charakter der aussagenden Person. Eine Aussage kann glaubhaft sein, auch wenn die Person als unzuverlässig gilt, und umgekehrt.",
       "notes": "Diese Unterscheidung ist rechtlich und wissenschaftlich zentral.",
       "media_type": "text",
       "difficulty": 3,
@@ -131,19 +131,19 @@
       "id": "intro-theorie",
       "type": "theory",
       "title": "Was ist eine Glaubhaftigkeitsbegutachtung?",
-      "body": "# Glaubhaftigkeitsbegutachtung\n\nAufbauend auf **Lektion 81** (Aussagepsychologie) und **Lektion 21** (Nullhypothese und wissenschaftliches Prüfen) geht es hier um ein spezialisiertes Verfahren der forensischen Psychologie.\n\n## Die zentrale Frage\n\nEine **aussagepsychologische Glaubhaftigkeitsbegutachtung** ist ein wissenschaftliches Gutachten, das folgende Frage beantwortet:\n\n> **Hat diese konkrete Aussage Merkmale eines erlebten Ereignisses — oder nicht?**\n\nDas ist ausdrücklich **keine** Frage nach dem Charakter der Person. Es geht um die **Qualität der Aussage**, nicht um die Persönlichkeit des Zeugen.\n\n## Glaubhaftigkeit ≠ Glaubwürdigkeit\n\n| Begriff | Gegenstand | Beispiel |\n|---|---|---|\n| **Glaubhaftigkeit** (der Aussage) | Inhalt und Merkmale des Berichts | 'Hat diese Schilderung Kennzeichen erlebten Geschehens?' |\n| **Glaubwürdigkeit** (der Person) | Charakter, Zuverlässigkeit | 'Ist diese Person im Allgemeinen vertrauenswürdig?' |\n\nDas Gutachten bewertet ausschließlich die **Aussage**, nicht die Person.\n\n## Die Nullhypothese im Gutachten\n\nWie in **Lektion 21** gezeigt, beginnt wissenschaftliches Prüfen mit der Annahme, die Hypothese könnte falsch sein. Im Gutachten heißt das:\n\n> **Nullhypothese:** Die Aussage ist *nicht* erlebnisbasiert.\n\nErst wenn diese Annahme durch die systematische Analyse nicht aufrechterhalten werden kann, gilt die Aussage als glaubhaft. Das verhindert eine voreilige Bestätigung."
+      "body": "# Glaubhaftigkeitsbegutachtung\n\nAufbauend auf **Lektion 81** (Aussagepsychologie) und **Lektion 21** (Nullhypothese und wissenschaftliches Prüfen) geht es hier um ein spezialisiertes Verfahren der forensischen Psychologie.\n\n## Die zentrale Frage\n\nEine **aussagepsychologische Glaubhaftigkeitsbegutachtung** ist ein wissenschaftliches Gutachten, das folgende Frage beantwortet:\n\n> **Hat diese konkrete Aussage Merkmale eines erlebten Ereignisses, oder nicht?**\n\nDas ist ausdrücklich **keine** Frage nach dem Charakter der Person. Es geht um die **Qualität der Aussage**, nicht um die Persönlichkeit des Zeugen.\n\n## Glaubhaftigkeit ≠ Glaubwürdigkeit\n\n| Begriff | Gegenstand | Beispiel |\n|---|---|---|\n| **Glaubhaftigkeit** (der Aussage) | Inhalt und Merkmale des Berichts | 'Hat diese Schilderung Kennzeichen erlebten Geschehens?' |\n| **Glaubwürdigkeit** (der Person) | Charakter, Zuverlässigkeit | 'Ist diese Person im Allgemeinen vertrauenswürdig?' |\n\nDas Gutachten bewertet ausschließlich die **Aussage**, nicht die Person.\n\n## Die Nullhypothese im Gutachten\n\nWie in **Lektion 21** gezeigt, beginnt wissenschaftliches Prüfen mit der Annahme, die Hypothese könnte falsch sein. Im Gutachten heißt das:\n\n> **Nullhypothese:** Die Aussage ist *nicht* erlebnisbasiert.\n\nErst wenn diese Annahme durch die systematische Analyse nicht aufrechterhalten werden kann, gilt die Aussage als glaubhaft. Das verhindert eine voreilige Bestätigung."
     },
     {
       "id": "undeutsch-und-cbca",
       "type": "theory",
       "title": "Undeutsch-Hypothese und kriterienbasierte Inhaltsanalyse (CBCA)",
-      "body": "## Die Undeutsch-Hypothese\n\nDer deutsche Psychologe Udo Undeutsch formulierte in den 1950er-Jahren die theoretische Grundannahme des Verfahrens:\n\n> **Aussagen über tatsächlich erlebte Ereignisse unterscheiden sich in Inhalt und Qualität systematisch von erfundenen Aussagen.**\n\nAus einem echten Erlebnis entstehen charakteristische Spuren im Bericht — das ist die Basis der **Kriterienbasierten Inhaltsanalyse (CBCA)**.\n\n## Realkennzeichen der CBCA\n\n| Realkennzeichen | Beschreibung |\n|---|---|\n| **Logische Konsistenz** | Keine inneren Widersprüche; der Bericht ist in sich schlüssig |\n| **Unstrukturierte Darstellung** | Bericht folgt nicht immer einer glatten Chronologie |\n| **Raumzeitliche Verknüpfungen** | Konkreter Ort und Zeit sind in die Schilderung eingebettet |\n| **Ungewöhnliche Details** | Spezifische, nebensächliche Einzelheiten (z. B. Geruch, Farbe) |\n| **Selbstkorrekturen** | Spontane Korrekturen des eigenen Berichts |\n| **Schilderung eigener Unzulänglichkeit** | Person schildert eigene Schwächen oder Fehler |\n\n**Wichtig:** Die Realkennzeichen sind kein Alltagswerkzeug und keine Checkliste zur Eigenanwendung. Ihre Bewertung erfordert **geschulte Sachverständige** in einem umfassenden Gutachtenrahmen."
+      "body": "## Die Undeutsch-Hypothese\n\nDer deutsche Psychologe Udo Undeutsch formulierte in den 1950er-Jahren die theoretische Grundannahme des Verfahrens:\n\n> **Aussagen über tatsächlich erlebte Ereignisse unterscheiden sich in Inhalt und Qualität systematisch von erfundenen Aussagen.**\n\nAus einem echten Erlebnis entstehen charakteristische Spuren im Bericht, das ist die Basis der **Kriterienbasierten Inhaltsanalyse (CBCA)**.\n\n## Realkennzeichen der CBCA\n\n| Realkennzeichen | Beschreibung |\n|---|---|\n| **Logische Konsistenz** | Keine inneren Widersprüche; der Bericht ist in sich schlüssig |\n| **Unstrukturierte Darstellung** | Bericht folgt nicht immer einer glatten Chronologie |\n| **Raumzeitliche Verknüpfungen** | Konkreter Ort und Zeit sind in die Schilderung eingebettet |\n| **Ungewöhnliche Details** | Spezifische, nebensächliche Einzelheiten (z. B. Geruch, Farbe) |\n| **Selbstkorrekturen** | Spontane Korrekturen des eigenen Berichts |\n| **Schilderung eigener Unzulänglichkeit** | Person schildert eigene Schwächen oder Fehler |\n\n**Wichtig:** Die Realkennzeichen sind kein Alltagswerkzeug und keine Checkliste zur Eigenanwendung. Ihre Bewertung erfordert **geschulte Sachverständige** in einem umfassenden Gutachtenrahmen."
     },
     {
       "id": "grenzen-theorie",
       "type": "theory",
-      "title": "Grenzen des Verfahrens — kein Lügendetektor",
-      "body": "## Was die CBCA nicht ist\n\nDie häufigste Fehlannahme: Die Glaubhaftigkeitsbegutachtung sei ein wissenschaftlicher 'Lügendetektor'.\n\n> **Das ist falsch.** Die CBCA liefert keine binäre 'wahr/falsch'-Entscheidung.\n\n## Grenzen im Überblick\n\n| Grenze | Erläuterung |\n|---|---|\n| **Probabilistisch, nicht deterministisch** | Realkennzeichen erhöhen oder verringern die Wahrscheinlichkeit; sie beweisen nichts |\n| **Fehleranfälligkeit** | Suggestion, Trauma, Alter, kulturelle Unterschiede können Kennzeichen verzerren |\n| **Sachverständige nötig** | Nur durch speziell ausgebildete Fachpersonen anwendbar |\n| **Kein Alleinbeweis** | Das Gutachten ist ein Element unter mehreren in der rechtlichen Beweiswürdigung |\n| **Kein Polygraph** | Auch klassische 'Lügendetektoren' (Polygraphen) sind wissenschaftlich nicht valide |\n\n## Was das Verfahren leistet\n\nEine sorgfältig durchgeführte Glaubhaftigkeitsbegutachtung kann einem Gericht helfen, eine **fundierte Einschätzung** zu gewinnen — sie **ersetzt** das Gericht aber nicht. Die Wissenschaft liefert Wahrscheinlichkeiten und Methodik, keine Gewissheit.\n\n> Die Stärke des Verfahrens liegt in seiner **Systematik und Nachvollziehbarkeit**, nicht in einer magischen Erkennungsfähigkeit."
+      "title": "Grenzen des Verfahrens - kein Lügendetektor",
+      "body": "## Was die CBCA nicht ist\n\nDie häufigste Fehlannahme: Die Glaubhaftigkeitsbegutachtung sei ein wissenschaftlicher 'Lügendetektor'.\n\n> **Das ist falsch.** Die CBCA liefert keine binäre 'wahr/falsch'-Entscheidung.\n\n## Grenzen im Überblick\n\n| Grenze | Erläuterung |\n|---|---|\n| **Probabilistisch, nicht deterministisch** | Realkennzeichen erhöhen oder verringern die Wahrscheinlichkeit; sie beweisen nichts |\n| **Fehleranfälligkeit** | Suggestion, Trauma, Alter, kulturelle Unterschiede können Kennzeichen verzerren |\n| **Sachverständige nötig** | Nur durch speziell ausgebildete Fachpersonen anwendbar |\n| **Kein Alleinbeweis** | Das Gutachten ist ein Element unter mehreren in der rechtlichen Beweiswürdigung |\n| **Kein Polygraph** | Auch klassische 'Lügendetektoren' (Polygraphen) sind wissenschaftlich nicht valide |\n\n## Was das Verfahren leistet\n\nEine sorgfältig durchgeführte Glaubhaftigkeitsbegutachtung kann einem Gericht helfen, eine **fundierte Einschätzung** zu gewinnen, sie **ersetzt** das Gericht aber nicht. Die Wissenschaft liefert Wahrscheinlichkeiten und Methodik, keine Gewissheit.\n\n> Die Stärke des Verfahrens liegt in seiner **Systematik und Nachvollziehbarkeit**, nicht in einer magischen Erkennungsfähigkeit."
     },
     {
       "id": "ex-match-begriffe",

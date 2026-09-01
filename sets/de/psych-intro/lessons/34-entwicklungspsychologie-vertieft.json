@@ -1,7 +1,7 @@
 {
   "id": "34-entwicklungspsychologie-vertieft",
   "title": "Entwicklungspsychologie vertieft",
-  "description": "Vertiefung der Entwicklungspsychologie (Lektion 6): Bindungstheorie nach Bowlby und Ainsworth, kognitive Stufen nach Piaget, psychosoziale Entwicklung nach Erikson und moralische Stufen nach Kohlberg — auf Deutsch erklärt.",
+  "description": "Vertiefung der Entwicklungspsychologie (Lektion 6): Bindungstheorie nach Bowlby und Ainsworth, kognitive Stufen nach Piaget, psychosoziale Entwicklung nach Erikson und moralische Stufen nach Kohlberg, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -34,7 +34,7 @@
       "back": "Drei klassische Bindungstypen nach Ainsworth: sicher (secure), unsicher-vermeidend (avoidant) und unsicher-ambivalent (anxious-ambivalent). Später ergänzt durch desorganisiert (disorganized).",
       "media_type": "text",
       "difficulty": 3,
-      "hint": "Sicher, vermeidend, ambivalent — drei Haupttypen.",
+      "hint": "Sicher, vermeidend, ambivalent, drei Haupttypen.",
       "tags": ["bindung", "ainsworth", "typen"]
     },
     {
@@ -107,7 +107,7 @@
       "id": "identitaet-rollenkonfusion",
       "stable_id": "card-ms942qpc0tgfn",
       "front": "Identität vs. Rollenkonfusion (Identity vs. Role Confusion)",
-      "back": "Fünfte Krise nach Erikson (Jugendalter, ca. 12–18 Jahre): Jugendliche suchen eine kohärente Identität. Gelingt es nicht, entsteht Rollenkonfusion — Unsicherheit darüber, wer man ist.",
+      "back": "Fünfte Krise nach Erikson (Jugendalter, ca. 12–18 Jahre): Jugendliche suchen eine kohärente Identität. Gelingt es nicht, entsteht Rollenkonfusion, Unsicherheit darüber, wer man ist.",
       "media_type": "text",
       "difficulty": 4,
       "tags": ["erikson", "krise", "jugendalter"]
@@ -133,13 +133,13 @@
       "id": "step-piaget",
       "type": "theory",
       "title": "Kognitive Entwicklung nach Piaget",
-      "body": "## Piagets vier kognitive Stufen\n\n**Jean Piaget** beschrieb die kognitive Entwicklung als aktiven Aufbau von Wissen in vier Stufen:\n\n| Stufe | Alter | Schlüsselmerkmal |\n|---|---|---|\n| **Sensomotorisch** | 0–2 Jahre | Erkundung durch Sinne und Motorik; **Objektpermanenz** entwickelt sich |\n| **Präoperational** | 2–7 Jahre | Spracherwerb, symbolisches Denken; **Egozentrismus** — kein Perspektivwechsel |\n| **Konkret-operational** | 7–11 Jahre | logisches Denken über konkrete Objekte; Invarianzverständnis |\n| **Formal-operational** | ab 12 Jahre | abstraktes und hypothetisches Denken |\n\n## Zwei Schlüsselkonzepte\n\n- **Objektpermanenz:** Das Kind versteht, dass Dinge weiterexistieren, auch wenn sie nicht sichtbar sind. Entwickelt sich ab ca. 8 Monaten — am Ende der *sensomotorischen* Stufe.\n- **Egozentrismus:** In der *präoperationalen* Stufe kann das Kind die Perspektive anderer noch nicht einnehmen. Klassische Demonstration: die **Drei-Berge-Aufgabe**, bei der das Kind glaubt, alle sähen dasselbe wie es selbst."
+      "body": "## Piagets vier kognitive Stufen\n\n**Jean Piaget** beschrieb die kognitive Entwicklung als aktiven Aufbau von Wissen in vier Stufen:\n\n| Stufe | Alter | Schlüsselmerkmal |\n|---|---|---|\n| **Sensomotorisch** | 0–2 Jahre | Erkundung durch Sinne und Motorik; **Objektpermanenz** entwickelt sich |\n| **Präoperational** | 2–7 Jahre | Spracherwerb, symbolisches Denken; **Egozentrismus**, kein Perspektivwechsel |\n| **Konkret-operational** | 7–11 Jahre | logisches Denken über konkrete Objekte; Invarianzverständnis |\n| **Formal-operational** | ab 12 Jahre | abstraktes und hypothetisches Denken |\n\n## Zwei Schlüsselkonzepte\n\n- **Objektpermanenz:** Das Kind versteht, dass Dinge weiterexistieren, auch wenn sie nicht sichtbar sind. Entwickelt sich ab ca. 8 Monaten, am Ende der *sensomotorischen* Stufe.\n- **Egozentrismus:** In der *präoperationalen* Stufe kann das Kind die Perspektive anderer noch nicht einnehmen. Klassische Demonstration: die **Drei-Berge-Aufgabe**, bei der das Kind glaubt, alle sähen dasselbe wie es selbst."
     },
     {
       "id": "step-erikson-kohlberg",
       "type": "theory",
       "title": "Erikson und Kohlberg",
-      "body": "## Eriksons psychosoziale Entwicklungsstufen\n\n**Erik Erikson** erweiterte Freuds Modell auf acht Lebensphasen. In jeder Phase gibt es eine **psychosoziale Krise** — einen Konflikt, der gelöst werden muss:\n\n| Phase | Alter (ca.) | Krise |\n|---|---|---|\n| Säugling | 0–1 J. | **Urvertrauen** vs. Urmisstrauen |\n| Kleinkind | 1–3 J. | Autonomie vs. Scham und Zweifel |\n| Vorschulalter | 3–6 J. | Initiative vs. Schuldgefühl |\n| Schulalter | 6–12 J. | Fleiß (Kompetenz) vs. Minderwertigkeit |\n| Jugendalter | 12–18 J. | **Identität** vs. Rollenkonfusion |\n| Frühes Erwachsenenalter | 20–40 J. | Intimität vs. Isolation |\n| Mittleres Erwachsenenalter | 40–65 J. | Generativität vs. Stagnation |\n| Höheres Alter | ab 65 J. | Ich-Integrität vs. Verzweiflung |\n\n## Kohlbergs Stufen der moralischen Entwicklung\n\n**Lawrence Kohlberg** unterscheidet drei Ebenen moralischen Denkens:\n\n| Ebene | Merkmal | Beispiel |\n|---|---|---|\n| **Präkonventionell** | Eigeninteresse und Konsequenzen | Ich tue es nicht, weil ich bestraft werde. |\n| **Konventionell** | Normen, Regeln und Gesetze | Ich tue es, weil die Gesellschaft es erwartet. |\n| **Postkonventionell** | universelle ethische Prinzipien | Ich handle nach dem, was ich für gerecht halte. |"
+      "body": "## Eriksons psychosoziale Entwicklungsstufen\n\n**Erik Erikson** erweiterte Freuds Modell auf acht Lebensphasen. In jeder Phase gibt es eine **psychosoziale Krise**, einen Konflikt, der gelöst werden muss:\n\n| Phase | Alter (ca.) | Krise |\n|---|---|---|\n| Säugling | 0–1 J. | **Urvertrauen** vs. Urmisstrauen |\n| Kleinkind | 1–3 J. | Autonomie vs. Scham und Zweifel |\n| Vorschulalter | 3–6 J. | Initiative vs. Schuldgefühl |\n| Schulalter | 6–12 J. | Fleiß (Kompetenz) vs. Minderwertigkeit |\n| Jugendalter | 12–18 J. | **Identität** vs. Rollenkonfusion |\n| Frühes Erwachsenenalter | 20–40 J. | Intimität vs. Isolation |\n| Mittleres Erwachsenenalter | 40–65 J. | Generativität vs. Stagnation |\n| Höheres Alter | ab 65 J. | Ich-Integrität vs. Verzweiflung |\n\n## Kohlbergs Stufen der moralischen Entwicklung\n\n**Lawrence Kohlberg** unterscheidet drei Ebenen moralischen Denkens:\n\n| Ebene | Merkmal | Beispiel |\n|---|---|---|\n| **Präkonventionell** | Eigeninteresse und Konsequenzen | Ich tue es nicht, weil ich bestraft werde. |\n| **Konventionell** | Normen, Regeln und Gesetze | Ich tue es, weil die Gesellschaft es erwartet. |\n| **Postkonventionell** | universelle ethische Prinzipien | Ich handle nach dem, was ich für gerecht halte. |"
     },
     {
       "id": "ex-matching-bindungstypen",
@@ -176,7 +176,7 @@
           { "accept": ["Fremde", "fremde"] }
         ],
         "cloze_mode": "type",
-        "hint": "Englisch: 'Strange Situation' — das Kind ist in einer unbekannten Umgebung."
+        "hint": "Englisch: 'Strange Situation', das Kind ist in einer unbekannten Umgebung."
       }
     },
     {
@@ -227,12 +227,12 @@
         "type": "cloze",
         "prompt": "Ergänze den positiven Pol der ersten psychosozialen Krise nach Erikson.",
         "card_ids": ["urvertrauen-urmisstrauen"],
-        "sentence": "___ versus Urmisstrauen ist die erste psychosoziale Krise nach Erikson — in den ersten zwölf Lebensmonaten.",
+        "sentence": "___ versus Urmisstrauen ist die erste psychosoziale Krise nach Erikson, in den ersten zwölf Lebensmonaten.",
         "blanks": [
           { "accept": ["Urvertrauen"] }
         ],
         "cloze_mode": "type",
-        "hint": "Das 'Ur-' steht für grundlegend — das erste und tiefste Vertrauen in die Welt."
+        "hint": "Das 'Ur-' steht für grundlegend, das erste und tiefste Vertrauen in die Welt."
       }
     },
     {
@@ -260,10 +260,10 @@
         "id": "ex-free-erikson-identitaet",
         "stable_id": "ex-ms942qpc0to3d",
         "type": "free_text",
-        "prompt": "Wie heißt die psychosoziale Krise im Jugendalter nach Erikson — der positive Pol versus Rollenkonfusion?",
+        "prompt": "Wie heißt die psychosoziale Krise im Jugendalter nach Erikson, der positive Pol versus Rollenkonfusion?",
         "card_ids": ["identitaet-rollenkonfusion"],
         "accept": ["Identität", "Identitätsfindung", "Ich-Identität", "Identity"],
-        "hint": "Jugendliche fragen: 'Wer bin ich?' — der positive Pol dieser Krise.",
+        "hint": "Jugendliche fragen: 'Wer bin ich?', der positive Pol dieser Krise.",
         "distractors": ["Intimität", "Generativität", "Urvertrauen", "Autonomie"],
         "direction": "target_to_source"
       }

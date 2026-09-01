@@ -1,7 +1,7 @@
 {
   "id": "02-wahrnehmung",
   "title": "Wahrnehmung",
-  "description": "Die fünf Sinne, Gestaltgesetze, optische Täuschungen und selektive Aufmerksamkeit — auf Deutsch erklärt.",
+  "description": "Die fünf Sinne, Gestaltgesetze, optische Täuschungen und selektive Aufmerksamkeit, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -12,7 +12,7 @@
       "stable_id": "card-ms942qoh03ckg",
       "front": "Wahrnehmung (Perception)",
       "back": "Aktiver Prozess, bei dem sensorische Reize aufgenommen, gefiltert und zu einem bedeutungsvollen Erlebnis verarbeitet werden.",
-      "notes": "Wahrnehmung ist nicht passives Empfangen — das Gehirn konstruiert aktiv ein Bild der Realität.",
+      "notes": "Wahrnehmung ist nicht passives Empfangen, das Gehirn konstruiert aktiv ein Bild der Realität.",
       "tags": ["grundlagen", "wahrnehmung"]
     },
     {
@@ -20,7 +20,7 @@
       "stable_id": "card-ms942qoh03d9p",
       "front": "Visueller Sinn (Visual Sense)",
       "back": "Sehsinn; verarbeitet Licht über die Netzhaut des Auges zu visuellen Informationen.",
-      "notes": "Der dominante Sinn beim Menschen — ca. 30 % der Gehirnrinde ist an visueller Verarbeitung beteiligt.",
+      "notes": "Der dominante Sinn beim Menschen, ca. 30 % der Gehirnrinde ist an visueller Verarbeitung beteiligt.",
       "tags": ["sinne", "visuell"]
     },
     {
@@ -36,7 +36,7 @@
       "stable_id": "card-ms942qoh03fyz",
       "front": "Taktiler Sinn (Tactile Sense)",
       "back": "Tastsinn; nimmt Druck, Berührung, Temperatur und Schmerz über Hautrezeptoren wahr.",
-      "notes": "Die Hände und Lippen haben besonders viele Tastrezeptoren — erkennbar im Homunculus.",
+      "notes": "Die Hände und Lippen haben besonders viele Tastrezeptoren, erkennbar im Homunculus.",
       "tags": ["sinne", "taktil"]
     },
     {
@@ -52,7 +52,7 @@
       "stable_id": "card-ms942qoh03hfj",
       "front": "Gustatorischer Sinn (Gustatory Sense)",
       "back": "Geschmackssinn; unterscheidet süß, sauer, salzig, bitter und umami über Geschmacksknospen.",
-      "notes": "Geschmack und Geruch arbeiten eng zusammen — ein Schnupfen beeinträchtigt den Geschmack erheblich.",
+      "notes": "Geschmack und Geruch arbeiten eng zusammen, ein Schnupfen beeinträchtigt den Geschmack erheblich.",
       "tags": ["sinne", "gustatorisch"]
     },
     {
@@ -68,7 +68,7 @@
       "stable_id": "card-ms942qoh03jli",
       "front": "Gesetz der Nähe (Law of Proximity)",
       "back": "Nahe beieinanderliegende Elemente werden als zusammengehörend wahrgenommen.",
-      "notes": "Beispiel: Punkte, die eng nebeneinander stehen, erscheinen als Gruppe — auch wenn sie identisch sind.",
+      "notes": "Beispiel: Punkte, die eng nebeneinander stehen, erscheinen als Gruppe, auch wenn sie identisch sind.",
       "tags": ["gestalt", "naehe"]
     },
     {
@@ -108,7 +108,7 @@
       "stable_id": "card-ms942qoh03ovy",
       "front": "Ponzo-Täuschung (Ponzo Illusion)",
       "back": "Optische Täuschung: zwei gleich lange horizontale Linien wirken unterschiedlich lang, weil Konvergenzlinien Tiefe suggerieren.",
-      "notes": "Ähnlich wie Eisenbahnschienen, die sich in der Ferne treffen — die obere Linie erscheint weiter entfernt und damit länger.",
+      "notes": "Ähnlich wie Eisenbahnschienen, die sich in der Ferne treffen, die obere Linie erscheint weiter entfernt und damit länger.",
       "tags": ["illusion", "visuell"]
     },
     {
@@ -140,7 +140,7 @@
       "stable_id": "card-ms942qoh03smi",
       "front": "Selektive Aufmerksamkeit (Selective Attention)",
       "back": "Kognitive Fähigkeit, bestimmte Reize gezielt zu verarbeiten und andere zu ignorieren.",
-      "notes": "Begrenzte Verarbeitungskapazität des Gehirns macht Selektion notwendig — wir können nicht alles gleichzeitig verarbeiten.",
+      "notes": "Begrenzte Verarbeitungskapazität des Gehirns macht Selektion notwendig, wir können nicht alles gleichzeitig verarbeiten.",
       "tags": ["aufmerksamkeit", "grundlagen"]
     },
     {
@@ -157,19 +157,19 @@
       "id": "theory-sinne",
       "type": "theory",
       "title": "Die fünf Sinne",
-      "body": "# Wahrnehmung beginnt mit den Sinnen\n\n**Wahrnehmung** ist kein passives Empfangen — das Gehirn verarbeitet Sinnesreize aktiv zu einem bedeutungsvollen Erlebnis. Fünf Hauptsinne liefern die Rohdaten:\n\n| Sinn | Modalität | Organ |\n|---|---|---|\n| **Visuell** | Sehen | Augen |\n| **Auditiv** | Hören | Ohren |\n| **Taktil** | Tasten | Haut |\n| **Olfaktorisch** | Riechen | Nase |\n| **Gustatorisch** | Schmecken | Zunge |\n\nJeder Sinn hat spezialisierte Rezeptoren, die physikalische Energie (Licht, Schall, Druck) in neuronale Signale umwandeln — ein Prozess namens **Transduktion**. Beim Menschen dominiert das visuelle System; etwa 30 % der Großhirnrinde ist an visueller Verarbeitung beteiligt."
+      "body": "# Wahrnehmung beginnt mit den Sinnen\n\n**Wahrnehmung** ist kein passives Empfangen, das Gehirn verarbeitet Sinnesreize aktiv zu einem bedeutungsvollen Erlebnis. Fünf Hauptsinne liefern die Rohdaten:\n\n| Sinn | Modalität | Organ |\n|---|---|---|\n| **Visuell** | Sehen | Augen |\n| **Auditiv** | Hören | Ohren |\n| **Taktil** | Tasten | Haut |\n| **Olfaktorisch** | Riechen | Nase |\n| **Gustatorisch** | Schmecken | Zunge |\n\nJeder Sinn hat spezialisierte Rezeptoren, die physikalische Energie (Licht, Schall, Druck) in neuronale Signale umwandeln, ein Prozess namens **Transduktion**. Beim Menschen dominiert das visuelle System; etwa 30 % der Großhirnrinde ist an visueller Verarbeitung beteiligt."
     },
     {
       "id": "theory-gestalt",
       "type": "theory",
       "title": "Gestaltgesetze",
-      "body": "## Wie das Gehirn Ordnung schafft\n\nDie **Gestaltpsychologie** (Wertheimer, Köhler, Koffka) entdeckte, dass wir Einzelreize zu sinnvollen *Ganzheiten* organisieren. Vier zentrale Gesetze:\n\n- **Nähe** — nahe Elemente gehören zusammen.\n- **Ähnlichkeit** — gleiche Formen/Farben bilden Gruppen.\n- **Geschlossenheit** — unvollständige Figuren werden mental ergänzt.\n- **Gute Fortsetzung** — Linien folgen dem gleichmäßigsten Verlauf.\n\nDer Leitsatz lautet: Das Ganze ist mehr als die Summe seiner Teile. Diese Prinzipien wirken automatisch und unbewusst — sie erleichtern uns, Objekte schnell zu erkennen und zu gliedern.\n\nEine verwandte Idee ist die **Figur-Grund-Wahrnehmung**: Wir trennen automatisch eine hervorgehobene Figur von ihrem Hintergrund — sichtbar bei Kippbildern wie der Rubin-Vase."
+      "body": "## Wie das Gehirn Ordnung schafft\n\nDie **Gestaltpsychologie** (Wertheimer, Köhler, Koffka) entdeckte, dass wir Einzelreize zu sinnvollen *Ganzheiten* organisieren. Vier zentrale Gesetze:\n\n- **Nähe**, nahe Elemente gehören zusammen.\n- **Ähnlichkeit**, gleiche Formen/Farben bilden Gruppen.\n- **Geschlossenheit**, unvollständige Figuren werden mental ergänzt.\n- **Gute Fortsetzung**, Linien folgen dem gleichmäßigsten Verlauf.\n\nDer Leitsatz lautet: Das Ganze ist mehr als die Summe seiner Teile. Diese Prinzipien wirken automatisch und unbewusst, sie erleichtern uns, Objekte schnell zu erkennen und zu gliedern.\n\nEine verwandte Idee ist die **Figur-Grund-Wahrnehmung**: Wir trennen automatisch eine hervorgehobene Figur von ihrem Hintergrund, sichtbar bei Kippbildern wie der Rubin-Vase."
     },
     {
       "id": "theory-aufmerksamkeit",
       "type": "theory",
       "title": "Selektive Aufmerksamkeit und optische Täuschungen",
-      "body": "## Wahrnehmung ist aktiv und selektiv\n\nWeil unser Gehirn nicht alle Reize gleichzeitig verarbeiten kann, wählt **selektive Aufmerksamkeit** aus, was bewusst wird:\n\n- **Cocktailparty-Effekt** — in Lärm auf ein Gespräch fokussieren.\n- **Veränderungsblindheit** — Veränderungen werden übersehen, wenn die Aufmerksamkeit woanders ist.\n\n**Optische Täuschungen** zeigen, dass Wahrnehmung konstruiert ist:\n\n- **Müller-Lyer** — gleich lange Linien wirken unterschiedlich lang (Pfeilspitzen).\n- **Ponzo** — Perspektivlinien täuschen über Längenunterschiede hinweg.\n- **Rubin-Vase** — Kippbild zwischen Vase und Gesichtern.\n\nDiese Täuschungen entstehen, weil das Gehirn auf Heuristiken (Erfahrungsregeln) zurückgreift — normalerweise hilfreich, aber bei Täuschungsbildern irreführend."
+      "body": "## Wahrnehmung ist aktiv und selektiv\n\nWeil unser Gehirn nicht alle Reize gleichzeitig verarbeiten kann, wählt **selektive Aufmerksamkeit** aus, was bewusst wird:\n\n- **Cocktailparty-Effekt**, in Lärm auf ein Gespräch fokussieren.\n- **Veränderungsblindheit**, Veränderungen werden übersehen, wenn die Aufmerksamkeit woanders ist.\n\n**Optische Täuschungen** zeigen, dass Wahrnehmung konstruiert ist:\n\n- **Müller-Lyer**, gleich lange Linien wirken unterschiedlich lang (Pfeilspitzen).\n- **Ponzo**, Perspektivlinien täuschen über Längenunterschiede hinweg.\n- **Rubin-Vase**, Kippbild zwischen Vase und Gesichtern.\n\nDiese Täuschungen entstehen, weil das Gehirn auf Heuristiken (Erfahrungsregeln) zurückgreift, normalerweise hilfreich, aber bei Täuschungsbildern irreführend."
     },
     {
       "id": "ex-match-sinne",
@@ -183,11 +183,11 @@
         "prompt": "Ordne jedem Sinn sein Wahrnehmungsorgan zu.",
         "card_ids": ["visuell", "auditiv", "taktil", "olfaktorisch", "gustatorisch"],
         "pairs": [
-          { "left": "Visueller Sinn", "right": "Augen — verarbeitet Licht" },
-          { "left": "Auditiver Sinn", "right": "Ohren — verarbeitet Schallwellen" },
-          { "left": "Taktiler Sinn", "right": "Haut — Druck und Temperatur" },
-          { "left": "Olfaktorischer Sinn", "right": "Nase — erkennt Moleküle" },
-          { "left": "Gustatorischer Sinn", "right": "Zunge — süß, sauer, salzig, bitter, umami" }
+          { "left": "Visueller Sinn", "right": "Augen, verarbeitet Licht" },
+          { "left": "Auditiver Sinn", "right": "Ohren, verarbeitet Schallwellen" },
+          { "left": "Taktiler Sinn", "right": "Haut, Druck und Temperatur" },
+          { "left": "Olfaktorischer Sinn", "right": "Nase, erkennt Moleküle" },
+          { "left": "Gustatorischer Sinn", "right": "Zunge, süß, sauer, salzig, bitter, umami" }
         ],
         "direction": "target_to_source"
       }
@@ -224,7 +224,7 @@
         "prompt": "Wie heißt das Phänomen, in lauter Umgebung auf ein einzelnes Gespräch zu fokussieren?",
         "card_ids": ["cocktailparty-effekt"],
         "accept": ["Cocktailparty-Effekt", "Cocktailparty Effekt", "der Cocktailparty-Effekt", "Cocktail-Party-Effekt"],
-        "hint": "Stell dir eine laute Party vor — du hörst trotzdem deinen Namen.",
+        "hint": "Stell dir eine laute Party vor, du hörst trotzdem deinen Namen.",
         "distractors": ["Veränderungsblindheit", "Figur-Grund-Effekt", "Gestaltprinzip"],
         "direction": "target_to_source"
       }

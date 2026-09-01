@@ -1,7 +1,7 @@
 {
   "id": "46-gedaechtnis-und-lernen-vertieft",
   "title": "Gedächtnis und Lernen vertieft",
-  "description": "Modelle des Gedächtnisses und des Lernens: Mehrspeichermodell, Arbeitsgedächtnis, Verarbeitungstiefe, die Vergessenskurve, Interferenz und Gedächtnisverzerrungen — auf Deutsch erklärt.",
+  "description": "Modelle des Gedächtnisses und des Lernens: Mehrspeichermodell, Arbeitsgedächtnis, Verarbeitungstiefe, die Vergessenskurve, Interferenz und Gedächtnisverzerrungen, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -35,7 +35,7 @@
       "notes": "Komponenten u. a.: phonologische Schleife, visuell-räumlicher Notizblock, zentrale Exekutive.",
       "media_type": "text",
       "difficulty": 4,
-      "hint": "Von Alan Baddeley — mehr als ein bloßer Speicher.",
+      "hint": "Von Alan Baddeley, mehr als ein bloßer Speicher.",
       "tags": ["gedaechtnis", "modell", "person"]
     },
     {
@@ -52,7 +52,7 @@
       "id": "verarbeitungstiefe",
       "stable_id": "card-ms942qpj0zq3l",
       "front": "Verarbeitungstiefe (Levels of Processing)",
-      "back": "Je tiefer (bedeutungsbezogen) Information verarbeitet wird, desto besser wird sie behalten — semantisch schlägt oberflächlich.",
+      "back": "Je tiefer (bedeutungsbezogen) Information verarbeitet wird, desto besser wird sie behalten, semantisch schlägt oberflächlich.",
       "notes": "Craik & Lockhart. Bedeutung verarbeiten > Klang > Aussehen.",
       "media_type": "text",
       "difficulty": 4,
@@ -145,7 +145,7 @@
       "id": "step-vergessen",
       "type": "theory",
       "title": "Vergessen und die Fehlbarkeit der Erinnerung",
-      "body": "## Warum wir vergessen\n\n- **Vergessenskurve** (Ebbinghaus): Frisch Gelerntes geht **anfangs schnell**, dann immer langsamer verloren.\n- **Interferenz**: Inhalte **stören einander**. *Proaktiv* = Altes stört Neues; *retroaktiv* = Neues stört Altes.\n\n## Erinnern ist Rekonstruktion\n\nDas Gedächtnis ist **keine Videoaufnahme**, sondern wird bei jedem Abruf neu zusammengesetzt. Dabei entstehen Fehler:\n\n- **Falsche Erinnerungen** an Ereignisse, die nie geschahen.\n- Der **Misinformationseffekt** (Elizabeth **Loftus**): nachträgliche, irreführende Hinweise verändern die Erinnerung — die Wortwahl einer Frage kann eine Augenzeugenaussage verzerren.\n\nSchließlich unterscheidet man **deklaratives** (Fakten/Ereignisse, bewusst) und **prozedurales** Gedächtnis (Fertigkeiten wie Fahrradfahren)."
+      "body": "## Warum wir vergessen\n\n- **Vergessenskurve** (Ebbinghaus): Frisch Gelerntes geht **anfangs schnell**, dann immer langsamer verloren.\n- **Interferenz**: Inhalte **stören einander**. *Proaktiv* = Altes stört Neues; *retroaktiv* = Neues stört Altes.\n\n## Erinnern ist Rekonstruktion\n\nDas Gedächtnis ist **keine Videoaufnahme**, sondern wird bei jedem Abruf neu zusammengesetzt. Dabei entstehen Fehler:\n\n- **Falsche Erinnerungen** an Ereignisse, die nie geschahen.\n- Der **Misinformationseffekt** (Elizabeth **Loftus**): nachträgliche, irreführende Hinweise verändern die Erinnerung, die Wortwahl einer Frage kann eine Augenzeugenaussage verzerren.\n\nSchließlich unterscheidet man **deklaratives** (Fakten/Ereignisse, bewusst) und **prozedurales** Gedächtnis (Fertigkeiten wie Fahrradfahren)."
     },
     {
       "id": "ex-match-speicher",
@@ -255,7 +255,7 @@
           { "accept": ["retroaktiver", "retroaktive"] }
         ],
         "cloze_mode": "type",
-        "hint": "'Rückwirkend' — das Neue wirkt zurück auf das Alte."
+        "hint": "'Rückwirkend', das Neue wirkt zurück auf das Alte."
       }
     },
     {

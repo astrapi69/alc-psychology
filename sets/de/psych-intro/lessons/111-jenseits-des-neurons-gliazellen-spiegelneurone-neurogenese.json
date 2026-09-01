@@ -1,7 +1,7 @@
 {
   "id": "111-jenseits-des-neurons-gliazellen-spiegelneurone-neurogenese",
-  "title": "Jenseits des Neurons — Gliazellen, Spiegelneurone und Neurogenese",
-  "description": "Biologische Psychologie jenseits des klassischen Neurons: die Gliazellen (Astrozyten, Oligodendrozyten, Mikroglia) und ihre Funktionen, die Spiegelneurone und ihre Bedeutung für Imitation und Empathie sowie die adulte Neurogenese im Hippocampus — auf Deutsch erklärt. Vertieft die Lektionen 13 und 37 mit Strukturen, die dort nicht behandelt wurden.",
+  "title": "Jenseits des Neurons - Gliazellen, Spiegelneurone und Neurogenese",
+  "description": "Biologische Psychologie jenseits des klassischen Neurons: die Gliazellen (Astrozyten, Oligodendrozyten, Mikroglia) und ihre Funktionen, die Spiegelneurone und ihre Bedeutung für Imitation und Empathie sowie die adulte Neurogenese im Hippocampus, auf Deutsch erklärt. Vertieft die Lektionen 13 und 37 mit Strukturen, die dort nicht behandelt wurden.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -15,7 +15,7 @@
       "notes": "Lange als bloßer 'Klebstoff' (griech. glia = Leim) unterschätzt; heute als aktive Mitspieler erkannt.",
       "media_type": "text",
       "difficulty": 3,
-      "hint": "Mehr als Stützgewebe — sie sind aktiv am Hirngeschehen beteiligt.",
+      "hint": "Mehr als Stützgewebe, sie sind aktiv am Hirngeschehen beteiligt.",
       "tags": ["glia", "biopsychologie", "neuron"]
     },
     {
@@ -84,7 +84,7 @@
       "id": "spiegelneurone-funktion",
       "stable_id": "card-ms942qoz0gntq",
       "front": "Vermutete Funktion der Spiegelneurone",
-      "back": "Sie werden mit Imitation, Handlungsverständnis und der Grundlage von Empathie in Verbindung gebracht — dem unmittelbaren 'Nachvollziehen' fremder Handlungen und Zustände.",
+      "back": "Sie werden mit Imitation, Handlungsverständnis und der Grundlage von Empathie in Verbindung gebracht, dem unmittelbaren 'Nachvollziehen' fremder Handlungen und Zustände.",
       "notes": "Die Reichweite dieser Funktionen ist wissenschaftlich umstritten; manche Deutungen gelten als überzogen.",
       "media_type": "text",
       "difficulty": 4,
@@ -137,13 +137,13 @@
       "id": "theory-gliazellen",
       "type": "theory",
       "title": "Die Gliazellen",
-      "body": "# Jenseits des Neurons\n\n> **Lektion 13** stellte das Neuron, das Aktionspotential und die Synapse vor, **Lektion 37** die Neurotransmitter. Diese Lektion ergänzt drei Themen, die dort fehlten: **Gliazellen, Spiegelneurone und Neurogenese**.\n\n## Mehr als 'Klebstoff': die Gliazellen\n\nNeben den Neuronen besteht das Nervensystem zu einem großen Teil aus **Gliazellen**. Der Name (griech. *glia* = Leim) verrät die alte Sicht: bloßes Stützgewebe. Heute weiß man, dass sie aktiv mitwirken.\n\n| Gliazelle | Hauptfunktion |\n|---|---|\n| **Astrozyten** | versorgen Neurone, regulieren den Stoffhaushalt, Blut-Hirn-Schranke |\n| **Oligodendrozyten** | bilden die Myelinscheide im ZNS |\n| **Mikroglia** | Immunabwehr und 'Müllabfuhr' des Gehirns |\n\nDie **Myelinscheide** beschleunigt die Erregungsleitung (saltatorische Leitung). Astrozyten greifen sogar in die Übertragung ein — Modell der **tripartiten Synapse** (zwei Neurone + ein Astrozyt)."
+      "body": "# Jenseits des Neurons\n\n> **Lektion 13** stellte das Neuron, das Aktionspotential und die Synapse vor, **Lektion 37** die Neurotransmitter. Diese Lektion ergänzt drei Themen, die dort fehlten: **Gliazellen, Spiegelneurone und Neurogenese**.\n\n## Mehr als 'Klebstoff': die Gliazellen\n\nNeben den Neuronen besteht das Nervensystem zu einem großen Teil aus **Gliazellen**. Der Name (griech. *glia* = Leim) verrät die alte Sicht: bloßes Stützgewebe. Heute weiß man, dass sie aktiv mitwirken.\n\n| Gliazelle | Hauptfunktion |\n|---|---|\n| **Astrozyten** | versorgen Neurone, regulieren den Stoffhaushalt, Blut-Hirn-Schranke |\n| **Oligodendrozyten** | bilden die Myelinscheide im ZNS |\n| **Mikroglia** | Immunabwehr und 'Müllabfuhr' des Gehirns |\n\nDie **Myelinscheide** beschleunigt die Erregungsleitung (saltatorische Leitung). Astrozyten greifen sogar in die Übertragung ein, Modell der **tripartiten Synapse** (zwei Neurone + ein Astrozyt)."
     },
     {
       "id": "theory-spiegelneurone-neurogenese",
       "type": "theory",
       "title": "Spiegelneurone und Neurogenese",
-      "body": "## Spiegelneurone\n\n**Spiegelneurone** feuern sowohl, wenn man eine Handlung **selbst ausführt**, als auch, wenn man **dieselbe Handlung bei anderen beobachtet**. Entdeckt wurden sie in den 1990er-Jahren von **Giacomo Rizzolattis** Gruppe im prämotorischen Cortex von Makaken.\n\nMan bringt sie mit **Imitation, Handlungsverständnis und Empathie** in Verbindung — wobei die Reichweite dieser Deutungen **wissenschaftlich umstritten** ist.\n\n## Adulte Neurogenese\n\nLange galt: Das erwachsene Gehirn bildet **keine neuen Neurone** mehr. Heute weiß man, dass im **Gyrus dentatus des Hippocampus** auch im Erwachsenenalter neue Nervenzellen entstehen — die **adulte Neurogenese**.\n\n- **fördernd:** körperliche Bewegung, anregende Umgebung\n- **hemmend:** chronischer Stress\n\nDieser Prozess wird mit Lernen und Stimmungsregulation verknüpft; sein genauer Umfang beim Menschen ist weiter Gegenstand der Forschung."
+      "body": "## Spiegelneurone\n\n**Spiegelneurone** feuern sowohl, wenn man eine Handlung **selbst ausführt**, als auch, wenn man **dieselbe Handlung bei anderen beobachtet**. Entdeckt wurden sie in den 1990er-Jahren von **Giacomo Rizzolattis** Gruppe im prämotorischen Cortex von Makaken.\n\nMan bringt sie mit **Imitation, Handlungsverständnis und Empathie** in Verbindung, wobei die Reichweite dieser Deutungen **wissenschaftlich umstritten** ist.\n\n## Adulte Neurogenese\n\nLange galt: Das erwachsene Gehirn bildet **keine neuen Neurone** mehr. Heute weiß man, dass im **Gyrus dentatus des Hippocampus** auch im Erwachsenenalter neue Nervenzellen entstehen, die **adulte Neurogenese**.\n\n- **fördernd:** körperliche Bewegung, anregende Umgebung\n- **hemmend:** chronischer Stress\n\nDieser Prozess wird mit Lernen und Stimmungsregulation verknüpft; sein genauer Umfang beim Menschen ist weiter Gegenstand der Forschung."
     },
     {
       "id": "ex-match-gliazellen",
@@ -265,16 +265,16 @@
         "prompt": "Welche Gliazelle bildet im zentralen Nervensystem die Myelinscheide?",
         "card_ids": ["oligodendrozyten", "myelinscheide"],
         "images": [
-          { "src": "assets/img/glia-oligodendrozyt.png", "label": "Oligodendrozyt — umwickelt Axone mit Myelin und beschleunigt die Leitung.", "is_correct": "true" },
-          { "src": "assets/img/glia-mikroglia.png", "label": "Mikroglia — die Immunabwehr des Gehirns." },
-          { "src": "assets/img/glia-astrozyt.png", "label": "Astrozyt — versorgt Neurone und reguliert den Stoffhaushalt." },
-          { "src": "assets/img/glia-neuron.png", "label": "Spiegelneuron — feuert beim Beobachten von Handlungen." }
+          { "src": "assets/img/glia-oligodendrozyt.png", "label": "Oligodendrozyt, umwickelt Axone mit Myelin und beschleunigt die Leitung.", "is_correct": "true" },
+          { "src": "assets/img/glia-mikroglia.png", "label": "Mikroglia, die Immunabwehr des Gehirns." },
+          { "src": "assets/img/glia-astrozyt.png", "label": "Astrozyt, versorgt Neurone und reguliert den Stoffhaushalt." },
+          { "src": "assets/img/glia-neuron.png", "label": "Spiegelneuron, feuert beim Beobachten von Handlungen." }
         ],
         "hint": "Im ZNS bildet diese Zelle das Myelin; im PNS übernehmen es die Schwann-Zellen.",
         "distractors": [
-          "Mikroglia — die Immunabwehr des Gehirns.",
-          "Astrozyt — versorgt Neurone und reguliert den Stoffhaushalt.",
-          "Spiegelneuron — feuert beim Beobachten von Handlungen."
+          "Mikroglia, die Immunabwehr des Gehirns.",
+          "Astrozyt, versorgt Neurone und reguliert den Stoffhaushalt.",
+          "Spiegelneuron, feuert beim Beobachten von Handlungen."
         ],
         "direction": "target_to_source"
       }

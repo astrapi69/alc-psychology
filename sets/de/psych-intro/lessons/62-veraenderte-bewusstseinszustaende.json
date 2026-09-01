@@ -1,7 +1,7 @@
 {
   "id": "62-veraenderte-bewusstseinszustaende",
   "title": "Veränderte Bewusstseinszustände",
-  "description": "Was sind veränderte Bewusstseinszustände? Meditation, Hypnose, Tagträumen, Flow und psychoaktive Substanzen — sachlich erklärt, auf Deutsch.",
+  "description": "Was sind veränderte Bewusstseinszustände? Meditation, Hypnose, Tagträumen, Flow und psychoaktive Substanzen, sachlich erklärt, auf Deutsch.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -11,7 +11,7 @@
       "id": "vbz-definition",
       "stable_id": "card-ms942qpt185d3",
       "front": "Veränderter Bewusstseinszustand (Altered State of Consciousness)",
-      "back": "Jede deutliche Abweichung vom normalen Wachbewusstsein — z. B. durch Schlaf, Meditation, Hypnose oder psychoaktive Substanzen.",
+      "back": "Jede deutliche Abweichung vom normalen Wachbewusstsein, z. B. durch Schlaf, Meditation, Hypnose oder psychoaktive Substanzen.",
       "notes": "Baut auf Lektion 14 (Bewusstsein) und Lektion 61 (Schlaf) auf.",
       "media_type": "text",
       "difficulty": 1,
@@ -35,14 +35,14 @@
       "notes": "Weit verbreiteter Irrglaube: Hypnose bedeutet weder Bewusstlosigkeit noch dass man gegen den eigenen Willen handeln muss.",
       "media_type": "text",
       "difficulty": 3,
-      "hint": "Hypnotisierte Personen behalten die Kontrolle über sich — sie können jederzeit aus der Hypnose heraustreten.",
+      "hint": "Hypnotisierte Personen behalten die Kontrolle über sich, sie können jederzeit aus der Hypnose heraustreten.",
       "tags": ["bewusstsein", "hypnose", "suggestibilitaet"]
     },
     {
       "id": "suggestibilitaet",
       "stable_id": "card-ms942qpt188ux",
       "front": "Suggestibilität (Suggestibility)",
-      "back": "Die Bereitschaft einer Person, Vorschläge oder Anweisungen zu übernehmen — ein zentrales Merkmal der Hypnose.",
+      "back": "Die Bereitschaft einer Person, Vorschläge oder Anweisungen zu übernehmen, ein zentrales Merkmal der Hypnose.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["hypnose", "suggestibilitaet"]
@@ -119,8 +119,8 @@
     {
       "id": "hypnose-mythos",
       "stable_id": "card-ms942qpt18gxg",
-      "front": "Hypnose — Mythos vs. Realität",
-      "back": "Mythos: Hypnose ist Schlaf oder Fremdsteuerung. Realität: Hypnose ist ein Zustand fokussierter Aufmerksamkeit und erhöhter Suggestibilität — Betroffene bleiben bewusst und kontrollieren ihr Handeln.",
+      "front": "Hypnose, Mythos vs. Realität",
+      "back": "Mythos: Hypnose ist Schlaf oder Fremdsteuerung. Realität: Hypnose ist ein Zustand fokussierter Aufmerksamkeit und erhöhter Suggestibilität, Betroffene bleiben bewusst und kontrollieren ihr Handeln.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["hypnose", "mythen"]
@@ -131,19 +131,19 @@
       "id": "intro-vbz",
       "type": "theory",
       "title": "Was ist ein veränderter Bewusstseinszustand?",
-      "body": "# Veränderte Bewusstseinszustände\n\nIn **Lektion 14** (Bewusstsein) und **Lektion 61** (Schlaf vertieft) haben wir gelernt, dass Bewusstsein das Gewahrsein der eigenen Person und der Umwelt ist. Doch Bewusstsein ist kein fester Zustand — es verändert sich ständig.\n\n## Definition\n\nEin **veränderter Bewusstseinszustand** (Altered State of Consciousness) ist jede deutliche **Abweichung vom normalen Wachbewusstsein**: veränderte Wahrnehmung, Gedanken, Gefühle oder Zeiterleben.\n\n## Alltägliche und außeralltägliche Zustände\n\n| Zustand | Auslöser | Merkmale |\n|---|---|---|\n| **Schlaf** | Zirkadianer Rhythmus | NREM- und REM-Phasen |\n| **Tagträumen** | Aufmerksamkeitswandel | Innenwelt, geringe Außenwahrnehmung |\n| **Flow** | Passende Herausforderung | Vollständige Vertiefung, Zeitverlust |\n| **Meditation** | Bewusste Übung | Fokus auf Gegenwart, reduziertes Abschweifen |\n| **Hypnose** | Einleitungsritual | Erhöhte Suggestibilität |\n| **Psychoaktive Substanzen** | Chemische Einwirkung | Substanzspezifische Wirkung auf ZNS |\n\n> Manche Zustände entstehen **von selbst** (Tagtraum), andere werden **bewusst herbeigeführt** (Meditation, Hypnose) oder durch **externe Stoffe** verursacht."
+      "body": "# Veränderte Bewusstseinszustände\n\nIn **Lektion 14** (Bewusstsein) und **Lektion 61** (Schlaf vertieft) haben wir gelernt, dass Bewusstsein das Gewahrsein der eigenen Person und der Umwelt ist. Doch Bewusstsein ist kein fester Zustand, es verändert sich ständig.\n\n## Definition\n\nEin **veränderter Bewusstseinszustand** (Altered State of Consciousness) ist jede deutliche **Abweichung vom normalen Wachbewusstsein**: veränderte Wahrnehmung, Gedanken, Gefühle oder Zeiterleben.\n\n## Alltägliche und außeralltägliche Zustände\n\n| Zustand | Auslöser | Merkmale |\n|---|---|---|\n| **Schlaf** | Zirkadianer Rhythmus | NREM- und REM-Phasen |\n| **Tagträumen** | Aufmerksamkeitswandel | Innenwelt, geringe Außenwahrnehmung |\n| **Flow** | Passende Herausforderung | Vollständige Vertiefung, Zeitverlust |\n| **Meditation** | Bewusste Übung | Fokus auf Gegenwart, reduziertes Abschweifen |\n| **Hypnose** | Einleitungsritual | Erhöhte Suggestibilität |\n| **Psychoaktive Substanzen** | Chemische Einwirkung | Substanzspezifische Wirkung auf ZNS |\n\n> Manche Zustände entstehen **von selbst** (Tagtraum), andere werden **bewusst herbeigeführt** (Meditation, Hypnose) oder durch **externe Stoffe** verursacht."
     },
     {
       "id": "step-meditation-hypnose",
       "type": "theory",
       "title": "Meditation, Achtsamkeit und Hypnose",
-      "body": "## Meditation und Achtsamkeit (Mindfulness)\n\n**Meditation** ist eine Übungspraxis, die die Aufmerksamkeit absichtlich auf den gegenwärtigen Moment richtet — auf Atem, Körperempfindungen oder Gedanken ohne Bewertung.\n\n**Wirkungen** (wissenschaftlich belegt, vgl. Lektion 12 Stress / Lektion 28 Gesundheitspsychologie):\n- Reduktion von **Stress** und Angst\n- Verbesserte **Aufmerksamkeitssteuerung**\n- Messbare Veränderungen der Gehirnaktivität (z. B. präfrontaler Kortex)\n\n---\n\n## Hypnose\n\nHypnose erzeugt einen Zustand **fokussierter Aufmerksamkeit** und erhöhter **Suggestibilität**.\n\n| Merkmal | Was stimmt? |\n|---|---|\n| Ist Hypnose Schlaf? | **Nein** — EEG zeigt Wachbewusstsein |\n| Verliert man die Kontrolle? | **Nein** — man handelt nicht gegen eigene Werte |\n| Ist Suggestibilität messbar? | **Ja** — hypnotische Suszeptibilitätsskalen |\n| Therapeutischer Nutzen? | Ja — z. B. bei Schmerzbehandlung und Angststörungen |\n\n> Hypnose ist keine Zauberei: Sie nutzt die natürliche menschliche Fähigkeit, sich tief zu konzentrieren und Vorschläge aufzunehmen."
+      "body": "## Meditation und Achtsamkeit (Mindfulness)\n\n**Meditation** ist eine Übungspraxis, die die Aufmerksamkeit absichtlich auf den gegenwärtigen Moment richtet, auf Atem, Körperempfindungen oder Gedanken ohne Bewertung.\n\n**Wirkungen** (wissenschaftlich belegt, vgl. Lektion 12 Stress / Lektion 28 Gesundheitspsychologie):\n- Reduktion von **Stress** und Angst\n- Verbesserte **Aufmerksamkeitssteuerung**\n- Messbare Veränderungen der Gehirnaktivität (z. B. präfrontaler Kortex)\n\n---\n\n## Hypnose\n\nHypnose erzeugt einen Zustand **fokussierter Aufmerksamkeit** und erhöhter **Suggestibilität**.\n\n| Merkmal | Was stimmt? |\n|---|---|\n| Ist Hypnose Schlaf? | **Nein**, EEG zeigt Wachbewusstsein |\n| Verliert man die Kontrolle? | **Nein**, man handelt nicht gegen eigene Werte |\n| Ist Suggestibilität messbar? | **Ja**, hypnotische Suszeptibilitätsskalen |\n| Therapeutischer Nutzen? | Ja, z. B. bei Schmerzbehandlung und Angststörungen |\n\n> Hypnose ist keine Zauberei: Sie nutzt die natürliche menschliche Fähigkeit, sich tief zu konzentrieren und Vorschläge aufzunehmen."
     },
     {
       "id": "step-substanzen",
       "type": "theory",
-      "title": "Psychoaktive Substanzen — Kategorien und Wirkung",
-      "body": "## Psychoaktive Substanzen\n\n**Psychoaktive Substanzen** verändern Bewusstsein, Wahrnehmung oder Stimmung, indem sie in das **Neurotransmittersystem** eingreifen (vgl. Lektion 37 — Biopsychologie).\n\n## Die vier Hauptkategorien\n\n| Kategorie | Wirkung auf ZNS | Beispiele | Neurotransmitter-Bezug |\n|---|---|---|---|\n| **Dämpfungsmittel / Depressiva** | Verlangsamen, hemmen | Alkohol, Benzodiazepine | GABA ↑, Glutamat ↓ |\n| **Stimulanzien** | Aktivieren, beschleunigen | Koffein, Nikotin, Amphetamine | Dopamin ↑, Noradrenalin ↑ |\n| **Halluzinogene** | Verzerren Wahrnehmung | LSD, Psilocybin | Serotonin-Rezeptoren |\n| **Opioide** | Schmerzlindernd, euphorisierend | Morphin, Heroin | Opioidrezeptoren |\n\n## Wichtiger Hinweis\n\nDiese Lektion erklärt die **Wirkprinzipien** — sachlich und aufklärend. Psychoaktive Substanzen können zu körperlicher und psychischer **Abhängigkeit** führen. Die Lernenden werden auf keine Einnahmepraktiken hingewiesen.\n\n> Bereits **Koffein** ist ein alltägliches Stimulans — das zeigt, wie breit der Begriff 'psychoaktiv' ist."
+      "title": "Psychoaktive Substanzen - Kategorien und Wirkung",
+      "body": "## Psychoaktive Substanzen\n\n**Psychoaktive Substanzen** verändern Bewusstsein, Wahrnehmung oder Stimmung, indem sie in das **Neurotransmittersystem** eingreifen (vgl. Lektion 37, Biopsychologie).\n\n## Die vier Hauptkategorien\n\n| Kategorie | Wirkung auf ZNS | Beispiele | Neurotransmitter-Bezug |\n|---|---|---|---|\n| **Dämpfungsmittel / Depressiva** | Verlangsamen, hemmen | Alkohol, Benzodiazepine | GABA ↑, Glutamat ↓ |\n| **Stimulanzien** | Aktivieren, beschleunigen | Koffein, Nikotin, Amphetamine | Dopamin ↑, Noradrenalin ↑ |\n| **Halluzinogene** | Verzerren Wahrnehmung | LSD, Psilocybin | Serotonin-Rezeptoren |\n| **Opioide** | Schmerzlindernd, euphorisierend | Morphin, Heroin | Opioidrezeptoren |\n\n## Wichtiger Hinweis\n\nDiese Lektion erklärt die **Wirkprinzipien**, sachlich und aufklärend. Psychoaktive Substanzen können zu körperlicher und psychischer **Abhängigkeit** führen. Die Lernenden werden auf keine Einnahmepraktiken hingewiesen.\n\n> Bereits **Koffein** ist ein alltägliches Stimulans, das zeigt, wie breit der Begriff 'psychoaktiv' ist."
     },
     {
       "id": "ex-match-substanzen",
@@ -169,7 +169,7 @@
       "id": "ex-match-hypnose",
       "type": "exercise",
       "theory_ref": "intro-vbz",
-      "title": "Hypnose — Mythos oder Realität?",
+      "title": "Hypnose - Mythos oder Realität?",
       "exercise": {
         "id": "ex-match-hypnose",
         "stable_id": "ex-ms942qpt18ibi",
@@ -177,9 +177,9 @@
         "prompt": "Ordne jede Aussage über Hypnose der richtigen Einschätzung zu.",
         "card_ids": ["hypnose", "hypnose-mythos", "suggestibilitaet"],
         "pairs": [
-          { "left": "Hypnose ist eine Form des Schlafs", "right": "Mythos — EEG zeigt Wachbewusstsein" },
-          { "left": "Hypnotisierte handeln gegen ihren Willen", "right": "Mythos — eigene Werte bleiben erhalten" },
-          { "left": "Hypnose erhöht die Suggestibilität", "right": "Realität — messbar und wissenschaftlich belegt" }
+          { "left": "Hypnose ist eine Form des Schlafs", "right": "Mythos, EEG zeigt Wachbewusstsein" },
+          { "left": "Hypnotisierte handeln gegen ihren Willen", "right": "Mythos, eigene Werte bleiben erhalten" },
+          { "left": "Hypnose erhöht die Suggestibilität", "right": "Realität, messbar und wissenschaftlich belegt" }
         ],
         "direction": "target_to_source"
       }

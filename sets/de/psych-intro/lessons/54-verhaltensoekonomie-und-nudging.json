@@ -1,7 +1,7 @@
 {
   "id": "54-verhaltensoekonomie-und-nudging",
   "title": "Verhaltensökonomie und Nudging",
-  "description": "Wie Psychologie und Wirtschaftswissenschaft zusammenkommen: begrenzte Rationalität nach Herbert Simon, Satisficing, Nudges nach Richard Thaler, der Default-Effekt, libertärer Paternalismus, hyperbolische Diskontierung, der Sunk-Cost-Fehler und mentale Buchführung — auf Deutsch erklärt.",
+  "description": "Wie Psychologie und Wirtschaftswissenschaft zusammenkommen: begrenzte Rationalität nach Herbert Simon, Satisficing, Nudges nach Richard Thaler, der Default-Effekt, libertärer Paternalismus, hyperbolische Diskontierung, der Sunk-Cost-Fehler und mentale Buchführung, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -41,7 +41,7 @@
       "id": "verhaltensoekonmie",
       "stable_id": "card-ms942qpo140uq",
       "front": "Verhaltensökonomie (Behavioral Economics)",
-      "back": "Wissenschaftliches Forschungsfeld, das psychologische Erkenntnisse mit wirtschaftlichem Entscheidungsverhalten verbindet — und zeigt, wo Menschen von rationalen Modellen abweichen.",
+      "back": "Wissenschaftliches Forschungsfeld, das psychologische Erkenntnisse mit wirtschaftlichem Entscheidungsverhalten verbindet, und zeigt, wo Menschen von rationalen Modellen abweichen.",
       "notes": "Geprägt durch Kahneman, Tversky und Thaler; baut auf Heuristiken und Prospect Theory auf.",
       "media_type": "text",
       "difficulty": 2,
@@ -60,7 +60,7 @@
     {
       "id": "nudge",
       "stable_id": "card-ms942qpo142hl",
-      "front": "Nudge ('Schubs' — Anstupser)",
+      "front": "Nudge ('Schubs', Anstupser)",
       "back": "Eine sanfte Veränderung der Entscheidungsarchitektur, die ein gewünschtes Verhalten wahrscheinlicher macht, ohne Optionen zu verbieten oder finanzielle Anreize zu verändern.",
       "notes": "Beispiel: Gesundes Essen in der Cafeteria auf Augenhöhe stellen, ohne ungesundes Essen zu verbieten.",
       "media_type": "text",
@@ -92,7 +92,7 @@
       "id": "hyperbolische-diskontierung",
       "stable_id": "card-ms942qpo145ql",
       "front": "Hyperbolische Diskontierung (Hyperbolic Discounting)",
-      "back": "Die Tendenz, unmittelbare Belohnungen überproportional hoch zu gewichten gegenüber späteren — und daher Aufgaben aufzuschieben oder kurzfristig zu handeln.",
+      "back": "Die Tendenz, unmittelbare Belohnungen überproportional hoch zu gewichten gegenüber späteren, und daher Aufgaben aufzuschieben oder kurzfristig zu handeln.",
       "notes": "Erklärt Prokrastination und Schwierigkeiten beim Sparen: die Gegenwart wird systematisch überbewertet.",
       "media_type": "text",
       "difficulty": 4,
@@ -102,11 +102,11 @@
       "id": "sunk-cost-fehler",
       "stable_id": "card-ms942qpo146p6",
       "front": "Sunk-Cost-Fehler (Versunkene-Kosten-Fehler)",
-      "back": "Die Neigung, an einer Entscheidung oder Investition festzuhalten, weil man schon Ressourcen (Zeit, Geld, Energie) investiert hat — obwohl ein Abbruch rational besser wäre.",
+      "back": "Die Neigung, an einer Entscheidung oder Investition festzuhalten, weil man schon Ressourcen (Zeit, Geld, Energie) investiert hat, obwohl ein Abbruch rational besser wäre.",
       "notes": "Beispiel: Ein schlechtes Filmprojekt wird weiterfinanziert, 'weil wir schon so viel investiert haben'.",
       "media_type": "text",
       "difficulty": 4,
-      "hint": "Vergangene Kosten sind 'versunken' — sie sollten zukünftige Entscheidungen nicht beeinflussen.",
+      "hint": "Vergangene Kosten sind 'versunken', sie sollten zukünftige Entscheidungen nicht beeinflussen.",
       "tags": ["entscheidung", "fehler"]
     },
     {
@@ -123,7 +123,7 @@
       "id": "entscheidungsarchitektur",
       "stable_id": "card-ms942qpo148bp",
       "front": "Entscheidungsarchitektur (Choice Architecture)",
-      "back": "Die bewusste Gestaltung der Umgebung, in der Entscheidungen getroffen werden — z. B. Reihenfolge, Rahmung oder Voreinstellungen — beeinflusst das Verhalten vorhersehbar.",
+      "back": "Die bewusste Gestaltung der Umgebung, in der Entscheidungen getroffen werden, z. B. Reihenfolge, Rahmung oder Voreinstellungen, beeinflusst das Verhalten vorhersehbar.",
       "notes": "Der 'Architekt' plant, welche Option am einfachsten gewählt werden kann.",
       "media_type": "text",
       "difficulty": 3,
@@ -135,19 +135,19 @@
       "id": "intro-verhaltensoekonmie",
       "type": "theory",
       "title": "Von Heuristiken zur Verhaltensökonomie",
-      "body": "# Verhaltensökonomie und Nudging\n\nIn **Lektion 51–53** hast du gelernt, wie Heuristiken (System 1) unser Urteilen prägen, wie **Prospect Theory** Verluste stärker gewichtet als Gewinne, und wie systematische Denkfehler entstehen. Diese Erkenntnisse bilden die Brücke zu einem neuen Forschungsfeld: der **Verhaltensökonomie (Behavioral Economics)**.\n\n## Warum brauchen wir ein neues Modell?\n\nDie klassische Wirtschaftstheorie geht vom **Homo oeconomicus** aus — einem vollkommen rationalen Menschen, der alle Informationen kennt, unendliche Rechenkapazität hat und stets seinen Nutzen maximiert. Die Psychologie zeigt: So funktioniert kein Mensch.\n\n| Merkmal | Homo oeconomicus | Realer Mensch |\n|---|---|---|\n| **Informationsverarbeitung** | vollständig | begrenzt |\n| **Ziel** | optimale Lösung | 'gut genug'-Lösung (Satisficing) |\n| **Entscheidungszeit** | unbegrenzt | knapp |\n| **Emotionen** | irrelevant | zentral (vgl. Affektheuristik) |\n| **Verluste vs. Gewinne** | symmetrisch | Verluste wiegen schwerer |\n\n**Herbert Simon** prägte dafür den Begriff **Begrenzte Rationalität (Bounded Rationality)**: Wir entscheiden so gut es geht — aber eben unter echten kognitiven Grenzen."
+      "body": "# Verhaltensökonomie und Nudging\n\nIn **Lektion 51–53** hast du gelernt, wie Heuristiken (System 1) unser Urteilen prägen, wie **Prospect Theory** Verluste stärker gewichtet als Gewinne, und wie systematische Denkfehler entstehen. Diese Erkenntnisse bilden die Brücke zu einem neuen Forschungsfeld: der **Verhaltensökonomie (Behavioral Economics)**.\n\n## Warum brauchen wir ein neues Modell?\n\nDie klassische Wirtschaftstheorie geht vom **Homo oeconomicus** aus, einem vollkommen rationalen Menschen, der alle Informationen kennt, unendliche Rechenkapazität hat und stets seinen Nutzen maximiert. Die Psychologie zeigt: So funktioniert kein Mensch.\n\n| Merkmal | Homo oeconomicus | Realer Mensch |\n|---|---|---|\n| **Informationsverarbeitung** | vollständig | begrenzt |\n| **Ziel** | optimale Lösung | 'gut genug'-Lösung (Satisficing) |\n| **Entscheidungszeit** | unbegrenzt | knapp |\n| **Emotionen** | irrelevant | zentral (vgl. Affektheuristik) |\n| **Verluste vs. Gewinne** | symmetrisch | Verluste wiegen schwerer |\n\n**Herbert Simon** prägte dafür den Begriff **Begrenzte Rationalität (Bounded Rationality)**: Wir entscheiden so gut es geht, aber eben unter echten kognitiven Grenzen."
     },
     {
       "id": "step-nudge-default",
       "type": "theory",
       "title": "Nudges und Entscheidungsarchitektur",
-      "body": "## Richard Thaler und der Nudge\n\n**Richard Thaler** (Wirtschaftsnobelpreis 2017) und Cass Sunstein entwickelten den **Nudge-Ansatz**: Man kann Verhalten in eine gewünschte Richtung lenken, indem man die **Entscheidungsarchitektur (Choice Architecture)** klug gestaltet — ohne Verbote oder finanzielle Anreize.\n\nDas Prinzip dahinter heißt **libertärer Paternalismus**: Die Freiheit bleibt erhalten, aber die Voreinstellung begünstigt das 'bessere' Verhalten.\n\n## Der Default-Effekt\n\nMenschen neigen stark dazu, bei der **Voreinstellung (Default)** zu bleiben. Das hat enorme praktische Wirkung:\n\n| Bereich | Opt-in (aktive Zustimmung) | Opt-out (aktiver Widerspruch nötig) |\n|---|---|---|\n| Organspende | geringe Beteiligung (~15 %) | hohe Beteiligung (~90 %) |\n| Betriebliche Altersvorsorge | viele melden sich nicht an | fast alle sind dabei |\n| Datenschutz-Einstellungen | Standardschutz gering | Standardschutz hoch |\n\n> **Merke:** Wer die Voreinstellung setzt, gestaltet das Verhalten von Millionen Menschen — auch ohne ein Gesetz zu erlassen."
+      "body": "## Richard Thaler und der Nudge\n\n**Richard Thaler** (Wirtschaftsnobelpreis 2017) und Cass Sunstein entwickelten den **Nudge-Ansatz**: Man kann Verhalten in eine gewünschte Richtung lenken, indem man die **Entscheidungsarchitektur (Choice Architecture)** klug gestaltet, ohne Verbote oder finanzielle Anreize.\n\nDas Prinzip dahinter heißt **libertärer Paternalismus**: Die Freiheit bleibt erhalten, aber die Voreinstellung begünstigt das 'bessere' Verhalten.\n\n## Der Default-Effekt\n\nMenschen neigen stark dazu, bei der **Voreinstellung (Default)** zu bleiben. Das hat enorme praktische Wirkung:\n\n| Bereich | Opt-in (aktive Zustimmung) | Opt-out (aktiver Widerspruch nötig) |\n|---|---|---|\n| Organspende | geringe Beteiligung (~15 %) | hohe Beteiligung (~90 %) |\n| Betriebliche Altersvorsorge | viele melden sich nicht an | fast alle sind dabei |\n| Datenschutz-Einstellungen | Standardschutz gering | Standardschutz hoch |\n\n> **Merke:** Wer die Voreinstellung setzt, gestaltet das Verhalten von Millionen Menschen, auch ohne ein Gesetz zu erlassen."
     },
     {
       "id": "step-selbstkontrolle-fehler",
       "type": "theory",
       "title": "Selbstkontrolle, Diskontierung und mentale Fehler",
-      "body": "## Selbstkontrolle und hyperbolische Diskontierung\n\nEin zentrales Thema der Verhaltensökonomie ist **Selbstkontrolle**: Warum handeln wir gegen unsere eigenen langfristigen Interessen?\n\nDie **hyperbolische Diskontierung (Hyperbolic Discounting)** erklärt es: Die Gegenwart wird überproportional stark gewichtet. Eine Belohnung heute erscheint viel attraktiver als dieselbe Belohnung in einer Woche — auch wenn der rationale Unterschied gering ist. Das führt zu **Prokrastination** (Aufschieben) und zu Schwierigkeiten beim langfristigen Sparen.\n\n## Zwei weitere Klassiker der Verhaltensökonomie\n\n- **Sunk-Cost-Fehler (Versunkene Kosten):** Man hält an einer schlechten Investition fest, weil man 'schon so viel reingesteckt hat'. Rational wäre es, nur die **zukünftigen** Kosten und Nutzen zu vergleichen — vergangene Kosten sind 'versunken' und nicht mehr änderbar.\n\n- **Mentale Buchführung (Mental Accounting):** Gleiche Geldbeträge werden je nach ihrer Herkunft oder Zweckwidmung unterschiedlich behandelt. Urlaubsgeld wird lockerer ausgegeben als das reguläre Gehalt — obwohl ein Euro immer ein Euro ist.\n\n| Konzept | Kern-Idee | Beispiel |\n|---|---|---|\n| **Sunk-Cost-Fehler** | Vergangenes zieht uns zurück | Schlechten Film zu Ende schauen, weil man bezahlt hat |\n| **Mentale Buchführung** | Geld ist nicht fungibel | Bonus wird für Luxus ausgegeben, Gehalt für Notwendiges |\n| **Hyperbolische Diskontierung** | Gegenwart wird übergewichtet | Heute Süßes essen statt auf die Diät achten |"
+      "body": "## Selbstkontrolle und hyperbolische Diskontierung\n\nEin zentrales Thema der Verhaltensökonomie ist **Selbstkontrolle**: Warum handeln wir gegen unsere eigenen langfristigen Interessen?\n\nDie **hyperbolische Diskontierung (Hyperbolic Discounting)** erklärt es: Die Gegenwart wird überproportional stark gewichtet. Eine Belohnung heute erscheint viel attraktiver als dieselbe Belohnung in einer Woche, auch wenn der rationale Unterschied gering ist. Das führt zu **Prokrastination** (Aufschieben) und zu Schwierigkeiten beim langfristigen Sparen.\n\n## Zwei weitere Klassiker der Verhaltensökonomie\n\n- **Sunk-Cost-Fehler (Versunkene Kosten):** Man hält an einer schlechten Investition fest, weil man 'schon so viel reingesteckt hat'. Rational wäre es, nur die **zukünftigen** Kosten und Nutzen zu vergleichen, vergangene Kosten sind 'versunken' und nicht mehr änderbar.\n\n- **Mentale Buchführung (Mental Accounting):** Gleiche Geldbeträge werden je nach ihrer Herkunft oder Zweckwidmung unterschiedlich behandelt. Urlaubsgeld wird lockerer ausgegeben als das reguläre Gehalt, obwohl ein Euro immer ein Euro ist.\n\n| Konzept | Kern-Idee | Beispiel |\n|---|---|---|\n| **Sunk-Cost-Fehler** | Vergangenes zieht uns zurück | Schlechten Film zu Ende schauen, weil man bezahlt hat |\n| **Mentale Buchführung** | Geld ist nicht fungibel | Bonus wird für Luxus ausgegeben, Gehalt für Notwendiges |\n| **Hyperbolische Diskontierung** | Gegenwart wird übergewichtet | Heute Süßes essen statt auf die Diät achten |"
     },
     {
       "id": "ex-match-konzepte",
@@ -200,7 +200,7 @@
         "prompt": "Wie heißt der Fehler, bei dem man an einer Investition festhält, weil man bereits Ressourcen hineingesteckt hat?",
         "card_ids": ["sunk-cost-fehler"],
         "accept": ["Sunk-Cost-Fehler", "Versunkene-Kosten-Fehler", "Sunk Cost Fehler", "Sunk-Cost-Irrtum", "Versunkene Kosten"],
-        "hint": "Die Kosten sind 'versunken' — nicht mehr rückholbar.",
+        "hint": "Die Kosten sind 'versunken', nicht mehr rückholbar.",
         "distractors": ["Mentale Buchführung", "Default-Effekt", "Hyperbolische Diskontierung"],
         "direction": "target_to_source"
       }

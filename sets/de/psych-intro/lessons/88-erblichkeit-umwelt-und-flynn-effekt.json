@@ -1,7 +1,7 @@
 {
   "id": "88-erblichkeit-umwelt-und-flynn-effekt",
   "title": "Intelligenz: Erblichkeit, Umwelt und der Flynn-Effekt",
-  "description": "Was die Wissenschaft über die Ursachen von Intelligenzunterschieden sagt: Erblichkeit und Umwelt im Zusammenspiel, der Flynn-Effekt als Beleg für Umwelteinflüsse und ein ehrlicher Umgang mit IQ-Kontroversen — auf Deutsch erklärt.",
+  "description": "Was die Wissenschaft über die Ursachen von Intelligenzunterschieden sagt: Erblichkeit und Umwelt im Zusammenspiel, der Flynn-Effekt als Beleg für Umwelteinflüsse und ein ehrlicher Umgang mit IQ-Kontroversen, auf Deutsch erklärt.",
   "target_language": "de",
   "source_language": "de",
   "domain": "psychology",
@@ -11,7 +11,7 @@
       "id": "anlage-umwelt-intelligenz",
       "stable_id": "card-ms942qq91ly07",
       "front": "Anlage-Umwelt-Frage (bei Intelligenz)",
-      "back": "Die Frage, wie stark Gene (Anlage) und Erfahrung (Umwelt) zu Intelligenzunterschieden beitragen. Die Antwort der Wissenschaft: Beides wirkt zusammen — es ist kein Entweder-oder.",
+      "back": "Die Frage, wie stark Gene (Anlage) und Erfahrung (Umwelt) zu Intelligenzunterschieden beitragen. Die Antwort der Wissenschaft: Beides wirkt zusammen, es ist kein Entweder-oder.",
       "notes": "Knüpft an die Anlage-Umwelt-Debatte aus Lektion 37 an.",
       "media_type": "text",
       "difficulty": 3,
@@ -21,7 +21,7 @@
       "id": "erblichkeit",
       "stable_id": "card-ms942qq91lztk",
       "front": "Erblichkeit (Heritabilität)",
-      "back": "Ein statistisches Maß dafür, welcher Anteil der Unterschiede in einer Gruppe auf genetische Unterschiede zurückgeht. Für Intelligenz schätzen Studien etwa 50–80 % — als Wert für die GRUPPE, nicht für eine einzelne Person.",
+      "back": "Ein statistisches Maß dafür, welcher Anteil der Unterschiede in einer Gruppe auf genetische Unterschiede zurückgeht. Für Intelligenz schätzen Studien etwa 50–80 %, als Wert für die GRUPPE, nicht für eine einzelne Person.",
       "notes": "Wichtig: Heritabilität sagt nichts darüber, ob ein Merkmal 'veränderbar' ist, und nichts über Einzelpersonen.",
       "media_type": "text",
       "difficulty": 5,
@@ -33,7 +33,7 @@
       "stable_id": "card-ms942qq91m0qu",
       "front": "Zwillings- und Adoptionsstudien",
       "back": "Methoden, um Anlage und Umwelt zu trennen: eineiige (genetisch identische) und zweieiige Zwillinge sowie adoptierte Kinder werden verglichen.",
-      "notes": "Sie zeigen einen genetischen Beitrag — und zugleich deutliche Umwelteinflüsse.",
+      "notes": "Sie zeigen einen genetischen Beitrag, und zugleich deutliche Umwelteinflüsse.",
       "media_type": "text",
       "difficulty": 4,
       "tags": ["intelligenz", "methode"]
@@ -43,7 +43,7 @@
       "stable_id": "card-ms942qq91m182",
       "front": "Umwelteinflüsse",
       "back": "Faktoren wie Ernährung, Gesundheit, Bildung, Anregung und sozioökonomische Bedingungen beeinflussen die Intelligenzentwicklung erheblich.",
-      "notes": "Genauso wichtig wie die Gene — besonders bei benachteiligenden Bedingungen.",
+      "notes": "Genauso wichtig wie die Gene, besonders bei benachteiligenden Bedingungen.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["intelligenz", "umwelt"]
@@ -81,7 +81,7 @@
       "id": "intelligenz-veraenderbar",
       "stable_id": "card-ms942qq91m5lx",
       "front": "Intelligenz ist kein fester Wert",
-      "back": "Intelligenz ist ein Konstrukt und über die Lebensspanne und zwischen Generationen veränderbar. Ein IQ-Wert ist eine Momentaufnahme unter Testbedingungen — kein unveränderliches Etikett.",
+      "back": "Intelligenz ist ein Konstrukt und über die Lebensspanne und zwischen Generationen veränderbar. Ein IQ-Wert ist eine Momentaufnahme unter Testbedingungen, kein unveränderliches Etikett.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["intelligenz", "grundlagen"]
@@ -100,7 +100,7 @@
       "stable_id": "card-ms942qq91m78w",
       "front": "Diskreditierte 'Rassen'-IQ-Thesen",
       "back": "Behauptungen, Intelligenzunterschiede zwischen sozial definierten Gruppen seien genetisch bedingt, gelten als wissenschaftlich widerlegt und methodisch fehlerhaft. Gruppenunterschiede in Testwerten erklären sich durch Umwelt, Bildung und Testfairness.",
-      "notes": "Heritabilität INNERHALB einer Gruppe erlaubt grundsätzlich keinen Schluss auf Ursachen von Unterschieden ZWISCHEN Gruppen — ein zentraler Denkfehler dieser Thesen.",
+      "notes": "Heritabilität INNERHALB einer Gruppe erlaubt grundsätzlich keinen Schluss auf Ursachen von Unterschieden ZWISCHEN Gruppen, ein zentraler Denkfehler dieser Thesen.",
       "media_type": "text",
       "difficulty": 5,
       "tags": ["intelligenz", "wissenschaft", "ethik"]
@@ -119,7 +119,7 @@
       "id": "foerderung",
       "stable_id": "card-ms942qq91m9o3",
       "front": "Förderung wirkt",
-      "back": "Gezielte frühe Förderung, gute Bildung und gesunde Lebensbedingungen können kognitive Entwicklung messbar verbessern — gerade weil Umwelt so wichtig ist.",
+      "back": "Gezielte frühe Förderung, gute Bildung und gesunde Lebensbedingungen können kognitive Entwicklung messbar verbessern, gerade weil Umwelt so wichtig ist.",
       "media_type": "text",
       "difficulty": 3,
       "tags": ["intelligenz", "umwelt"]
@@ -129,20 +129,20 @@
     {
       "id": "intro",
       "type": "theory",
-      "title": "Anlage und Umwelt — kein Entweder-oder",
-      "body": "# Intelligenz: Erblichkeit, Umwelt und der Flynn-Effekt\n\nWoher kommen Unterschiede in der Intelligenz? Diese Frage ist heikel — deshalb halten wir uns eng an das, was die **Wissenschaft** sagt, nicht an das, was Ideolog:innen behaupten.\n\n## Beides zählt\n\nDie ehrliche Antwort lautet: **Gene und Umwelt wirken zusammen.** Es ist **kein Entweder-oder**.\n\n- **Erblichkeit (Heritabilität):** Zwillings- und Adoptionsstudien zeigen einen genetischen Beitrag; Schätzungen liegen oft bei etwa **50–80 %**.\n- **Aber Vorsicht:** Heritabilität ist ein **Maß für Unterschiede in einer GRUPPE**, kein 'Gen-Anteil' einer einzelnen Person — und sie sagt **nicht**, dass ein Merkmal unveränderlich ist.\n- **Umwelt** (Ernährung, Gesundheit, Bildung, Anregung, soziale Bedingungen) beeinflusst die Entwicklung **genauso stark**.\n\n> Hilfreiche Faustregel: **Die Gene setzen ein Potenzial — die Umwelt bestimmt, was daraus wird.**"
+      "title": "Anlage und Umwelt - kein Entweder-oder",
+      "body": "# Intelligenz: Erblichkeit, Umwelt und der Flynn-Effekt\n\nWoher kommen Unterschiede in der Intelligenz? Diese Frage ist heikel, deshalb halten wir uns eng an das, was die **Wissenschaft** sagt, nicht an das, was Ideolog:innen behaupten.\n\n## Beides zählt\n\nDie ehrliche Antwort lautet: **Gene und Umwelt wirken zusammen.** Es ist **kein Entweder-oder**.\n\n- **Erblichkeit (Heritabilität):** Zwillings- und Adoptionsstudien zeigen einen genetischen Beitrag; Schätzungen liegen oft bei etwa **50–80 %**.\n- **Aber Vorsicht:** Heritabilität ist ein **Maß für Unterschiede in einer GRUPPE**, kein 'Gen-Anteil' einer einzelnen Person, und sie sagt **nicht**, dass ein Merkmal unveränderlich ist.\n- **Umwelt** (Ernährung, Gesundheit, Bildung, Anregung, soziale Bedingungen) beeinflusst die Entwicklung **genauso stark**.\n\n> Hilfreiche Faustregel: **Die Gene setzen ein Potenzial, die Umwelt bestimmt, was daraus wird.**"
     },
     {
       "id": "step-flynn",
       "type": "theory",
       "title": "Der Flynn-Effekt: Umwelt sichtbar gemacht",
-      "body": "## IQ-Werte steigen seit Jahrzehnten\n\nDer **Flynn-Effekt** beschreibt einen erstaunlichen Befund: Die durchschnittlichen IQ-Testleistungen sind über das **20. Jahrhundert** hinweg von Generation zu Generation **deutlich gestiegen**.\n\nWarum ist das so wichtig?\n\n> Die **Gene** einer Bevölkerung ändern sich in wenigen Jahrzehnten **kaum**. Wenn die Werte trotzdem stark steigen, muss das an der **Umwelt** liegen.\n\nWahrscheinliche Ursachen: bessere **Bildung**, bessere **Ernährung und Gesundheit**, mehr **abstraktes Denken** im Alltag, kleinere Familien, mehr Anregung.\n\nDer Flynn-Effekt ist damit einer der **stärksten Belege**, dass Umwelt massiv auf gemessene Intelligenz wirkt — und dass **Intelligenz kein fester, unveränderlicher Wert** ist."
+      "body": "## IQ-Werte steigen seit Jahrzehnten\n\nDer **Flynn-Effekt** beschreibt einen erstaunlichen Befund: Die durchschnittlichen IQ-Testleistungen sind über das **20. Jahrhundert** hinweg von Generation zu Generation **deutlich gestiegen**.\n\nWarum ist das so wichtig?\n\n> Die **Gene** einer Bevölkerung ändern sich in wenigen Jahrzehnten **kaum**. Wenn die Werte trotzdem stark steigen, muss das an der **Umwelt** liegen.\n\nWahrscheinliche Ursachen: bessere **Bildung**, bessere **Ernährung und Gesundheit**, mehr **abstraktes Denken** im Alltag, kleinere Familien, mehr Anregung.\n\nDer Flynn-Effekt ist damit einer der **stärksten Belege**, dass Umwelt massiv auf gemessene Intelligenz wirkt, und dass **Intelligenz kein fester, unveränderlicher Wert** ist."
     },
     {
       "id": "step-kontroversen",
       "type": "theory",
       "title": "IQ-Kontroversen: was die Wissenschaft sagt",
-      "body": "## Ehrlich mit heiklen Behauptungen umgehen\n\nRund um den IQ gibt es **ideologisch aufgeladene** Debatten. Wissenschaftlich gilt:\n\n- **Diskreditierte 'Rassen'-IQ-Thesen:** Behauptungen, Unterschiede zwischen sozial definierten Gruppen seien **genetisch** bedingt, gelten als **wissenschaftlich widerlegt** und methodisch fehlerhaft.\n- **Der zentrale Denkfehler:** Eine hohe Heritabilität **innerhalb** einer Gruppe erlaubt **keinen** Schluss auf die Ursachen von Unterschieden **zwischen** Gruppen. (Beispiel: Auch genetisch identische Pflanzen werden auf gutem Boden größer als auf schlechtem — der Unterschied liegt dann an der Umwelt.)\n- **Gruppenunterschiede** in Testwerten erklären sich durch **Umwelt, Bildung und Testfairness** — Intelligenztests können kulturell **verzerrt** sein (Bias, vgl. Lektion 29).\n\n## Die konstruktive Botschaft\n\nWeil Umwelt so wichtig ist, **wirkt Förderung**: gute Bildung, frühe Anregung und gesunde Lebensbedingungen verbessern kognitive Entwicklung messbar.\n\n> Merke: **Intelligenz ist ein Konstrukt, kein fester Wert** — und kein Etikett, das den Wert eines Menschen bestimmt."
+      "body": "## Ehrlich mit heiklen Behauptungen umgehen\n\nRund um den IQ gibt es **ideologisch aufgeladene** Debatten. Wissenschaftlich gilt:\n\n- **Diskreditierte 'Rassen'-IQ-Thesen:** Behauptungen, Unterschiede zwischen sozial definierten Gruppen seien **genetisch** bedingt, gelten als **wissenschaftlich widerlegt** und methodisch fehlerhaft.\n- **Der zentrale Denkfehler:** Eine hohe Heritabilität **innerhalb** einer Gruppe erlaubt **keinen** Schluss auf die Ursachen von Unterschieden **zwischen** Gruppen. (Beispiel: Auch genetisch identische Pflanzen werden auf gutem Boden größer als auf schlechtem, der Unterschied liegt dann an der Umwelt.)\n- **Gruppenunterschiede** in Testwerten erklären sich durch **Umwelt, Bildung und Testfairness**, Intelligenztests können kulturell **verzerrt** sein (Bias, vgl. Lektion 29).\n\n## Die konstruktive Botschaft\n\nWeil Umwelt so wichtig ist, **wirkt Förderung**: gute Bildung, frühe Anregung und gesunde Lebensbedingungen verbessern kognitive Entwicklung messbar.\n\n> Merke: **Intelligenz ist ein Konstrukt, kein fester Wert**, und kein Etikett, das den Wert eines Menschen bestimmt."
     },
     {
       "id": "ex-cloze-potenzial",
@@ -228,10 +228,10 @@
         "id": "ex-free-denkfehler",
         "stable_id": "ex-ms942qq91mei3",
         "type": "free_text",
-        "prompt": "Eine hohe Erblichkeit INNERHALB einer Gruppe erlaubt einen Schluss auf die Ursachen von Unterschieden ZWISCHEN Gruppen — richtig oder falsch?",
+        "prompt": "Eine hohe Erblichkeit INNERHALB einer Gruppe erlaubt einen Schluss auf die Ursachen von Unterschieden ZWISCHEN Gruppen, richtig oder falsch?",
         "card_ids": ["rassistische-iq-thesen-diskreditiert", "erblichkeit"],
         "accept": ["falsch", "Falsch", "nein", "Nein", "das ist falsch"],
-        "hint": "Innerhalb ≠ zwischen — der klassische Trugschluss.",
+        "hint": "Innerhalb ≠ zwischen, der klassische Trugschluss.",
         "distractors": ["richtig", "wahr", "stimmt"],
         "direction": "target_to_source"
       }
@@ -245,7 +245,7 @@
         "id": "ex-cloze-konstrukt",
         "stable_id": "ex-ms942qq91mfea",
         "type": "cloze",
-        "prompt": "Ergänze, was Intelligenz ist — und was nicht.",
+        "prompt": "Ergänze, was Intelligenz ist, und was nicht.",
         "card_ids": ["intelligenz-veraenderbar"],
         "sentence": "Intelligenz ist ein ___ , kein fester, unveränderlicher Wert.",
         "blanks": [
