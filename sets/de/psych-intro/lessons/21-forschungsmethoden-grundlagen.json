@@ -158,7 +158,7 @@
         "card_ids": ["empirische-methode"],
         "sentence": "Die Psychologie gewinnt ihr Wissen mit der ___ Methode — durch Beobachtung und Experiment.",
         "blanks": [
-          { "accept": ["empirischen", "empirische"] }
+          { "accept": ["empirischen"] }
         ],
         "cloze_mode": "type",
         "hint": "Von 'Empirie' = Erfahrung."
