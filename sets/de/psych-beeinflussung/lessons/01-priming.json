@@ -123,7 +123,7 @@
         "card_ids": ["card-semantisches-priming", "card-social-priming"],
         "sentence": "Semantisches Priming gilt als ___ Effekt, während social/behavioral Priming als ___ gilt.",
         "blanks": [
-          {"accept": ["robust", "robuster", "gut abgesichert"]},
+          {"accept": ["robuster", "gut abgesicherter"]},
           {"accept": ["umstritten", "fragil", "nicht repliziert"]}
         ],
         "cloze_mode": "type",

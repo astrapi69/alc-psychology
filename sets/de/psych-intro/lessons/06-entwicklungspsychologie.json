@@ -248,7 +248,7 @@
         "card_ids": ["praeoperationale-stufe"],
         "sentence": "In der ___ Stufe (2–7 Jahre) entwickeln Kinder symbolisches Denken, sind aber noch egozentrisch.",
         "blanks": [
-          { "accept": ["präoperationalen", "präoperationale", "Präoperationalen", "Präoperationale"] }
+          { "accept": ["präoperationalen", "Präoperationalen"] }
         ],
         "cloze_mode": "type",
         "hint": "Diese Stufe kommt nach der sensomotorischen Stufe."

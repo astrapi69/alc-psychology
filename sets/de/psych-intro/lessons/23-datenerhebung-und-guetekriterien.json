@@ -236,7 +236,7 @@
         "card_ids": ["objektivitaet"],
         "sentence": "Ein Testergebnis gilt als ___, wenn verschiedene Untersucher zum selben Befund kommen.",
         "blanks": [
-          { "accept": ["objektiv", "objektive"] }
+          { "accept": ["objektiv"] }
         ],
         "cloze_mode": "type",
         "hint": "Das zugehörige Hauptwort ist 'Objektivität'."
