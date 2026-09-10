@@ -294,7 +294,7 @@
         "type": "word_tiles",
         "prompt": "Setze den Namen von Rogers' Therapieform zusammen.",
         "card_ids": ["rogers"],
-        "tiles": ["klientenzentrierte", "Therapie", "ist", "Rogers'", "Gesprächspsychotherapie", "auch", "bekannt", "als"],
+        "tiles": ["Rogers'", "Gesprächspsychotherapie", "ist", "auch", "bekannt", "als", "klientenzentrierte", "Therapie"],
         "hint": "Zwei Bezeichnungen für dieselbe Therapie, eine davon betont die Zentrierung auf den Klienten.",
         "direction": "target_to_source"
       }

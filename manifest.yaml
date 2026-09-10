@@ -33,7 +33,7 @@ sets:
     domain: psychology
     level: A1
     path: sets/de/psych-intro
-    version: '1.22.0'
+    version: '1.22.1'
     lesson_count: 115
     description: >-
       Einführungskurs Psychologie auf Universitätsniveau für
