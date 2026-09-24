@@ -1,6 +1,6 @@
 {
   "repo": "astrapi69/alc-psychology",
-  "generated": "2026-09-23T05:25:40Z",
+  "generated": "2026-09-24T06:33:16Z",
   "schema_version": "1.0",
   "sets": [
     {
@@ -29,7 +29,7 @@
         "url": "https://www.amazon.de/dp/3868943234/",
         "cover_image": null
       },
-      "updated_at": "2026-09-23T07:25:26+02:00"
+      "updated_at": "2026-09-23T05:25:26Z"
     },
     {
       "id": "psych-beeinflussung-from-de",
@@ -58,7 +58,7 @@
         "url": "https://www.hogrefe.com/de/shop/die-psychologie-des-ueberzeugens-91960.html",
         "cover_image": null
       },
-      "updated_at": "2026-09-01T13:17:17+02:00"
+      "updated_at": "2026-09-01T11:17:17Z"
     },
     {
       "id": "psych-rhetorik-from-de",
@@ -86,7 +86,7 @@
         "author": "Aristoteles",
         "url": null
       },
-      "updated_at": "2026-09-01T13:17:17+02:00"
+      "updated_at": "2026-09-01T11:17:17Z"
     },
     {
       "id": "psych-grundlagen-from-de",
@@ -114,7 +114,7 @@
         "isbn": "978-3868943238",
         "url": "https://www.amazon.de/dp/3868943234/"
       },
-      "updated_at": "2026-09-01T11:51:26+02:00"
+      "updated_at": "2026-09-01T09:51:26Z"
     }
   ],
   "total_lessons": 132,
