@@ -6,7 +6,7 @@
 # (psych-grundlagen) statt eines {target}-{level}-Namens. Der
 # Content-Loader liest metadata.lessons für die Dateiliste.
 #
-# Hintergrund (siehe Issue #21): Das grosse Set psych-intro prüft an
+# Hintergrund (siehe Issue #21): Das große Set psych-intro prüft an
 # einigen Stellen reine Fakten (Jahreszahl, Eigenname). Solche Aufgaben
 # in einem veröffentlichten Set zu ersetzen ist mit der gepinnten Engine
 # nicht tor-konform möglich, weil das Ausmustern veröffentlichter

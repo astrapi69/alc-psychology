@@ -25,7 +25,7 @@
 #         every other entry defaults to ``priority: 10``.
 
 psychology:
-  - title: "Intro to Psychology — Crash Course Psychology #1"
+  - title: "Intro to Psychology - Crash Course Psychology #1"
     type: youtube
     url: "https://www.youtube.com/watch?v=vo4pMVb0R6M"
     language: en
