@@ -1,6 +1,6 @@
 {
   "repo": "astrapi69/alc-psychology",
-  "generated": "2026-09-24T06:33:16Z",
+  "generated": "2026-10-01T11:13:57Z",
   "schema_version": "1.0",
   "sets": [
     {
@@ -114,7 +114,7 @@
         "isbn": "978-3868943238",
         "url": "https://www.amazon.de/dp/3868943234/"
       },
-      "updated_at": "2026-09-01T09:51:26Z"
+      "updated_at": "2026-10-01T11:13:36Z"
     }
   ],
   "total_lessons": 132,
