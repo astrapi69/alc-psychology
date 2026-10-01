@@ -106,10 +106,10 @@ def test_non_ascii_survives_as_real_utf8(tmp_path: Path) -> None:
     assert "\\u00fc" not in raw_text
     assert "\\u00e4" not in raw_text
     # A known lesson word must keep its German umlaut, never an ASCII
-    # substitution. (Lowercase "reziprozitaet" occurs in the source as
+    # substitution. (Lowercase `reziprozitaet` occurs in the source as
     # the ASCII file slug; the capitalised prose word never does.)
     assert "Reziprozität" in raw_text
-    assert "Reziprozitaet" not in raw_text
+    assert "Reziprozität".replace("ä", "ae") not in raw_text
 
 
 def test_yaml_reparse_content_equals_source_lessons(tmp_path: Path) -> None:
