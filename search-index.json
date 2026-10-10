@@ -1,12 +1,12 @@
 {
   "repo": "astrapi69/alc-psychology",
-  "generated": "2026-10-01T11:13:57Z",
+  "generated": "2026-10-10T07:13:39Z",
   "schema_version": "1.0",
   "sets": [
     {
       "id": "psych-intro-from-de",
       "name": "Psychologie - Grundlagen",
-      "description": "Vollständiger Einführungskurs Psychologie auf Universitätsniveau (90 Lektionen), auf Deutsch erklärt, von den Grundlagen- und Anwendungsfächern über Psychotherapie, Forschungsmethoden und Statistik bis zu vertieften Grundlagenfächern, Geschichte, Wissenschaftstheorie, einem Spezialgebiete-Block (Psychophysik, Neuropsychologie, klinische Vertiefung, weiterführende Statistik), einem Block zu Gedächtnis, Sprache, Sinnessystemen, Evolution und Kultur, der Entscheidungspsychologie (Heuristiken, Dual-Process, Prospect Theory, Verhaltensökonomie), einem Block zu Motivation, Emotion und Wohlbefinden sowie einem Block zu Bewusstsein, Substanzen und Gehirn (Schlaf, veränderte Zustände, Psychopharmakologie, Sucht) sowie der vertieften Sozialpsychologie (Persuasion, Gruppenprozesse, Aggression und Prosozialität, Vorurteile und Intergruppenbeziehungen) sowie der Entwicklung über die Lebensspanne (von der pränatalen Phase bis ins hohe Alter) und einer Vertiefung der klinischen Psychologie (Trauma, Essstörungen, Suizidprävention, Zwangs- und Angststörungen, mit Hinweis auf professionelle Hilfe und Anlaufstellen) sowie der forensischen und Rechtspsychologie (Aussagepsychologie, Glaubhaftigkeitsbegutachtung, Schuldfähigkeit, Täterprofile und Kriminalprognose, sachlich und ohne Sensationalismus), einer Vertiefungslektion dazu (Fallanwendung und Unterscheidung statt Begriffsabfrage), sowie der Neuropsychologie (Grundlagen und Methoden, funktionelle Neuroanatomie, Störungsbilder, Gedächtnis- und Exekutivstörungen) mit einer eigenen Vertiefungslektion, der Arbeits- und Organisationspsychologie (Motivation und Zufriedenheit, Führung und Teams, Arbeitsstress und Burnout, mit Hinweis auf professionelle Hilfe) mit einer eigenen Vertiefungslektion, und der Pädagogischen Psychologie (Lernmotivation, Unterrichtsqualität, Leistungsbeurteilung und Prüfungsangst).",
+      "description": "Einführungskurs Psychologie auf Universitätsniveau für Deutschsprachige (115 Lektionen): Grundbegriffe und Geschichte, die Grundlagenfächer (Wahrnehmung, Gedächtnis, Lernen, Motivation/Emotion, Entwicklung, Sozial-, Persönlichkeits- und biologische Psychologie), klinische und positive Psychologie, Intelligenz, Stress, Bewusstsein und Schlaf, die Psychotherapieverfahren, Forschungsmethoden und Statistik, die angewandten Felder (pädagogische, Arbeits-/Organisations-, Gesundheitspsychologie, Diagnostik), vertiefte Grundlagenfächer, Geschichte und Paradigmen, Wissenschaftstheorie und Forschungsethik sowie vertiefende Blöcke zur Neuropsychologie, zur Arbeits- und Organisationspsychologie (mit Arbeitsstress und Burnout) und zur Pädagogischen Psychologie, ergänzt um drei Vertiefungslektionen (Fallanwendung und Unterscheidung statt Begriffsabfrage) zur forensischen Psychologie, zur Neuropsychologie und zur Arbeitspsychologie. Erklärt auf Deutsch, mit englischen Originalbegriffen in Klammern. Erstes Nicht-Sprachen-Set (domain: psychology).",
       "source_language": "de",
       "target_language": "de",
       "level": "a1",
@@ -29,12 +29,12 @@
         "url": "https://www.amazon.de/dp/3868943234/",
         "cover_image": null
       },
-      "updated_at": "2026-09-23T05:25:26Z"
+      "updated_at": "2026-10-10T07:13:28Z"
     },
     {
       "id": "psych-beeinflussung-from-de",
       "name": "Psychologie der Beeinflussung",
-      "description": "Aufbau-Set zur Psychologie der Beeinflussung (8 Lektionen), auf Deutsch erklärt: Priming (mit Replikationskrise), Framing, Ankereffekt, kognitive Dissonanz, Reziprozität, soziale Bewährtheit und Foot-in-the-door, mit abschließender Wiederholung. Effekte werden als empirisch belegte Tendenzen dargestellt; die genannten Studien (Tversky & Kahneman, Festinger & Carlsmith, Regan, Goldstein/Cialdini/Griskevicius, Freedman & Fraser) sind real und korrekt zugeordnet.",
+      "description": "Aufbau-Set zur Psychologie der Beeinflussung (8 Lektionen), auf Deutsch erklärt, im thematischen Anschluss an die Inception-Effekt-Lektion: Priming (mit Replikationskrise), Framing-Effekt, Ankereffekt, kognitive Dissonanz, Reziprozität, soziale Bewährtheit und Foot-in-the-door, mit abschließender Wiederholung. Effekte werden als empirisch belegte Tendenzen dargestellt, nicht als garantierte Manipulations-Hebel; die genannten Studien sind real und korrekt zugeordnet. Nutzt die Aufgabentypen free_text, cloze (type und select), matching und word_tiles.",
       "source_language": "de",
       "target_language": "de",
       "level": "a2",
@@ -58,12 +58,12 @@
         "url": "https://www.hogrefe.com/de/shop/die-psychologie-des-ueberzeugens-91960.html",
         "cover_image": null
       },
-      "updated_at": "2026-09-01T11:17:17Z"
+      "updated_at": "2026-10-10T07:13:28Z"
     },
     {
       "id": "psych-rhetorik-from-de",
       "name": "Psychologie der Rhetorik",
-      "description": "Starter-Set zur Psychologie der Rhetorik (5 Lektionen), auf Deutsch erklärt: die drei Überzeugungsmittel des Aristoteles im Überblick sowie je eine Vertiefung zu Ethos (Glaubwürdigkeit und Autorität, mit Hovland & Weiss und dem Sleeper-Effekt), Pathos (Emotion und Furchtappelle, mit dem Extended Parallel Process Model von Witte) und Logos (Argumentqualität und die zwei Routen des Elaboration-Likelihood-Modells von Petty & Cacioppo), mit abschließender Wiederholung und Synthese. Rhetorische Mittel werden als empirisch untersuchte Wirkungstendenzen dargestellt; die genannten Studien sind real und korrekt zugeordnet.",
+      "description": "Starter-Set zur Psychologie der Rhetorik (5 Lektionen), auf Deutsch erklärt, im thematischen Anschluss an das Set zur Beeinflussung: die drei aristotelischen Überzeugungsmittel Ethos, Pathos und Logos im Überblick sowie je eine Vertiefung mit der modernen Überzeugungspsychologie, Ethos (Quellenglaubwürdigkeit nach Hovland & Weiss, Sleeper-Effekt), Pathos (Furchtappelle und das Extended Parallel Process Model von Witte) und Logos (die zwei Routen des Elaboration-Likelihood-Modells von Petty & Cacioppo), mit abschließender Wiederholung und Synthese. Rhetorische Mittel werden als empirisch untersuchte Wirkungstendenzen dargestellt; die genannten Studien sind real und korrekt zugeordnet. Nutzt die Aufgabentypen free_text, cloze (type und select), matching und word_tiles.",
       "source_language": "de",
       "target_language": "de",
       "level": "b1",
@@ -86,12 +86,12 @@
         "author": "Aristoteles",
         "url": null
       },
-      "updated_at": "2026-09-01T11:17:17Z"
+      "updated_at": "2026-10-10T07:13:28Z"
     },
     {
       "id": "psych-grundlagen-from-de",
       "name": "Psychologie: Verständnis-Grundlagen",
-      "description": "Starter-Set (4 Lektionen), auf Deutsch erklärt: Psychologie als empirische Wissenschaft (Methoden, Korrelation gegen Kausalität), Konditionierung verstehen (klassisch, operant, Modelllernen), Gedächtnis und Emotion verstehen (Gedächtnisprozess, wirksames Lernen, Basisemotionen) sowie eine Wiederholung mit benotetem Test. Die Aufgaben prüfen, ob ein Zusammenhang verstanden, auf einen Fall angewendet oder von Ähnlichem unterschieden werden kann, nicht ob eine Jahreszahl oder ein Name erinnert wird.",
+      "description": "Neues verständnisorientiertes Grundlagen-Set (4 Lektionen), auf Deutsch erklärt: Psychologie als empirische Wissenschaft, Konditionierung und Modelllernen, Gedächtnis und Emotion sowie eine Wiederholung mit benotetem Test. Es prüft den Grundstoff von Anfang an über Verständnis statt über Jahreszahlen und Namen und nutzt die neu verfügbaren Aufgabentypen Leseverständnis, Kategorisierung, Fehlerkorrektur und benotetes Quiz. Hintergrund und Messung: Issue #21.",
       "source_language": "de",
       "target_language": "de",
       "level": "a1",
@@ -114,7 +114,7 @@
         "isbn": "978-3868943238",
         "url": "https://www.amazon.de/dp/3868943234/"
       },
-      "updated_at": "2026-10-01T11:13:36Z"
+      "updated_at": "2026-10-10T07:13:28Z"
     }
   ],
   "total_lessons": 132,
