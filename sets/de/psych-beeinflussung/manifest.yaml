@@ -38,15 +38,6 @@ sets:
     path: sets/de/psych-beeinflussung
     version: '1.0.0'
     lesson_count: 8
-    description: >-
-      Aufbau-Set zur Psychologie der Beeinflussung (8 Lektionen),
-      auf Deutsch erklärt: Priming (mit Replikationskrise), Framing,
-      Ankereffekt, kognitive Dissonanz, Reziprozität, soziale
-      Bewährtheit und Foot-in-the-door, mit abschließender
-      Wiederholung. Effekte werden als empirisch belegte Tendenzen
-      dargestellt; die genannten Studien (Tversky & Kahneman,
-      Festinger & Carlsmith, Regan, Goldstein/Cialdini/Griskevicius,
-      Freedman & Fraser) sind real und korrekt zugeordnet.
     tags:
       - intermediate
       - psychology

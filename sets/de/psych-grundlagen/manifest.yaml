@@ -44,15 +44,6 @@ sets:
     version: '0.1.0'
     lesson_count: 4
     review_status: generated
-    description: >-
-      Starter-Set (4 Lektionen), auf Deutsch erklärt: Psychologie als
-      empirische Wissenschaft (Methoden, Korrelation gegen Kausalität),
-      Konditionierung verstehen (klassisch, operant, Modelllernen),
-      Gedächtnis und Emotion verstehen (Gedächtnisprozess, wirksames
-      Lernen, Basisemotionen) sowie eine Wiederholung mit benotetem Test.
-      Die Aufgaben prüfen, ob ein Zusammenhang verstanden, auf einen Fall
-      angewendet oder von Ähnlichem unterschieden werden kann, nicht ob
-      eine Jahreszahl oder ein Name erinnert wird.
     tags:
       - beginner
       - psychology
