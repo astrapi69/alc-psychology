@@ -41,17 +41,6 @@ sets:
     path: sets/de/psych-rhetorik
     version: '0.2.0'
     lesson_count: 5
-    description: >-
-      Starter-Set zur Psychologie der Rhetorik (5 Lektionen), auf
-      Deutsch erklärt: die drei Überzeugungsmittel des Aristoteles im
-      Überblick sowie je eine Vertiefung zu Ethos (Glaubwürdigkeit und
-      Autorität, mit Hovland & Weiss und dem Sleeper-Effekt), Pathos
-      (Emotion und Furchtappelle, mit dem Extended Parallel Process
-      Model von Witte) und Logos (Argumentqualität und die zwei Routen
-      des Elaboration-Likelihood-Modells von Petty & Cacioppo), mit
-      abschließender Wiederholung und Synthese. Rhetorische Mittel
-      werden als empirisch untersuchte Wirkungstendenzen dargestellt;
-      die genannten Studien sind real und korrekt zugeordnet.
     tags:
       - intermediate
       - psychology
